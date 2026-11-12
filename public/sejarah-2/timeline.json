@@ -1,0 +1,1497 @@
+{
+  "audioDurationMs": 909320,
+  "audio": "sejarah-2/voiceover.wav",
+  "scenes": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4820,
+      "image": "sejarah-2/scene-1.jpg",
+      "words": 9
+    },
+    {
+      "id": 2,
+      "startMs": 4820,
+      "endMs": 7770,
+      "image": "sejarah-2/scene-2.jpg",
+      "words": 5
+    },
+    {
+      "id": 3,
+      "startMs": 7770,
+      "endMs": 12920,
+      "image": "sejarah-2/scene-3.jpg",
+      "words": 9
+    },
+    {
+      "id": 4,
+      "startMs": 12920,
+      "endMs": 18880,
+      "image": "sejarah-2/scene-4.jpg",
+      "words": 13
+    },
+    {
+      "id": 5,
+      "startMs": 18880,
+      "endMs": 22480,
+      "image": "sejarah-2/scene-5.jpg",
+      "words": 7
+    },
+    {
+      "id": 6,
+      "startMs": 22480,
+      "endMs": 26490,
+      "image": "sejarah-2/scene-6.jpg",
+      "words": 9
+    },
+    {
+      "id": 7,
+      "startMs": 26490,
+      "endMs": 31120,
+      "image": "sejarah-2/scene-7.jpg",
+      "words": 6
+    },
+    {
+      "id": 8,
+      "startMs": 31120,
+      "endMs": 34720,
+      "image": "sejarah-2/scene-8.jpg",
+      "words": 8
+    },
+    {
+      "id": 9,
+      "startMs": 34720,
+      "endMs": 41510,
+      "image": "sejarah-2/scene-9.jpg",
+      "words": 11
+    },
+    {
+      "id": 10,
+      "startMs": 41510,
+      "endMs": 43540,
+      "image": "sejarah-2/scene-10.jpg",
+      "words": 5
+    },
+    {
+      "id": 11,
+      "startMs": 43540,
+      "endMs": 47590,
+      "image": "sejarah-2/scene-11.jpg",
+      "words": 7
+    },
+    {
+      "id": 12,
+      "startMs": 47590,
+      "endMs": 51920,
+      "image": "sejarah-2/scene-12.jpg",
+      "words": 12
+    },
+    {
+      "id": 13,
+      "startMs": 51920,
+      "endMs": 56990,
+      "image": "sejarah-2/scene-13.jpg",
+      "words": 11
+    },
+    {
+      "id": 14,
+      "startMs": 56990,
+      "endMs": 60500,
+      "image": "sejarah-2/scene-14.jpg",
+      "words": 7
+    },
+    {
+      "id": 15,
+      "startMs": 60500,
+      "endMs": 62980,
+      "image": "sejarah-2/scene-15.jpg",
+      "words": 6
+    },
+    {
+      "id": 16,
+      "startMs": 62980,
+      "endMs": 69690,
+      "image": "sejarah-2/scene-16.jpg",
+      "words": 13
+    },
+    {
+      "id": 17,
+      "startMs": 69690,
+      "endMs": 73310,
+      "image": "sejarah-2/scene-17.jpg",
+      "words": 9
+    },
+    {
+      "id": 18,
+      "startMs": 73310,
+      "endMs": 75700,
+      "image": "sejarah-2/scene-18.jpg",
+      "words": 4
+    },
+    {
+      "id": 19,
+      "startMs": 75700,
+      "endMs": 80520,
+      "image": "sejarah-2/scene-19.jpg",
+      "words": 11
+    },
+    {
+      "id": 20,
+      "startMs": 80520,
+      "endMs": 85930,
+      "image": "sejarah-2/scene-20.jpg",
+      "words": 11
+    },
+    {
+      "id": 21,
+      "startMs": 85930,
+      "endMs": 89170,
+      "image": "sejarah-2/scene-21.jpg",
+      "words": 5
+    },
+    {
+      "id": 22,
+      "startMs": 89170,
+      "endMs": 93640,
+      "image": "sejarah-2/scene-22.jpg",
+      "words": 11
+    },
+    {
+      "id": 23,
+      "startMs": 93640,
+      "endMs": 97350,
+      "image": "sejarah-2/scene-23.jpg",
+      "words": 7
+    },
+    {
+      "id": 24,
+      "startMs": 97350,
+      "endMs": 99750,
+      "image": "sejarah-2/scene-24.jpg",
+      "words": 6
+    },
+    {
+      "id": 25,
+      "startMs": 99750,
+      "endMs": 103270,
+      "image": "sejarah-2/scene-25.jpg",
+      "words": 7
+    },
+    {
+      "id": 26,
+      "startMs": 103270,
+      "endMs": 109550,
+      "image": "sejarah-2/scene-26.jpg",
+      "words": 12
+    },
+    {
+      "id": 27,
+      "startMs": 109550,
+      "endMs": 115010,
+      "image": "sejarah-2/scene-27.jpg",
+      "words": 13
+    },
+    {
+      "id": 28,
+      "startMs": 115010,
+      "endMs": 118320,
+      "image": "sejarah-2/scene-28.jpg",
+      "words": 7
+    },
+    {
+      "id": 29,
+      "startMs": 118320,
+      "endMs": 121380,
+      "image": "sejarah-2/scene-29.jpg",
+      "words": 6
+    },
+    {
+      "id": 30,
+      "startMs": 121380,
+      "endMs": 125190,
+      "image": "sejarah-2/scene-30.jpg",
+      "words": 9
+    },
+    {
+      "id": 31,
+      "startMs": 125190,
+      "endMs": 129260,
+      "image": "sejarah-2/scene-31.jpg",
+      "words": 10
+    },
+    {
+      "id": 32,
+      "startMs": 129260,
+      "endMs": 134250,
+      "image": "sejarah-2/scene-32.jpg",
+      "words": 12
+    },
+    {
+      "id": 33,
+      "startMs": 134250,
+      "endMs": 138480,
+      "image": "sejarah-2/scene-33.jpg",
+      "words": 8
+    },
+    {
+      "id": 34,
+      "startMs": 138480,
+      "endMs": 141750,
+      "image": "sejarah-2/scene-34.jpg",
+      "words": 5
+    },
+    {
+      "id": 35,
+      "startMs": 141750,
+      "endMs": 144780,
+      "image": "sejarah-2/scene-35.jpg",
+      "words": 8
+    },
+    {
+      "id": 36,
+      "startMs": 144780,
+      "endMs": 148200,
+      "image": "sejarah-2/scene-36.jpg",
+      "words": 7
+    },
+    {
+      "id": 37,
+      "startMs": 148200,
+      "endMs": 151290,
+      "image": "sejarah-2/scene-37.jpg",
+      "words": 6
+    },
+    {
+      "id": 38,
+      "startMs": 151290,
+      "endMs": 155470,
+      "image": "sejarah-2/scene-38.jpg",
+      "words": 9
+    },
+    {
+      "id": 39,
+      "startMs": 155470,
+      "endMs": 163200,
+      "image": "sejarah-2/scene-39.jpg",
+      "words": 15
+    },
+    {
+      "id": 40,
+      "startMs": 163200,
+      "endMs": 165350,
+      "image": "sejarah-2/scene-41.jpg",
+      "words": 4
+    },
+    {
+      "id": 41,
+      "startMs": 165350,
+      "endMs": 168560,
+      "image": "sejarah-2/scene-40.jpg",
+      "words": 7
+    },
+    {
+      "id": 42,
+      "startMs": 168560,
+      "endMs": 172550,
+      "image": "sejarah-2/scene-42.jpg",
+      "words": 8
+    },
+    {
+      "id": 43,
+      "startMs": 172550,
+      "endMs": 176430,
+      "image": "sejarah-2/scene-43.jpg",
+      "words": 7
+    },
+    {
+      "id": 44,
+      "startMs": 176430,
+      "endMs": 180340,
+      "image": "sejarah-2/scene-44.jpg",
+      "words": 7
+    },
+    {
+      "id": 45,
+      "startMs": 180340,
+      "endMs": 183210,
+      "image": "sejarah-2/scene-45.jpg",
+      "words": 7
+    },
+    {
+      "id": 46,
+      "startMs": 183210,
+      "endMs": 187110,
+      "image": "sejarah-2/scene-46.jpg",
+      "words": 7
+    },
+    {
+      "id": 47,
+      "startMs": 187110,
+      "endMs": 193870,
+      "image": "sejarah-2/scene-47.jpg",
+      "words": 14
+    },
+    {
+      "id": 48,
+      "startMs": 193870,
+      "endMs": 197330,
+      "image": "sejarah-2/scene-48.jpg",
+      "words": 11
+    },
+    {
+      "id": 49,
+      "startMs": 197330,
+      "endMs": 200820,
+      "image": "sejarah-2/scene-49.jpg",
+      "words": 9
+    },
+    {
+      "id": 50,
+      "startMs": 200820,
+      "endMs": 203340,
+      "image": "sejarah-2/scene-50.jpg",
+      "words": 5
+    },
+    {
+      "id": 51,
+      "startMs": 203340,
+      "endMs": 205590,
+      "image": "sejarah-2/scene-51.jpg",
+      "words": 3
+    },
+    {
+      "id": 52,
+      "startMs": 205590,
+      "endMs": 210670,
+      "image": "sejarah-2/scene-52.jpg",
+      "words": 9
+    },
+    {
+      "id": 53,
+      "startMs": 210670,
+      "endMs": 216650,
+      "image": "sejarah-2/scene-53.jpg",
+      "words": 14
+    },
+    {
+      "id": 54,
+      "startMs": 216650,
+      "endMs": 221250,
+      "image": "sejarah-2/scene-54.jpg",
+      "words": 7
+    },
+    {
+      "id": 55,
+      "startMs": 221250,
+      "endMs": 224170,
+      "image": "sejarah-2/scene-55.jpg",
+      "words": 6
+    },
+    {
+      "id": 56,
+      "startMs": 224170,
+      "endMs": 227150,
+      "image": "sejarah-2/scene-56.jpg",
+      "words": 6
+    },
+    {
+      "id": 57,
+      "startMs": 227150,
+      "endMs": 230780,
+      "image": "sejarah-2/scene-57.jpg",
+      "words": 10
+    },
+    {
+      "id": 58,
+      "startMs": 230780,
+      "endMs": 236330,
+      "image": "sejarah-2/scene-58.jpg",
+      "words": 9
+    },
+    {
+      "id": 59,
+      "startMs": 236330,
+      "endMs": 240390,
+      "image": "sejarah-2/scene-59.jpg",
+      "words": 7
+    },
+    {
+      "id": 60,
+      "startMs": 240390,
+      "endMs": 243920,
+      "image": "sejarah-2/scene-60.jpg",
+      "words": 8
+    },
+    {
+      "id": 61,
+      "startMs": 243920,
+      "endMs": 246130,
+      "image": "sejarah-2/scene-61.jpg",
+      "words": 4
+    },
+    {
+      "id": 62,
+      "startMs": 246130,
+      "endMs": 250860,
+      "image": "sejarah-2/scene-62.jpg",
+      "words": 11
+    },
+    {
+      "id": 63,
+      "startMs": 250860,
+      "endMs": 256200,
+      "image": "sejarah-2/scene-63.jpg",
+      "words": 13
+    },
+    {
+      "id": 64,
+      "startMs": 256200,
+      "endMs": 258720,
+      "image": "sejarah-2/scene-64.jpg",
+      "words": 5
+    },
+    {
+      "id": 65,
+      "startMs": 258720,
+      "endMs": 262680,
+      "image": "sejarah-2/scene-65.jpg",
+      "words": 7
+    },
+    {
+      "id": 66,
+      "startMs": 262680,
+      "endMs": 266040,
+      "image": "sejarah-2/scene-66.jpg",
+      "words": 8
+    },
+    {
+      "id": 67,
+      "startMs": 266040,
+      "endMs": 271840,
+      "image": "sejarah-2/scene-67.jpg",
+      "words": 9
+    },
+    {
+      "id": 68,
+      "startMs": 271840,
+      "endMs": 277750,
+      "image": "sejarah-2/scene-68.jpg",
+      "words": 10
+    },
+    {
+      "id": 69,
+      "startMs": 277750,
+      "endMs": 280260,
+      "image": "sejarah-2/scene-69.jpg",
+      "words": 4
+    },
+    {
+      "id": 70,
+      "startMs": 280260,
+      "endMs": 285410,
+      "image": "sejarah-2/scene-70.jpg",
+      "words": 9
+    },
+    {
+      "id": 71,
+      "startMs": 285410,
+      "endMs": 291630,
+      "image": "sejarah-2/scene-71.jpg",
+      "words": 12
+    },
+    {
+      "id": 72,
+      "startMs": 291630,
+      "endMs": 297030,
+      "image": "sejarah-2/scene-72.jpg",
+      "words": 10
+    },
+    {
+      "id": 73,
+      "startMs": 297030,
+      "endMs": 301060,
+      "image": "sejarah-2/scene-73.jpg",
+      "words": 9
+    },
+    {
+      "id": 74,
+      "startMs": 301060,
+      "endMs": 304110,
+      "image": "sejarah-2/scene-74.jpg",
+      "words": 7
+    },
+    {
+      "id": 75,
+      "startMs": 304110,
+      "endMs": 307750,
+      "image": "sejarah-2/scene-75.jpg",
+      "words": 9
+    },
+    {
+      "id": 76,
+      "startMs": 307750,
+      "endMs": 313630,
+      "image": "sejarah-2/scene-76.jpg",
+      "words": 12
+    },
+    {
+      "id": 77,
+      "startMs": 313630,
+      "endMs": 316700,
+      "image": "sejarah-2/scene-77.jpg",
+      "words": 6
+    },
+    {
+      "id": 78,
+      "startMs": 316700,
+      "endMs": 319940,
+      "image": "sejarah-2/scene-78.jpg",
+      "words": 6
+    },
+    {
+      "id": 79,
+      "startMs": 319940,
+      "endMs": 324120,
+      "image": "sejarah-2/scene-79.jpg",
+      "words": 9
+    },
+    {
+      "id": 80,
+      "startMs": 324120,
+      "endMs": 328420,
+      "image": "sejarah-2/scene-80.jpg",
+      "words": 9
+    },
+    {
+      "id": 81,
+      "startMs": 328420,
+      "endMs": 331520,
+      "image": "sejarah-2/scene-81.jpg",
+      "words": 6
+    },
+    {
+      "id": 82,
+      "startMs": 331520,
+      "endMs": 334120,
+      "image": "sejarah-2/scene-82.jpg",
+      "words": 5
+    },
+    {
+      "id": 83,
+      "startMs": 334120,
+      "endMs": 340980,
+      "image": "sejarah-2/scene-83.jpg",
+      "words": 13
+    },
+    {
+      "id": 84,
+      "startMs": 340980,
+      "endMs": 346850,
+      "image": "sejarah-2/scene-84.jpg",
+      "words": 12
+    },
+    {
+      "id": 85,
+      "startMs": 346850,
+      "endMs": 351710,
+      "image": "sejarah-2/scene-85.jpg",
+      "words": 8
+    },
+    {
+      "id": 86,
+      "startMs": 351710,
+      "endMs": 356740,
+      "image": "sejarah-2/scene-86.jpg",
+      "words": 9
+    },
+    {
+      "id": 87,
+      "startMs": 356740,
+      "endMs": 362780,
+      "image": "sejarah-2/scene-87.jpg",
+      "words": 13
+    },
+    {
+      "id": 88,
+      "startMs": 362780,
+      "endMs": 365580,
+      "image": "sejarah-2/scene-88.jpg",
+      "words": 6
+    },
+    {
+      "id": 89,
+      "startMs": 365580,
+      "endMs": 371250,
+      "image": "sejarah-2/scene-89.jpg",
+      "words": 11
+    },
+    {
+      "id": 90,
+      "startMs": 371250,
+      "endMs": 373380,
+      "image": "sejarah-2/scene-90.jpg",
+      "words": 4
+    },
+    {
+      "id": 91,
+      "startMs": 373380,
+      "endMs": 378250,
+      "image": "sejarah-2/scene-91.jpg",
+      "words": 9
+    },
+    {
+      "id": 92,
+      "startMs": 378250,
+      "endMs": 381870,
+      "image": "sejarah-2/scene-92.jpg",
+      "words": 9
+    },
+    {
+      "id": 93,
+      "startMs": 381870,
+      "endMs": 386220,
+      "image": "sejarah-2/scene-93.jpg",
+      "words": 8
+    },
+    {
+      "id": 94,
+      "startMs": 386220,
+      "endMs": 390880,
+      "image": "sejarah-2/scene-94.jpg",
+      "words": 9
+    },
+    {
+      "id": 95,
+      "startMs": 390880,
+      "endMs": 396170,
+      "image": "sejarah-2/scene-95.jpg",
+      "words": 11
+    },
+    {
+      "id": 96,
+      "startMs": 396170,
+      "endMs": 398980,
+      "image": "sejarah-2/scene-96.jpg",
+      "words": 4
+    },
+    {
+      "id": 97,
+      "startMs": 398980,
+      "endMs": 404130,
+      "image": "sejarah-2/scene-97.jpg",
+      "words": 13
+    },
+    {
+      "id": 98,
+      "startMs": 404130,
+      "endMs": 406990,
+      "image": "sejarah-2/scene-98.jpg",
+      "words": 5
+    },
+    {
+      "id": 99,
+      "startMs": 406990,
+      "endMs": 413490,
+      "image": "sejarah-2/scene-99.jpg",
+      "words": 13
+    },
+    {
+      "id": 100,
+      "startMs": 413490,
+      "endMs": 415720,
+      "image": "sejarah-2/scene-100.jpg",
+      "words": 5
+    },
+    {
+      "id": 101,
+      "startMs": 415720,
+      "endMs": 419430,
+      "image": "sejarah-2/scene-101.jpg",
+      "words": 8
+    },
+    {
+      "id": 102,
+      "startMs": 419430,
+      "endMs": 423130,
+      "image": "sejarah-2/scene-102.jpg",
+      "words": 7
+    },
+    {
+      "id": 103,
+      "startMs": 423130,
+      "endMs": 426530,
+      "image": "sejarah-2/scene-103.jpg",
+      "words": 6
+    },
+    {
+      "id": 104,
+      "startMs": 426530,
+      "endMs": 430480,
+      "image": "sejarah-2/scene-104.jpg",
+      "words": 9
+    },
+    {
+      "id": 105,
+      "startMs": 430480,
+      "endMs": 434480,
+      "image": "sejarah-2/scene-105.jpg",
+      "words": 7
+    },
+    {
+      "id": 106,
+      "startMs": 434480,
+      "endMs": 440800,
+      "image": "sejarah-2/scene-106.jpg",
+      "words": 11
+    },
+    {
+      "id": 107,
+      "startMs": 440800,
+      "endMs": 444440,
+      "image": "sejarah-2/scene-107.jpg",
+      "words": 8
+    },
+    {
+      "id": 108,
+      "startMs": 444440,
+      "endMs": 447590,
+      "image": "sejarah-2/scene-108.jpg",
+      "words": 8
+    },
+    {
+      "id": 109,
+      "startMs": 447590,
+      "endMs": 451350,
+      "image": "sejarah-2/scene-109.jpg",
+      "words": 9
+    },
+    {
+      "id": 110,
+      "startMs": 451350,
+      "endMs": 456340,
+      "image": "sejarah-2/scene-110.jpg",
+      "words": 9
+    },
+    {
+      "id": 111,
+      "startMs": 456340,
+      "endMs": 458660,
+      "image": "sejarah-2/scene-111.jpg",
+      "words": 5
+    },
+    {
+      "id": 112,
+      "startMs": 458660,
+      "endMs": 462820,
+      "image": "sejarah-2/scene-112.jpg",
+      "words": 10
+    },
+    {
+      "id": 113,
+      "startMs": 462820,
+      "endMs": 467970,
+      "image": "sejarah-2/scene-113.jpg",
+      "words": 10
+    },
+    {
+      "id": 114,
+      "startMs": 467970,
+      "endMs": 471470,
+      "image": "sejarah-2/scene-114.jpg",
+      "words": 8
+    },
+    {
+      "id": 115,
+      "startMs": 471470,
+      "endMs": 477410,
+      "image": "sejarah-2/scene-115.jpg",
+      "words": 11
+    },
+    {
+      "id": 116,
+      "startMs": 477410,
+      "endMs": 480480,
+      "image": "sejarah-2/scene-116.jpg",
+      "words": 8
+    },
+    {
+      "id": 117,
+      "startMs": 480480,
+      "endMs": 483240,
+      "image": "sejarah-2/scene-117.jpg",
+      "words": 7
+    },
+    {
+      "id": 118,
+      "startMs": 483240,
+      "endMs": 488540,
+      "image": "sejarah-2/scene-118.jpg",
+      "words": 10
+    },
+    {
+      "id": 119,
+      "startMs": 488540,
+      "endMs": 492420,
+      "image": "sejarah-2/scene-119.jpg",
+      "words": 7
+    },
+    {
+      "id": 120,
+      "startMs": 492420,
+      "endMs": 496220,
+      "image": "sejarah-2/scene-120.jpg",
+      "words": 10
+    },
+    {
+      "id": 121,
+      "startMs": 496220,
+      "endMs": 498510,
+      "image": "sejarah-2/scene-121.jpg",
+      "words": 6
+    },
+    {
+      "id": 122,
+      "startMs": 498510,
+      "endMs": 500570,
+      "image": "sejarah-2/scene-122.jpg",
+      "words": 6
+    },
+    {
+      "id": 123,
+      "startMs": 500570,
+      "endMs": 505960,
+      "image": "sejarah-2/scene-123.jpg",
+      "words": 12
+    },
+    {
+      "id": 124,
+      "startMs": 505960,
+      "endMs": 509940,
+      "image": "sejarah-2/scene-124.jpg",
+      "words": 10
+    },
+    {
+      "id": 125,
+      "startMs": 509940,
+      "endMs": 514320,
+      "image": "sejarah-2/scene-125.jpg",
+      "words": 9
+    },
+    {
+      "id": 126,
+      "startMs": 514320,
+      "endMs": 517030,
+      "image": "sejarah-2/scene-126.jpg",
+      "words": 5
+    },
+    {
+      "id": 127,
+      "startMs": 517030,
+      "endMs": 521390,
+      "image": "sejarah-2/scene-127.jpg",
+      "words": 9
+    },
+    {
+      "id": 128,
+      "startMs": 521390,
+      "endMs": 524780,
+      "image": "sejarah-2/scene-128.jpg",
+      "words": 9
+    },
+    {
+      "id": 129,
+      "startMs": 524780,
+      "endMs": 532030,
+      "image": "sejarah-2/scene-129.jpg",
+      "words": 14
+    },
+    {
+      "id": 130,
+      "startMs": 532030,
+      "endMs": 538200,
+      "image": "sejarah-2/scene-130.jpg",
+      "words": 11
+    },
+    {
+      "id": 131,
+      "startMs": 538200,
+      "endMs": 542210,
+      "image": "sejarah-2/scene-131.jpg",
+      "words": 7
+    },
+    {
+      "id": 132,
+      "startMs": 542210,
+      "endMs": 545020,
+      "image": "sejarah-2/scene-132.jpg",
+      "words": 6
+    },
+    {
+      "id": 133,
+      "startMs": 545020,
+      "endMs": 550240,
+      "image": "sejarah-2/scene-133.jpg",
+      "words": 11
+    },
+    {
+      "id": 134,
+      "startMs": 550240,
+      "endMs": 555840,
+      "image": "sejarah-2/scene-134.jpg",
+      "words": 9
+    },
+    {
+      "id": 135,
+      "startMs": 555840,
+      "endMs": 559700,
+      "image": "sejarah-2/scene-135.jpg",
+      "words": 8
+    },
+    {
+      "id": 136,
+      "startMs": 559700,
+      "endMs": 562540,
+      "image": "sejarah-2/scene-136.jpg",
+      "words": 5
+    },
+    {
+      "id": 137,
+      "startMs": 562540,
+      "endMs": 566930,
+      "image": "sejarah-2/scene-137.jpg",
+      "words": 10
+    },
+    {
+      "id": 138,
+      "startMs": 566930,
+      "endMs": 570070,
+      "image": "sejarah-2/scene-138.jpg",
+      "words": 8
+    },
+    {
+      "id": 139,
+      "startMs": 570070,
+      "endMs": 574530,
+      "image": "sejarah-2/scene-139.jpg",
+      "words": 6
+    },
+    {
+      "id": 140,
+      "startMs": 574530,
+      "endMs": 579280,
+      "image": "sejarah-2/scene-140.jpg",
+      "words": 9
+    },
+    {
+      "id": 141,
+      "startMs": 579280,
+      "endMs": 583980,
+      "image": "sejarah-2/scene-141.jpg",
+      "words": 8
+    },
+    {
+      "id": 142,
+      "startMs": 583980,
+      "endMs": 589420,
+      "image": "sejarah-2/scene-142.jpg",
+      "words": 11
+    },
+    {
+      "id": 143,
+      "startMs": 589420,
+      "endMs": 598750,
+      "image": "sejarah-2/scene-143.jpg",
+      "words": 16
+    },
+    {
+      "id": 144,
+      "startMs": 598750,
+      "endMs": 602650,
+      "image": "sejarah-2/scene-144.jpg",
+      "words": 8
+    },
+    {
+      "id": 145,
+      "startMs": 602650,
+      "endMs": 606325,
+      "image": "sejarah-2/scene-145.jpg",
+      "words": 7
+    },
+    {
+      "id": 146,
+      "startMs": 606325,
+      "endMs": 611240,
+      "image": "sejarah-2/scene-146.jpg",
+      "words": 10
+    },
+    {
+      "id": 147,
+      "startMs": 611240,
+      "endMs": 619410,
+      "image": "sejarah-2/scene-147.jpg",
+      "words": 12
+    },
+    {
+      "id": 148,
+      "startMs": 619410,
+      "endMs": 622830,
+      "image": "sejarah-2/scene-148.jpg",
+      "words": 6
+    },
+    {
+      "id": 149,
+      "startMs": 622830,
+      "endMs": 626840,
+      "image": "sejarah-2/scene-149.jpg",
+      "words": 7
+    },
+    {
+      "id": 150,
+      "startMs": 626840,
+      "endMs": 630340,
+      "image": "sejarah-2/scene-150.jpg",
+      "words": 6
+    },
+    {
+      "id": 151,
+      "startMs": 630340,
+      "endMs": 634590,
+      "image": "sejarah-2/scene-151.jpg",
+      "words": 11
+    },
+    {
+      "id": 152,
+      "startMs": 634590,
+      "endMs": 637060,
+      "image": "sejarah-2/scene-152.jpg",
+      "words": 4
+    },
+    {
+      "id": 153,
+      "startMs": 637060,
+      "endMs": 641470,
+      "image": "sejarah-2/scene-153.jpg",
+      "words": 9
+    },
+    {
+      "id": 154,
+      "startMs": 641470,
+      "endMs": 644610,
+      "image": "sejarah-2/scene-154.jpg",
+      "words": 8
+    },
+    {
+      "id": 155,
+      "startMs": 644610,
+      "endMs": 650490,
+      "image": "sejarah-2/scene-155.jpg",
+      "words": 10
+    },
+    {
+      "id": 156,
+      "startMs": 650490,
+      "endMs": 652330,
+      "image": "sejarah-2/scene-156.jpg",
+      "words": 3
+    },
+    {
+      "id": 157,
+      "startMs": 652330,
+      "endMs": 659060,
+      "image": "sejarah-2/scene-157.jpg",
+      "words": 16
+    },
+    {
+      "id": 158,
+      "startMs": 659060,
+      "endMs": 662610,
+      "image": "sejarah-2/scene-158.jpg",
+      "words": 7
+    },
+    {
+      "id": 159,
+      "startMs": 662610,
+      "endMs": 667860,
+      "image": "sejarah-2/scene-159.jpg",
+      "words": 7
+    },
+    {
+      "id": 160,
+      "startMs": 667860,
+      "endMs": 674000,
+      "image": "sejarah-2/scene-160.jpg",
+      "words": 12
+    },
+    {
+      "id": 161,
+      "startMs": 674000,
+      "endMs": 677760,
+      "image": "sejarah-2/scene-161.jpg",
+      "words": 8
+    },
+    {
+      "id": 162,
+      "startMs": 677760,
+      "endMs": 683910,
+      "image": "sejarah-2/scene-162.jpg",
+      "words": 11
+    },
+    {
+      "id": 163,
+      "startMs": 683910,
+      "endMs": 688020,
+      "image": "sejarah-2/scene-163.jpg",
+      "words": 7
+    },
+    {
+      "id": 164,
+      "startMs": 688020,
+      "endMs": 691900,
+      "image": "sejarah-2/scene-164.jpg",
+      "words": 7
+    },
+    {
+      "id": 165,
+      "startMs": 691900,
+      "endMs": 697410,
+      "image": "sejarah-2/scene-165.jpg",
+      "words": 10
+    },
+    {
+      "id": 166,
+      "startMs": 697410,
+      "endMs": 701910,
+      "image": "sejarah-2/scene-166.jpg",
+      "words": 8
+    },
+    {
+      "id": 167,
+      "startMs": 701910,
+      "endMs": 704620,
+      "image": "sejarah-2/scene-167.jpg",
+      "words": 6
+    },
+    {
+      "id": 168,
+      "startMs": 704620,
+      "endMs": 708270,
+      "image": "sejarah-2/scene-168.jpg",
+      "words": 7
+    },
+    {
+      "id": 169,
+      "startMs": 708270,
+      "endMs": 713550,
+      "image": "sejarah-2/scene-169.jpg",
+      "words": 10
+    },
+    {
+      "id": 170,
+      "startMs": 713550,
+      "endMs": 717920,
+      "image": "sejarah-2/scene-170.jpg",
+      "words": 9
+    },
+    {
+      "id": 171,
+      "startMs": 717920,
+      "endMs": 721410,
+      "image": "sejarah-2/scene-171.jpg",
+      "words": 6
+    },
+    {
+      "id": 172,
+      "startMs": 721410,
+      "endMs": 729380,
+      "image": "sejarah-2/scene-172.jpg",
+      "words": 12
+    },
+    {
+      "id": 173,
+      "startMs": 729380,
+      "endMs": 732320,
+      "image": "sejarah-2/scene-173.jpg",
+      "words": 5
+    },
+    {
+      "id": 174,
+      "startMs": 732320,
+      "endMs": 737530,
+      "image": "sejarah-2/scene-174.jpg",
+      "words": 9
+    },
+    {
+      "id": 175,
+      "startMs": 737530,
+      "endMs": 741990,
+      "image": "sejarah-2/scene-175.jpg",
+      "words": 10
+    },
+    {
+      "id": 176,
+      "startMs": 741990,
+      "endMs": 747300,
+      "image": "sejarah-2/scene-176.jpg",
+      "words": 11
+    },
+    {
+      "id": 177,
+      "startMs": 747300,
+      "endMs": 754190,
+      "image": "sejarah-2/scene-177.jpg",
+      "words": 11
+    },
+    {
+      "id": 178,
+      "startMs": 754190,
+      "endMs": 756780,
+      "image": "sejarah-2/scene-178.jpg",
+      "words": 6
+    },
+    {
+      "id": 179,
+      "startMs": 756780,
+      "endMs": 759020,
+      "image": "sejarah-2/scene-179.jpg",
+      "words": 6
+    },
+    {
+      "id": 180,
+      "startMs": 759020,
+      "endMs": 761680,
+      "image": "sejarah-2/scene-180.jpg",
+      "words": 7
+    },
+    {
+      "id": 181,
+      "startMs": 761680,
+      "endMs": 765960,
+      "image": "sejarah-2/scene-181.jpg",
+      "words": 7
+    },
+    {
+      "id": 182,
+      "startMs": 765960,
+      "endMs": 771060,
+      "image": "sejarah-2/scene-182.jpg",
+      "words": 8
+    },
+    {
+      "id": 183,
+      "startMs": 771060,
+      "endMs": 774090,
+      "image": "sejarah-2/scene-183.jpg",
+      "words": 7
+    },
+    {
+      "id": 184,
+      "startMs": 774090,
+      "endMs": 777540,
+      "image": "sejarah-2/scene-184.jpg",
+      "words": 4
+    },
+    {
+      "id": 185,
+      "startMs": 777540,
+      "endMs": 783140,
+      "image": "sejarah-2/scene-185.jpg",
+      "words": 13
+    },
+    {
+      "id": 186,
+      "startMs": 783140,
+      "endMs": 786650,
+      "image": "sejarah-2/scene-186.jpg",
+      "words": 8
+    },
+    {
+      "id": 187,
+      "startMs": 786650,
+      "endMs": 789770,
+      "image": "sejarah-2/scene-187.jpg",
+      "words": 5
+    },
+    {
+      "id": 188,
+      "startMs": 789770,
+      "endMs": 795900,
+      "image": "sejarah-2/scene-188.jpg",
+      "words": 12
+    },
+    {
+      "id": 189,
+      "startMs": 795900,
+      "endMs": 800100,
+      "image": "sejarah-2/scene-189.jpg",
+      "words": 10
+    },
+    {
+      "id": 190,
+      "startMs": 800100,
+      "endMs": 804900,
+      "image": "sejarah-2/scene-190.jpg",
+      "words": 9
+    },
+    {
+      "id": 191,
+      "startMs": 804900,
+      "endMs": 810110,
+      "image": "sejarah-2/scene-191.jpg",
+      "words": 9
+    },
+    {
+      "id": 192,
+      "startMs": 810110,
+      "endMs": 816230,
+      "image": "sejarah-2/scene-192.jpg",
+      "words": 11
+    },
+    {
+      "id": 193,
+      "startMs": 816230,
+      "endMs": 819560,
+      "image": "sejarah-2/scene-193.jpg",
+      "words": 7
+    },
+    {
+      "id": 194,
+      "startMs": 819560,
+      "endMs": 822130,
+      "image": "sejarah-2/scene-194.jpg",
+      "words": 4
+    },
+    {
+      "id": 195,
+      "startMs": 822130,
+      "endMs": 828855,
+      "image": "sejarah-2/scene-195.jpg",
+      "words": 11
+    },
+    {
+      "id": 196,
+      "startMs": 828855,
+      "endMs": 832150,
+      "image": "sejarah-2/scene-196.jpg",
+      "words": 6
+    },
+    {
+      "id": 197,
+      "startMs": 832150,
+      "endMs": 837190,
+      "image": "sejarah-2/scene-197.jpg",
+      "words": 10
+    },
+    {
+      "id": 198,
+      "startMs": 837190,
+      "endMs": 841340,
+      "image": "sejarah-2/scene-198.jpg",
+      "words": 9
+    },
+    {
+      "id": 199,
+      "startMs": 841340,
+      "endMs": 847220,
+      "image": "sejarah-2/scene-199.jpg",
+      "words": 11
+    },
+    {
+      "id": 200,
+      "startMs": 847220,
+      "endMs": 849350,
+      "image": "sejarah-2/scene-200.jpg",
+      "words": 4
+    },
+    {
+      "id": 201,
+      "startMs": 849350,
+      "endMs": 854440,
+      "image": "sejarah-2/scene-201.jpg",
+      "words": 9
+    },
+    {
+      "id": 202,
+      "startMs": 854440,
+      "endMs": 858370,
+      "image": "sejarah-2/scene-202.jpg",
+      "words": 7
+    },
+    {
+      "id": 203,
+      "startMs": 858370,
+      "endMs": 862850,
+      "image": "sejarah-2/scene-203.jpg",
+      "words": 9
+    },
+    {
+      "id": 204,
+      "startMs": 862850,
+      "endMs": 868140,
+      "image": "sejarah-2/scene-204.jpg",
+      "words": 9
+    },
+    {
+      "id": 205,
+      "startMs": 868140,
+      "endMs": 872170,
+      "image": "sejarah-2/scene-205.jpg",
+      "words": 8
+    },
+    {
+      "id": 206,
+      "startMs": 872170,
+      "endMs": 877550,
+      "image": "sejarah-2/scene-206.jpg",
+      "words": 9
+    },
+    {
+      "id": 207,
+      "startMs": 877550,
+      "endMs": 884325,
+      "image": "sejarah-2/scene-207.jpg",
+      "words": 14
+    },
+    {
+      "id": 208,
+      "startMs": 884325,
+      "endMs": 888510,
+      "image": "sejarah-2/scene-208.jpg",
+      "words": 5
+    },
+    {
+      "id": 209,
+      "startMs": 888510,
+      "endMs": 893850,
+      "image": "sejarah-2/scene-209.jpg",
+      "words": 9
+    },
+    {
+      "id": 210,
+      "startMs": 893850,
+      "endMs": 900470,
+      "image": "sejarah-2/scene-210.jpg",
+      "words": 13
+    },
+    {
+      "id": 211,
+      "startMs": 900470,
+      "endMs": 904470,
+      "image": "sejarah-2/scene-211.jpg",
+      "words": 10
+    },
+    {
+      "id": 212,
+      "startMs": 904470,
+      "endMs": 906500,
+      "image": "sejarah-2/scene-212.jpg",
+      "words": 4
+    },
+    {
+      "id": 213,
+      "startMs": 906500,
+      "endMs": 909320,
+      "image": "sejarah-2/scene-213.jpg",
+      "words": 4
+    }
+  ]
+}

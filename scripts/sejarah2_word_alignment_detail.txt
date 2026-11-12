@@ -1,0 +1,852 @@
+ROW   1 (     0 -   4840 ms):
+  VO   : Pada[0-440] tahun[440-860] 610[860-1960] Masehi,[1960-2680] di[2680-3420?] sebuah[3420-3900] gua[3900-4040] sunyi[4040-4660] di[4660-4840]
+  IMG#1  : [GUA HIRA & MOUNT NUR] Exterior view of the solitary rugged Mount Nur under a deep charcoal night sky in 610 CE, barren jagged cliffs, dusty windswept atmosphere. 2D illustrated historical style, faded ochres, charcoal blacks, and sun-bleached whites, gritty parchment texture. No photorealism, no text, no watermark.
+
+ROW   2 (  4840 -   9480 ms):
+  VO   : puncak[4840-5320] tebing[5320-5660] berbatu[5660-6320] dekat[6520-6660] Makkah,[6660-7220] seseorang[7900-8520] berusia[8520-9020] empat[9020-9250?] puluh[9250-9480?]
+  IMG#2  : [GUA HIRA & MOUNT NUR] The rocky cave mouth of Gua Hira perched on high stone cliffs overlooking the distant dark horizon of Makkah, textured basalt rock. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, rough stone grain. No photorealism, no text, no watermark.
+
+ROW   3 (  9480 -  13970 ms):
+  VO   : tahun[9480-10120] sedang[10120-10620] menyendiri[10620-10840] dalam[11260-11460] kegelapan.[11460-12020] Di[13050-13190] bawah[13190-13450] gua[13450-13590] itu,[13590-13970]
+  IMG#3  : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] Solitary figure of the forty-year-old Prophet sitting in deep meditation inside the dark cavern of Gua Hira, humble linen robes, noble posture, face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Glowing light on face pulses very gently.
+
+ROW   4 ( 14430 -  18350 ms):
+  VO   : sebagian[14430-14810] besar[14810-15230] bangsa[15230-15670] Arab[15670-15950] sedang[15950-16410] tenggelam[16410-17010] dalam[17010-17250] zaman[17250-17670] Jahiliyah:[17670-18350]
+  IMG#4  : [PRE-ISLAMIC MAKKAH & KA'BAH] Panoramic view of pre-Islamic Makkah valley engulfed in dusty shadows of Jahiliyah, barren hills, harsh desert winds blowing dust over dry mud dwellings. 2D illustrated woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, aged parchment texture. No text, no watermark.
+
+ROW   5 ( 19010 -  21930 ms):
+  VO   : ratusan[19010-19590] patung[19590-19950] berhala[19950-20390] dipuja[20530-20970] di[20970-21150] sekeliling[21150-21530] Ka’bah,[21530-21930]
+  IMG#5  : [PRE-ISLAMIC MAKKAH & KA'BAH] Hundreds of carved stone and wooden idols surrounding the ancient stone Ka'bah in a dusty basin, rough pagan statues standing motionless. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW   6 ( 22610 -  26510 ms):
+  VO   : sebagian[22610-23070] kabilah[23070-23490] mengubur[23490-24250] bayi[24250-24610] perempuan[24610-24930] hidup-hidup[24930-25630?] ke[25630-25730] dalam[25730-25890] pasir,[25890-26510]
+  IMG#6  : Dark barren desert dune at twilight, a small patch of disturbed sand marked by a spade in the ground under a gloomy sky, solemn reminder of the burial of infant daughters in Jahiliyah. 2D illustrated style, charcoal blacks, faded ochres, and muted olive greens, gritty dust texture. No text, no watermark.
+
+ROW   7 ( 26510 -  30130 ms):
+  VO   : dan[26510-27250] perang[27250-27650] antarsuku[27650-28430?] berkecamuk[28430-29470] tanpa[29470-29830] henti.[29830-30130]
+  IMG#7  : Silhouetted desert warriors clashing with raised spears and shields across windswept dunes under a dusty charcoal sky, endless tribal warfare. 2D illustrated woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, gritty parchment texture. No text, no watermark.
+
+ROW   8 ( 31250 -  34070 ms):
+  VO   : Di[31250-31330] tengah[31330-31710] pekatnya[31710-32250] malam[32250-32690] di[32690-32850] Gua[32850-33030] Hira[33030-33510] itulah,[33510-34070]
+  IMG#8  : [GUA HIRA & MOUNT NUR] Interior of Gua Hira at the dead of night, rough dark stone walls suddenly touched by a miraculous beam of soft heavenly illumination. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty rock texture. No text, no watermark.
+
+ROW   9 ( 34850 -  39510 ms):
+  VO   : sebuah[34850-35030] suara[35030-35470] memerintahkan[35470-36290] pria[36290-36690] bernama[36690-37030] Muhammad[37030-37730] shallallahu[37730-38475?] ‘alaihi[38475-38910?] wasallam[38910-39510]
+  IMG#9  : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [GUA HIRA & MOUNT NUR] The Prophet standing in solemn awe inside Gua Hira receiving the divine command of Iqra, modest linen garments, face covered by radiant glowing light, glowing light steady and luminous. 2D illustrated woodcut style, faded ochres, charcoal blacks, and sun-bleached whites. No text, no watermark.
+
+ROW  10 ( 39510 -  44680 ms):
+  VO   : untuk[39510-40090] membaca.[40090-40750] Detik[41640-42000] itu[42000-42320] menjadi[42320-42820] titik[42820-43200] tolak[43200-43560] perubahan[43560-44020] terbesar[44020-44680]
+  IMG#10 : [GUA HIRA & MOUNT NUR] Glowing golden light radiating from the mouth of Gua Hira, illuminating the rugged mountain ridges of Mount Nur against the dark desert sky. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks, gritty aged parchment texture. No text, no watermark.
+
+ROW  11 ( 44680 -  49540 ms):
+  VO   : dalam[44680-44980] sejarah[44980-45560] peradaban[45560-46060] gurun[46060-46440] pasir.[46440-46920] Bagaimana[47720-48260] sebuah[48260-48860] risalah[48860-49280] yang[49280-49540]
+  IMG#11 : Vast desert dunes of Arabia stretching into the horizon, sunrise light slowly spreading over endless sand ridges, symbol of monumental transformation. 2D illustrated style, faded ochres, sun-bleached whites, and charcoal blacks, gritty dust grain. No text, no watermark.
+
+ROW  12 ( 49540 -  52780 ms):
+  VO   : dimulai[49540-50060] oleh[50060-50260] satu[50260-50540] orang[50540-50840] di[50840-51040] dalam[51040-51240] gua[51240-51460] sunyi[51460-51940] mampu[51940-52780]
+  IMG#12 : [GUA HIRA & MOUNT NUR] Solitary mountain peak of Mount Nur under dawn light, standing majestic above the barren desert wilderness. 2D woodcut style, faded ochres, muted olive greens, and charcoal blacks, aged parchment texture. No text, no watermark.
+
+ROW  13 ( 52780 -  56480 ms):
+  VO   : mengubah[52780-53220] masyarakat[53220-53800] yang[53800-53940] terpecah[53940-54360] belah[54360-54660] dan[54660-55080] tenggelam[55080-55620] dalam[55620-55800] krisis[55800-56140] moral,[56140-56480]
+  IMG#13 : Conceptual split illustration: on the left, dark fragmented tribal clans in discord; on the right, morning dawn breaking over stone buildings. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW  14 ( 57120 -  61300 ms):
+  VO   : hingga[57120-57440] berhasil[57440-58000] mendirikan[58000-58460] negara-kota[58460-59020] berkeadaban[59320-59920] di[59920-60100] Madinah[60100-60520] dalam[60520-60880] rentang[60880-61300]
+  IMG#14 : [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Lush green date palm oasis of Madinah with peaceful mudbrick dwellings under a clear calm sky, civilized city-state. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW  15 ( 61300 -  64910 ms):
+  VO   : sekitar[61300-61700] dua[61700-61828?] belas[61828-62020?] tahun?[62020-62440] Saat[63110-63650] wahyu[63650-64070] pertama[64070-64370] turun,[64370-64910]
+  IMG#15 : Aged parchment timeline showing the desert route between Makkah and Madinah marked by gentle wavy linear lines, twelve golden sand marks. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, parchment grain. No real letters, no Arabic script.
+
+ROW  16 ( 65510 -  69710 ms):
+  VO   : kota[65510-65750] Makkah[65750-66150] dikuasai[66150-67030] oleh[67030-67210] para[67210-67490] bangsawan[67490-68050] pedagang[68050-68570] Suku[68570-68850] Quraisy.[68850-69710?]
+  IMG#16 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Wealthy Quraysh merchant aristocrats in luxurious dark robes gathered outside stone dwellings in Makkah, haughty expressions, stylized 2D faces. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  17 ( 69710 -  73330 ms):
+  VO   : Kehidupan[69710-70430] kota[70430-70770] ditopang[70930-71430] oleh[71430-71630] ratusan[71630-72010] berhala[72010-72570] di[72570-72690] sekitar[72690-72970] Ka’bah[72970-73330]
+  IMG#17 : [PRE-ISLAMIC MAKKAH & KA'BAH] High-angle view of the unpolished stone Ka'bah surrounded by carved basalt idols in the busy Makkah valley. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW  18 ( 73330 -  77970 ms):
+  VO   : dan[73330-73750] jalur[73750-74130] perdagangan[74130-74630] kafilah.[74630-75050] Tatanan[75830-76170] sosial[76170-76530] di[76530-76531?] sana[76530-76850] sangat[76850-77290] timpang.[77290-77970]
+  IMG#18 : Heavily loaded merchant camel caravan winding its way into the rocky mountain pass of Makkah, sacks of trading goods under a scorching sun. 2D illustrated style, faded ochres, charcoal blacks, and muted olive greens, dust grain. No text, no watermark.
+
+ROW  19 ( 77970 -  81790 ms):
+  VO   : Kaum[77970-78690] elit[78690-79070?] kaya[79070-79310] menimbun[79310-79690] harta,[79690-80030] sementara[80650-80890] budak[80890-81290] dan[81290-81490] fakir[81490-81790]
+  IMG#19 : A wealthy Quraysh merchant sitting indoors counting bronze scales and piles of coins, adorned in rich fabrics, dark shadows. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, aged parchment texture. No text, no watermark.
+
+ROW  20 ( 81790 -  85230 ms):
+  VO   : miskin[81790-82150] diperlakukan[82150-82870] seperti[82870-83130] barang[83130-83730] tanpa[84050-84410] perlindungan[84410-84950] hukum.[84950-85230]
+  IMG#20 : Poor indentured laborers and enslaved workers carrying heavy stone blocks in the dusty alleyways of Makkah, weary and impoverished. 2D illustrated style, charcoal blacks, faded ochres, and muted olive greens, gritty dust texture. No text, no watermark.
+
+ROW  21 ( 86060 -  90420 ms):
+  VO   : Fanatisme[86060-86700] kesukuan[86700-87260] menjadi[87260-87720] harga[87720-88180] mati.[88180-88640] Siapa[89300-89700] yang[89700-89900] berasal[89900-90220] dari[90220-90420]
+  IMG#21 : Tribal clan banner pole planted firmly in the dry ground beside sheathed swords, symbolizing unyielding tribal fanaticism (asabiyah). 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW  22 ( 90420 -  93140 ms):
+  VO   : klan[90420-90700] lemah,[90700-91020] nasibnya[91020-91780] berada[91780-92280] di[92280-92480] ujung[92480-92640] tanduk.[92640-93140]
+  IMG#22 : A vulnerable impoverished nomad family huddled outside a crumbling mud shelter in Makkah, exposed to desert winds, neglected by the clans. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough texture. No text, no watermark.
+
+ROW  23 ( 93770 -  98070 ms):
+  VO   : Kemapanan[93770-94490] para[94490-94710] penguasa[94710-95070] Makkah[95070-95470] ini[95470-95690] tiba-tiba[95690-96430?] terguncang[96430-97230] ketika[97470-97770] Nabi[97770-98070]
+  IMG#23 : A cracked stone boundary pillar teetering on a desert ridge, visual metaphor for precarious fate in Jahiliyah society. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty rock texture. No text, no watermark.
+
+ROW  24 ( 98070 - 102290 ms):
+  VO   : Muhammad[98070-98450] shallallahu[98450-99082?] ‘alaihi[99082-99450?] wasallam[99450-99770] mulai[99770-100450] menyuarakan[100450-101050] ajaran[101050-101590] tauhid[101590-102050] dan[102050-102290]
+  IMG#24 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing with calm moral authority in a sunlit Makkah alleyway, modest linen robes, face covered by radiant glowing light, glowing light steady and warm. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites. No text, no watermark.
+
+ROW  25 (102290 - 107580 ms):
+  VO   : keadilan[102290-102710] sosial.[102710-103290] Pada[103290-104120?] mulanya,[104120-104840] dakwah[104840-105620?] Islam[105620-105900] berjalan[105900-106360] secara[106360-106720] sembunyi-sembunyi[106720-107580?]
+  IMG#25 : A simple clay water bowl and broken stone chain resting on a clean rock in sunlight, visual metaphor for divine monotheism and social justice. 2D woodcut style, faded ochres, muted olive greens, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW  26 (107580 - 110800 ms):
+  VO   : selama[107580-107980] kurang[107980-108260] lebih[108260-108420] tiga[108420-108660?] tahun.[108660-109020] Pertemuan[109680-110080] digelar[110080-110480] di[110480-110640] rumah[110640-110800]
+  IMG#26 : Silhouettes of early believers walking quietly through narrow winding stone alleys of Makkah at twilight toward a secluded house. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty dust texture. No text, no watermark.
+
+ROW  27 (110800 - 115140 ms):
+  VO   : sederhana[110800-111300] milik[111300-111680] sahabat[111680-112060] muda[112060-112360] bernama[112360-112900] al-Arqam[112900-113500?] bin[113500-113760] Abi[113760-114060] al-Arqam.[114060-115140?]
+  IMG#27 : [DARUL ARQAM HOUSE] Exterior of the humble mudbrick residence of al-Arqam nestled near the foothills of Safa, a faint warm light glowing from its wooden door. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rough clay texture. No text, no watermark.
+
+ROW  28 (115140 - 118340 ms):
+  VO   : Di[115140-115500] rumah[115500-115660] inilah[115660-116020] fondasi[116340-116720] keimanan[116920-117260] dibangun[117500-117840] perlahan.[117840-118340]
+  IMG#28 : [AL-ARQAM BIN ABI AL-ARQAM] [DARUL ARQAM HOUSE] Young al-Arqam welcoming trusted companions into his humble home, noble desert attire, face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW  29 (118340 - 122460 ms):
+  VO   : Orang-orang[118340-119620?] pertama[119620-120040] yang[120040-120320] menyambut[120320-120720] ajaran[120720-121180] ini[121180-121400] sebagian[121400-121860] besar[121860-122220] adalah[122220-122460]
+  IMG#29 : [DARUL ARQAM HOUSE] Warm clay oil lamp illuminating the humble interior room, soft golden glow reflecting off earthen walls and mats, atmosphere of serene steadfast faith. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, gritty parchment texture. No text, no watermark.
+
+ROW  30 (122460 - 124780 ms):
+  VO   : mereka[122460-122780] yang[122780-123000] tertindas[123000-123540] oleh[123540-123820?] sistem[123820-124160] Jahiliyah.[124160-124780]
+  IMG#30 : [COMPANIONS (SAHABAT)] [DARUL ARQAM HOUSE] Small circle of early believers seated together on palm mats in quiet devotion, coarse linen tunics, faces covered by radiant glowing light, glowing light steady. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  31 (125320 - 129280 ms):
+  VO   : Ada[125320-125540] budak[125540-125920] seperti[125920-126200] Bilal[126200-126580] bin[126580-126581?] Rabah,[126580-127220] perempuan[127740-128040] terhormat[128040-128540] seperti[128540-128840] Khadijah,[128840-129280]
+  IMG#31 : [BILAL BIN RABAH] [KHADIJAH BINT KHUWAILID] Bilal and Khadijah seated with dignity among the believers, Bilal in coarse linen and Khadijah in modest dark veil, both faces covered by radiant glowing light, glowing light steady. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW  32 (129280 - 132720 ms):
+  VO   : serta[129280-130020] pemuda[130020-130480] berani[130480-130940] seperti[130940-131320] Ali[131320-131610?] bin[131610-131900?] Abi[131900-132120] Thalib[132120-132380?] dan[132380-132720]
+  IMG#32 : [ALI BIN ABI THALIB] [ZAID BIN HARITSAH] Young Ali and Zaid seated side by side, youthful steadfast courage, coarse desert robes, faces covered by radiant glowing light, glowing veils steady. 2D illustrated style, charcoal blacks, faded ochres, and muted olive greens. Faces covered by radiant glowing light.
+
+ROW  33 (132720 - 137320 ms):
+  VO   : Zaid[132720-133040] bin[133040-133300] Haritsah.[133300-133580] Namun[134380-134860] pergerakan[135180-135700] sunyi[135700-136160] itu[136160-136440] berubah[136440-136940] menjadi[136940-137320]
+  IMG#33 : [DARUL ARQAM HOUSE] The small door of Darul Arqam opening outward to reveal the vast, windy desert hills of Makkah at dawn. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty plaster texture. No text, no watermark.
+
+ROW  34 (137320 - 141220 ms):
+  VO   : badai[137320-137860] terbuka[137860-138500] saat[138500-139180] perintah[139180-139680] dakwah[139680-140011?] terang-terangan[140011-140720?] turun.[140720-141220]
+  IMG#34 : [BUKIT SAFA] Dawn wind sweeping over the rocky limestone ridge of Bukit Safa, dark clouds breaking over the valley of Makkah. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rough stone texture. No text, no watermark.
+
+ROW  35 (141880 - 145260 ms):
+  VO   : Nabi[141880-142280] naik[142280-142540] ke[142540-142541?] bukit[142540-142920] Safa[142920-143300] dan[143300-143740] menyerukan[143740-144320] kebenaran[144320-144800] kepada[144800-145260]
+  IMG#35 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [BUKIT SAFA] The Prophet standing atop the rocky summit of Bukit Safa, robes blowing gently in the morning wind, face covered by radiant glowing light, calling out with moral authority. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks. Face covered by radiant glowing light.
+
+ROW  36 (145260 - 147660 ms):
+  VO   : kaum[145260-145580] Quraisy[145580-146000] yang[146000-146340] beliau[146340-146600] panggil[146600-147000] berkumpul.[147000-147660]
+  IMG#36 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] [BUKIT SAFA] Crowd of Quraysh tribal elders and citizens looking up from the base of Bukit Safa, surprised and conflicted expressions, stylized 2D faces. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  37 (148330 - 152690 ms):
+  VO   : Setelah[148330-148810] itu,[148810-149110] beliau[149530-149730] juga[149730-149990] menyampaikan[149990-150570] risalahnya[150570-151310] kepada[151310-151550] kabilah-kabilah[151550-152450?] yang[152450-152690]
+  IMG#37 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet visiting pilgrim tents pitched outside Makkah, delivering the message to diverse kabilah elders, face covered by radiant glowing light. 2D illustrated style, faded ochres, muted olive greens, and charcoal blacks, dust grain. Face covered by radiant glowing light.
+
+ROW  38 (152690 - 154470 ms):
+  VO   : datang[152690-153050] ke[153050-153188?] Makkah[153188-153510?] pada[153510-153830] musim[153830-154190] haji.[154190-154470]
+  IMG#38 : Pilgrim caravans arriving in Makkah for the annual pilgrimage season, colorful camel saddles and diverse tribes gathering near tents in the valley. 2D woodcut style, faded ochres, muted olive greens, and charcoal blacks, gritty dust grain. No text, no watermark.
+
+ROW  39 (155600 - 160100 ms):
+  VO   : Bisa[155600-156040] jadi[156040-156340] kamu[156340-156840] bertanya-tanya,[156840-157080] kenapa[158160-158520] para[158520-158800] bangsawan[158800-159260] Quraisy[159260-159660] begitu[159660-160100]
+  IMG#39 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Stern faces of Quraysh oligarchs whispering angrily together in the shadows of an ancient stone archway, stylized 2D faces. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW  40 (160100 - 162220 ms):
+  VO   : panik[160100-160640] dan[160640-160820] marah[160820-161320] terhadap[161320-161700] seruan[161700-161960] ini?[161960-162220]
+  IMG#40 : A parchment roll unrolled on a wooden table displaying five ancient symbolic marks rendered as flowing wavy linear lines, no real text. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, aged parchment grain. No real letters, no Arabic script.
+
+ROW  41 (163330 - 167330 ms):
+  VO   : Para[163330-163610] sejarawan[163610-164110] menganalisis[164110-164690] setidaknya[164690-165370] lima[165370-165830] alasan[165830-166170] mendasar[166170-166790] di[166790-167050] balik[167050-167330]
+  IMG#41 : Historical scholars' study chamber with ancient parchment treatises and charcoal sketches on stone walls, analysis of early opposition. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, parchment texture. No text, no watermark.
+
+ROW  42 (167330 - 171750 ms):
+  VO   : penolakan[167330-167790] mereka.[167790-168050] Pertama,[168690-169250] mereka[169810-169970] menolak[169970-170370] keyakinan[170470-170910] akan[170910-171130] adanya[171130-171530] hari[171530-171750]
+  IMG#42 : Dry bleached desert skull and brittle bones half-buried in dry sand under a scorching sun, representing the Quraysh skepticism of bodily resurrection. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks, gritty texture. No text, no watermark.
+
+ROW  43 (171750 - 177030 ms):
+  VO   : kebangkitan[171750-172570] dan[172570-172750] pembalasan[172750-173290] amal.[173290-173770] Kedua,[174430-174810] sebagian[175290-175710] elit[175710-175930] Quraisy[175930-176450] menyamakan[176450-177030]
+  IMG#43 : Balance of divine justice illustrated symbolically in sand: an ethereal feather and stone weighing deed marks, rejected by skeptical pagan elders. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  44 (177030 - 179990 ms):
+  VO   : risalah[177030-177470] kenabian[177470-178070] dengan[178070-178410] perebutan[178410-178930] kekuasaan[178930-179390] politik.[179390-179990]
+  IMG#44 : Two rival tribal leaders arguing passionately over an empty ornate stone seat in a courtyard, symbolizing fear of political rivalry. 2D woodcut style, charcoal blacks, faded ochres, and muted olive greens, rough stone texture. No text, no watermark.
+
+ROW  45 (180470 - 184530 ms):
+  VO   : Mereka[180470-180850] khawatir[180850-181390] tunduk[181570-181890] pada[181890-182010] ajaran[182010-182350] ini[182350-182770] berarti[182770-183230] menyerahkan[183230-183810] kepemimpinan[183810-184530]
+  IMG#45 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Elitist Quraysh leaders looking toward the residential quarter of Bani Hasyim with suspicion and envy, stylized 2D illustrated faces. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  46 (184530 - 188780 ms):
+  VO   : Makkah[184530-184810] kepada[184810-185290] klan[185290-185650] Bani[185650-185910] Hasyim.[185910-186290] Ketiga,[187240-187680] faktor[188040-188300] ekonomi.[188300-188780]
+  IMG#46 : A stone banner carved with the emblem of Bani Hasyim, casting a long shadow across Makkah's council grounds, political tension. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, stone texture. No text, no watermark.
+
+ROW  47 (189480 - 192640 ms):
+  VO   : Menurut[189480-189800] tradisi,[189800-190200] Ka’bah[190520-190800] saat[190800-191000] itu[191000-191260] dikelilingi[191260-191840] tiga[191840-192090?] ratus[192090-192390?] enam[192390-192640?]
+  IMG#47 : [PRE-ISLAMIC MAKKAH & KA'BAH] High-angle view of the Ka'bah surrounded by carved basalt and sandstone idols, bustling with superstitious pilgrims making offerings. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW  48 (192640 - 196120 ms):
+  VO   : puluh[192640-192940?] berhala.[192940-193460] Kota[194000-194300] Makkah[194300-194560] hidup[194560-194940] dari[194940-195120] peziarah[195120-195660] yang[195660-195800] datang[195800-196120]
+  IMG#48 : Pilgrim caravans arriving at Makkah's stone gates, merchants greeting them eagerly with trays of food and incense, economic dependence on pilgrimage. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, dust grain. No text, no watermark.
+
+ROW  49 (196120 - 198880 ms):
+  VO   : ke[196120-196280] tempat[196280-196480] suci[196480-196720] itu,[196720-196980] dan[197460-197540] orang-orang[197540-198000?] yang[198000-198160] bergantung[198160-198660] pada[198660-198880]
+  IMG#49 : [PRE-ISLAMIC MAKKAH & KA'BAH] A pagan artisan in Makkah carving stone and wood idols in a workshop, surrounded by finished idol statues and chisels. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, gritty stone dust. No text, no watermark.
+
+ROW  50 (198880 - 203360 ms):
+  VO   : perdagangan[198880-199520] serta[199520-199920] pemujaan[199920-200300] berhala[200300-200840] takut[200840-201440] kehilangan[201440-201900] mata[201900-202260] pencaharian[202260-203000] jika[203280-203360]
+  IMG#50 : A merchant looking anxiously at an empty coin box beside rows of unsold stone idols, fear of economic loss. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, aged parchment texture. No text, no watermark.
+
+ROW  51 (203360 - 209300 ms):
+  VO   : penyembahan[203360-203820] berhala[203820-204240] dihentikan.[204240-204740] Keempat,[205720-206340] Islam[206780-207080] menegaskan[207080-207760] persamaan[207760-208220] derajat[208220-208740] manusia[208740-209300]
+  IMG#51 : Dark stone idol Hubal standing in shadow while morning sunlight illuminates the plain Ka'bah wall, visual contrast of fading paganism and rising truth. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  52 (209300 - 212720 ms):
+  VO   : di[209300-209436?] hadapan[209436-209800?] Tuhan,[209800-210180] hal[210800-211080] yang[211080-211220] sangat[211220-211500] dibenci[211500-211940] kaum[211940-212120] bangsawan[212120-212720]
+  IMG#52 : A noble master in fine garments and an enslaved worker in tattered cloth standing side by side under sunlight, an unbroken horizontal line of equality. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW  53 (213000 - 216120 ms):
+  VO   : karena[213000-213160] meruntuhkan[213160-213840] status[213840-214120?] istimewa[214120-214680] mereka[214680-215060] atas[215060-215540] para[215540-215760] budak.[215760-216120]
+  IMG#53 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Aristocratic elder scowling in disgust as he turns his back on an egalitarian gathering, clutching his ornate robe. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  54 (216780 - 220120 ms):
+  VO   : Dan[216780-216980] kelima,[216980-217480] fanatisme[217860-218400] terhadap[218400-219040] tradisi[219040-219460] nenek[219460-219780] moyang.[219780-220120]
+  IMG#54 : A row of weathered stone ancestor statues carved into a desert cliff, dusty and eroded by winds, representing rigid devotion to ancestral traditions. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, gritty rock texture. No text, no watermark.
+
+ROW  55 (221380 - 223840 ms):
+  VO   : Ketika[221380-221800] kata-kata[221800-222240?] tidak[222240-222480] mempan[222480-222940] membendung[222940-223400] dakwah,[223400-223840]
+  IMG#55 : A heavy iron whip and cruel wooden shackles lying on blazing hot desert sand, harsh noon sun casting sharp dark shadows. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty sand texture. No text, no watermark.
+
+ROW  56 (224300 - 226620 ms):
+  VO   : kaum[224300-224600] Quraisy[224600-224980] mulai[224980-225260] memakai[225260-225640] kekerasan[225640-226100] fisik.[226100-226620]
+  IMG#56 : Quraysh tormentors brandishing iron rods and whips under the scorching midday sun of Makkah, aggressive stances in desert dust, stylized 2D faces. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  57 (227280 - 230800 ms):
+  VO   : Bilal[227280-227600] dicambuk[227600-228200] dan[228200-228360] ditindih[228520-228940] batu[228940-229180] panas[229180-229560] di[229560-229740] terik[229740-230050?] gurun[230050-230360?] pasir.[230360-230800]
+  IMG#57 : [BILAL BIN RABAH] Bilal lying steadfast on scorching sun-bleached desert rocks, a massive heavy black stone placed upon his chest, head tilted heavenward in devotion, face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW  58 (230800 - 235920 ms):
+  VO   : Keluarga[230800-231820] Yasir[231820-232220] disiksa[232220-232840?] hingga[232840-233220] Sumayyah[233220-233680] dan[233680-234020] suaminya,[234020-234600] Yasir,[234600-235380] gugur.[235380-235920]
+  IMG#58 : [SUMAYYAH & YASIR] Elder Yasir and his noble wife Sumayyah standing bound to wooden stakes in the desert heat, dignified steadfast gazes, faces covered by radiant glowing light, glowing light steady. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW  59 (236460 - 239360 ms):
+  VO   : Sumayyah[236460-237100] dikenal[237100-237620] sebagai[237620-237860] syahid[237860-238220] pertama[238220-238620] dalam[238620-238960] Islam.[238960-239360]
+  IMG#59 : [SUMAYYAH & YASIR] Rays of serene golden heavenly light breaking through the dusty sky to illuminate the fallen noble figure of Sumayyah, symbol of the first martyr of Islam, face covered by radiant glowing light. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks. Face covered by radiant glowing light.
+
+ROW  60 (240520 - 243940 ms):
+  VO   : Melihat[240520-240860] pengikutnya[240860-241440] yang[241440-241620] lemah[241620-241980] terus[241980-242280] disiksa[242280-242944?] tanpa[242944-243442?] henti,[243442-243940?]
+  IMG#60 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet looking down with deep sorrow and compassion upon the injured early believers, hands gently offering comfort, face covered by radiant glowing light. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW  61 (243940 - 248460 ms):
+  VO   : Nabi[243940-244160] mengambil[244160-244580] langkah[244580-244940] penyelamatan.[244940-245520] Sebagian[246260-246640] sahabat[246640-247080] diperintahkan[247080-247680] menyeberangi[247680-248200] Laut[248200-248460]
+  IMG#61 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The Prophet instructing a group of travel-ready companions at night, pointing toward the western sea route, the Prophet's face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW  62 (248460 - 250880 ms):
+  VO   : Merah[248460-248900] menuju[248900-249260] negeri[249260-249580] Habasyah[249580-250000] di[250000-250480] Ethiopia.[250480-250880]
+  IMG#62 : A wooden sailing dhow boat with white sails crossing the dark choppy waters of the Red Sea at night under a canopy of stars toward the African coast. 2D woodcut style, charcoal blacks, muted olive greens, and sun-bleached whites, gritty parchment texture. No text, no watermark.
+
+ROW  63 (250880 - 254540 ms):
+  VO   : Di[250880-251820?] sana[251820-252140] mereka[252140-252460] mendapat[252460-252800] perlindungan[252800-253500] dari[253500-253660] seorang[253660-253900] raja[253900-254160] Kristen[254160-254540]
+  IMG#63 : [KING NAJASYI OF HABASYAH] King Najasyi seated upon a carved dark wood throne in the stone palace of Axum, crown and regal mantle, listening with compassion, stylized 2D face. 2D illustrated style, muted olive greens, charcoal blacks, and faded ochres, stone texture. No text, no watermark.
+
+ROW  64 (254540 - 258740 ms):
+  VO   : yang[254540-254800] adil[254800-255300] bernama[255300-255680] Najasyi.[255680-256220] Inilah[256220-257380?] salah[257380-257560] satu[257560-257820] peristiwa[257820-258300] suaka[258300-258740]
+  IMG#64 : [COMPANIONS (SAHABAT)] [KING NAJASYI OF HABASYAH] Muslim refugees standing with dignified humility before the Christian king, presenting an open scroll with gentle wavy linear lines (no real text), faces covered by radiant glowing light. 2D woodcut style, sun-bleached whites, charcoal blacks, and faded ochres. Faces covered by radiant glowing light.
+
+ROW  65 (258740 - 261820 ms):
+  VO   : lintas[258740-259240] benua[259240-259640] paling[259640-260180] awal[260180-260660] dalam[260660-260960] sejarah[260960-261380] Islam.[261380-261820]
+  IMG#65 : Ancient map on textured aged parchment showing the maritime route from Makkah, across the Red Sea, into the horn of Africa and Axum, marked with wavy lines. 2D illustrated style, faded ochres, charcoal blacks, and muted olive greens. No real letters, no Arabic script.
+
+ROW  66 (262810 - 265570 ms):
+  VO   : Di[262810-263110] Makkah,[263110-263330] para[263330-263730] pemuka[263730-264010] Quraisy[264010-264370] semakin[264370-264850] putus[264850-265150] asa.[265150-265570]
+  IMG#66 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Frustrated Quraysh elders pacing nervously in a stone courtyard, clenching their fists in deadlock, stylized 2D illustrated faces. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  67 (266170 - 271270 ms):
+  VO   : Menurut[266170-266630] riwayat,[266630-267310] mereka[267950-268150] mencoba[268150-268670] menawarkan[268670-269250] kepada[269250-269650] Nabi[269650-270110] tumpukan[270110-270870] harta,[270870-271270]
+  IMG#67 : Chests overflowing with gold coins, ornate silver goblets, and rich silk fabrics brought as a bribe, sitting on a stone floor before leaders. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, rough texture. No text, no watermark.
+
+ROW  68 (271970 - 277190 ms):
+  VO   : kedudukan[271970-272650] pemimpin[272650-273190] kota,[273190-273550] hingga[273550-274490] pernikahan[274490-275110] dengan[275110-275410] wanita[275410-275890] yang[275890-276170] paling[276170-276510] diinginkan.[276510-277190]
+  IMG#68 : An ornate carved wooden throne and royal robes set beside bridal silk canopies, offered as worldly dominion and rejected. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, aged parchment texture. No text, no watermark.
+
+ROW  69 (277880 - 282150 ms):
+  VO   : Semua[277880-278380] tawaran[278380-278760] itu[278760-279040] ditolak.[279040-279600] Karena[280390-280730] jalan[280730-281090] bujukan[281090-281530] gagal,[281530-282150]
+  IMG#69 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing resolute, hand gently raised in firm refusal of worldly offers, face covered by radiant glowing light, glowing light steady and noble. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks. Face covered by radiant glowing light.
+
+ROW  70 (282730 - 287450 ms):
+  VO   : para[282730-283090] elit[283090-283350] Quraisy[283350-283730] bersatu[283730-284410] menandatangani[284410-285430?] piagam[285430-286030] pemboikotan[286030-286690] ekonomi[286690-287210] dan[287210-287450]
+  IMG#70 : [DARUN NADWAH] [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Quraysh elders gathered around an ominous parchment contract on a stone table in Darun Nadwah, dipping quill into ink to sign the boycott. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No real text, flowing wavy linear lines.
+
+ROW  71 (287450 - 290790 ms):
+  VO   : sosial[287450-288110] terhadap[288110-288610] klan[288610-288850] Bani[288850-289110] Hasyim[289110-289550] dan[289550-289890] Bani[289890-290210] Muthalib.[290210-290790]
+  IMG#71 : A heavy iron seal stamped in black wax on the boycott scroll, tribal seals of all major Quraysh clans binding the blockade against Bani Hasyim. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough texture. No real letters.
+
+ROW  72 (291760 - 296220 ms):
+  VO   : Mekanisme[291760-292160] pemboikotan[292160-292880] ini[292880-293140] bekerja[293140-293740] ibarat[293740-294420] jerat[294420-294720] leher[294720-295020] ekonomi[295020-295500] yang[295500-295660] mematikan.[295660-296220]
+  IMG#72 : A heavy hemp rope forming a tight noose around an empty grain basket on cracked earth, visual metaphor for the choking economic blockade. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty dust texture. No text, no watermark.
+
+ROW  73 (297160 - 301080 ms):
+  VO   : Selama[297160-297460] kurang[297460-297780] lebih[297780-297980] tiga[297980-298340] tahun,[298340-298720] klan[299540-299700] pendukung[299700-300040] Nabi[300040-300340] terkurung[300340-301080]
+  IMG#73 : Narrow rocky gorge of Syi'b Abi Thalib surrounded by steep barren cliffs, harsh shadows trapping the quarantined clan, isolated and desolate. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty rock texture. No text, no watermark.
+
+ROW  74 (301080 - 303420 ms):
+  VO   : di[301080-301300] sebuah[301300-301640] lembah[301640-301940] sempit[301940-302520] di[302520-302760] pinggiran[302760-303100] Makkah.[303100-303420]
+  IMG#74 : A small makeshift shelter of woven palm mats wedged between steep rocky cliffs of the ravine, windswept dust swirling in the valley. 2D woodcut style, charcoal blacks, faded ochres, and muted olive greens, gritty texture. No text, no watermark.
+
+ROW  75 (304240 - 307180 ms):
+  VO   : Tidak[304240-304560] ada[304560-304780] pasokan[304780-305200] makanan[305200-305580] yang[305580-305840] boleh[305840-306060] dijual[306060-306500] kepada[306500-306780] mereka,[306780-307180]
+  IMG#75 : Empty clay storage jars and overturned flour bins sitting dry inside a tent, dust blowing across bare earthen floor. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, rough ceramic grain. No text, no watermark.
+
+ROW  76 (307880 - 311620 ms):
+  VO   : tidak[307880-308200] ada[308200-308440] pernikahan[308440-308980] yang[308980-309240] diizinkan,[309380-309940] dan[309940-310660] tidak[310660-310880] ada[310880-311180] hubungan[311180-311620]
+  IMG#76 : A merchant caravan turning away at the valley mouth, refused permission by Quraysh guards to trade with the besieged clan. 2D woodcut style, charcoal blacks, faded ochres, and muted olive greens, gritty dust texture. No text, no watermark.
+
+ROW  77 (311620 - 316720 ms):
+  VO   : dagang[311620-312000] yang[312000-312200] diperbolehkan.[312200-312940] Tangis[313760-314200] anak-anak[314200-314720?] kecil[314720-315120] yang[315120-315300] kelaparan[315300-315900] terdengar[315900-316720]
+  IMG#77 : A mother comforting her hungry weeping children inside a small linen tent in the quarantined valley, somber dim lighting. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, aged parchment grain. No text, no watermark.
+
+ROW  78 (316720 - 318980 ms):
+  VO   : menyayat[316720-317240] hati[317240-317640] hingga[317640-318060] ke[318060-318220] pemukiman[318220-318640] Makkah.[318640-318980]
+  IMG#78 : Distant view of Makkah's illuminated stone houses while echoes of weeping from the dark barren valley fade into the night wind. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW  79 (320070 - 323670 ms):
+  VO   : Mereka[320070-320270] terpaksa[320270-320870] memakan[320870-321310] dedaunan[321310-321850] kering[321850-322130] dan[322130-322610] potongan[322610-323090] kulit[323090-323370] hewan[323370-323670]
+  IMG#79 : A weathered clay pot boiling dried desert leaves and boiled leather strips over a small smoky fire, desperate survival in the blockade. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW  80 (324250 - 328440 ms):
+  VO   : sekadar[324250-324670] untuk[324670-324950] bertahan[324950-325310] hidup.[325310-325690] Dan[326480-326680] di[326680-326820] sinilah[326820-327660?] titik[327660-327920] terendah[327920-328440]
+  IMG#80 : A solitary dry leaf drifting across cracked desert stone into a dry watercourse, symbol of extreme austerity and endurance. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, rock texture. No text, no watermark.
+
+ROW  81 (328440 - 330820 ms):
+  VO   : dari[328440-328720] seluruh[328720-329200] perjuangan[329200-329700] di[329700-329980] Makkah[329980-330280] terjadi.[330280-330820]
+  IMG#81 : A solitary leafless desert shrub clinging to life on a cracked stone cliff under a dark gray sky, metaphor for the lowest point of struggle. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rock grain. No text, no watermark.
+
+ROW  82 (331650 - 335950 ms):
+  VO   : Tak[331650-331830] lama[331830-332170] setelah[332170-332590] boikot[332590-332950] berakhir,[332950-333530] dua[334250-334530] benteng[334530-334990] pelindung[334990-335410] terkuat[335410-335950]
+  IMG#82 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] The eaten-away boycott parchment hanging inside Ka'bah, decayed by termites except for sacred wavy linear lines at the top. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, parchment texture. No real letters.
+
+ROW  83 (335950 - 341000 ms):
+  VO   : Nabi[335950-336310] wafat[336310-336950] dalam[336950-337410] waktu[337410-337730] berdekatan.[337730-338330] Paman[338960-339480] beliau,[339480-339900] Abu[340380-340660] Thalib,[340660-341000?]
+  IMG#83 : An aged Bedouin elder's woolen cloak and wooden walking staff lying resting by a stone hearth, quiet solemnity in an empty room. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough plaster texture. No text, no watermark.
+
+ROW  84 (341000 - 344960 ms):
+  VO   : yang[341000-341540] selama[341540-341940] puluhan[341940-342440] tahun[342440-342700] menjadi[342700-343040] pelindung[343040-343440] dari[343440-343800] ancaman[343800-344220] klan[344220-344505?] Quraisy,[344505-344960?]
+  IMG#84 : Silhouetted figure of an elder protector standing between a gathering mob and a doorway, now fading into evening mist, symbol of Abu Thalib's passing. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  85 (344960 - 351300 ms):
+  VO   : meninggal[344960-345780] dunia.[345780-346200] Selang[346980-347440] beberapa[347440-347800] waktu[347800-348080] kemudian,[348080-348600] sang[348600-349118?] istri[349118-349740?] tercinta[349740-350220] Khadijah,[350920-351300]
+  IMG#85 : A desert graveyard at twilight with solitary stone markers under a melancholy violet-gray sky, solemn winds blowing sand particles. 2D illustrated style, charcoal blacks, faded ochres, and muted olive greens, gritty sand texture. No text, no watermark.
+
+ROW  86 (351840 - 356140 ms):
+  VO   : tempat[351840-352200] beliau[352200-352460] bersandar[352460-353140] dan[353140-353600] yang[353600-353740] mengorbankan[353740-354380] hartanya,[354380-354860] turut[355480-355660] berpulang.[355660-356140]
+  IMG#86 : A modest dark veil and folded linen mantle resting quietly on a wooden chest in soft evening light, symbolizing the passing of Khadijah, atmosphere of profound mourning. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rough wood grain. No photorealism, no text, no watermark.
+
+ROW  87 (356870 - 360750 ms):
+  VO   : Tahun[356870-357250] kepedihan[357250-357650] ini[357650-357950] dicatat[357950-358430] dalam[358430-358690] sejarah[358690-359310] sebagai[359310-359830] Amul[359830-360290] Huzni,[360290-360750]
+  IMG#87 : A dark charcoal storm cloud hovering over the mountains of Makkah, rainless and heavy with sorrow, Year of Sorrow (Amul Huzni). 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, aged parchment texture. No text, no watermark.
+
+ROW  88 (360750 - 365170 ms):
+  VO   : atau[360750-361290] Tahun[361290-361730] Duka[361730-361970] Cita.[361970-362310] Tanpa[362910-363370] perlindungan[363370-363970] Abu[363970-364250] Thalib[364250-364510?] dan[364510-364690] Khadijah,[364690-365170]
+  IMG#88 : [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Emboldened Quraysh adversaries shouting insults in Makkah's streets, throwing dust toward believers now that guardians have passed, stylized 2D faces. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW  89 (365710 - 370330 ms):
+  VO   : perlakuan[365710-366350] kaum[366350-366550] Quraisy[366550-366970?] semakin[366970-367650] keras.[367650-368090] Nabi[368690-369110] mencoba[369110-369550] mencari[369550-369990] basis[369990-370330]
+  IMG#89 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet walking along a winding mountain trail toward the highland city of Thaif, solitary figure in sun-bleached linen robes, face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and muted olive greens. Face covered by radiant glowing light.
+
+ROW  90 (370330 - 373510 ms):
+  VO   : perlindungan[370330-370970] baru[370970-371270] ke[371270-371670?] kota[371670-371950] pegunungan[371950-372510] Thaif.[372510-373510?]
+  IMG#90 : Stone gateway of the mountain city of Thaif, fruit orchards in the background, hostile townspeople gathering at the walls. 2D woodcut style, muted olive greens, faded ochres, and charcoal blacks, gritty stone texture. No text, no watermark.
+
+ROW  91 (373510 - 378270 ms):
+  VO   : Namun[373510-373850] harapan[373850-374170] itu[374170-374550] berbuah[374550-375270] luka.[375270-375530] Penduduk[376330-376850] Thaif[376850-377590?] justru[377590-377830] menolak[377830-378270]
+  IMG#91 : Hostile crowd in Thaif lining the dusty road, scowling and jeering from rooftops and doorways, stylized 2D illustrated faces. 2D woodcut style, charcoal blacks, faded ochres, and muted olive greens, dust grain. No text, no watermark.
+
+ROW  92 (378270 - 381890 ms):
+  VO   : beliau[378270-378630] dengan[378630-378970] caci[378970-379330] maki[379330-379810] dan[379810-380070?] lemparan[380070-380570] batu[380570-380970] hingga[380970-381610] tubuh[381610-381890]
+  IMG#92 : Rough stones flying through the air and scattered on the dusty road outside Thaif, aggressive hostile crowd in shadows, 2D illustrated style. Charcoal blacks, faded ochres, and sun-bleached whites, dust grain. No text, no watermark.
+
+ROW  93 (381890 - 385770 ms):
+  VO   : beliau[381890-382190] terluka.[382190-382650] Di[383530-383630] tengah[383630-384010] kepedihan[384010-384510] dan[384510-384750] kebuntuan[384750-385270] inilah,[385270-385770]
+  IMG#93 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet resting beneath the shade of an orchard grape arbor outside Thaif, wounded feet in sand, hands raised in humble prayer, face covered by radiant glowing light. 2D woodcut style, muted olive greens, sun-bleached whites, and charcoal blacks. Face covered by radiant glowing light.
+
+ROW  94 (386350 - 391010 ms):
+  VO   : fajar[386350-386730] pertolongan[386730-387370] justru[387370-387830] terbit[387830-388210] dari[388210-388750] arah[388750-389170] yang[389170-389310] tak[389310-389550] disangka-sangka.[389550-391010?]
+  IMG#94 : A single beam of warm dawn light piercing through heavy storm clouds over the desert mountains, symbolizing unexpected hope. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks, aged parchment texture. No text, no watermark.
+
+ROW  95 (391010 - 395630 ms):
+  VO   : Setiap[391010-391710] musim[391710-391950] haji[391950-392230] tiba,[392230-392570] suku-suku[392570-393730?] dari[393730-393950] penjuru[393950-394370] jazirah[394370-395050] berdatangan[395050-395630]
+  IMG#95 : Pilgrim encampments in Mina near Makkah under a starry night sky, small campfires flickering beside rocky hillsides. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty rock texture. No text, no watermark.
+
+ROW  96 (395630 - 398510 ms):
+  VO   : ke[395630-395631?] Makkah.[395630-396190] Pada[396190-396772?] tahun[396772-397470?] kesebelas[397470-397810] kenabian,[397810-398510]
+  IMG#96 : A solitary camel rider arriving in the valley of Mina at night, guided by distant campfires among rugged boulders. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty dust texture. No text, no watermark.
+
+ROW  97 (399110 - 402350 ms):
+  VO   : Nabi[399110-399310] menemui[399310-399750] enam[399750-400050] orang[400050-400370] pria[400370-400770] dari[400990-401090] suku[401090-401350] Khazraj[401350-401750] yang[401750-402350]
+  IMG#97 : [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The Prophet meeting six travelers from the Khazraj tribe around a secluded campfire in Mina, earnest dialogue, the Prophet's face covered by radiant glowing light. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW  98 (402350 - 407010 ms):
+  VO   : datang[402350-402770] dari[402770-403070] kota[403070-403330] Yatsrib.[403330-404150?] Yatsrib[404150-404970?] adalah[404970-405350] lembah[405350-405910] pertanian[405910-406450] subur[406450-407010]
+  IMG#98 : [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Date palm orchards of Yatsrib with ancient stone irrigation canals, shadowed by lingering memories of civil war between Aus and Khazraj. 2D illustrated style, muted olive greens, charcoal blacks, and faded ochres, gritty texture. No text, no watermark.
+
+ROW  99 (407010 - 411170 ms):
+  VO   : yang[407010-407210] sedang[407210-407530] dilanda[407530-408010] perselisihan[408010-408830] dan[408830-409170] perang[409170-409571?] saudara[409571-410030?] menahun[410030-410650] antara[410910-411170]
+  IMG#99 : Two rival tribal banners of Aus and Khazraj planted in an uncultivated field in Yatsrib, broken arrow shafts between them, scars of the Battle of Bu'ath. 2D woodcut style, charcoal blacks, faded ochres, and muted olive greens. No text, no watermark.
+
+ROW 100 (411170 - 415740 ms):
+  VO   : suku[411170-411630] Aus[411630-411850] dan[411850-412190] Khazraj.[412190-412710] Warga[413620-414000] Yatsrib[414000-414640?] kerap[414640-414940] mendengar[414940-415480] dari[415480-415740]
+  IMG#100: A gathering of Yatsrib citizens listening attentively to elders in a palm grove courtyard, discussing hopes for peace and unity. 2D illustrated style, muted olive greens, faded ochres, and charcoal blacks, dust grain. No text, no watermark.
+
+ROW 101 (415740 - 418920 ms):
+  VO   : tetangga[415740-416140] Yahudi[416140-416500] mereka[416500-416820] tentang[416820-417300] akan[417300-417660] datangnya[417660-418240] seorang[418240-418560] nabi.[418560-418920]
+  IMG#101: Jewish community members in traditional scholarly robes conversing outside a stone study house in Yatsrib, sharing ancient prophecy scrolls with wavy linear lines (no real text). 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No real letters.
+
+ROW 102 (419560 - 422620 ms):
+  VO   : Begitu[419560-420120] mendengar[420120-420560] risalah[420720-421000] yang[421000-421360] disampaikan[421360-421920] Nabi[421920-422180] Muhammad,[422180-422620]
+  IMG#102: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet reciting divine guidance softly by the fire, words like cool rain upon thirsty soil, face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 103 (423260 - 425780 ms):
+  VO   : keenam[423260-423480] orang[423480-423760] itu[423760-424100] menyatakan[424100-424720] keislaman[424720-425460] mereka.[425460-425780]
+  IMG#103: [COMPANIONS (SAHABAT)] The six Khazraj men listening with brightened, receptive expressions around the fire, nodding in sincere acceptance of faith, faces covered by radiant glowing light. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW 104 (426660 - 430500 ms):
+  VO   : Pertemuan[426660-427220] kecil[427220-427540] itu[427540-427880] menggelinding[427880-428760] menjadi[428760-429000] arus[429000-429420] sejarah[429420-429940] yang[429940-430160] besar.[430160-430500]
+  IMG#104: A small mountain stream trickling between rocks, joining with another stream to form a strong river, metaphor for historical momentum. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites, water and rock texture. No text, no watermark.
+
+ROW 105 (430500 - 434500 ms):
+  VO   : Pada[430500-431400?] tahun[431400-431680] berikutnya,[431680-432320] berlangsung[432600-433080] Bai'at[433080-433600] Aqabah[433600-434080] Pertama.[434080-434500]
+  IMG#105: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The First Pledge at Aqabah: twelve representatives from Yatsrib clasping hands with the Prophet under moonlit rocky cliffs, the Prophet's face covered by radiant glowing light. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 106 (434500 - 439200 ms):
+  VO   : Dua[434500-434964?] belas[434964-435660?] perwakilan[435660-436260] Yatsrib[436260-436820?] berikrar[436820-437340] memegang[437340-437960] nilai-nilai[437960-438547?] tauhid[438547-438920?] dan[438920-439200]
+  IMG#106: Hands of the believers raised in solemn oath, casting away stolen idol trinkets into the sand, symbol of moral commitment. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty dust texture. No text, no watermark.
+
+ROW 107 (439200 - 443750 ms):
+  VO   : moralitas[439200-439740] luhur.[439740-440180] Setahun[440930-441430] berselang,[441430-441970] datang[442330-442590] rombongan[442590-443110] yang[443110-443230] jauh[443230-443610] lebih[443610-443750]
+  IMG#107: A caravan of pilgrims from Yatsrib journeying south under bright skies, among them seventy-five eager hearts seeking guidance. 2D woodcut style, faded ochres, muted olive greens, and charcoal blacks, dust grain. No text, no watermark.
+
+ROW 108 (443750 - 447610 ms):
+  VO   : besar[443750-444110] dalam[444570-444690] Bai'at[444690-445210] Aqabah[445210-445650] Kedua.[445650-446050] Sekitar[446050-447030] tujuh[447030-447235?] puluh[447235-447439?] lima[447439-447610?]
+  IMG#108: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The Second Pledge at Aqabah: seventy-five men and women from Yatsrib gathered in secrecy under the shadows of Aqabah hill, profound solemnity, the Prophet's face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 109 (447610 - 451370 ms):
+  VO   : warga[447610-448250] Yatsrib[448250-448810?] mengundang[448810-449230] Nabi[449230-449510] ke[449510-449690] kota[449690-449890] mereka[449890-450270] dan[450270-450810] bersumpah[450810-451370]
+  IMG#109: [COMPANIONS (SAHABAT)] Tribal leaders of Aus and Khazraj pledging allegiance side by side, holding their hands over their hearts in resolute loyalty, faces covered by radiant glowing light. 2D woodcut style, charcoal blacks, faded ochres, and muted olive greens. Faces covered by radiant glowing light.
+
+ROW 110 (451370 - 455690 ms):
+  VO   : setia[451370-451770] untuk[451770-452110] melindungi[452110-452610] beliau[452610-452950] selayaknya[452950-453990] melindungi[453990-454610] keluarga[454610-455050] mereka[455050-455270] sendiri.[455270-455690]
+  IMG#110: Interlocking arms of tribal warriors forming a protective circle around an open sanctuary flame, symbol of defensive alliance. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough texture. No text, no watermark.
+
+ROW 111 (456470 - 460350 ms):
+  VO   : Melihat[456470-456870] pintu[456870-457230] baru[457230-457470] telah[457470-457770] terbuka,[457770-458150] Nabi[458790-458950] memerintahkan[458950-459630] para[459630-459850] pengikutnya[459850-460350]
+  IMG#111: A heavy wooden door swinging wide open to reveal a bright desert sunrise, visual symbol of a new era of opportunity. 2D woodcut style, sun-bleached whites, faded ochres, and charcoal blacks, wood grain texture. No text, no watermark.
+
+ROW 112 (460350 - 462950 ms):
+  VO   : di[460350-460490] Makkah[460490-460770?] untuk[460770-461130] berhijrah[461130-461710] ke[461710-461890] Yatsrib.[461890-462950?]
+  IMG#112: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet in quiet counsel with close companions, giving the discreet directive to migrate toward Yatsrib, face covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 113 (462950 - 467990 ms):
+  VO   : Mereka[462950-463210] berangkat[463210-463710] secara[463710-464070] bertahap[464070-464610] dan[464610-464790] diam-diam,[464790-465370?] berkelompok[465370-466250] kecil[466250-466590] maupun[466870-467030] sendiri-sendiri,[467030-467990?]
+  IMG#113: Small groups of Muslim families stealthily departing Makkah by night, leading pack animals with quiet footsteps through desert paths. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty sand grain. No text, no watermark.
+
+ROW 114 (467990 - 471490 ms):
+  VO   : meninggalkan[467990-468750] rumah,[468750-469010] tanah,[469610-469990] dan[469990-470430] harta[470430-470730] mereka[470730-471070] di[471070-471250] Makkah.[471250-471490?]
+  IMG#114: Abandoned stone courtyards in Makkah with locked doors and quiet alleys, left behind by those who migrated for their faith. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough stone texture. No text, no watermark.
+
+ROW 115 (471490 - 475910 ms):
+  VO   : Hingga[471490-472690] akhirnya,[472690-473270] sebagian[473570-473910] besar[473910-474130] kaum[474130-474430] Muslim[474430-474750] Makkah[474750-475050?] sudah[475050-475510] berada[475510-475910]
+  IMG#115: [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Early migrant families arriving in the welcoming green oasis of Yatsrib, greeted warmly by local inhabitants at the city edge. 2D woodcut style, muted olive greens, faded ochres, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW 116 (475910 - 480120 ms):
+  VO   : di[475910-476150] Yatsrib.[476150-477540?] Menyadari[477540-477960] kota[477960-478180] Yatsrib[478180-478700?] akan[478700-478880] menjadi[478880-479120] pangkalan[479120-479640] kekuatan[479640-480120]
+  IMG#116: Panoramic view of Yatsrib oasis bustling with new settlements and renewed vitality as the majority of emigrants arrive. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites, gritty landscape. No text, no watermark.
+
+ROW 117 (480120 - 483260 ms):
+  VO   : baru[480120-480500] bagi[480500-480800] umat[480800-481020] Islam,[481020-481320] para[481840-481980] pemimpin[481980-482460] Quraisy[482460-482800?] panik.[482800-483260]
+  IMG#117: [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Shocked and infuriated Quraysh nobles watching empty Muslim quarters in Makkah, realizing a new base has risen in Yatsrib. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW 118 (483260 - 488160 ms):
+  VO   : Pada[483260-483805?] tahun[483805-484460?] 622[484460-485480] Masehi,[485860-486140] mereka[486140-486660] berkumpul[486660-487400] di[487400-487540] balai[487540-487820] Darun[487820-488160]
+  IMG#118: [DARUN NADWAH] Heavy stone facade of Darun Nadwah in Makkah under ominous dusk clouds in 622 CE, sinister torches burning outside the pillars. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW 119 (488160 - 492680 ms):
+  VO   : Nadwah[488160-488560?] dan[488560-488980] menyusun[488980-489460] rencana[489460-489900] pamungkas:[489900-490580] mengepung[491260-491720] rumah[491720-491920] Nabi[491920-492440] dengan[492440-492680]
+  IMG#119: [DARUN NADWAH] [QURAYSH TRIBAL ELDERS & DARUN NADWAH] High-tension council in Darun Nadwah, Quraysh elders shouting in panic, stone benches crowded with agitated nobles, plotting the assassination. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW 120 (492680 - 496240 ms):
+  VO   : pemuda-pemuda[492680-493460?] dari[493460-493680] berbagai[493680-494080] klan[494080-494480] agar[494900-495120] pembunuhan[495120-495520] itu[495520-495780] tidak[495780-496020] bisa[496020-496240]
+  IMG#120: [DARUN NADWAH] A ring of young Quraysh warriors from diverse clans holding iron swords around a central table, plotting collective assassination. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty metal texture. No text, no watermark.
+
+ROW 121 (496240 - 498160 ms):
+  VO   : dituntut[496240-496680] balas[496680-497040] oleh[497040-497200] satu[497200-497580] klan[497580-497840] saja,[497840-498160]
+  IMG#121: A blood feud banner pole in sand, visual metaphor showing that distributing the assassination among all clans prevents single-clan retaliation. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW 122 (498640 - 503100 ms):
+  VO   : lalu[498640-498900] membunuh[498900-499400] beliau[499400-499720] di[499720-499900] tempat[499900-499901?] tidurnya.[499900-500520] Namun[500620-501880] rencana[501880-502360] itu[502360-502620] gagal.[502620-503100]
+  IMG#122: Exterior of the Prophet's humble mudbrick house in Makkah surrounded by shadowy armed figures with drawn swords under a starry midnight sky. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough clay grain. No text, no watermark.
+
+ROW 123 (503740 - 506180 ms):
+  VO   : Ali[503740-504020] bin[504020-504223?] Abi[504223-504425?] Thalib[504425-504780?] tidur[504780-505260] di[505260-505400] ranjang[505400-505740] Nabi[505740-505980] untuk[505980-506180]
+  IMG#123: [ALI BIN ABI THALIB] Young Ali lying calmly on the Prophet's bed covered by a green Yamani cloak, serene courage, face covered by radiant glowing light, glowing light steady. 2D woodcut style, charcoal blacks, muted olive greens, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 124 (506180 - 509960 ms):
+  VO   : mengecoh[506180-506720] para[506720-507020] pengepung,[507020-507500] sementara[507960-508400] Nabi[508400-508780] dan[508780-509000] Abu[509000-509260] Bakar[509260-509540] ash-Shiddiq[509540-509960]
+  IMG#124: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [ABU BAKR ASH-SHIDDIQ] [DESERT HIJRAH ROUTE & GUA TSUR] The Prophet and Abu Bakar slipping quietly past sleeping guards through desert shadows, faces covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW 125 (509960 - 514340 ms):
+  VO   : berhasil[509960-510740] keluar[510880-511200] dari[511200-511400] kepungan[511400-511760] malam,[511760-512100] bersembunyi[512100-513120] di[513120-513360] Gua[513360-513796?] Tsur,[513796-514340?]
+  IMG#125: [DESERT HIJRAH ROUTE & GUA TSUR] Entrance of Gua Tsur concealed by thorny acacia bushes and spiders' webs on a rugged cliff face under the moon. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty rock texture. No text, no watermark.
+
+ROW 126 (514340 - 518740 ms):
+  VO   : lalu[514340-514520] melintasi[514520-515000] gurun[515000-515460] menuju[515460-515900] Yatsrib.[515900-517160?] Sebagian[517160-517520] orang[517520-517720] mengira[517720-518140] hijrah[518140-518740]
+  IMG#126: [DESERT HIJRAH ROUTE & GUA TSUR] Two riders on camels navigating steep sand dunes under a vast twilight desert sky, moving steadily northward toward Yatsrib. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, dust texture. No text, no watermark.
+
+ROW 127 (518740 - 523360 ms):
+  VO   : hanyalah[518740-519380] pelarian[519380-519880] dari[519880-520140] ancaman[520140-520520] musuh.[520520-520940] Padahal[521520-522100] fakta[522100-522500] sejarah[522500-522880] membuktikan[522880-523360]
+  IMG#127: Soldiers inspecting an empty military campsite in frustration, swords idle, visual metaphor for military assumptions. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW 128 (523360 - 526840 ms):
+  VO   : hal[523360-523660] yang[523660-523900] jauh[523900-524320] lebih[524320-524500] besar.[524500-524800] Para[524800-525800] pakar[525800-526060] sejarah[526060-526460] mencatat[526460-526840]
+  IMG#128: A pair of balances weighing worldly conquest against moral enlightenment, tipped toward radiant knowledge. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, stone texture. No text, no watermark.
+
+ROW 129 (526840 - 531500 ms):
+  VO   : bahwa[526840-527300] hijrah[527300-527920] adalah[527920-528300] transformasi[528300-529140] sosial[529140-529540] paling[529540-529840] mendasar[529840-530500] dalam[530500-530720] sejarah[530720-531180] dunia.[531180-531500]
+  IMG#129: An ancient leather-bound chronicle book resting open on an carved wooden pedestal, soft morning light illuminating its aged pages, wavy linear lines (no real text). 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites. No real letters.
+
+ROW 130 (532160 - 536800 ms):
+  VO   : Hijrah[532160-532660] bukan[532660-533140] sekadar[533140-533640] berpindah[533640-534180] tempat[534180-534600] sejauh[535020-535460] ratusan[535460-535860] kilometer[535860-536620] di[536620-536800]
+  IMG#130: A stylized historical map showing migration paths from Makkah to Yatsrib glowing with gentle warm light across desert sands. 2D illustrated style, faded ochres, muted olive greens, and sun-bleached whites, aged parchment texture. No real letters.
+
+ROW 131 (536800 - 542230 ms):
+  VO   : atas[536800-537020] peta.[537020-537360] Hijrah[538330-538810] adalah[538810-539170] lompatan[539170-539850] raksasa[539850-540670] dari[540670-541230] tatanan[541230-541750] kesukuan[541750-542230]
+  IMG#131: Ancient parchment map of Arabia, geographical distance between Makkah and Yatsrib fading as a radiant bridge of light connects the two cities. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites. No real letters.
+
+ROW 132 (542230 - 544730 ms):
+  VO   : kuno[542230-542690] yang[542690-542870] berlandaskan[542870-543510] darah[543510-544070] dan[544070-544290] klan,[544290-544730]
+  IMG#132: A heavy iron clan chain snapping apart in mid-air, while threads of luminous golden light weave together into a strong fabric, metaphor for new social bond. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW 133 (545150 - 549150 ms):
+  VO   : menuju[545150-545510] tatanan[545510-546050] masyarakat[546050-546610] beradab[546610-547290] yang[547290-547530] disatukan[547530-548010] oleh[548010-548230] komitmen[548230-548610] moral[548610-549150]
+  IMG#133: An open civic assembly ground with stone paving and communal wells, symbol of civilized urban community replacing tribal anarchy. 2D woodcut style, sun-bleached whites, faded ochres, and muted olive greens, gritty stone texture. No text, no watermark.
+
+ROW 134 (549150 - 553630 ms):
+  VO   : dan[549150-549530] iman.[549530-549990] Ketika[550370-551490] Nabi[551490-551890] tiba[551890-552170] di[552170-552370] Yatsrib[552370-552970?] pada[552970-553370] tahun[553370-553630]
+  IMG#134: A glowing sunrise over the palm trees of Madinah, casting long peaceful shadows across the desert, dawn of a new civilization. 2D illustrated style, sun-bleached whites, faded ochres, and muted olive greens, dust grain. No text, no watermark.
+
+ROW 135 (553630 - 559450 ms):
+  VO   : 622[553630-554710] Masehi,[554710-555350] beliau[555970-556190] membiarkan[556190-556610] untanya[556610-557290] berjalan[557290-557790] tanpa[557790-558250] ditarik[558370-558690] tali[558690-558910] kekangnya,[558910-559450]
+  IMG#135: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] The Prophet riding his camel into Yatsrib in 622 CE, greeted by joyful crowds lining the palm pathways, the Prophet's face covered by radiant glowing light. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 136 (559830 - 564590 ms):
+  VO   : karena[559830-560110] unta[560110-560490] itu[560490-560710] diperintahkan[560710-561450] Allah.[561450-561790] Unta[562670-563150] itu[563150-563490] akhirnya[563490-564030] berlutut[564030-564590]
+  IMG#136: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] Close-up on the Prophet's camel walking freely with loose reins through the dusty lanes of Yatsrib, guided by divine will, the Prophet's robes visible, face covered by radiant glowing light. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 137 (564590 - 567890 ms):
+  VO   : di[564590-564770] atas[564770-565030] sebidang[565030-565330] tanah[565330-565730] penjemuran[565730-566290] kurma[566290-566950] milik[566950-567470] dua[567470-567670] anak[567670-567890]
+  IMG#137: [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] The camel kneeling gently on an open sunlit plot of land used for drying dates, surrounded by date palms and clay walls. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites, dust grain. No text, no watermark.
+
+ROW 138 (567890 - 572850 ms):
+  VO   : yatim[567890-568290] bernama[568290-568710] Sahl[568710-569350] dan[569350-569630] Suhail.[569630-570090] Di[570090-570597?] tanah[570597-571610?] inilah[571610-572170] kelak[572170-572850]
+  IMG#138: Two humble young orphan boys, Sahl and Suhail, standing respectfully near their date-drying field with joyful expressions, stylized 2D faces. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, rough linen clothing. No text, no watermark.
+
+ROW 139 (572850 - 578160 ms):
+  VO   : dibangun[572850-573270] masjid.[573270-573890] Sejak[574660-575000] itu[575000-575380] Yatsrib[575380-576260?] dikenal[576260-576580] sebagai[576580-576980] Madinatun[576980-577840] Nabi,[577840-578160]
+  IMG#139: [MASJID NABAWI] Builders marking the foundation boundary stones on the date-drying field under the bright sun of Madinah, beginning of the sanctuary. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, stone texture. No text, no watermark.
+
+ROW 140 (578660 - 583220 ms):
+  VO   : “Kota[578660-578860] Nabi”,[578860-579300] atau[579300-580040?] disingkat[580040-580480] Madinah,[580480-581100] yang[581100-581580] secara[581580-581900] harfiah[581900-582380] bermakna[582380-582840] “kota”.[582840-583220]
+  IMG#140: A carved stone monument at the oasis entrance inscribed with gentle flowing wavy linear lines symbolizing the title 'Madinatun Nabi' (no real letters or text). 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, stone grain. No real letters, no Arabic script.
+
+ROW 141 (584110 - 588490 ms):
+  VO   : Kata[584110-584590] tamaddun,[584590-585270] yang[585270-585690] berarti[585690-586070] peradaban,[586070-586790] berasal[586790-587570] dari[587570-587770] akar[587770-588110] kata[588110-588490]
+  IMG#141: Ancient city gates of Madinah framed by flourishing date palm groves and peaceful community courtyards under clear open skies. 2D illustrated style, muted olive greens, sun-bleached whites, and faded ochres, gritty parchment texture. No text, no watermark.
+
+ROW 142 (588490 - 592890 ms):
+  VO   : yang[588490-588690] sama,[588690-589110] sehingga[589550-590030] Madinah[590030-590670] kerap[590670-590990] dimaknai[590990-591590] sebagai[591590-591890] kota[591890-592390] tempat[592390-592890]
+  IMG#142: Stylized linguistic roots branching out on aged parchment: ancient root letters rendered as flowing decorative vine motifs symbolizing 'Tamaddun' and civilization. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens. No real letters, no Arabic script.
+
+ROW 143 (592890 - 598260 ms):
+  VO   : peradaban[592890-593610] dibangun.[593610-594070] Di[595100-595320] Madinah,[595320-595980] status[596340-596580] umat[596580-596940] Islam[596940-597260] berubah[597260-597780] total.[597780-598260]
+  IMG#143: Sunlight breaking brilliantly over the rooftops of Madinah, transforming the desert settlement into an organized city of light. 2D illustrated style, sun-bleached whites, faded ochres, and muted olive greens, dusty atmosphere. No text, no watermark.
+
+ROW 144 (598880 - 602020 ms):
+  VO   : Di[598880-599100] Makkah[599100-599440] mereka[599440-599880] adalah[599880-600220] kelompok[600220-600640] tertindas[600640-601280] yang[601280-601420] dikucilkan.[601420-602020]
+  IMG#144: Shadowed figures walking quietly through Makkah's narrow alleys, looking back over their shoulders, reminder of persecution in the past. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW 145 (602780 - 606200 ms):
+  VO   : Di[602780-602880] Madinah,[602880-603420] mereka[603420-603840] memegang[603840-604360] kendali[604360-604940] kepemimpinan[605140-605680] politik.[605680-606200]
+  IMG#145: [COMPANIONS (SAHABAT)] Confident citizens in clean white and ochre tunics walking freely in the sunny public spaces of Madinah, faces covered by radiant glowing light. 2D illustrated style, sun-bleached whites, faded ochres, and muted olive greens. Faces covered by radiant glowing light.
+
+ROW 146 (606450 - 610850 ms):
+  VO   : Nabi[606450-607390] Muhammad[607390-607890] tidak[607890-608030] lagi[608030-608270] hanya[608270-608550] berperan[608550-609050] sebagai[609050-609410] pembawa[609410-609970] risalah[609970-610310] agama,[610310-610850]
+  IMG#146: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing in prayer in front of believers in Makkah, carrying the divine message amid adversity, face covered by radiant glowing light. 2D woodcut style, sun-bleached whites, charcoal blacks, and faded ochres. Face covered by radiant glowing light.
+
+ROW 147 (611370 - 616910 ms):
+  VO   : melainkan[611370-611790] memikul[611790-612290] mandat[612290-612870] ganda:[612870-613230] pemimpin[613930-614350] spiritual[614350-614890] sekaligus[614890-615790] pemimpin[615790-616250] masyarakat[616250-616910]
+  IMG#147: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing in the open civic pavilion of Madinah, holding a judicial wooden staff in one hand and blessing the community, face covered by radiant glowing light. 2D illustrated style, sun-bleached whites, faded ochres, and muted olive greens. Face covered by radiant glowing light.
+
+ROW 148 (616910 - 622010 ms):
+  VO   : dan[616910-617250] kepala[617250-617750] negara-kota.[617750-618130] Untuk[619540-619880] membangun[619880-620300] masyarakat[620300-620880] majemuk[620880-621400] yang[621400-621580] berkeadaban,[621580-622010]
+  IMG#148: A diverse gathering of desert tribes and city dwellers seated attentively before a central dais in Madinah, united as a pluralistic society. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rough courtyard texture. No text, no watermark.
+
+ROW 149 (622960 - 626160 ms):
+  VO   : Nabi[622960-623140] segera[623140-623480] meletakkan[623480-623980] tiga[623980-624500] pilar[624500-624860] pembangunan[624860-625600] peradaban.[625600-626160]
+  IMG#149: Three strong unpolished stone pillars standing upright in desert soil under an arch of dawn light, symbol of the three foundations of civilization. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW 150 (626970 - 629790 ms):
+  VO   : Pilar[626970-627270] pertama[627270-627790] adalah[627790-628230] pendirian[628230-628850] Masjid[628850-629330] Nabawi.[629330-629790]
+  IMG#150: [MASJID NABAWI] Construction of the first boundary walls of Masjid Nabawi, unbaked mud bricks neatly laid in courses on dry earth. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, rough earth texture. No text, no watermark.
+
+ROW 151 (630470 - 633510 ms):
+  VO   : Di[630470-630630] masa[630630-630870] lalu,[630870-631270] suku-suku[631650-631830] Arab[632050-632430] hanya[632430-632650] berkumpul[632650-633130] di[633130-633270] balai[633270-633510]
+  IMG#151: Ancient tribal assembly pavilions scattered and isolated in desert hills, each under separate rival flags, symbol of past tribal fragmentation. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, dusty texture. No text, no watermark.
+
+ROW 152 (633510 - 636590 ms):
+  VO   : sukunya[633510-633850] masing-masing[633850-634610?] untuk[634610-634930] membanggakan[634930-635630] garis[635630-636010] keturunan.[636010-636590]
+  IMG#152: Tribal banners of diverse clans lying abandoned on the sand, while a single olive-wood shelter welcomes all under one roof. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, gritty sand texture. No text, no watermark.
+
+ROW 153 (637190 - 640750 ms):
+  VO   : Nabi[637190-637570] menyatukan[637570-638210] berbagai[638210-638690] elemen[638690-638950] masyarakat[638950-639730] di[639730-639890] bawah[639890-640050] satu[640050-640350] atap.[640350-640750]
+  IMG#153: [MASJID NABAWI] Men of different tribes and origins standing shoulder to shoulder in clean rows inside the spacious open courtyard of Masjid Nabawi, equal before God. 2D illustrated style, sun-bleached whites, charcoal blacks, and faded ochres, gritty sand floor. No text, no watermark.
+
+ROW 154 (641600 - 644340 ms):
+  VO   : Masjid[641600-641960] Nabawi[641960-642440] dibangun[642440-642940] bukan[642940-643120] hanya[643120-643400] untuk[643400-643700] salat[643700-644000] berjamaah.[644000-644340]
+  IMG#154: [MASJID NABAWI] Believers bowing in unified congregational prayer facing north in the simple unadorned mudbrick courtyard of Masjid Nabawi, serene morning light. 2D woodcut style, sun-bleached whites, faded ochres, and charcoal blacks. No text, no watermark.
+
+ROW 155 (644740 - 650080 ms):
+  VO   : Bangunan[644740-645540] ini[645540-645700] berfungsi[645700-646280] sebagai[646280-646520] balai[646520-647080] musyawarah,[647080-647660] tempat[648220-648520] menyelesaikan[648520-649240] perkara[649240-649720] hukum,[649720-650080]
+  IMG#155: [MASJID NABAWI] An open consultation area under the thatched palm roof of Masjid Nabawi, elders and leaders seated on woven mats discussing community affairs, quiet dignity. 2D illustrated style, charcoal blacks, faded ochres, and muted olive greens, thatched texture. No text, no watermark.
+
+ROW 156 (650620 - 654340 ms):
+  VO   : pusat[650620-650960] bantuan[650960-651360] sosial,[651360-651960] serta[652460-652640] tempat[652640-652980] belajar[652980-653400] bagi[653400-653780] para[653780-653940] sahabat[653940-654340]
+  IMG#156: [MASJID NABAWI] Sacks of dates and grain distributed from the mosque portico to needy families and widows, social welfare center. 2D woodcut style, faded ochres, muted olive greens, and charcoal blacks, rough sackcloth texture. No text, no watermark.
+
+ROW 157 (654340 - 659080 ms):
+  VO   : miskin[654340-654740] yang[654740-655000] tinggal[655000-655440] di[655440-655620] serambinya,[655620-656200] yang[656580-656680] dikenal[656680-657000] sebagai[657000-657340] Ahlus[657340-658143?] Suffah.[658143-659080?]
+  IMG#157: [MASJID NABAWI] Shaded rear terrace of Masjid Nabawi (Ahlus Suffah) where devoted poor students study scrolls with wavy linear lines (no real text) and reflect, faces covered by radiant glowing light. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites. Faces covered by radiant glowing light. No real letters.
+
+ROW 158 (659080 - 662560 ms):
+  VO   : Masjid[659080-659720] menjadi[659720-660080] pusat[660080-660540] urusan[660540-660820] publik[660820-661400] sekaligus[661400-662080] spiritual.[662080-662560]
+  IMG#158: [MASJID NABAWI] Exterior panoramic view of Masjid Nabawi with palm frond roof and mud walls, bustling with peaceful civic life in the heart of Madinah. 2D woodcut style, muted olive greens, faded ochres, and sun-bleached whites, gritty plaster texture. No text, no watermark.
+
+ROW 159 (662660 - 668560 ms):
+  VO   : Pilar[662660-663800] kedua[663800-664240] adalah[664240-664620] al-Mu'akhah,[664620-666040?] yaitu[666040-666500] program[666500-666940] persaudaraan[666940-667880] antara[667880-668340] kaum[668340-668560]
+  IMG#159: Two clasped hands emerging from different sleeves—one coarse travel-worn Muhajir robe and one local Anshar garment—against a warm sunrise backdrop, symbol of Al-Mu'akhah. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites. No text, no watermark.
+
+ROW 160 (668560 - 674020 ms):
+  VO   : Muhajirin[668560-669020] pendatang[669700-670160] dari[670160-670360] Makkah[670360-670660] dengan[671160-671280] kaum[671280-671580] Anshar[671580-672100] warga[672100-672840] asli[672840-673294?] Madinah.[673294-674020?]
+  IMG#160: [COMPANIONS (SAHABAT)] An Anshar host embracing an arriving Muhajir traveler at the outskirts of Madinah, both faces covered by radiant glowing light, glowing light steady. 2D woodcut style, muted olive greens, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW 161 (674020 - 678480 ms):
+  VO   : Kaum[674020-674400] Muhajirin[674400-675320] tiba[675320-675560] di[675560-675720] Madinah[675720-676380] dalam[676380-676700] keadaan[676700-677360] miskin[677360-677780] karena[677780-678480]
+  IMG#161: [COMPANIONS (SAHABAT)] Muhajirin migrants arriving in Madinah carrying only small cloth bundles, weary and destitute after losing their homes in Makkah, faces covered by radiant glowing light. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW 162 (678480 - 683280 ms):
+  VO   : sebagian[678480-679300] besar[679300-679620] harta[679620-680000] benda[680000-680320] mereka[680320-680700] ditinggalkan[681000-681820] atau[681820-682160] disita[682360-682640] di[682640-682820] Makkah.[682820-683280]
+  IMG#162: Confiscated possessions in Makkah: locked doors and sealed storehouses left behind by the emigrants in the shadow of Quraysh oppression. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, stone texture. No text, no watermark.
+
+ROW 163 (684040 - 688040 ms):
+  VO   : Melalui[684040-684520] program[684520-684880] ini,[684880-685320] ikatan[685320-686140] klan[686140-686780] purba[686780-687280] dihancurkan.[687280-688040]
+  IMG#163: A carved wooden tribal crest breaking into fragments on a stone floor, while a unified palm tree grows through it, symbol of tribal ties dismantled. 2D illustrated style, faded ochres, charcoal blacks, and muted olive greens, rough wood texture. No text, no watermark.
+
+ROW 164 (688040 - 691920 ms):
+  VO   : Abu[688040-688960] Bakar[688960-689500] dipersaudarakan[689660-690300] dengan[690300-690600] Kharijah[690600-691260] bin[691260-691460] Zaid,[691460-691920?]
+  IMG#164: [ABU BAKR ASH-SHIDDIQ] [KHARIJAH BIN ZAID] Abu Bakr and Kharijah bin Zaid embracing warmly as brothers outside an Anshar home, faces covered by radiant glowing light, glowing light steady. 2D woodcut style, sun-bleached whites, charcoal blacks, and faded ochres. Faces covered by radiant glowing light.
+
+ROW 165 (691920 - 696420 ms):
+  VO   : dan[691920-692540] Ja'far[692540-693080] bin[693080-693300] Abi[693300-693656?] Thalib[693656-694280?] dipersaudarakan[694280-695000] dengan[695000-695260] Mu'adz[695260-695660] bin[695660-695940] Jabal.[695940-696420]
+  IMG#165: [JA'FAR BIN ABI THALIB] [MU'ADZ BIN JABAL] Ja'far and young Mu'adz bin Jabal walking together through date groves in brotherly companionship, faces covered by radiant glowing light, glowing light steady. 2D illustrated style, muted olive greens, faded ochres, and charcoal blacks. Faces covered by radiant glowing light.
+
+ROW 166 (697540 - 701420 ms):
+  VO   : Persaudaraan[697540-698180] ini[698180-698560] menjadi[698560-698880] jalan[698880-699260] keluar[699260-699700] dari[699700-700020] krisis[700020-700480] kemanusiaan.[700480-701420]
+  IMG#166: A fresh desert spring gushing forth from dry rocks, watering a grove of newly planted saplings, metaphor for humanitarian revitalization. 2D woodcut style, muted olive greens, sun-bleached whites, and faded ochres, water texture. No text, no watermark.
+
+ROW 167 (702040 - 704640 ms):
+  VO   : Kaum[702040-702440] Anshar[702440-702960] dengan[702960-703200] sukarela[703200-703800] membagi[703800-704360] rumah,[704360-704640]
+  IMG#167: An open doorway of a spacious Madinah home, an Anshar host warmly welcoming a Muhajir brother inside to share living quarters, generous hospitality. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, rough clay walls. No text, no watermark.
+
+ROW 168 (704640 - 707680 ms):
+  VO   : bahkan[704640-705360] harta[705360-705720] mereka[705720-706120] kepada[706120-706520] saudara[706520-706980] baru[706980-707300] mereka.[707300-707680]
+  IMG#168: An Anshar host dividing baskets of harvested fresh dates and grain sacks in half with a smile, offering the share to his brother in faith. 2D woodcut style, muted olive greens, faded ochres, and charcoal blacks, basketry texture. No text, no watermark.
+
+ROW 169 (708400 - 713040 ms):
+  VO   : Sa’ad[708400-709000] bin[709000-709180] Rabi’[709180-709640] menawarkan[709640-710240] separuh[710240-710920] hartanya[710920-711500] kepada[711500-711880] Abdurrahman[711880-712560] bin[712560-712820] Auf,[712820-713040]
+  IMG#169: [SA'AD BIN RABI' & ABDURRAHMAN BIN AUF] Sa'ad bin Rabi' gesturing generously to divide his palm orchard and stores, facing Abdurrahman bin Auf, both faces covered by radiant glowing light. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites. Faces covered by radiant glowing light.
+
+ROW 170 (713680 - 717940 ms):
+  VO   : tetapi[713680-714120] Abdurrahman[714120-715140] memilih[715140-715700] untuk[715700-716100] hanya[716100-716380] ditunjukkan[716380-717100] jalan[717100-717480] ke[717480-717481?] pasar[717480-717940]
+  IMG#170: [SA'AD BIN RABI' & ABDURRAHMAN BIN AUF] Abdurrahman bin Auf politely declining half the wealth with a respectful hand over his chest, pointing toward the bustling marketplace, face covered by radiant glowing light. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Face covered by radiant glowing light.
+
+ROW 171 (717940 - 720740 ms):
+  VO   : agar[717940-718720] bisa[718720-718940] berdagang[718940-719600] dengan[719600-719860] usahanya[719860-720360] sendiri.[720360-720740]
+  IMG#171: The vibrant outdoor marketplace of Madinah: stalls of dried dates, grain, camel leather, and pottery, honest bustling commerce under palm shadows. 2D illustrated style, muted olive greens, faded ochres, and charcoal blacks, dusty market grain. No text, no watermark.
+
+ROW 172 (721540 - 726800 ms):
+  VO   : Fanatisme[721540-722180] kesukuan[722180-722800] (asabiyah)[723320-724200] dilebur[724480-724800] ke[724800-725040] dalam[725040-725200] persaudaraan[725200-726100] atas[726100-726480] dasar[726480-726800]
+  IMG#172: A glowing circle of diverse hands holding a single cord around an olive tree, symbolizing the triumph of universal brotherhood over asabiyah. 2D woodcut style, muted olive greens, faded ochres, and sun-bleached whites, gritty parchment texture. No text, no watermark.
+
+ROW 173 (726800 - 732090 ms):
+  VO   : akidah[726800-727280] dan[727280-727800] kemanusiaan.[727800-728780] Pilar[729510-729830] ketiga[729830-730290] adalah[730290-730870] Piagam[730870-731450] Madinah,[731450-732090]
+  IMG#173: [PIAGAM MADINAH SCROLL] A large aged leather parchment scroll unrolled on a wooden table, inscribed with rows of flowing wavy linear lines representing the Constitution of Madinah (no real text, no Arabic script). 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, leather grain texture.
+
+ROW 174 (732450 - 736910 ms):
+  VO   : sebuah[732450-732870] perjanjian[732870-733410] tertulis[733410-734110] yang[734110-734390] kerap[734390-734690] disebut[734690-735050] juga[735050-735390] Konstitusi[735390-736250] Madinah.[736250-736910]
+  IMG#174: [PIAGAM MADINAH SCROLL] Close-up of the parchment scroll illuminated by a warm clay oil lamp, showing neat rows of flowing wavy linear lines suggesting constitutional articles (no real letters). 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, aged parchment grain. No real letters, no Arabic script.
+
+ROW 175 (737660 - 741540 ms):
+  VO   : Kota[737660-737920] Madinah[737920-738480] saat[738480-738760] itu[738760-739020] dihuni[739020-739460] oleh[739460-739680] penduduk[739680-740280] yang[740280-740400] sangat[740400-740920] majemuk:[740920-741540]
+  IMG#175: A panoramic view of Madinah showing diverse quarters: Muslim mudbrick houses, pagan Arab compounds, and stone towers of Jewish clans residing peacefully side by side. 2D illustrated style, muted olive greens, charcoal blacks, and faded ochres, gritty stone texture. No text, no watermark.
+
+ROW 176 (742120 - 746260 ms):
+  VO   : kaum[742120-742400] Muslim[742400-742840] Muhajirin[742840-743640] dan[743640-743740] Anshar,[743740-744320] orang-orang[744320-745300?] Arab[745300-745740] yang[745740-745860] masih[745860-746260]
+  IMG#176: Muslim citizens in simple robes and pagan Arab neighbors in traditional desert garb conversing calmly in a shared date grove in Madinah. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, dust grain. No text, no watermark.
+
+ROW 177 (746260 - 752020 ms):
+  VO   : menyembah[746260-746660] berhala,[746660-747320] serta[747320-747940] suku-suku[747940-748460?] Yahudi[748460-748920] seperti[749260-749520] Bani[749520-750080] Qainuqa,[750080-751380?] Bani[751380-751580] Nadhir,[751580-752020]
+  IMG#177: Fortified stone towers and mudbrick estates of the Jewish clans (Bani Qainuqa, Bani Nadhir, Bani Quraizhah) nestled among date palms in Madinah. 2D illustrated style, charcoal blacks, muted olive greens, and faded ochres, rough stone masonry. No text, no watermark.
+
+ROW 178 (752020 - 756800 ms):
+  VO   : dan[752020-752480] Bani[752480-752860] Quraizhah.[752860-754320?] Piagam[754320-754860] ini[754860-755040] menegaskan[755040-755640] bahwa[755640-755940] seluruh[755940-756400] penduduk[756400-756800]
+  IMG#178: [PIAGAM MADINAH SCROLL] Representatives of Muslim, non-Muslim Arab, and Jewish communities of Madinah seated in a circle around an open treaty table, stylized 2D faces, solemn consensus. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Flowing wavy linear lines on scroll.
+
+ROW 179 (756800 - 759040 ms):
+  VO   : Madinah[756800-757240] yang[757240-757460] terikat[757460-757980] dalam[757980-758180] perjanjian[758180-758740] itu,[758740-759040]
+  IMG#179: Dignified delegates from various clans placing their seal rings onto soft wax around the parchment document, affirming collective unity. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, leather texture. No real letters.
+
+ROW 180 (759040 - 761700 ms):
+  VO   : apa[759040-759480?] pun[759480-759920?] latar[759920-760120] belakang[760120-760500] suku[760500-760860] dan[760860-761040] agamanya,[761040-761700]
+  IMG#180: A diverse circle of community elders standing together in an open courtyard, diverse turbans and robes, united as one civic body. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, dusty stone texture. No text, no watermark.
+
+ROW 181 (761700 - 765280 ms):
+  VO   : merupakan[761700-762440] satu[762440-762840] kesatuan[762840-763380] masyarakat[763380-764040] yang[764040-764260] disebut[764260-764720] Ummah.[764720-765280]
+  IMG#181: [PIAGAM MADINAH SCROLL] A central section of the parchment scroll glowing faintly with golden warmth, flowing wavy linear lines signifying the sacred pact of 'Ummah' (no real letters or text). 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, aged parchment texture. No real letters.
+
+ROW 182 (766090 - 770530 ms):
+  VO   : Setiap[766090-766570] kelompok[766570-767010] dijamin[767010-767650] kebebasannya[767650-768090] untuk[768350-768690] menjalankan[768690-769350] keyakinan[769350-769950] agamanya.[769950-770530]
+  IMG#182: A quiet stone courtyard where a Muslim portico and a Jewish study house stand facing each other under peaceful skies, freedom of faith respected. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, stone texture. No text, no watermark.
+
+ROW 183 (771190 - 775970 ms):
+  VO   : Apabila[771190-771670] Madinah[771670-772030] diserang[772030-772430] dari[772430-772610] luar,[772610-773030] semua[773030-773690] pihak[773690-774110] berkewajiban[774110-774890] bahu-membahu[775450-775970]
+  IMG#183: Watchtowers along the mudbrick defensive perimeter walls of Madinah manned by diverse community defenders scanning the desert horizon together. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, rough stone and mud texture. No text, no watermark.
+
+ROW 184 (775970 - 779950 ms):
+  VO   : mempertahankan[775970-776670] kota.[776670-777010] Tidak[777670-778090] ada[778090-778310] klan[778310-778610] yang[778610-778810] boleh[778810-779030] bersekutu[779030-779610] secara[779610-779950]
+  IMG#184: Defenders reinforcing a stone barricade and digging defensive trenches outside the palm groves of Madinah with collective effort. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, gritty soil texture. No text, no watermark.
+
+ROW 185 (779950 - 782610 ms):
+  VO   : diam-diam[779950-780470?] dengan[780470-780710] Quraisy[780710-781310?] yang[781310-781530] memusuhi[781530-782130] Madinah.[782130-782610]
+  IMG#185: A closed heavy wooden city gate with iron bolts, blocking covert envoys from Makkah, symbol of vigilance against secret alliances. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, wood grain texture. No text, no watermark.
+
+ROW 186 (783270 - 786950 ms):
+  VO   : Dan[783270-783610] jika[783610-784010] terjadi[784010-784370] perselisihan[784370-784930] besar,[784930-785330] perkara[785710-786010] itu[786010-786290] dibawa[786290-786670] kepada[786670-786950]
+  IMG#186: Two clan elders presenting a disputed boundary stone before an open assembly in Madinah, seeking peaceful judicial arbitration. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rough stone texture. No text, no watermark.
+
+ROW 187 (786950 - 791400 ms):
+  VO   : Nabi[786950-787270] Muhammad[787270-787710] untuk[787710-788270] diputuskan.[788270-788890] Melalui[789900-790360] Piagam[790360-790700] Madinah,[790700-791400]
+  IMG#187: [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet seated in the council pavilion listening calmly to an arbitration between differing citizens, holding the scroll of the pact, face covered by radiant glowing light. 2D illustrated style, sun-bleached whites, faded ochres, and charcoal blacks. Face covered by radiant glowing light. No real text.
+
+ROW 188 (791400 - 795920 ms):
+  VO   : kelompok-kelompok[791400-792460?] yang[792460-792580] berbeda[792580-793020] keyakinan[793020-793660] diakui[793660-794280] sebagai[794280-794580] bagian[794580-795140] dari[795140-795360] masyarakat[795360-795920]
+  IMG#188: [PIAGAM MADINAH SCROLL] Jewish community elders in dignified scholarly robes holding their copy of the parchment pact, treated as protected equal partners of the city, stylized 2D faces. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. Flowing wavy linear lines on scroll.
+
+ROW 189 (795920 - 800120 ms):
+  VO   : yang[795920-796080] sama,[796080-796480] dengan[796480-797160] hak[797160-797480] dan[797480-797800] perlindungan[797800-798520] yang[798520-798700] dijamin[798700-799280] dalam[799280-799460] perjanjian.[799460-800120]
+  IMG#189: A balanced bronze balance of justice resting on smooth stone in the open air of Madinah, symbolizing impartial rule of law. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, gritty stone texture. No text, no watermark.
+
+ROW 190 (800120 - 804920 ms):
+  VO   : Para[800120-800900] peneliti[800900-801360] modern[801360-801700] sering[802200-802480] menyebutnya[802480-803120] salah[803120-803480] satu[803480-803880] dokumen[803880-804360] politik[804360-804920]
+  IMG#190: An ancient library or archive room with stone shelves holding historical treaty rolls, soft dust motes floating in sunlight beams, milestone of constitutional history. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites, parchment texture. No real text.
+
+ROW 191 (804920 - 809800 ms):
+  VO   : tertulis[804920-805500] paling[805500-805940] awal[805940-806520] yang[806520-806880] mengatur[806880-807340] kehidupan[807340-808040] bersama[808040-808620] masyarakat[808620-809160] majemuk,[809160-809800]
+  IMG#191: [PIAGAM MADINAH SCROLL] An ancient scroll resting alongside a quill on an old wooden lectern, symbolic of the earliest written social contracts of mankind. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites. Flowing wavy linear lines.
+
+ROW 192 (810240 - 814980 ms):
+  VO   : meski[810240-810640] istilah[810640-811220] seperti[811220-811680] “konstitusi”[811680-812660] dan[812660-813020] “warga[813020-813400] negara”[813400-813860] adalah[813860-814420] bahasa[814420-814980]
+  IMG#192: Modern legal books and ancient parchment scrolls displayed side by side in a scholarly study, conceptual bridge of constitutional thought. 2D woodcut style, faded ochres, charcoal blacks, and muted olive greens, aged paper texture. No real letters.
+
+ROW 193 (814980 - 819580 ms):
+  VO   : zaman[814980-815240] sekarang,[815240-815600] dan[816360-816460] mereka[816460-817060] juga[817060-817340] masih[817340-817620] berdiskusi[817620-818340] mengenai[818340-819140] kapan[819140-819580]
+  IMG#193: Scholarly discussion silhouettes gathered around a table with historical timeline maps of early Arabia, examining historical dating debates. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No real text.
+
+ROW 194 (819580 - 824760 ms):
+  VO   : tepatnya[819580-820300] naskah[820300-820700] itu[820700-820920] disusun.[820920-821400] Perbedaan[822260-822800] corak[822800-823140] sosial[823140-823660] antara[823660-824240] Makkah[824240-824760]
+  IMG#194: An hourglass with sand steadily running through it on an aged wooden desk beside the Constitution of Madinah scroll, flowing wavy linear lines. 2D woodcut style, faded ochres, charcoal blacks, and sun-bleached whites. No real letters.
+
+ROW 195 (825100 - 827961 ms):
+  VO   : pra-Islam[825100-825440] dan[825880-825980] Madinah[825980-826640] kini[826640-827160] terlihat[827160-827960] nyata.[827960-827961?]
+  IMG#195: Split composition: left side shows jagged harsh rocks of Makkah in charcoal shadow; right side shows fertile palm groves of Madinah in soft ochre sunlight. 2D illustrated style, charcoal blacks, muted olive greens, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW 196 (827960 - 831640 ms):
+  VO   : Di[827960-829180] Makkah[829180-829480] Jahiliyah,[829480-830080] hukum[830600-830720] rimba[830720-831120] berkuasa.[831120-831640]
+  IMG#196: A proud warlord standing over a defeated adversary in Makkah's dusty sands, symbol of the law of the jungle in Jahiliyah. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rough dust texture. No text, no watermark.
+
+ROW 197 (832280 - 836740 ms):
+  VO   : Siapa[832280-832720] yang[832720-832900] kuat[832900-833240] dan[833580-833640] banyak[833640-834080] sukunya,[834080-834600] dialah[835040-835400] yang[835400-835520] menentukan[835520-836060] keadaan.[836060-836740]
+  IMG#197: A wealthy clan chieftain in Makkah surrounded by heavily armed guards, deciding disputes by tribal might rather than justice. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites. No text, no watermark.
+
+ROW 198 (837320 - 841360 ms):
+  VO   : Penindasan[837320-837960] terhadap[837960-838420] kaum[838420-838660] lemah[838660-839100] dan[839100-839320] perempuan[839320-839840] terjadi[839840-840460] tanpa[840860-841140] ada[841140-841360]
+  IMG#198: A poor woman and an orphan standing helpless in a dusty Makkah alleyway, ignored by passing wealthy merchants, absence of legal protection. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, gritty dust texture. No text, no watermark.
+
+ROW 199 (841360 - 845820 ms):
+  VO   : lembaga[841360-841640?] hukum[841640-842100] yang[842100-842220] membela,[842220-842780] bahkan[843280-843800] sebagian[844040-844400] kabilah[844400-844840] mengubur[844840-845280] anak[845580-845820]
+  IMG#199: A desolate moonlit sand dune where a single small white cloth strip flutters in the wind, somber reminder of infanticide in Jahiliyah. 2D illustrated style, charcoal blacks, sun-bleached whites, and faded ochres, gritty sand texture. No text, no watermark.
+
+ROW 200 (845820 - 848920 ms):
+  VO   : perempuan[845820-846400] hidup-hidup[846400-847240?] karena[847240-847640] dipandang[847800-848260] sebagai[848260-848600] aib.[848600-848920]
+  IMG#200: A grieving mother standing in dark shadows of a rocky gorge, head covered in sorrow under an overcast sky, darkness of Jahiliyah customs. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, rock texture. No text, no watermark.
+
+ROW 201 (849480 - 854460 ms):
+  VO   : Sebaliknya[849480-850240] di[850240-850360] Madinah,[850360-850920] kehidupan[851340-851820] bermasyarakat[851820-852660] mulai[852660-853040] diatur[853220-853560] oleh[853560-853760] kesepakatan[853760-854460]
+  IMG#201: A serene public hall in Madinah where a written contract is read before attentive community members, dawn light streaming in. 2D illustrated style, sun-bleached whites, faded ochres, and muted olive greens, gritty plaster grain. Flowing wavy linear lines on scroll.
+
+ROW 202 (854460 - 857920 ms):
+  VO   : tertulis[854460-855060] dan[855060-855340] tuntunan[855340-855960] agama[855960-856420] yang[856420-856700] menjunjung[856700-857380] keadilan.[857560-857920]
+  IMG#202: A judge in Madinah reviewing a written pact with flowing wavy linear lines, delivering an impartial verdict to ordinary citizens. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites. No real letters.
+
+ROW 203 (858500 - 862540 ms):
+  VO   : Kaum[858500-858900] perempuan[858900-859400] diberi[859400-860000] hak[860000-860120?] kepemilikan[860120-860540] harta[860540-860860] pribadi,[860860-861400] hak[861880-862040] waris,[862040-862540]
+  IMG#203: A woman in Madinah receiving property deeds and inheritance documents represented by parchment with flowing wavy linear lines, treated with dignity and legal rights. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites. No real letters.
+
+ROW 204 (862980 - 868160 ms):
+  VO   : serta[862980-863200] perlindungan[863200-863640] dalam[863940-864160] pernikahan.[864160-864700] Sistem[865420-865880] perbudakan[865880-866560] mulai[866560-867000] dibatasi[867100-867520] dan[867980-868160]
+  IMG#204: A peaceful Madinah family courtyard: a mother educating her young daughters near a pomegranate tree in sunlight, dignity and safety guaranteed. 2D woodcut style, muted olive greens, faded ochres, and sun-bleached whites, domestic warmth. No text, no watermark.
+
+ROW 205 (868160 - 871600 ms):
+  VO   : pembebasan[868160-868740] budak[868740-869100] didorong[869480-869860] sebagai[869860-870200] amal[870200-870660] yang[870660-870860] sangat[870860-871180] utama.[871180-871600]
+  IMG#205: An enslaved person having iron neck shackles unbolted and set free by a believer, stepping into sunlight with dignity, noble act of emancipation. 2D illustrated style, faded ochres, charcoal blacks, and sun-bleached whites, metal and stone texture. No text, no watermark.
+
+ROW 206 (872300 - 877020 ms):
+  VO   : Kesenjangan[872300-872820] sosial[872820-873320] dipersempit[873320-873760] melalui[874380-874740] ajaran[874740-875200] zakat[875200-875560] dan[875560-876100] anjuran[876100-876520] sedekah.[876520-877020]
+  IMG#206: Grain sacks and dried fruits being measured into baskets of Zakat and distributed to impoverished families in Madinah's courtyard, narrowing the wealth gap. 2D woodcut style, muted olive greens, faded ochres, and charcoal blacks, sackcloth texture. No text, no watermark.
+
+ROW 207 (877680 - 881580 ms):
+  VO   : Watak[877680-878120] sebagian[878120-878660] masyarakat[878660-879160] gurun[879160-879620] yang[879820-880000] semula[880000-880580] mudah[880580-880880] tersulut[880880-881320] perang[881320-881580]
+  IMG#207: Broken pieces of a carved stone idol lying discarded beside an ancient well, while citizens sit together in peaceful consultation around clean water. 2D illustrated style, faded ochres, charcoal blacks, and muted olive greens, gritty rock texture. No text, no watermark.
+
+ROW 208 (881580 - 888640 ms):
+  VO   : antarsuku[881580-882260?] dan[882260-882720] memuja[882720-883260] berhala[883260-883928?] batu,[883928-884345?] berangsur-angsur[884345-885680?] diarahkan[885680-886400] menuju[886400-886760] kebiasaan[886900-887420] bermusyawarah,[887420-888640?]
+  IMG#208: An open consultative assembly of Madinah citizens seated in an open-air shaded colonnade, exchanging thoughtful opinions peacefully. 2D woodcut style, charcoal blacks, faded ochres, and sun-bleached whites, stone texture. No text, no watermark.
+
+ROW 209 (888640 - 893260 ms):
+  VO   : pengendalian[888640-889180] diri,[889180-889640] dan[889900-890040] ikatan[890040-890640] persaudaraan[890640-891140] yang[891660-891980] melampaui[891980-892580] batas[892580-893020] klan.[893020-893260]
+  IMG#209: Diverse hands holding a woven rope of fellowship across an olive orchard, symbolizing mutual self-restraint and brotherhood beyond clans. 2D illustrated style, muted olive greens, faded ochres, and sun-bleached whites, gritty texture. No text, no watermark.
+
+ROW 210 (893980 - 898060 ms):
+  VO   : Perjalanan[893980-894720] dari[894720-894920] kesunyian[894920-895440] Gua[895440-895929?] Hira[895929-896540?] menuju[896540-896720] kota[896720-897060] Madinah[897060-897900?] telah[897900-898060]
+  IMG#210: A panoramic sunset view connecting the distant peaks of Mount Nur in Makkah to the flourishing green oasis of Madinah across desert dunes. 2D woodcut style, sun-bleached whites, faded ochres, muted olive greens, and charcoal blacks, aged parchment texture. No text, no watermark.
+
+ROW 211 (898060 - 902180 ms):
+  VO   : melahirkan[898060-898600] tatanan[898600-899360] sejarah[899360-899720] baru.[899720-900020] Dari[900600-900900] satu[900900-901220] orang[901220-901520] yang[901520-901820] menerima[901820-902180]
+  IMG#211: A single burning oil lamp resting inside the rugged cave of Hira, casting long shadows across desert stones, beginning of an epoch. 2D illustrated style, charcoal blacks, faded ochres, and sun-bleached whites, gritty rock texture. No text, no watermark.
+
+ROW 212 (902180 - 906520 ms):
+  VO   : wahyu[902180-902720] di[902720-902880] puncak[902880-903360] gunung[903360-903720] batu,[903720-904060] lahirlah[904600-905060] sebuah[905060-905440] masyarakat[905440-906060] yang[906060-906520]
+  IMG#212: [GUA HIRA & MOUNT NUR] Mount Nur peak bathed in soft radiant morning light, a golden beacon shining out across the vast desert lands of the world. 2D woodcut style, sun-bleached whites, faded ochres, and charcoal blacks, stone texture. No text, no watermark.
+
+ROW 213 (906520 - 908880 ms):
+  VO   : kelak[906520-906900] menjadi[906900-907440] mercusuar[907440-908360] peradaban.[908360-908880]
+  IMG#213: [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Madinah shining as a radiant city-state of light and justice amidst the surrounding desert wilderness, beacon of civilization. 2D illustrated style, muted olive greens, sun-bleached whites, and faded ochres, gritty parchment grain. No text, no watermark.
+

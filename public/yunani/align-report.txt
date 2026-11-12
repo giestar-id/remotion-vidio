@@ -1,0 +1,168 @@
+Kata naskah (polished) : 1494
+Total scene semantik   : 161
+Durasi audio           : 804360 ms (13m 24.36s)
+Durasi terpendek/pjg   : 2250 ms / 10300 ms
+
+Scene   1       0-  6690 ms (6.69s)  10 kata
+Scene   2    6690- 12420 ms (5.73s)  10 kata
+Scene   3   12420- 20240 ms (7.82s)  13 kata [SHIFTED]
+Scene   4   20240- 24870 ms (4.63s)   8 kata [SHIFTED]
+Scene   5   24870- 28770 ms (3.90s)   7 kata [SHIFTED]
+Scene   6   28770- 32830 ms (4.06s)   7 kata [SHIFTED]
+Scene   7   32830- 37070 ms (4.24s)   8 kata
+Scene   8   37070- 41270 ms (4.20s)   8 kata
+Scene   9   41270- 45210 ms (3.94s)   8 kata
+Scene  10   45210- 49510 ms (4.30s)   8 kata
+Scene  11   49510- 53620 ms (4.11s)   9 kata [SHIFTED]
+Scene  12   53620- 59430 ms (5.81s)   8 kata [SHIFTED]
+Scene  13   59430- 64730 ms (5.30s)   9 kata
+Scene  14   64730- 69470 ms (4.74s)   9 kata
+Scene  15   69470- 75330 ms (5.86s)  13 kata [SHIFTED]
+Scene  16   75330- 79730 ms (4.40s)  10 kata [SHIFTED]
+Scene  17   79730- 83370 ms (3.64s)   4 kata [SHIFTED]
+Scene  18   83370- 88310 ms (4.94s)  10 kata
+Scene  19   88310- 91810 ms (3.50s)   7 kata
+Scene  20   91810- 95070 ms (3.26s)   7 kata [SHIFTED]
+Scene  21   95070-100920 ms (5.85s)  12 kata [SHIFTED]
+Scene  22  100920-108070 ms (7.15s)  12 kata [SHIFTED]
+Scene  23  108070-112570 ms (4.50s)   7 kata [SHIFTED]
+Scene  24  112570-117600 ms (5.03s)   9 kata
+Scene  25  117600-120540 ms (2.94s)   7 kata [SHIFTED]
+Scene  26  120540-129480 ms (8.94s)  14 kata [SHIFTED]
+Scene  27  129480-132840 ms (3.36s)   6 kata [SHIFTED]
+Scene  28  132840-135400 ms (2.56s)   6 kata [SHIFTED]
+Scene  29  135400-141350 ms (5.95s)  13 kata [SHIFTED]
+Scene  30  141350-144050 ms (2.70s)   6 kata [SHIFTED]
+Scene  31  144050-154350 ms (10.30s)  13 kata [SHIFTED]
+Scene  32  154350-159930 ms (5.58s)   7 kata [SHIFTED]
+Scene  33  159930-166590 ms (6.66s)  12 kata [SHIFTED]
+Scene  34  166590-171550 ms (4.96s)   7 kata
+Scene  35  171550-177250 ms (5.70s)   9 kata [SHIFTED]
+Scene  36  177250-182090 ms (4.84s)  11 kata [SHIFTED]
+Scene  37  182090-189830 ms (7.74s)  15 kata [SHIFTED]
+Scene  38  189830-196420 ms (6.59s)  12 kata [SHIFTED]
+Scene  39  196420-200960 ms (4.54s)   9 kata [SHIFTED]
+Scene  40  200960-203370 ms (2.41s)   6 kata [SHIFTED]
+Scene  41  203370-206100 ms (2.73s)   5 kata [SHIFTED]
+Scene  42  206100-212570 ms (6.47s)   9 kata
+Scene  43  212570-218180 ms (5.61s)  10 kata
+Scene  44  218180-223700 ms (5.52s)   9 kata
+Scene  45  223700-230220 ms (6.52s)  10 kata [SHIFTED]
+Scene  46  230220-234160 ms (3.94s)   7 kata [SHIFTED]
+Scene  47  234160-240320 ms (6.16s)  13 kata [SHIFTED]
+Scene  48  240320-243550 ms (3.23s)   6 kata [SHIFTED]
+Scene  49  243550-247290 ms (3.74s)   8 kata
+Scene  50  247290-252550 ms (5.26s)  10 kata
+Scene  51  252550-257750 ms (5.20s)  10 kata
+Scene  52  257750-262490 ms (4.74s)  10 kata
+Scene  53  262490-266940 ms (4.45s)   8 kata
+Scene  54  266940-270000 ms (3.06s)   6 kata [SHIFTED]
+Scene  55  270000-275810 ms (5.81s)  12 kata [SHIFTED]
+Scene  56  275810-281360 ms (5.55s)  10 kata
+Scene  57  281360-287640 ms (6.28s)  16 kata [SHIFTED]
+Scene  58  287640-291140 ms (3.50s)   4 kata [SHIFTED]
+Scene  59  291140-296450 ms (5.31s)  10 kata
+Scene  60  296450-301070 ms (4.62s)  10 kata
+Scene  61  301070-309420 ms (8.35s)  13 kata [SHIFTED]
+Scene  62  309420-312500 ms (3.08s)   7 kata [SHIFTED]
+Scene  63  312500-317190 ms (4.69s)  10 kata [SHIFTED]
+Scene  64  317190-319940 ms (2.75s)   6 kata [SHIFTED]
+Scene  65  319940-322770 ms (2.83s)   6 kata [SHIFTED]
+Scene  66  322770-329160 ms (6.39s)  13 kata [SHIFTED]
+Scene  67  329160-337100 ms (7.94s)  16 kata [SHIFTED]
+Scene  68  337100-339440 ms (2.34s)   4 kata [SHIFTED]
+Scene  69  339440-342040 ms (2.60s)   5 kata [SHIFTED]
+Scene  70  342040-346895 ms (4.86s)  11 kata [SHIFTED]
+Scene  71  346895-353350 ms (6.46s)  12 kata [SHIFTED]
+Scene  72  353350-358310 ms (4.96s)  10 kata
+Scene  73  358310-363490 ms (5.18s)  11 kata [SHIFTED]
+Scene  74  363490-368060 ms (4.57s)   9 kata [SHIFTED]
+Scene  75  368060-373150 ms (5.09s)  11 kata [SHIFTED]
+Scene  76  373150-375960 ms (2.81s)   8 kata [SHIFTED]
+Scene  77  375960-381810 ms (5.85s)  11 kata [SHIFTED]
+Scene  78  381810-386110 ms (4.30s)  10 kata
+Scene  79  386110-390090 ms (3.98s)   7 kata [SHIFTED]
+Scene  80  390090-394410 ms (4.32s)   9 kata [SHIFTED]
+Scene  81  394410-401490 ms (7.08s)  13 kata [SHIFTED]
+Scene  82  401490-404740 ms (3.25s)   6 kata [SHIFTED]
+Scene  83  404740-408170 ms (3.43s)   6 kata [SHIFTED]
+Scene  84  408170-416850 ms (8.68s)  18 kata [SHIFTED]
+Scene  85  416850-420530 ms (3.68s)   8 kata
+Scene  86  420530-425136 ms (4.61s)   8 kata [SHIFTED]
+Scene  87  425136-429620 ms (4.48s)   9 kata [SHIFTED]
+Scene  88  429620-433750 ms (4.13s)   8 kata
+Scene  89  433750-438650 ms (4.90s)  10 kata
+Scene  90  438650-443650 ms (5.00s)  10 kata [SHIFTED]
+Scene  91  443650-447040 ms (3.39s)   8 kata [SHIFTED]
+Scene  92  447040-455390 ms (8.35s)  14 kata [SHIFTED]
+Scene  93  455390-458765 ms (3.38s)   9 kata [SHIFTED]
+Scene  94  458765-464340 ms (5.58s)  10 kata [SHIFTED]
+Scene  95  464340-468590 ms (4.25s)   9 kata [SHIFTED]
+Scene  96  468590-471370 ms (2.78s)   4 kata [SHIFTED]
+Scene  97  471370-477090 ms (5.72s)  10 kata
+Scene  98  477090-481400 ms (4.31s)   9 kata [SHIFTED]
+Scene  99  481400-487691 ms (6.29s)  11 kata [SHIFTED]
+Scene 100  487691-493140 ms (5.45s)   7 kata [SHIFTED]
+Scene 101  493140-499500 ms (6.36s)  11 kata [SHIFTED]
+Scene 102  499500-504490 ms (4.99s)   9 kata
+Scene 103  504490-508940 ms (4.45s)   8 kata
+Scene 104  508940-514050 ms (5.11s)  10 kata
+Scene 105  514050-519940 ms (5.89s)  10 kata
+Scene 106  519940-524930 ms (4.99s)  10 kata [SHIFTED]
+Scene 107  524930-527640 ms (2.71s)   4 kata [SHIFTED]
+Scene 108  527640-531670 ms (4.03s)   8 kata [SHIFTED]
+Scene 109  531670-537350 ms (5.68s)  12 kata [SHIFTED]
+Scene 110  537350-541110 ms (3.76s)   8 kata [SHIFTED]
+Scene 111  541110-546770 ms (5.66s)  11 kata [SHIFTED]
+Scene 112  546770-550870 ms (4.10s)   6 kata [SHIFTED]
+Scene 113  550870-554470 ms (3.60s)   7 kata [SHIFTED]
+Scene 114  554470-557700 ms (3.23s)   6 kata [SHIFTED]
+Scene 115  557700-561750 ms (4.05s)   6 kata [SHIFTED]
+Scene 116  561750-570980 ms (9.23s)  18 kata [SHIFTED]
+Scene 117  570980-578490 ms (7.51s)  10 kata [SHIFTED]
+Scene 118  578490-584310 ms (5.82s)   8 kata
+Scene 119  584310-588280 ms (3.97s)   6 kata [SHIFTED]
+Scene 120  588280-591640 ms (3.36s)   4 kata [SHIFTED]
+Scene 121  591640-596650 ms (5.01s)  10 kata [SHIFTED]
+Scene 122  596650-602250 ms (5.60s)  12 kata [SHIFTED]
+Scene 123  602250-605930 ms (3.68s)   7 kata [SHIFTED]
+Scene 124  605930-615100 ms (9.17s)  17 kata [SHIFTED]
+Scene 125  615100-621000 ms (5.90s)  11 kata [SHIFTED]
+Scene 126  621000-624220 ms (3.22s)   6 kata [SHIFTED]
+Scene 127  624220-628610 ms (4.39s)   9 kata [SHIFTED]
+Scene 128  628610-634890 ms (6.28s)  11 kata [SHIFTED]
+Scene 129  634890-639150 ms (4.26s)   8 kata [SHIFTED]
+Scene 130  639150-645380 ms (6.23s)  11 kata [SHIFTED]
+Scene 131  645380-647680 ms (2.30s)   3 kata [SHIFTED]
+Scene 132  647680-655440 ms (7.76s)  13 kata [SHIFTED]
+Scene 133  655440-661070 ms (5.63s)  11 kata [SHIFTED]
+Scene 134  661070-663620 ms (2.55s)   5 kata [SHIFTED]
+Scene 135  663620-669060 ms (5.44s)  10 kata [SHIFTED]
+Scene 136  669060-671800 ms (2.74s)   4 kata [SHIFTED]
+Scene 137  671800-677890 ms (6.09s)  17 kata [SHIFTED]
+Scene 138  677890-683130 ms (5.24s)  10 kata
+Scene 139  683130-686110 ms (2.98s)   6 kata [SHIFTED]
+Scene 140  686110-691790 ms (5.68s)  12 kata [SHIFTED]
+Scene 141  691790-696230 ms (4.44s)   9 kata [SHIFTED]
+Scene 142  696230-698830 ms (2.60s)   5 kata [SHIFTED]
+Scene 143  698830-701370 ms (2.54s)   5 kata [SHIFTED]
+Scene 144  701370-704010 ms (2.64s)   6 kata [SHIFTED]
+Scene 145  704010-706260 ms (2.25s)   5 kata [SHIFTED]
+Scene 146  706260-714670 ms (8.41s)  19 kata [SHIFTED]
+Scene 147  714670-722420 ms (7.75s)  13 kata [SHIFTED]
+Scene 148  722420-731190 ms (8.77s)  14 kata [SHIFTED]
+Scene 149  731190-739930 ms (8.74s)  16 kata [SHIFTED]
+Scene 150  739930-743300 ms (3.37s)   5 kata [SHIFTED]
+Scene 151  743300-748840 ms (5.54s)   9 kata [SHIFTED]
+Scene 152  748840-754100 ms (5.26s)   9 kata
+Scene 153  754100-757050 ms (2.95s)   6 kata [SHIFTED]
+Scene 154  757050-760520 ms (3.47s)   6 kata [SHIFTED]
+Scene 155  760520-770750 ms (10.23s)  17 kata [SHIFTED]
+Scene 156  770750-779040 ms (8.29s)  14 kata [SHIFTED]
+Scene 157  779040-784420 ms (5.38s)  10 kata [SHIFTED]
+Scene 158  784420-790310 ms (5.89s)  11 kata [SHIFTED]
+Scene 159  790310-797510 ms (7.20s)  13 kata [SHIFTED]
+Scene 160  797510-800920 ms (3.41s)   5 kata [SHIFTED]
+Scene 161  800920-804360 ms (3.44s)   7 kata [SHIFTED]
+
+Status: Semua 161 scene tervalidasi tanpa overlap/gap dan tersinkron secara semantik.

@@ -1,0 +1,239 @@
+001 |    0.0s | DESERT LANDSCAPE OF ARABIA               | Di gurun Arabia yang gersang pada abad
+002 |    3.2s | THE WOUNDED CAMEL                        | keenam Masehi, seekor unta milik seorang
+003 |    6.7s | DESERT LANDSCAPE OF ARABIA               | perempuan tua berjalan melintasi batas tanah klan lain.
+004 |   11.5s | THE WOUNDED CAMEL                        | Unta itu dipanah hingga terluka.
+005 |   14.7s | DESERT LANDSCAPE OF ARABIA               | Di padang pasir waktu itu, kejadian sepele
+006 |   17.5s | ARAB BEDOUIN WARRIOR                     | tidak pernah selesai dengan kata maaf.
+007 |   20.8s | ARAB BEDOUIN WARRIOR                     | Pemilik unta berteriak meminta pertolongan sukunya.
+008 |   24.6s | BEDOUIN TENT CAMP                        | Rasa tersinggung dengan cepat berubah menjadi amarah klan.
+009 |   28.5s | THE WOUNDED CAMEL                        | Hanya gara-gara seekor unta yang terluka,
+010 |   31.8s | ASABIYAH / CLAN SOLIDARITY BATTLE        | pecahlah Perang Basus antara Bani Bakr dan Bani Taghlib.
+011 |   36.9s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Perang saudara ini berkecamuk selama empat puluh tahun
+012 |   40.1s | DESERT LANDSCAPE OF ARABIA               | dan menelan ribuan nyawa.
+013 |   43.0s | BEDOUIN TENT CAMP                        | Bagaimana mungkin bangsa di pedalaman gurun, yang terpecah
+014 |   46.7s | PRE-ISLAMIC KA'BAH & SANCTUARY           | belah oleh perang suku dan menyembah ratusan berhala
+015 |   49.8s | MAKKAH TRADE CARAVAN                     | di sekitar Ka'bah, justru menjadi pusat jalur perdagangan
+016 |   53.4s | MAKKAH COMMERCIAL MARKETPLACE            | dunia dan melahirkan peradaban besar yang mengubah sejarah
+017 |   57.3s | DESERT LANDSCAPE OF ARABIA               | manusia?
+018 |   57.8s | MAP OF BIZANTIUM & PERSIA                | Jazirah Arab dihimpit oleh dua kerajaan adikuasa dunia:
+019 |   63.0s | MAP OF BIZANTIUM & PERSIA                | Kekaisaran Bizantium Romawi di barat dan Kekaisaran Persia
+020 |   66.8s | MAP OF BIZANTIUM & PERSIA                | Sasanid di timur.
+021 |   68.7s | MAP OF BIZANTIUM & PERSIA                | Kedua imperium besar ini menguasai tanah-tanah subur
+022 |   71.8s | MAP OF BIZANTIUM & PERSIA                | di sekitar Arabia, mulai dari Syam hingga Irak.
+023 |   75.9s | DESERT LANDSCAPE OF ARABIA               | Kedua raksasa dunia ini tidak berminat menjajah pedalaman
+024 |   79.6s | DESERT LANDSCAPE OF ARABIA               | Jazirah Arab.
+025 |   81.0s | DESERT LANDSCAPE OF ARABIA               | Bagi Romawi dan Persia, pedalaman Arabia hanyalah lautan
+026 |   84.7s | DESERT LANDSCAPE OF ARABIA               | pasir yang gersang dan tidak memiliki hasil bumi
+027 |   87.9s | MAP OF BIZANTIUM & PERSIA                | yang menarik untuk ditaklukkan.
+028 |   90.3s | BEDOUIN TENT CAMP                        | Akibatnya, masyarakat Arab Badui di pedalaman hidup tanpa
+029 |   94.0s | DESERT LANDSCAPE OF ARABIA               | pemerintahan pusat.
+030 |   95.7s | SYAIKH / TRIBAL CHIEF                    | Di sana tidak ada raja yang memimpin seluruh bangsa,
+031 |   99.0s | SYAIKH / TRIBAL CHIEF                    | tidak ada polisi, kitab undang-undang, maupun lembaga pengadilan.
+032 |  104.0s | BEDOUIN TENT CAMP                        | Kesatuan politik mereka bukanlah negara, melainkan kabilah
+033 |  108.0s | ARAB BEDOUIN WARRIOR                     | atau suku.
+034 |  109.4s | SYAIKH / TRIBAL CHIEF                    | Setiap kabilah dipimpin oleh kepala suku yang disebut
+035 |  112.8s | SYAIKH / TRIBAL CHIEF                    | Syaikh.
+036 |  114.0s | SYAIKH / TRIBAL CHIEF                    | Syaikh ini dipilih bukan karena keturunan raja, melainkan
+037 |  117.5s | SYAIKH / TRIBAL CHIEF                    | karena dianggap paling pemberani, dermawan, bijaksana,
+038 |  121.8s | SYAIKH / TRIBAL CHIEF                    | dan pandai menjaga kehormatan sukunya.
+039 |  125.0s | SYAIKH / TRIBAL CHIEF                    | Namun kekuasaan Syaikh sangat terbatas.
+040 |  127.5s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Ia hanya dipatuhi saat memimpin perang, membagi
+041 |  130.7s | ASABIYAH / CLAN SOLIDARITY BATTLE        | harta rampasan, atau menghadapi pertempuran.
+042 |  134.2s | BEDOUIN TENT CAMP                        | Tanpa hadirnya hukum negara, sumber kekuatan utama masyarakat
+043 |  138.4s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Arab adalah solidaritas kesukuan yang disebut asabiyah.
+044 |  142.9s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Asabiyah ini adalah ikatan fanatisme klan yang
+045 |  146.3s | ASABIYAH / CLAN SOLIDARITY BATTLE        | sangat buta.
+046 |  147.8s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Mekanismenya bekerja ibarat benteng pertahanan tak kasat
+047 |  151.1s | BEDOUIN TENT CAMP                        | mata sekaligus penjara sosial bagi anggotanya.
+048 |  155.1s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Dalam sistem asabiyah, kamu wajib membela anggota sukumu
+049 |  159.0s | ASABIYAH / CLAN SOLIDARITY BATTLE        | tanpa peduli apakah ia benar atau salah.
+050 |  162.4s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Jika darah anggota sukumu tertumpah, seluruh kabilah
+051 |  165.7s | ASABIYAH / CLAN SOLIDARITY BATTLE        | wajib menuntut balas dendam.
+052 |  168.1s | ARAB BEDOUIN WARRIOR                     | Jika kamu menolak berperang, sukumu akan dianggap
+053 |  171.0s | ASABIYAH / CLAN SOLIDARITY BATTLE        | lemah dan menjadi mangsa bagi suku lain.
+054 |  174.2s | DESERT LANDSCAPE OF ARABIA               | Kehidupan gurun gersang membentuk watak manusia Arab pra-Islam
+055 |  178.1s | JAHILIYAH SOCIAL LIFE & TAVERN           | menjadi kontradiktif.
+056 |  180.1s | SYAIKH / TRIBAL CHIEF                    | Di satu sisi, mereka mengagungkan keberanian dan kedermawanan.
+057 |  184.7s | ARAB BEDOUIN WARRIOR                     | Keberanian adalah syarat mutlak bertahan hidup dari serangan
+058 |  188.1s | ASABIYAH / CLAN SOLIDARITY BATTLE        | musuh.
+059 |  189.0s | SYAIKH / TRIBAL CHIEF                    | Sementara kedermawanan dianggap puncak kehormatan sosial.
+060 |  192.8s | BEDOUIN TENT CAMP                        | Seorang bangsawan Arab sanggup menyembelih unta terbaiknya
+061 |  196.8s | BEDOUIN TENT CAMP                        | demi menjamu tamu asing.
+062 |  199.0s | SYAIKH / TRIBAL CHIEF                    | Namun motif kedermawanan ini umumnya bukan berlandaskan
+063 |  202.9s | PASAR UKAZ & POETRY COMPETITION          | ketulusan hati, melainkan didorong oleh dahaga akan
+064 |  206.5s | PASAR UKAZ & POETRY COMPETITION          | popularitas dan pujian klan lain.
+065 |  209.4s | JAHILIYAH SOCIAL LIFE & TAVERN           | Di sisi lain, watak negatif mengakar kuat.
+066 |  212.8s | JAHILIYAH SOCIAL LIFE & TAVERN           | Kebiasaan mabuk-mabukan dianggap simbol kemewahan bagi kalangan
+067 |  216.3s | JAHILIYAH SOCIAL LIFE & TAVERN           | kaya, sekaligus tempat pelarian bagi rakyat miskin.
+068 |  220.2s | JAHILIYAH SOCIAL LIFE & TAVERN           | Perjudian, penjarahan kafilah, dan perang antarsuku adalah
+069 |  224.6s | ASABIYAH / CLAN SOLIDARITY BATTLE        | pemandangan harian.
+070 |  226.3s | TRADITION OF WA'DU AL-BANAT              | Sisi paling kelam berada pada nasib kaum perempuan.
+071 |  230.2s | JAHILIYAH SOCIAL LIFE & TAVERN           | Pada masa Jahiliyah, kedudukan perempuan sangat rendah.
+072 |  234.4s | JAHILIYAH SOCIAL LIFE & TAVERN           | Perempuan dipandang seperti benda atau harta mati tanpa
+073 |  237.6s | JAHILIYAH SOCIAL LIFE & TAVERN           | hak apapun.
+074 |  238.9s | JAHILIYAH SOCIAL LIFE & TAVERN           | Laki-laki bebas menikahi perempuan sebanyak yang ia
+075 |  242.1s | JAHILIYAH SOCIAL LIFE & TAVERN           | suka, lalu menceraikannya kapan saja.
+076 |  245.2s | JAHILIYAH SOCIAL LIFE & TAVERN           | Perempuan tidak berhak menerima harta warisan.
+077 |  247.8s | JAHILIYAH SOCIAL LIFE & TAVERN           | Bahkan, seorang anak laki-laki bisa mewarisi dan
+078 |  251.5s | JAHILIYAH SOCIAL LIFE & TAVERN           | menikahi ibu tirinya setelah ayahnya meninggal dunia.
+079 |  255.0s | ARAB BEDOUIN WARRIOR                     | Kehidupan gurun yang keras membuat kehadiran anak laki-laki
+080 |  258.3s | ASABIYAH / CLAN SOLIDARITY BATTLE        | didambakan untuk berperang.
+081 |  260.1s | DESERT LANDSCAPE OF ARABIA               | Sebaliknya, kehadiran anak perempuan kerap dianggap beban ekonomi
+082 |  264.1s | ASABIYAH / CLAN SOLIDARITY BATTLE        | dan ancaman kehinaan jika ditawan musuh.
+083 |  267.2s | TRADITION OF WA'DU AL-BANAT              | Dari sudut pandang yang gelap ini, muncullah tradisi
+084 |  270.9s | TRADITION OF WA'DU AL-BANAT              | kejam wa'du al-banat, yaitu kebiasaan mengubur
+085 |  275.4s | TRADITION OF WA'DU AL-BANAT              | bayi perempuan hidup-hidup ke dalam pasir begitu lahir.
+086 |  280.1s | TRADITION OF WA'DU AL-BANAT              | Tradisi tersebut menjadi bukti betapa tidak berharganya
+087 |  283.8s | TRADITION OF WA'DU AL-BANAT              | nyawa perempuan di mata tatanan sosial waktu itu.
+088 |  287.9s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Sekarang, mari kita tengok kehidupan spiritual mereka.
+089 |  291.8s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Sebelum masa Jahiliyah, Ka'bah di Makkah adalah
+090 |  295.3s | PRE-ISLAMIC KA'BAH & SANCTUARY           | bangunan suci yang didirikan oleh Nabi Ibrahim 'alaihissalam
+091 |  299.1s | PRE-ISLAMIC KA'BAH & SANCTUARY           | bersama putranya Nabi Ismail 'alaihissalam.
+092 |  302.7s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Ka'bah dibangun sebagai pusat ibadah monoteisme atau
+093 |  306.4s | MONOTHEISTIC HANIF & WRITINGS            | agama Hanif, yaitu mengesakan Tuhan Yang Maha
+094 |  310.0s | MONOTHEISTIC HANIF & WRITINGS            | Esa tanpa sekutu.
+095 |  311.9s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Namun, kesucian Ka'bah perlahan runtuh akibat ulah
+096 |  315.8s | AMRU BIN LUHAY & HUBAL IDOL              | seorang pemimpin suku dari Bani Khuza'ah bernama Amru
+097 |  319.6s | AMRU BIN LUHAY & HUBAL IDOL              | bin Luhay.
+098 |  320.8s | AMRU BIN LUHAY & HUBAL IDOL              | Saat berjalan ke tanah Syam, Amru bin
+099 |  323.3s | AMRU BIN LUHAY & HUBAL IDOL              | Luhay melihat masyarakat di sana menyembah patung berhala.
+100 |  326.8s | AMRU BIN LUHAY & HUBAL IDOL              | Ia membawa pulang sebuah berhala ke Makkah dan
+101 |  329.8s | AMRU BIN LUHAY & HUBAL IDOL              | mengajak penduduk menyembahnya.
+102 |  332.1s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Sejak saat itu, tradisi menyembah berhala berkembang
+103 |  335.2s | PRE-ISLAMIC KA'BAH & SANCTUARY           | pesat hingga menjadi kepercayaan mayoritas bangsa Arab.
+104 |  339.3s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Tak kurang dari tiga ratus enam puluh berhala
+105 |  342.2s | PRE-ISLAMIC KA'BAH & SANCTUARY           | dipasang mengepung Ka'bah.
+106 |  344.5s | AMRU BIN LUHAY & HUBAL IDOL              | Berhala terbesar bernama Hubal, terbuat dari batu
+107 |  347.6s | AMRU BIN LUHAY & HUBAL IDOL              | aqiq merah berbentuk manusia.
+108 |  349.7s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Selain Hubal, ada tiga berhala utama lain,
+109 |  352.8s | PRE-ISLAMIC KA'BAH & SANCTUARY           | yaitu al-Lata di Thaif, al-Uzza di
+110 |  356.1s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Nakhlah sebelah timur Makkah, dan al-Manat yang
+111 |  359.3s | PRE-ISLAMIC KA'BAH & SANCTUARY           | dipuja suku Aus dan Khazraj di Yatsrib.
+112 |  362.7s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Ka'bah yang semula rumah tauhid pun berubah menjadi
+113 |  365.8s | PRE-ISLAMIC KA'BAH & SANCTUARY           | pusat ritual berhala dari seluruh pelosok Arabia.
+114 |  369.6s | ANIMISM & CELESTIAL WORSHIP              | Bagi masyarakat Arab Badui di pedalaman, mereka
+115 |  372.4s | ANIMISM & CELESTIAL WORSHIP              | mempraktikkan animisme dengan menyembah pohon tua, batu
+116 |  376.4s | ANIMISM & CELESTIAL WORSHIP              | keramat, serta bulan dan bintang.
+117 |  379.1s | ANIMISM & CELESTIAL WORSHIP              | Mereka percaya kehidupan di gurun diatur oleh pergerakan
+118 |  382.9s | ANIMISM & CELESTIAL WORSHIP              | bulan dan bintang yang membawa udara sejuk malam
+119 |  386.0s | DESERT LANDSCAPE OF ARABIA               | hari, sementara matahari dianggap merusak tanaman dan ternak.
+120 |  390.6s | MONOTHEISTIC HANIF & WRITINGS            | Di tengah lautan penyembah berhala ini, masih
+121 |  393.3s | MONOTHEISTIC HANIF & WRITINGS            | ada kelompok agama minoritas.
+122 |  395.7s | MONOTHEISTIC HANIF & WRITINGS            | Agama Yahudi dianut komunitas di Yatsrib dan Khaibar.
+123 |  399.5s | MONOTHEISTIC HANIF & WRITINGS            | Agama Kristen dianut penduduk Najran di selatan serta
+124 |  403.0s | MONOTHEISTIC HANIF & WRITINGS            | suku perbatasan utara dekat Romawi.
+125 |  405.4s | MONOTHEISTIC HANIF & WRITINGS            | Di samping itu, ada segelintir individu kelompok
+126 |  409.5s | MONOTHEISTIC HANIF & WRITINGS            | Hanif yang menolak berhala dan memegang teguh
+127 |  413.0s | MONOTHEISTIC HANIF & WRITINGS            | monoteisme murni peninggalan Nabi Ibrahim 'alaihissalam, seperti
+128 |  417.4s | MONOTHEISTIC HANIF & WRITINGS            | Waraqah bin Naufal di Makkah.
+129 |  420.7s | PASAR UKAZ & POETRY COMPETITION          | Orang sering mengira kata Jahiliyah berarti bodoh
+130 |  424.2s | PASAR UKAZ & POETRY COMPETITION          | secara intelektual.
+131 |  425.8s | PASAR UKAZ & POETRY COMPETITION          | Padahal kenyataannya tidak demikian.
+132 |  428.0s | PASAR UKAZ & POETRY COMPETITION          | Meskipun tidak memiliki sistem pemerintahan formal, bangsa Arab
+133 |  432.3s | PASAR UKAZ & POETRY COMPETITION          | pra-Islam berada di puncak kejayaan dalam bidang bahasa
+134 |  435.4s | PASAR UKAZ & POETRY COMPETITION          | dan puisi.
+135 |  437.0s | PASAR UKAZ & POETRY COMPETITION          | Hampir seluruh penduduk Arab memiliki kefasihan bahasa yang
+136 |  440.2s | PASAR UKAZ & POETRY COMPETITION          | luar biasa.
+137 |  441.8s | PASAR UKAZ & POETRY COMPETITION          | Bagi mereka, penyair bukanlah sekadar seniman hiburan.
+138 |  445.7s | PASAR UKAZ & POETRY COMPETITION          | Penyair memiliki kedudukan amat tinggi, sejajar dengan
+139 |  449.0s | PASAR UKAZ & POETRY COMPETITION          | intelektual, penasihat politik, juru bicara, sekaligus pencatat
+140 |  453.6s | PASAR UKAZ & POETRY COMPETITION          | sejarah klan.
+141 |  455.3s | BEDOUIN TENT CAMP                        | Kedatangan penyair berbakat dalam suatu suku akan dirayakan
+142 |  458.4s | BEDOUIN TENT CAMP                        | dengan pesta besar.
+143 |  460.3s | PASAR UKAZ & POETRY COMPETITION          | Setiap tahun, di Makkah digelar festival sastra
+144 |  463.8s | PASAR UKAZ & POETRY COMPETITION          | di pasar-pasar terkenal seperti Pasar Ukaz, Majannah,
+145 |  467.9s | PASAR UKAZ & POETRY COMPETITION          | dan Dzul Majaz.
+146 |  469.4s | PASAR UKAZ & POETRY COMPETITION          | Para penyair berkumpul mempertandingkan puisi terbaik mereka.
+147 |  473.6s | MU'ALLAQAT ON KA'BAH                     | Puisi yang keluar sebagai pemenang akan ditulis dengan
+148 |  476.3s | MU'ALLAQAT ON KA'BAH                     | tinta emas di atas kain sutera dan digantungkan
+149 |  479.4s | MU'ALLAQAT ON KA'BAH                     | di dinding Ka'bah, yang dikenal sebagai Mu'allaqat.
+150 |  483.3s | MAKKAH COMMERCIAL MARKETPLACE            | Bagaimana kota Makkah yang terletak di lembah gersang
+151 |  486.7s | MAKKAH COMMERCIAL MARKETPLACE            | tanpa sungai dan lahan pertanian bisa menjadi kota yang
+152 |  490.1s | MAKKAH COMMERCIAL MARKETPLACE            | kaya raya?
+153 |  491.6s | QUSHAI BIN KILAB & DARUN NADWAH          | Jawabannya terletak pada tata kelola kota yang dibangun
+154 |  494.4s | QUSHAI BIN KILAB & DARUN NADWAH          | Suku Quraisy.
+155 |  495.9s | QUSHAI BIN KILAB & DARUN NADWAH          | Perubahan ini dimulai ketika Qushai bin Kilab,
+156 |  499.0s | QUSHAI BIN KILAB & DARUN NADWAH          | leluhur Suku Quraisy, merebut kekuasaan Makkah dari
+157 |  502.3s | QUSHAI BIN KILAB & DARUN NADWAH          | Bani Khuza'ah.
+158 |  503.6s | QUSHAI BIN KILAB & DARUN NADWAH          | Qushai mendirikan balai musyawarah Darun Nadwah persis
+159 |  507.4s | QUSHAI BIN KILAB & DARUN NADWAH          | di samping Ka'bah untuk memutuskan perkara perang dan
+160 |  510.2s | QUSHAI BIN KILAB & DARUN NADWAH          | tatanan kota.
+161 |  511.6s | QUSHAI BIN KILAB & DARUN NADWAH          | Ia membagi sepuluh jabatan tinggi kepada kabilah
+162 |  513.9s | QUSHAI BIN KILAB & DARUN NADWAH          | Quraisy, seperti Hijabah yaitu penjaga kunci Ka'bah,
+163 |  517.6s | QUSHAI BIN KILAB & DARUN NADWAH          | serta Siqayah yaitu pengelola air Zamzam.
+164 |  521.3s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | Keberhasilan ekonomi Makkah semakin melonjak di tangan
+165 |  524.0s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | cucu Qushai bernama Hasyim bin Abdi Manaf.
+166 |  527.3s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | Hasyim adalah pengusaha cerdas yang merancang sistem
+167 |  529.9s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | perdagangan transito dengan membuat persetujuan keamanan bersama
+168 |  533.6s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | suku-suku gurun.
+169 |  535.2s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | Ia membagi rute perjalanan kafilah dagang Quraisy
+170 |  538.5s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | menjadi dua musim utama: musim dingin ke selatan
+171 |  542.0s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | menuju Yaman yang hangat, dan musim panas ke
+172 |  545.2s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | utara menuju Syam yang sejuk.
+173 |  548.0s | HASYIM BIN ABDI MANAF & TRADE CARAVAN    | Mekanisme perdagangan ini bekerja ibarat jantung yang memompa
+174 |  551.8s | MAKKAH COMMERCIAL MARKETPLACE            | nadi perekonomian antara timur dan barat.
+175 |  555.0s | MAKKAH COMMERCIAL MARKETPLACE            | Dari pelabuhan Yaman di selatan, pedagang Quraisy membeli
+176 |  558.5s | MAKKAH COMMERCIAL MARKETPLACE            | barang mahal dari India, Tiongkok, dan kepulauan
+177 |  561.9s | MAKKAH COMMERCIAL MARKETPLACE            | Nusantara, seperti rempah-rempah, kayu harum, minyak wangi,
+178 |  566.5s | MAKKAH COMMERCIAL MARKETPLACE            | dan sutera.
+179 |  567.5s | MAKKAH COMMERCIAL MARKETPLACE            | Barang-barang ini dibawa melintasi Makkah menuju pasar
+180 |  571.3s | MAKKAH COMMERCIAL MARKETPLACE            | Syam untuk dijual ke Kekaisaran Romawi.
+181 |  574.7s | MAKKAH COMMERCIAL MARKETPLACE            | Sebaliknya, saat kembali dari Syam, mereka membawa
+182 |  577.7s | MAKKAH COMMERCIAL MARKETPLACE            | gandum dan hasil industri Romawi ke selatan.
+183 |  581.2s | JAHILIYAH SOCIAL LIFE & TAVERN           | Namun, kemakmuran ekonomi dan tingginya mutu puisi
+184 |  584.9s | JAHILIYAH SOCIAL LIFE & TAVERN           | tidak mampu menyelamatkan masyarakat Arab dari krisis moral
+185 |  588.3s | JAHILIYAH SOCIAL LIFE & TAVERN           | yang parah.
+186 |  589.9s | MAKKAH COMMERCIAL MARKETPLACE            | Kemakmuran Makkah justru memperlebar jurang pemisah antara
+187 |  593.7s | MAKKAH COMMERCIAL MARKETPLACE            | kaum kaya dan miskin.
+188 |  595.9s | JAHILIYAH SOCIAL LIFE & TAVERN           | Para pedagang kaya Quraisy semakin tenggelam dalam
+189 |  598.7s | JAHILIYAH SOCIAL LIFE & TAVERN           | kesombongan, menindas hamba sahaya, dan mengabaikan anak
+190 |  602.8s | JAHILIYAH SOCIAL LIFE & TAVERN           | yatim serta fakir miskin.
+191 |  604.8s | PRE-ISLAMIC KA'BAH & SANCTUARY           | Berhala-berhala batu di sekitar Ka'bah tidak mampu
+192 |  608.1s | PRE-ISLAMIC KA'BAH & SANCTUARY           | memberikan keadilan sosial dan tidak sanggup memberikan kepastian
+193 |  611.9s | DESERT LANDSCAPE OF ARABIA               | hidup setelah kematian.
+194 |  614.0s | DESERT LANDSCAPE OF ARABIA               | Dunia Arab pra-Islam berada dalam titik terendah
+195 |  617.2s | PRE-ISLAMIC KA'BAH & SANCTUARY           | secara spiritual.
+196 |  619.0s | MAKKAH COMMERCIAL MARKETPLACE            | Mereka kaya secara materi dan fasih secara bahasa,
+197 |  622.8s | DESERT LANDSCAPE OF ARABIA               | namun kehilangan arah kehidupan dan jiwa kemanusiaan.
+198 |  626.5s | DESERT LANDSCAPE OF ARABIA               | Di tengah titik terendah moralitas dan kegelapan
+199 |  629.8s | DESERT LANDSCAPE OF ARABIA               | spiritual inilah, muncul titik balik sejarah yang menentukan.
+200 |  634.3s | MONOTHEISTIC HANIF & WRITINGS            | Beberapa orang di Makkah mulai merasa muak dengan
+201 |  637.0s | MONOTHEISTIC HANIF & WRITINGS            | penyembahan berhala dan kebiasaan Jahiliyah yang merusak.
+202 |  641.0s | GUA HIRA & MOUNT NUR                     | Salah seorang di antara mereka adalah seorang pemuda
+203 |  643.7s | GUA HIRA & MOUNT NUR                     | jujur dari keturunan Hasyim bin Abdi Manaf,
+204 |  647.0s | GUA HIRA & MOUNT NUR                     | yaitu Nabi Muhammad shallallahu 'alaihi wasallam, yang
+205 |  649.9s | GUA HIRA & MOUNT NUR                     | dikenal dengan julukan al-Amin, artinya orang yang
+206 |  653.3s | GUA HIRA & MOUNT NUR                     | terpercaya.
+207 |  653.9s | GUA HIRA & MOUNT NUR                     | Ia prihatin melihat ketimpangan sosial dan perpecahan
+208 |  657.8s | ASABIYAH / CLAN SOLIDARITY BATTLE        | bangsa Arab.
+209 |  659.2s | GUA HIRA & MOUNT NUR                     | Nabi Muhammad shallallahu 'alaihi wasallam mulai sering
+210 |  662.0s | GUA HIRA & MOUNT NUR                     | mengasingkan diri dari kebisingan Makkah menuju gua
+211 |  665.1s | GUA HIRA & MOUNT NUR                     | sunyi di puncak bukit batu bernama Gua Hira.
+212 |  668.5s | GUA HIRA & MOUNT NUR                     | Di dalam kesunyian gua itulah, beliau beribadah,
+213 |  672.4s | GUA HIRA & MOUNT NUR                     | merenungi keagungan penciptaan alam semesta, dan memohon
+214 |  676.7s | GUA HIRA & MOUNT NUR                     | petunjuk kepada Tuhan Yang Maha Esa.
+215 |  680.3s | GUA HIRA & MOUNT NUR                     | Dari kesunyian Gua Hira itulah, takdir bangsa
+216 |  683.6s | GUA HIRA & MOUNT NUR                     | Arab dan perjalanan sejarah peradaban manusia kelak berubah
+217 |  687.8s | DESERT LANDSCAPE OF ARABIA               | secara mendasar untuk selamanya.
+218 |  691.2s | DESERT LANDSCAPE OF ARABIA               | Masyarakat Arab pra-Islam memberikan kita cermin sejarah
+219 |  695.0s | DESERT LANDSCAPE OF ARABIA               | yang sangat jernih.
+220 |  697.0s | PASAR UKAZ & POETRY COMPETITION          | Mereka membuktikan bahwa suatu bangsa bisa saja memiliki
+221 |  700.2s | MAKKAH COMMERCIAL MARKETPLACE            | bahasa yang sangat indah, jaringan perdagangan internasional yang
+222 |  704.1s | ARAB BEDOUIN WARRIOR                     | melimpah, dan keberanian fisik yang luar biasa.
+223 |  708.0s | JAHILIYAH SOCIAL LIFE & TAVERN           | Namun, seluruh kemajuan itu tidak akan pernah sanggup
+224 |  711.5s | QUSHAI BIN KILAB & DARUN NADWAH          | membangun peradaban yang sejati tanpa adanya tatanan
+225 |  715.0s | TRADITION OF WA'DU AL-BANAT              | hukum yang adil, perlindungan atas hak-hak kemanusiaan,
+226 |  719.2s | PRE-ISLAMIC KA'BAH & SANCTUARY           | dan landasan tauhid yang kokoh.
+227 |  721.9s | THE WOUNDED CAMEL                        | Kisah tentang perang empat puluh tahun yang dipicu
+228 |  725.0s | THE WOUNDED CAMEL                        | oleh seekor unta yang terluka di padang
+229 |  727.3s | DESERT LANDSCAPE OF ARABIA               | pasir bukan sekadar cerita lama.
+230 |  730.3s | DESERT LANDSCAPE OF ARABIA               | Itu adalah pengingat betapa tingginya harga sebuah
+231 |  733.2s | BEDOUIN TENT CAMP                        | kedamaian dan betapa bahagianya hidup dalam tatanan
+232 |  736.8s | QUSHAI BIN KILAB & DARUN NADWAH          | hukum yang melindungi sesama.
+233 |  739.6s | DESERT LANDSCAPE OF ARABIA               | Melihat betapa dalamnya kegelapan tatanan Jahiliyah waktu
+234 |  742.7s | DESERT LANDSCAPE OF ARABIA               | itu, bisa jadi kamu bertanya-tanya.
+235 |  746.0s | ASABIYAH / CLAN SOLIDARITY BATTLE        | Bagaimana mungkin masyarakat gurun yang terpecah belah
+236 |  749.0s | PRE-ISLAMIC KA'BAH & SANCTUARY           | oleh ratusan kabilah dan berhala ini bisa bersatu
+237 |  752.2s | GUA HIRA & MOUNT NUR                     | dan berubah hanya dalam waktu satu generasi menjadi salah
+238 |  755.9s | MAP OF BIZANTIUM & PERSIA                | satu kekuatan peradaban terbesar yang pernah mencatatkan
+239 |  758.9s | DESERT LANDSCAPE OF ARABIA               | namanya dalam sejarah dunia?

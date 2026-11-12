@@ -1,0 +1,26 @@
+# Hasil render video lokal (saat ini ~2.19 GB di out/)
+out/
+
+# Dependensi Node & Python virtual environment
+node_modules/
+.venv/
+
+# Cache & file internal Remotion / agent
+.remotion/
+.codex/
+dist/
+build/
+
+# Bahan mentah (audio & visual sumber sebelum disinkronkan ke public/)
+assets/
+
+# Log & file sementara OS / editor
+*.log
+.DS_Store
+Thumbs.db
+
+# Proyek lain di public/ di-ignore; hanya public/yunani & public/sejarah-2 yang di-track
+public/sejarah-1/
+public/stickman/
+public/stickman2/
+

@@ -1,0 +1,246 @@
+Sentence   1 (     0 -   7860 ms | 7.86s):
+  "Pada tahun 1877, Thomas Edison membisikan bahwa ibu iji anak -anak ke sebuah mesin perunggu yang berputar."
+
+Sentence   2 (  8440 -  12220 ms | 3.78s):
+  "Seatjarung mesin memutar ulang suaranya, ia tersentah kaget."
+
+Sentence   3 ( 12780 -  16240 ms | 3.46s):
+  "Suara dari cowarang itu sama sekali tidak terdengar seperti dirinya."
+
+Sentence   4 ( 16880 -  20340 ms | 3.46s):
+  "Yang merasa seperti mendengar orang asing yang menirukan perkataannya."
+
+Sentence   5 ( 21000 -  26840 ms | 5.84s):
+  "Mengapa hampir semua manusia di bumi merasa asing dan terganggu saat mendengar rekaman suaranya sendiri?"
+
+Sentence   6 ( 26840 -  35900 ms | 9.06s):
+  "Setiap kali kamu berbicara, suaramu menemput dua jalur yang berbeda untuk samai keteling kamu, jalur pertama adalah konduxi udara."
+
+Sentence   7 ( 36540 -  43740 ms | 7.20s):
+  "Glombang suara keluar dari mulutmu, merambat di udara, menggetarkan gendang kelinga, lalu diteruskan ke organ pendengaran."
+
+Sentence   8 ( 44540 -  47700 ms | 3.16s):
+  "Orang lain mendengar suaramu murni melalui jalur udara ini."
+
+Sentence   9 ( 48480 -  53980 ms | 5.50s):
+  "Namun, kamu mendengar suaramu sendiri melalui jalur kedua, iaitu konduxi tulang."
+
+Sentence  10 ( 53980 -  59360 ms | 5.38s):
+  "Saat pita suaramu bergetar, getaran itu merambat langsung melalui tulang tengkorakmu."
+
+Sentence  11 ( 59840 -  63360 ms | 3.52s):
+  "Tulang tengkorak manusia bertindak seperti penyari nada rendah."
+
+Sentence  12 ( 63920 -  67800 ms | 3.88s):
+  "Tulang ini memperkuat getaran frequency rendah di bawah seribu Hertz."
+
+Sentence  13 ( 68480 -  74560 ms | 6.08s):
+  "Hasilnya, suara yang kamu dengar di dalam kepala musendiri, terasa lebih berat, hangat, dan berubah."
+
+Sentence  14 ( 75020 -  79520 ms | 4.50s):
+  "Kamu sudah terbiasa mendengar versi yang kayak nadabas ini sepanjang hidupmu."
+
+Sentence  15 ( 79520 -  83940 ms | 4.42s):
+  "Tapi saat suara direkan, mikrofon hanya menangkap gelombang udara."
+
+Sentence  16 ( 84520 -  86780 ms | 2.26s):
+  "Komponent getaran tulang hilang sepenuhnya."
+
+Sentence  17 ( 87400 -  90220 ms | 2.82s):
+  "Suara mau tiba -tiba terdengar lebih tipe dan lebih tinggi."
+
+Sentence  18 ( 90860 -  92060 ms | 1.20s):
+  "Tapi ini belum yang terburuk."
+
+Sentence  19 ( 92620 -  96140 ms | 3.52s):
+  "Apakah ketidaknya manan ini cuma karena masalah frequency fisik?"
+
+Sentence  20 ( 97380 - 105340 ms | 7.96s):
+  "Padahun seribu 1960 -na, dua sikolok bernama Philip Holtzman dan Clite Raussi menggelar penelitian di Manning Refoundation."
+
+Sentence  21 (105840 - 109020 ms | 3.18s):
+  "Mereka curiga ada alasan psikologis yang lebih dalam."
+
+Sentence  22 (109470 - 115470 ms | 6.00s):
+  "Holtzman dan Raussi menemai fenomena ini sebagai konfrontasi suara atau voice confrontation."
+
+Sentence  23 (116050 - 123770 ms | 7.72s):
+  "Dalam uji coba mereka, hanya 38 % orang yang mampu mengenali suara rekaman mereka sendiri dalam 5 detik pertama."
+
+Sentence  24 (124350 - 128790 ms | 4.44s):
+  "Begitu rekaman di putar, para peserta berteriak menolak dan meminta mesin dimatikan."
+
+Sentence  25 (129650 - 132690 ms | 3.04s):
+  "Holtzman dan Raussi menemukan fakta yang sangat mengejutkan."
+
+Sentence  26 (133630 - 136550 ms | 2.92s):
+  "Rasanya cemas itu muncul bukan hanya karena nada suaramu berubah."
+
+Sentence  27 (136550 - 140590 ms | 4.04s):
+  "Rekaman suara ternyata berkindak seperti cermin emosi yang telanjang."
+
+Sentence  28 (141510 - 145030 ms | 3.52s):
+  "Saat kamu berbicara, perhatian sadarmu fokus pada isi pesan."
+
+Sentence  29 (145570 - 147790 ms | 2.22s):
+  "Kamu tidak sadar pada isyarat di luar bahasa."
+
+Sentence  30 (148370 - 154990 ms | 6.62s):
+  "Isyarat ini mencakup getaran nada yang membocorkan rasa cemas, keraguan, kesedahan, atau ketegangan emosi."
+
+Sentence  31 (155830 - 160850 ms | 5.02s):
+  "Rekaman suara memutar ulang emosi tersembunyi yang sebenarnya tidak ingin kamu tunjukkan kepada dunia."
+
+Sentence  32 (162020 - 163720 ms | 1.70s):
+  "Dan disini lah ceritanya berubah."
+
+Sentence  33 (164330 - 171990 ms | 7.66s):
+  "Parat tahun 1967, Holtzman, Andrew Berger, dan Raussi mengujik kelompok orang bilingwis yang menguasai dua bahasa."
+
+Sentence  34 (172530 - 176410 ms | 3.88s):
+  "Mereka mengujik peserta yang mempelajari bahasa kedua setelah usia 16 tahun."
+
+Sentence  35 (177090 - 182810 ms | 5.72s):
+  "Para penleti, membandingkan reaksi saat peserta mendengar rekaman suara mereka dalam bahasa ibu dan bahasa kedua."
+
+Sentence  36 (183680 - 185100 ms | 1.42s):
+  "Hasilnya sungguh tak terduga."
+
+Sentence  37 (185640 - 191160 ms | 5.52s):
+  "Para peserta merasa jauh lebih terganggu saat mendengar suara mereka dalam bahasa ibu dibandingkan dalam bahasa kedua."
+
+Sentence  38 (191160 - 195440 ms | 4.28s):
+  "Padahal, tulang tengkorak dan pita suara yang digunakan sama persis."
+
+Sentence  39 (196140 - 202180 ms | 6.04s):
+  "Ini membuktikan bahwa rasa benci pada suara sendiri bukan sekadar masalah akustik, melahinkan kejutan psikologis."
+
+Sentence  40 (202540 - 206140 ms | 3.60s):
+  "Karena bahasa ibu terkait erat dengan ego dan identitas dirimu."
+
+Sentence  41 (207390 - 209130 ms | 1.74s):
+  "Mari kita atur ulang pemahaman kita."
+
+Sentence  42 (209950 - 213150 ms | 3.20s):
+  "Otakmu telah membangun gambaran diri akustik selama puluh antahun."
+
+Sentence  43 (213630 - 218690 ms | 5.06s):
+  "Saat rekaman diputar, gambaran diri itu runtuh karena suara mau tidak sesuai dengan ekspektasi internalmu."
+
+Sentence  44 (218690 - 222470 ms | 3.78s):
+  "Lalu, bagaimana otakmu memproses suara saat kamu berbicara?"
+
+Sentence  45 (223750 - 226350 ms | 2.60s):
+  "Bayangkan saat kamu mencoba menggelitik dirimu sendiri."
+
+Sentence  46 (226950 - 230350 ms | 3.40s):
+  "Kamu tidak akan merasa geli, karena otakmu sudah tahu arah gerakan jari mu."
+
+Sentence  47 (231090 - 233110 ms | 2.02s):
+  "Hal yang sama terjadi pada pendengaran mu."
+
+Sentence  48 (233750 - 238870 ms | 5.12s):
+  "Ketika cortex motorik di otak merencanakan perintah untuk berbicara, otak mengirim sinyal ganda."
+
+Sentence  49 (239590 - 247790 ms | 8.20s):
+  "Sinyal pertama, dikirim kepita suara untuk bergerak, sinyal kedua dikirim ke area pendengaran sebagai salinan perintah, atau salinan effrent."
+
+Sentence  50 (248370 - 252330 ms | 3.96s):
+  "Salinan ini memicur ramalan internal, bernama pelupasan korolari."
+
+Sentence  51 (252970 - 255450 ms | 2.48s):
+  "Ramalan ini memperkirakan suara yang akan ke luar."
+
+Sentence  52 (256090 - 260830 ms | 4.74s):
+  "Saat suara aktualmu terdengar, otakmu secara otomatis meredam sensitivitas pendengaran."
+
+Sentence  53 (261470 - 269710 ms | 8.24s):
+  "Dalam pengukuran gelombang otak, proses ini terlihat sebagai redaman sinyal gelombang N100, yang memuncak pada 80 hingga 120 mililitatik."
+
+Sentence  54 (270330 - 275750 ms | 5.42s):
+  "Otakmu sengaja menurunkan volume pendengaran internal, agar kamu tidak mengalami kelelahan sarap saat berbicara."
+
+Sentence  55 (275750 - 281410 ms | 5.66s):
+  "Gampangnya otakmu memakai fitur perdambising otomatis setiap kali kamu membuka mulut."
+
+Sentence  56 (281950 - 285230 ms | 3.28s):
+  "Namun, mekanismenya berubah total saat kamu mendengarkan rekaman."
+
+Sentence  57 (285890 - 289070 ms | 3.18s):
+  "Saat memutar ulang audio, area motorik otakmu tidak bekerja."
+
+Sentence  58 (289550 - 294970 ms | 5.42s):
+  "Tidak ada perintah bicarah, tidak ada salinan effrent, dan sinyal perdambising N100 mati sepenuhnya."
+
+Sentence  59 (295610 - 298670 ms | 3.06s):
+  "Otakmu menganalisi suara rekaman itu tanpa perlinangan internal."
+
+Sentence  60 (299270 - 305090 ms | 5.82s):
+  "Otak memproses suara mudengen ketajaman penuh, sama seperti saat menilai suara orang asing yang belum pernah kamu kenal."
+
+Sentence  61 (305090 - 308690 ms | 3.60s):
+  "Tetapi orang mengira kita membenci suara asli kita secara alami."
+
+Sentence  62 (309290 - 311290 ms | 2.00s):
+  "Ternyata, anggapan itu salah besar."
+
+Sentence  63 (311990 - 318290 ms | 6.30s):
+  "Para tahun 2013, dua peneliti bernama Susan Hughes dan Marissa Harrison menggelir eksperimen unik di Outbreak College."
+
+Sentence  64 (318870 - 324310 ms | 5.44s):
+  "Mereka meminta 80 peserta menilai tingkat daya tarik dari berbagai rekaman suara berhitung 1 sampai 10."
+
+Sentence  65 (324970 - 329450 ms | 4.48s):
+  "Tanpa di beritahu, peneliti menyelipkan rekaman suara peserta itu sendiri ke dalam daftar."
+
+Sentence  66 (330150 - 331730 ms | 1.58s):
+  "Hasilnya sangat mengajutkan."
+
+Sentence  67 (332310 - 335150 ms | 2.84s):
+  "Ketika peserta tidak sadar bahwa itu adalah suara mereka sendiri."
+
+Sentence  68 (335690 - 339670 ms | 3.98s):
+  "Mereka justru menilai suara mereka jauh lebih menarik dibandingkan penilayan orang lain."
+
+Sentence  69 (340310 - 345190 ms | 4.88s):
+  "Otakmu secara tidak sadar sangat menyukai karakter suara musendiri melalui bias ego implicit."
+
+Sentence  70 (345870 - 347350 ms | 1.48s):
+  "Di sinilah titik baliknya."
+
+Sentence  71 (347950 - 352950 ms | 5.00s):
+  "Rasat tidak nyaman dan benci itu baru muncul saat kesadaran eksplisitmu menyadari identitas suara mu."
+
+Sentence  72 (353470 - 358150 ms | 4.68s):
+  "Penelitian terbaru oleh Victorosi dan timnya pada tahun 2026 mengonfirmasi hal ini."
+
+Sentence  73 (358750 - 365690 ms | 6.94s):
+  "Ketika orang secara spontan mengenali suaranya di rekaman, ekspektasi internal mereka langsung bentrok dengan kenyataan akustik."
+
+Sentence  74 (366170 - 369430 ms | 3.26s):
+  "Kesadaran itulah yang memiju rasa terkejut dan canggung."
+
+Sentence  75 (370360 - 374140 ms | 3.78s):
+  "Jadi suara mudi rekaman sebenarnya tidak pernah buruk."
+
+Sentence  76 (374500 - 377620 ms | 3.12s):
+  "Orang lain mendengarnya sebagai suara yang wajar dan menarik."
+
+Sentence  77 (378020 - 383380 ms | 5.36s):
+  "Yang membuat mutereganggu, hanyalah kejutan otakmu yang kehilangan filter tulang dan perdambi sing internal."
+
+Sentence  78 (384440 - 391540 ms | 7.10s):
+  "Sejak Thomas Edison memutar ulang rekamannya pada tahun 1877, manusia terus terkejut oleh suara mereka sendiri."
+
+Sentence  79 (392260 - 394200 ms | 1.94s):
+  "Namun, kini kamu sudah tahu rahasiannya."
+
+Sentence  80 (394840 - 398360 ms | 3.52s):
+  "Suara dari rekaman adalah suaramu yang jujur bagi dunia."
+
+Sentence  81 (398980 - 403520 ms | 4.54s):
+  "Jika kamu terus mendengarkan rekaman suaramu, otakmu akan terbiasa dan berhenti terkejut."
+
+Sentence  82 (404250 - 411270 ms | 7.02s):
+  "Lagipula, jika secara tidak sadar kamu menyukai suaramu sendiri, mengapa kamu harus ragu memperdengarkannya kepada dunia?"
+

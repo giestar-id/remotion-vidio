@@ -1,0 +1,1133 @@
+{
+  "audioDurationMs": 804360,
+  "audio": "yunani/voiceover.wav",
+  "scenes": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 6690,
+      "image": "yunani/scene-1.jpg",
+      "words": 10
+    },
+    {
+      "id": 2,
+      "startMs": 6690,
+      "endMs": 12420,
+      "image": "yunani/scene-2.jpg",
+      "words": 10
+    },
+    {
+      "id": 3,
+      "startMs": 12420,
+      "endMs": 20240,
+      "image": "yunani/scene-3.jpg",
+      "words": 13
+    },
+    {
+      "id": 4,
+      "startMs": 20240,
+      "endMs": 24870,
+      "image": "yunani/scene-4.jpg",
+      "words": 8
+    },
+    {
+      "id": 5,
+      "startMs": 24870,
+      "endMs": 28770,
+      "image": "yunani/scene-5.jpg",
+      "words": 7
+    },
+    {
+      "id": 6,
+      "startMs": 28770,
+      "endMs": 32830,
+      "image": "yunani/scene-6.jpg",
+      "words": 7
+    },
+    {
+      "id": 7,
+      "startMs": 32830,
+      "endMs": 37070,
+      "image": "yunani/scene-7.jpg",
+      "words": 8
+    },
+    {
+      "id": 8,
+      "startMs": 37070,
+      "endMs": 41270,
+      "image": "yunani/scene-8.jpg",
+      "words": 8
+    },
+    {
+      "id": 9,
+      "startMs": 41270,
+      "endMs": 45210,
+      "image": "yunani/scene-9.jpg",
+      "words": 8
+    },
+    {
+      "id": 10,
+      "startMs": 45210,
+      "endMs": 49510,
+      "image": "yunani/scene-10.jpg",
+      "words": 8
+    },
+    {
+      "id": 11,
+      "startMs": 49510,
+      "endMs": 53620,
+      "image": "yunani/scene-11.jpg",
+      "words": 9
+    },
+    {
+      "id": 12,
+      "startMs": 53620,
+      "endMs": 59430,
+      "image": "yunani/scene-12.jpg",
+      "words": 8
+    },
+    {
+      "id": 13,
+      "startMs": 59430,
+      "endMs": 64730,
+      "image": "yunani/scene-13.jpg",
+      "words": 9
+    },
+    {
+      "id": 14,
+      "startMs": 64730,
+      "endMs": 69470,
+      "image": "yunani/scene-14.jpg",
+      "words": 9
+    },
+    {
+      "id": 15,
+      "startMs": 69470,
+      "endMs": 75330,
+      "image": "yunani/scene-15.jpg",
+      "words": 13
+    },
+    {
+      "id": 16,
+      "startMs": 75330,
+      "endMs": 79730,
+      "image": "yunani/scene-16.jpg",
+      "words": 10
+    },
+    {
+      "id": 17,
+      "startMs": 79730,
+      "endMs": 83370,
+      "image": "yunani/scene-17.jpg",
+      "words": 4
+    },
+    {
+      "id": 18,
+      "startMs": 83370,
+      "endMs": 88310,
+      "image": "yunani/scene-18.jpg",
+      "words": 10
+    },
+    {
+      "id": 19,
+      "startMs": 88310,
+      "endMs": 91810,
+      "image": "yunani/scene-19.jpg",
+      "words": 7
+    },
+    {
+      "id": 20,
+      "startMs": 91810,
+      "endMs": 95070,
+      "image": "yunani/scene-20.jpg",
+      "words": 7
+    },
+    {
+      "id": 21,
+      "startMs": 95070,
+      "endMs": 100920,
+      "image": "yunani/scene-21.jpg",
+      "words": 12
+    },
+    {
+      "id": 22,
+      "startMs": 100920,
+      "endMs": 108070,
+      "image": "yunani/scene-22.jpg",
+      "words": 12
+    },
+    {
+      "id": 23,
+      "startMs": 108070,
+      "endMs": 112570,
+      "image": "yunani/scene-23.jpg",
+      "words": 7
+    },
+    {
+      "id": 24,
+      "startMs": 112570,
+      "endMs": 117600,
+      "image": "yunani/scene-24.jpg",
+      "words": 9
+    },
+    {
+      "id": 25,
+      "startMs": 117600,
+      "endMs": 120540,
+      "image": "yunani/scene-25.jpg",
+      "words": 7
+    },
+    {
+      "id": 26,
+      "startMs": 120540,
+      "endMs": 129480,
+      "image": "yunani/scene-26.jpg",
+      "words": 14
+    },
+    {
+      "id": 27,
+      "startMs": 129480,
+      "endMs": 132840,
+      "image": "yunani/scene-27.jpg",
+      "words": 6
+    },
+    {
+      "id": 28,
+      "startMs": 132840,
+      "endMs": 135400,
+      "image": "yunani/scene-28.jpg",
+      "words": 6
+    },
+    {
+      "id": 29,
+      "startMs": 135400,
+      "endMs": 141350,
+      "image": "yunani/scene-29.jpg",
+      "words": 13
+    },
+    {
+      "id": 30,
+      "startMs": 141350,
+      "endMs": 144050,
+      "image": "yunani/scene-30.jpg",
+      "words": 6
+    },
+    {
+      "id": 31,
+      "startMs": 144050,
+      "endMs": 154350,
+      "image": "yunani/scene-31.jpg",
+      "words": 13
+    },
+    {
+      "id": 32,
+      "startMs": 154350,
+      "endMs": 159930,
+      "image": "yunani/scene-32.jpg",
+      "words": 7
+    },
+    {
+      "id": 33,
+      "startMs": 159930,
+      "endMs": 166590,
+      "image": "yunani/scene-33.jpg",
+      "words": 12
+    },
+    {
+      "id": 34,
+      "startMs": 166590,
+      "endMs": 171550,
+      "image": "yunani/scene-34.jpg",
+      "words": 7
+    },
+    {
+      "id": 35,
+      "startMs": 171550,
+      "endMs": 177250,
+      "image": "yunani/scene-35.jpg",
+      "words": 9
+    },
+    {
+      "id": 36,
+      "startMs": 177250,
+      "endMs": 182090,
+      "image": "yunani/scene-36.jpg",
+      "words": 11
+    },
+    {
+      "id": 37,
+      "startMs": 182090,
+      "endMs": 189830,
+      "image": "yunani/scene-37.jpg",
+      "words": 15
+    },
+    {
+      "id": 38,
+      "startMs": 189830,
+      "endMs": 196420,
+      "image": "yunani/scene-38.jpg",
+      "words": 12
+    },
+    {
+      "id": 39,
+      "startMs": 196420,
+      "endMs": 200960,
+      "image": "yunani/scene-39.jpg",
+      "words": 9
+    },
+    {
+      "id": 40,
+      "startMs": 200960,
+      "endMs": 203370,
+      "image": "yunani/scene-40.jpg",
+      "words": 6
+    },
+    {
+      "id": 41,
+      "startMs": 203370,
+      "endMs": 206100,
+      "image": "yunani/scene-41.jpg",
+      "words": 5
+    },
+    {
+      "id": 42,
+      "startMs": 206100,
+      "endMs": 212570,
+      "image": "yunani/scene-42.jpg",
+      "words": 9
+    },
+    {
+      "id": 43,
+      "startMs": 212570,
+      "endMs": 218180,
+      "image": "yunani/scene-43.jpg",
+      "words": 10
+    },
+    {
+      "id": 44,
+      "startMs": 218180,
+      "endMs": 223700,
+      "image": "yunani/scene-44.jpg",
+      "words": 9
+    },
+    {
+      "id": 45,
+      "startMs": 223700,
+      "endMs": 230220,
+      "image": "yunani/scene-45.jpg",
+      "words": 10
+    },
+    {
+      "id": 46,
+      "startMs": 230220,
+      "endMs": 234160,
+      "image": "yunani/scene-46.jpg",
+      "words": 7
+    },
+    {
+      "id": 47,
+      "startMs": 234160,
+      "endMs": 240320,
+      "image": "yunani/scene-47.jpg",
+      "words": 13
+    },
+    {
+      "id": 48,
+      "startMs": 240320,
+      "endMs": 243550,
+      "image": "yunani/scene-48.jpg",
+      "words": 6
+    },
+    {
+      "id": 49,
+      "startMs": 243550,
+      "endMs": 247290,
+      "image": "yunani/scene-49.jpg",
+      "words": 8
+    },
+    {
+      "id": 50,
+      "startMs": 247290,
+      "endMs": 252550,
+      "image": "yunani/scene-50.jpg",
+      "words": 10
+    },
+    {
+      "id": 51,
+      "startMs": 252550,
+      "endMs": 257750,
+      "image": "yunani/scene-51.jpg",
+      "words": 10
+    },
+    {
+      "id": 52,
+      "startMs": 257750,
+      "endMs": 262490,
+      "image": "yunani/scene-52.jpg",
+      "words": 10
+    },
+    {
+      "id": 53,
+      "startMs": 262490,
+      "endMs": 266940,
+      "image": "yunani/scene-53.jpg",
+      "words": 8
+    },
+    {
+      "id": 54,
+      "startMs": 266940,
+      "endMs": 270000,
+      "image": "yunani/scene-54.jpg",
+      "words": 6
+    },
+    {
+      "id": 55,
+      "startMs": 270000,
+      "endMs": 275810,
+      "image": "yunani/scene-55.jpg",
+      "words": 12
+    },
+    {
+      "id": 56,
+      "startMs": 275810,
+      "endMs": 281360,
+      "image": "yunani/scene-56.jpg",
+      "words": 10
+    },
+    {
+      "id": 57,
+      "startMs": 281360,
+      "endMs": 287640,
+      "image": "yunani/scene-57.jpg",
+      "words": 16
+    },
+    {
+      "id": 58,
+      "startMs": 287640,
+      "endMs": 291140,
+      "image": "yunani/scene-58.jpg",
+      "words": 4
+    },
+    {
+      "id": 59,
+      "startMs": 291140,
+      "endMs": 296450,
+      "image": "yunani/scene-59.jpg",
+      "words": 10
+    },
+    {
+      "id": 60,
+      "startMs": 296450,
+      "endMs": 301070,
+      "image": "yunani/scene-60.jpg",
+      "words": 10
+    },
+    {
+      "id": 61,
+      "startMs": 301070,
+      "endMs": 309420,
+      "image": "yunani/scene-61.jpg",
+      "words": 13
+    },
+    {
+      "id": 62,
+      "startMs": 309420,
+      "endMs": 312500,
+      "image": "yunani/scene-62.jpg",
+      "words": 7
+    },
+    {
+      "id": 63,
+      "startMs": 312500,
+      "endMs": 317190,
+      "image": "yunani/scene-63.jpg",
+      "words": 10
+    },
+    {
+      "id": 64,
+      "startMs": 317190,
+      "endMs": 319940,
+      "image": "yunani/scene-64.jpg",
+      "words": 6
+    },
+    {
+      "id": 65,
+      "startMs": 319940,
+      "endMs": 322770,
+      "image": "yunani/scene-65.jpg",
+      "words": 6
+    },
+    {
+      "id": 66,
+      "startMs": 322770,
+      "endMs": 329160,
+      "image": "yunani/scene-66.jpg",
+      "words": 13
+    },
+    {
+      "id": 67,
+      "startMs": 329160,
+      "endMs": 337100,
+      "image": "yunani/scene-67.jpg",
+      "words": 16
+    },
+    {
+      "id": 68,
+      "startMs": 337100,
+      "endMs": 339440,
+      "image": "yunani/scene-68.jpg",
+      "words": 4
+    },
+    {
+      "id": 69,
+      "startMs": 339440,
+      "endMs": 342040,
+      "image": "yunani/scene-69.jpg",
+      "words": 5
+    },
+    {
+      "id": 70,
+      "startMs": 342040,
+      "endMs": 346895,
+      "image": "yunani/scene-70.jpg",
+      "words": 11
+    },
+    {
+      "id": 71,
+      "startMs": 346895,
+      "endMs": 353350,
+      "image": "yunani/scene-71.jpg",
+      "words": 12
+    },
+    {
+      "id": 72,
+      "startMs": 353350,
+      "endMs": 358310,
+      "image": "yunani/scene-72.jpg",
+      "words": 10
+    },
+    {
+      "id": 73,
+      "startMs": 358310,
+      "endMs": 363490,
+      "image": "yunani/scene-73.jpg",
+      "words": 11
+    },
+    {
+      "id": 74,
+      "startMs": 363490,
+      "endMs": 368060,
+      "image": "yunani/scene-74.jpg",
+      "words": 9
+    },
+    {
+      "id": 75,
+      "startMs": 368060,
+      "endMs": 373150,
+      "image": "yunani/scene-75.jpg",
+      "words": 11
+    },
+    {
+      "id": 76,
+      "startMs": 373150,
+      "endMs": 375960,
+      "image": "yunani/scene-76.jpg",
+      "words": 8
+    },
+    {
+      "id": 77,
+      "startMs": 375960,
+      "endMs": 381810,
+      "image": "yunani/scene-77.jpg",
+      "words": 11
+    },
+    {
+      "id": 78,
+      "startMs": 381810,
+      "endMs": 386110,
+      "image": "yunani/scene-78.jpg",
+      "words": 10
+    },
+    {
+      "id": 79,
+      "startMs": 386110,
+      "endMs": 390090,
+      "image": "yunani/scene-79.jpg",
+      "words": 7
+    },
+    {
+      "id": 80,
+      "startMs": 390090,
+      "endMs": 394410,
+      "image": "yunani/scene-80.jpg",
+      "words": 9
+    },
+    {
+      "id": 81,
+      "startMs": 394410,
+      "endMs": 401490,
+      "image": "yunani/scene-81.jpg",
+      "words": 13
+    },
+    {
+      "id": 82,
+      "startMs": 401490,
+      "endMs": 404740,
+      "image": "yunani/scene-82.jpg",
+      "words": 6
+    },
+    {
+      "id": 83,
+      "startMs": 404740,
+      "endMs": 408170,
+      "image": "yunani/scene-83.jpg",
+      "words": 6
+    },
+    {
+      "id": 84,
+      "startMs": 408170,
+      "endMs": 416850,
+      "image": "yunani/scene-84.jpg",
+      "words": 18
+    },
+    {
+      "id": 85,
+      "startMs": 416850,
+      "endMs": 420530,
+      "image": "yunani/scene-85.jpg",
+      "words": 8
+    },
+    {
+      "id": 86,
+      "startMs": 420530,
+      "endMs": 425136,
+      "image": "yunani/scene-86.jpg",
+      "words": 8
+    },
+    {
+      "id": 87,
+      "startMs": 425136,
+      "endMs": 429620,
+      "image": "yunani/scene-87.jpg",
+      "words": 9
+    },
+    {
+      "id": 88,
+      "startMs": 429620,
+      "endMs": 433750,
+      "image": "yunani/scene-88.jpg",
+      "words": 8
+    },
+    {
+      "id": 89,
+      "startMs": 433750,
+      "endMs": 438650,
+      "image": "yunani/scene-89.jpg",
+      "words": 10
+    },
+    {
+      "id": 90,
+      "startMs": 438650,
+      "endMs": 443650,
+      "image": "yunani/scene-90.jpg",
+      "words": 10
+    },
+    {
+      "id": 91,
+      "startMs": 443650,
+      "endMs": 447040,
+      "image": "yunani/scene-91.jpg",
+      "words": 8
+    },
+    {
+      "id": 92,
+      "startMs": 447040,
+      "endMs": 455390,
+      "image": "yunani/scene-92.jpg",
+      "words": 14
+    },
+    {
+      "id": 93,
+      "startMs": 455390,
+      "endMs": 458765,
+      "image": "yunani/scene-93.jpg",
+      "words": 9
+    },
+    {
+      "id": 94,
+      "startMs": 458765,
+      "endMs": 464340,
+      "image": "yunani/scene-94.jpg",
+      "words": 10
+    },
+    {
+      "id": 95,
+      "startMs": 464340,
+      "endMs": 468590,
+      "image": "yunani/scene-95.jpg",
+      "words": 9
+    },
+    {
+      "id": 96,
+      "startMs": 468590,
+      "endMs": 471370,
+      "image": "yunani/scene-96.jpg",
+      "words": 4
+    },
+    {
+      "id": 97,
+      "startMs": 471370,
+      "endMs": 477090,
+      "image": "yunani/scene-97.jpg",
+      "words": 10
+    },
+    {
+      "id": 98,
+      "startMs": 477090,
+      "endMs": 481400,
+      "image": "yunani/scene-98.jpg",
+      "words": 9
+    },
+    {
+      "id": 99,
+      "startMs": 481400,
+      "endMs": 487691,
+      "image": "yunani/scene-99.jpg",
+      "words": 11
+    },
+    {
+      "id": 100,
+      "startMs": 487691,
+      "endMs": 493140,
+      "image": "yunani/scene-100.jpg",
+      "words": 7
+    },
+    {
+      "id": 101,
+      "startMs": 493140,
+      "endMs": 499500,
+      "image": "yunani/scene-101.jpg",
+      "words": 11
+    },
+    {
+      "id": 102,
+      "startMs": 499500,
+      "endMs": 504490,
+      "image": "yunani/scene-102.jpg",
+      "words": 9
+    },
+    {
+      "id": 103,
+      "startMs": 504490,
+      "endMs": 508940,
+      "image": "yunani/scene-103.jpg",
+      "words": 8
+    },
+    {
+      "id": 104,
+      "startMs": 508940,
+      "endMs": 514050,
+      "image": "yunani/scene-104.jpg",
+      "words": 10
+    },
+    {
+      "id": 105,
+      "startMs": 514050,
+      "endMs": 519940,
+      "image": "yunani/scene-105.jpg",
+      "words": 10
+    },
+    {
+      "id": 106,
+      "startMs": 519940,
+      "endMs": 524930,
+      "image": "yunani/scene-106.jpg",
+      "words": 10
+    },
+    {
+      "id": 107,
+      "startMs": 524930,
+      "endMs": 527640,
+      "image": "yunani/scene-107.jpg",
+      "words": 4
+    },
+    {
+      "id": 108,
+      "startMs": 527640,
+      "endMs": 531670,
+      "image": "yunani/scene-108.jpg",
+      "words": 8
+    },
+    {
+      "id": 109,
+      "startMs": 531670,
+      "endMs": 537350,
+      "image": "yunani/scene-109.jpg",
+      "words": 12
+    },
+    {
+      "id": 110,
+      "startMs": 537350,
+      "endMs": 541110,
+      "image": "yunani/scene-110.jpg",
+      "words": 8
+    },
+    {
+      "id": 111,
+      "startMs": 541110,
+      "endMs": 546770,
+      "image": "yunani/scene-111.jpg",
+      "words": 11
+    },
+    {
+      "id": 112,
+      "startMs": 546770,
+      "endMs": 550870,
+      "image": "yunani/scene-112.jpg",
+      "words": 6
+    },
+    {
+      "id": 113,
+      "startMs": 550870,
+      "endMs": 554470,
+      "image": "yunani/scene-113.jpg",
+      "words": 7
+    },
+    {
+      "id": 114,
+      "startMs": 554470,
+      "endMs": 557700,
+      "image": "yunani/scene-114.jpg",
+      "words": 6
+    },
+    {
+      "id": 115,
+      "startMs": 557700,
+      "endMs": 561750,
+      "image": "yunani/scene-115.jpg",
+      "words": 6
+    },
+    {
+      "id": 116,
+      "startMs": 561750,
+      "endMs": 570980,
+      "image": "yunani/scene-116.jpg",
+      "words": 18
+    },
+    {
+      "id": 117,
+      "startMs": 570980,
+      "endMs": 578490,
+      "image": "yunani/scene-117.jpg",
+      "words": 10
+    },
+    {
+      "id": 118,
+      "startMs": 578490,
+      "endMs": 584310,
+      "image": "yunani/scene-118.jpg",
+      "words": 8
+    },
+    {
+      "id": 119,
+      "startMs": 584310,
+      "endMs": 588280,
+      "image": "yunani/scene-119.jpg",
+      "words": 6
+    },
+    {
+      "id": 120,
+      "startMs": 588280,
+      "endMs": 591640,
+      "image": "yunani/scene-120.jpg",
+      "words": 4
+    },
+    {
+      "id": 121,
+      "startMs": 591640,
+      "endMs": 596650,
+      "image": "yunani/scene-121.jpg",
+      "words": 10
+    },
+    {
+      "id": 122,
+      "startMs": 596650,
+      "endMs": 602250,
+      "image": "yunani/scene-122.jpg",
+      "words": 12
+    },
+    {
+      "id": 123,
+      "startMs": 602250,
+      "endMs": 605930,
+      "image": "yunani/scene-123.jpg",
+      "words": 7
+    },
+    {
+      "id": 124,
+      "startMs": 605930,
+      "endMs": 615100,
+      "image": "yunani/scene-124.jpg",
+      "words": 17
+    },
+    {
+      "id": 125,
+      "startMs": 615100,
+      "endMs": 621000,
+      "image": "yunani/scene-125.jpg",
+      "words": 11
+    },
+    {
+      "id": 126,
+      "startMs": 621000,
+      "endMs": 624220,
+      "image": "yunani/scene-126.jpg",
+      "words": 6
+    },
+    {
+      "id": 127,
+      "startMs": 624220,
+      "endMs": 628610,
+      "image": "yunani/scene-127.jpg",
+      "words": 9
+    },
+    {
+      "id": 128,
+      "startMs": 628610,
+      "endMs": 634890,
+      "image": "yunani/scene-128.jpg",
+      "words": 11
+    },
+    {
+      "id": 129,
+      "startMs": 634890,
+      "endMs": 639150,
+      "image": "yunani/scene-129.jpg",
+      "words": 8
+    },
+    {
+      "id": 130,
+      "startMs": 639150,
+      "endMs": 645380,
+      "image": "yunani/scene-130.jpg",
+      "words": 11
+    },
+    {
+      "id": 131,
+      "startMs": 645380,
+      "endMs": 647680,
+      "image": "yunani/scene-131.jpg",
+      "words": 3
+    },
+    {
+      "id": 132,
+      "startMs": 647680,
+      "endMs": 655440,
+      "image": "yunani/scene-132.jpg",
+      "words": 13
+    },
+    {
+      "id": 133,
+      "startMs": 655440,
+      "endMs": 661070,
+      "image": "yunani/scene-133.jpg",
+      "words": 11
+    },
+    {
+      "id": 134,
+      "startMs": 661070,
+      "endMs": 663620,
+      "image": "yunani/scene-134.jpg",
+      "words": 5
+    },
+    {
+      "id": 135,
+      "startMs": 663620,
+      "endMs": 669060,
+      "image": "yunani/scene-135.jpg",
+      "words": 10
+    },
+    {
+      "id": 136,
+      "startMs": 669060,
+      "endMs": 671800,
+      "image": "yunani/scene-136.jpg",
+      "words": 4
+    },
+    {
+      "id": 137,
+      "startMs": 671800,
+      "endMs": 677890,
+      "image": "yunani/scene-137.jpg",
+      "words": 17
+    },
+    {
+      "id": 138,
+      "startMs": 677890,
+      "endMs": 683130,
+      "image": "yunani/scene-138.jpg",
+      "words": 10
+    },
+    {
+      "id": 139,
+      "startMs": 683130,
+      "endMs": 686110,
+      "image": "yunani/scene-139.jpg",
+      "words": 6
+    },
+    {
+      "id": 140,
+      "startMs": 686110,
+      "endMs": 691790,
+      "image": "yunani/scene-140.jpg",
+      "words": 12
+    },
+    {
+      "id": 141,
+      "startMs": 691790,
+      "endMs": 696230,
+      "image": "yunani/scene-141.jpg",
+      "words": 9
+    },
+    {
+      "id": 142,
+      "startMs": 696230,
+      "endMs": 698830,
+      "image": "yunani/scene-142.jpg",
+      "words": 5
+    },
+    {
+      "id": 143,
+      "startMs": 698830,
+      "endMs": 701370,
+      "image": "yunani/scene-143.jpg",
+      "words": 5
+    },
+    {
+      "id": 144,
+      "startMs": 701370,
+      "endMs": 704010,
+      "image": "yunani/scene-144.jpg",
+      "words": 6
+    },
+    {
+      "id": 145,
+      "startMs": 704010,
+      "endMs": 706260,
+      "image": "yunani/scene-145.jpg",
+      "words": 5
+    },
+    {
+      "id": 146,
+      "startMs": 706260,
+      "endMs": 714670,
+      "image": "yunani/scene-146.jpg",
+      "words": 19
+    },
+    {
+      "id": 147,
+      "startMs": 714670,
+      "endMs": 722420,
+      "image": "yunani/scene-147.jpg",
+      "words": 13
+    },
+    {
+      "id": 148,
+      "startMs": 722420,
+      "endMs": 731190,
+      "image": "yunani/scene-148.jpg",
+      "words": 14
+    },
+    {
+      "id": 149,
+      "startMs": 731190,
+      "endMs": 739930,
+      "image": "yunani/scene-149.jpg",
+      "words": 16
+    },
+    {
+      "id": 150,
+      "startMs": 739930,
+      "endMs": 743300,
+      "image": "yunani/scene-150.jpg",
+      "words": 5
+    },
+    {
+      "id": 151,
+      "startMs": 743300,
+      "endMs": 748840,
+      "image": "yunani/scene-151.jpg",
+      "words": 9
+    },
+    {
+      "id": 152,
+      "startMs": 748840,
+      "endMs": 754100,
+      "image": "yunani/scene-152.jpg",
+      "words": 9
+    },
+    {
+      "id": 153,
+      "startMs": 754100,
+      "endMs": 757050,
+      "image": "yunani/scene-153.jpg",
+      "words": 6
+    },
+    {
+      "id": 154,
+      "startMs": 757050,
+      "endMs": 760520,
+      "image": "yunani/scene-154.jpg",
+      "words": 6
+    },
+    {
+      "id": 155,
+      "startMs": 760520,
+      "endMs": 770750,
+      "image": "yunani/scene-155.jpg",
+      "words": 17
+    },
+    {
+      "id": 156,
+      "startMs": 770750,
+      "endMs": 779040,
+      "image": "yunani/scene-156.jpg",
+      "words": 14
+    },
+    {
+      "id": 157,
+      "startMs": 779040,
+      "endMs": 784420,
+      "image": "yunani/scene-157.jpg",
+      "words": 10
+    },
+    {
+      "id": 158,
+      "startMs": 784420,
+      "endMs": 790310,
+      "image": "yunani/scene-158.jpg",
+      "words": 11
+    },
+    {
+      "id": 159,
+      "startMs": 790310,
+      "endMs": 797510,
+      "image": "yunani/scene-159.jpg",
+      "words": 13
+    },
+    {
+      "id": 160,
+      "startMs": 797510,
+      "endMs": 800920,
+      "image": "yunani/scene-160.jpg",
+      "words": 5
+    },
+    {
+      "id": 161,
+      "startMs": 800920,
+      "endMs": 804360,
+      "image": "yunani/scene-161.jpg",
+      "words": 7
+    }
+  ]
+}

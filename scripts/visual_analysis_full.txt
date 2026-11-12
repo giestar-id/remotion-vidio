@@ -1,0 +1,684 @@
+IMAGE #  1:
+  Visual Idea: Thomas Edison leaning close toward brass phonograph horn on workbench
+  Focus      : Edison on left third taking 40% frame height, phonograph on right third
+  Label      : 'EDISON' Background: 2 flat bands (sand ground #E5D8D0, pale parchment wall)
+  Original VO: Pada tahun 1877, Thomas Edison membisikkan bait puisi
+
+IMAGE #  2:
+  Visual Idea: Edison hand-turning brass crank handle of phonograph machine
+  Focus      : Edison on left third at 35% frame height turning crank
+  Label      : 
+  Original VO: anak-anak ke sebuah mesin perunggu yang berputar. Saat
+
+IMAGE #  3:
+  Visual Idea: Needle stylus touching rotating brass cylinder drum
+  Focus      : Needle tip taking 45% frame height in center third
+  Label      : 'NEEDLE' Background: 2 flat bands (workbench top, parchment wall)
+  Original VO: jarum mesin memutar ulang suaranya, ia tersentak kaget.
+
+IMAGE #  4:
+  Visual Idea: Edison jumping back with wide dot eyes and raised eyebrows in surprise
+  Focus      : Edison on left third taking 40% frame height
+  Label      : 
+  Original VO: Suara dari corong itu sama sekali tidak terdengar
+
+IMAGE #  5:
+  Visual Idea: Wavy sound arcs emerging from phonograph horn toward Edison
+  Focus      : Horn on left third, sound arcs floating right
+  Label      : 
+  Original VO: seperti dirinya. Ia merasa seperti mendengar orang asing
+
+IMAGE #  6:
+  Visual Idea: Edison staring at a stranger stickman shadow silhouette on parchment wall
+  Focus      : Edison on left third at 35% frame height, shadow silhouette on right third
+  Label      : 'STRANGER' Background: 2 flat bands (sand ground, parchment wall)
+  Original VO: yang menirukan perkataannya. Mengapa hampir semua manusia di
+
+IMAGE #  7:
+  Visual Idea: Edison pointing stick arm suspiciously at wall shadow silhouette
+  Focus      : Edison on left third taking 40% frame height pointing right
+  Label      : 
+  Original VO: bumi merasa asing dan terganggu saat mendengar rekaman
+
+IMAGE #  8:
+  Visual Idea: Narrator stickman standing center with open stick arms gesturing to world globe icon
+  Focus      : Narrator on center third taking 40% frame height
+  Label      : 'EARTH' Background: 2 flat bands (ochre ground, parchment stage wall)
+  Original VO: suaranya sendiri? Setiap kali kamu berbicara, suaramu menempuh
+
+IMAGE #  9:
+  Visual Idea: Narrator wearing studio headphones with cringing eyebrow expression
+  Focus      : Narrator taking 45% frame height in center third
+  Label      : 
+  Original VO: dua jalur yang berbeda untuk sampai ke telingamu.
+
+IMAGE # 10:
+  Visual Idea: Narrator speaking as sound waves branch into two separate arrow paths
+  Focus      : Narrator on left third, branching paths on right third
+  Label      : 
+  Original VO: Jalur pertama adalah konduksi udara. Gelombang suara keluar
+
+IMAGE # 11:
+  Visual Idea: Head profile cross-section showing Path 1 (Air Conduction) leaving mouth
+  Focus      : Head profile taking 40% frame height on left third
+  Label      : 'AIR PATH' Background: 2 flat bands (ground, parchment wall)
+  Original VO: dari mulutmu, merambat di udara, menggetarkan gendang telinga,
+
+IMAGE # 12:
+  Visual Idea: Royal blue air soundwaves traveling through open space toward eardrum
+  Focus      : Soundwaves taking center third of frame
+  Label      : 
+  Original VO: lalu diteruskan ke organ pendengaran. Orang lain mendengar
+
+IMAGE # 13:
+  Visual Idea: Blue soundwave vibrating thin eardrum line in cross-section
+  Focus      : Eardrum membrane line taking 45% frame height in center third
+  Label      : 'EAR DRUM' Background: 2 flat bands (ground, parchment wall)
+  Original VO: suaramu murni melalui jalur udara ini. Namun, kamu
+
+IMAGE # 14:
+  Visual Idea: External listener stickman receiving blue air soundwaves at ear canal
+  Focus      : Listener stickman on right third taking 35% frame height
+  Label      : 
+  Original VO: mendengar suaramu sendiri melalui jalur kedua, yaitu konduksi
+
+IMAGE # 15:
+  Visual Idea: Head profile cross-section highlighting Path 2 (Bone Conduction) inside skull bone layer
+  Focus      : Head profile on left third taking 40% frame height
+  Label      : 'BONE PATH' Background: 2 flat bands (ground, parchment wall)
+  Original VO: tulang. Saat pita suaramu bergetar, getaran itu merambat
+
+IMAGE # 16:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 1 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'BASS 16' Background: 3 flat bands in paler tints of scene color
+  Original VO: langsung melalui tulang tengkorakmu. Tulang tengkorak manusia bertindak
+
+IMAGE # 17:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 2 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: seperti penyaring nada rendah. Tulang ini memperkuat getaran
+
+IMAGE # 18:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 3 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: frekuensi rendah di bawah 1.000 Hz. Hasilnya, suara
+
+IMAGE # 19:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 4 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: yang kamu dengar di dalam kepalamu sendiri terasa
+
+IMAGE # 20:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 5 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'BASS 20' Background: 3 flat bands in paler tints of scene color
+  Original VO: lebih berat, hangat, dan berwibawa. Kamu sudah terbiasa
+
+IMAGE # 21:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 6 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: mendengar versi yang kaya nada bass ini sepanjang
+
+IMAGE # 22:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 7 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: hidupmu. Tapi saat suara direkam, mikrofon hanya menangkap
+
+IMAGE # 23:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 8 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: gelombang udara. Komponen getaran tulang hilang sepenuhnya. Suaramu
+
+IMAGE # 24:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 9 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'BASS 24' Background: 3 flat bands in paler tints of scene color
+  Original VO: tiba-tiba terdengar lebih tipis dan lebih tinggi. Tapi
+
+IMAGE # 25:
+  Visual Idea: Anatomical skull diagram showing internal bone conduction wave 10 filtering low frequencies
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: ini belum yang terburuk. Apakah ketidaknyamanan ini cuma
+
+IMAGE # 26:
+  Visual Idea: Psychological testing scene 1 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: karena masalah frekuensi fisik? Pada tahun 1966, dua
+
+IMAGE # 27:
+  Visual Idea: Psychological testing scene 2 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: psikolog bernama Philip Holzman dan Clyde Rousey menggelar
+
+IMAGE # 28:
+  Visual Idea: Psychological testing scene 3 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'STUDY 28' Background: 3 flat bands in paler tints of scene color
+  Original VO: penelitian di Menninger Foundation. Mereka curiga ada alasan
+
+IMAGE # 29:
+  Visual Idea: Psychological testing scene 4 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: psikologis yang lebih dalam. Holzman dan Rousey menamai
+
+IMAGE # 30:
+  Visual Idea: Psychological testing scene 5 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: fenomena ini sebagai konfrontasi suara atau voice confrontation.
+
+IMAGE # 31:
+  Visual Idea: Psychological testing scene 6 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: Dalam uji coba mereka, hanya 38 persen orang
+
+IMAGE # 32:
+  Visual Idea: Psychological testing scene 7 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'STUDY 32' Background: 3 flat bands in paler tints of scene color
+  Original VO: yang mampu mengenali suara rekaman mereka sendiri dalam
+
+IMAGE # 33:
+  Visual Idea: Psychological testing scene 8 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: lima detik pertama. Begitu rekaman diputar, para peserta
+
+IMAGE # 34:
+  Visual Idea: Psychological testing scene 9 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: berteriak menolak dan meminta mesin dimatikan. Holzman dan
+
+IMAGE # 35:
+  Visual Idea: Psychological testing scene 10 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: Rousey menemukan fakta yang sangat mengejutkan. Rasa cemas
+
+IMAGE # 36:
+  Visual Idea: Psychological testing scene 11 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'STUDY 36' Background: 3 flat bands in paler tints of scene color
+  Original VO: itu muncul bukan hanya karena nada suaramu berubah.
+
+IMAGE # 37:
+  Visual Idea: Psychological testing scene 12 with reel recorder and test subject experiencing voice confrontation
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: Rekaman suara ternyata bertindak seperti cermin emosi yang
+
+IMAGE # 38:
+  Visual Idea: Bilingual subject testing scene 1 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: telanjang. Saat kamu berbicara, perhatian sadarmu fokus pada
+
+IMAGE # 39:
+  Visual Idea: Bilingual subject testing scene 2 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: isi pesan. Kamu tidak sadar pada isyarat di
+
+IMAGE # 40:
+  Visual Idea: Bilingual subject testing scene 3 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'L1 VS L2' Background: 3 flat bands in paler tints of scene color
+  Original VO: luar bahasa. Isyarat ini mencakup getaran nada yang
+
+IMAGE # 41:
+  Visual Idea: Bilingual subject testing scene 4 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: membocorkan rasa cemas, keraguan, kesedihan, atau ketegangan emosi.
+
+IMAGE # 42:
+  Visual Idea: Bilingual subject testing scene 5 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: Rekaman suara memutar ulang emosi tersembunyi yang sebenarnya
+
+IMAGE # 43:
+  Visual Idea: Bilingual subject testing scene 6 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: tidak ingin kamu tunjukkan kepada dunia. Dan di
+
+IMAGE # 44:
+  Visual Idea: Bilingual subject testing scene 7 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'L1 VS L2' Background: 3 flat bands in paler tints of scene color
+  Original VO: sinilah ceritanya berubah. Pada tahun 1967, Holzman, Andrew
+
+IMAGE # 45:
+  Visual Idea: Bilingual subject testing scene 8 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: Berger, dan Rousey menguji kelompok orang bilinguis yang
+
+IMAGE # 46:
+  Visual Idea: Bilingual subject testing scene 9 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: menguasai dua bahasa. Mereka menguji peserta yang mempelajari
+
+IMAGE # 47:
+  Visual Idea: Bilingual subject testing scene 10 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: bahasa kedua setelah usia 16 tahun. Para peneliti
+
+IMAGE # 48:
+  Visual Idea: Bilingual subject testing scene 11 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'L1 VS L2' Background: 3 flat bands in paler tints of scene color
+  Original VO: membandingkan reaksi saat peserta mendengar rekaman suara mereka
+
+IMAGE # 49:
+  Visual Idea: Bilingual subject testing scene 12 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: dalam bahasa ibu dan bahasa kedua. Hasilnya sungguh
+
+IMAGE # 50:
+  Visual Idea: Bilingual subject testing scene 13 comparing L1 native vs L2 second language voice playback
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: tak terduga. Para peserta merasa jauh lebih terganggu
+
+IMAGE # 51:
+  Visual Idea: Brain motor cortex diagram scene 1 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: saat mendengar suara mereka dalam bahasa ibu dibandingkan
+
+IMAGE # 52:
+  Visual Idea: Brain motor cortex diagram scene 2 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'MOTOR' Background: 3 flat bands in paler tints of scene color
+  Original VO: dalam bahasa kedua. Padahal tulang tengkorak dan pita
+
+IMAGE # 53:
+  Visual Idea: Brain motor cortex diagram scene 3 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: suara yang digunakan sama persis. Ini membuktikan bahwa
+
+IMAGE # 54:
+  Visual Idea: Brain motor cortex diagram scene 4 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: rasa benci pada suara sendiri bukan sekadar masalah
+
+IMAGE # 55:
+  Visual Idea: Brain motor cortex diagram scene 5 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: akustik, melainkan kejutan psikologis karena bahasa ibu terkait
+
+IMAGE # 56:
+  Visual Idea: Brain motor cortex diagram scene 6 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'MOTOR' Background: 3 flat bands in paler tints of scene color
+  Original VO: erat dengan ego dan identitas dirimu. Mari kita
+
+IMAGE # 57:
+  Visual Idea: Brain motor cortex diagram scene 7 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: atur ulang pemahaman kita. Otakmu telah membangun gambaran
+
+IMAGE # 58:
+  Visual Idea: Brain motor cortex diagram scene 8 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: diri akustik selama puluhan tahun. Saat rekaman diputar,
+
+IMAGE # 59:
+  Visual Idea: Brain motor cortex diagram scene 9 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: gambaran diri itu runtuh karena suaramu tidak sesuai
+
+IMAGE # 60:
+  Visual Idea: Brain motor cortex diagram scene 10 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'MOTOR' Background: 3 flat bands in paler tints of scene color
+  Original VO: dengan ekspektasi internalmu. Lalu bagaimana otakmu memproses suara
+
+IMAGE # 61:
+  Visual Idea: Brain motor cortex diagram scene 11 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: saat kamu berbicara? Bayangkan saat kamu mencoba menggelitik
+
+IMAGE # 62:
+  Visual Idea: Brain motor cortex diagram scene 12 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: dirimu sendiri. Kamu tidak akan merasa geli karena
+
+IMAGE # 63:
+  Visual Idea: Brain motor cortex diagram scene 13 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: otakmu sudah tahu arah gerakan jarimu. Hal yang
+
+IMAGE # 64:
+  Visual Idea: Brain motor cortex diagram scene 14 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'MOTOR' Background: 3 flat bands in paler tints of scene color
+  Original VO: sama terjadi pada pendengaranmu. Ketika korteks motorik di
+
+IMAGE # 65:
+  Visual Idea: Brain motor cortex diagram scene 15 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: otak merencanakan perintah untuk berbicara, otak mengirim sinyal
+
+IMAGE # 66:
+  Visual Idea: Brain motor cortex diagram scene 16 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: ganda. Sinyal pertama dikirim ke pita suara untuk
+
+IMAGE # 67:
+  Visual Idea: Brain motor cortex diagram scene 17 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: bergerak. Sinyal kedua dikirim ke area pendengaran sebagai
+
+IMAGE # 68:
+  Visual Idea: Brain motor cortex diagram scene 18 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'MOTOR' Background: 3 flat bands in paler tints of scene color
+  Original VO: salinan perintah atau salinan eferen. Salinan ini memicu
+
+IMAGE # 69:
+  Visual Idea: Brain motor cortex diagram scene 19 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: ramalan internal bernama pelepasan korolari. Ramalan ini memperkirakan
+
+IMAGE # 70:
+  Visual Idea: Brain motor cortex diagram scene 20 sending efference copy signal to auditory cortex
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: suara yang akan keluar. Saat suara aktualmu terdengar,
+
+IMAGE # 71:
+  Visual Idea: EEG brainwave graph diagram scene 1 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: otakmu secara otomatis meredam sensitivitas pendengaran. Dalam pengukuran
+
+IMAGE # 72:
+  Visual Idea: EEG brainwave graph diagram scene 2 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'N100 WAVE' Background: 3 flat bands in paler tints of scene color
+  Original VO: gelombang otak, proses ini terlihat sebagai redaman sinyal
+
+IMAGE # 73:
+  Visual Idea: EEG brainwave graph diagram scene 3 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: gelombang N100 yang memuncak pada 80 hingga 120
+
+IMAGE # 74:
+  Visual Idea: EEG brainwave graph diagram scene 4 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: milidetik. Otakmu sengaja menurunkan volume pendengaran internal agar
+
+IMAGE # 75:
+  Visual Idea: EEG brainwave graph diagram scene 5 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: kamu tidak mengalami kelelahan saraf saat berbicara. Gampangnya,
+
+IMAGE # 76:
+  Visual Idea: EEG brainwave graph diagram scene 6 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'N100 WAVE' Background: 3 flat bands in paler tints of scene color
+  Original VO: otakmu memakai fitur peredam bising otomatis setiap kali
+
+IMAGE # 77:
+  Visual Idea: EEG brainwave graph diagram scene 7 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: kamu membuka mulut. Namun, mekanismenya berubah total saat
+
+IMAGE # 78:
+  Visual Idea: EEG brainwave graph diagram scene 8 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: kamu mendengarkan rekaman. Saat memutar ulang audio, area
+
+IMAGE # 79:
+  Visual Idea: EEG brainwave graph diagram scene 9 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: motorik otakmu tidak bekerja. Tidak ada perintah bicara,
+
+IMAGE # 80:
+  Visual Idea: EEG brainwave graph diagram scene 10 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'N100 WAVE' Background: 3 flat bands in paler tints of scene color
+  Original VO: tidak ada salinan eferen, dan sinyal peredam bising
+
+IMAGE # 81:
+  Visual Idea: EEG brainwave graph diagram scene 11 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: N100 mati sepenuhnya. Otakmu menganalisis suara rekaman itu
+
+IMAGE # 82:
+  Visual Idea: EEG brainwave graph diagram scene 12 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: tanpa perlindungan internal. Otak memproses suaramu dengan ketajaman
+
+IMAGE # 83:
+  Visual Idea: EEG brainwave graph diagram scene 13 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: penuh, sama seperti saat menilai suara orang asing
+
+IMAGE # 84:
+  Visual Idea: EEG brainwave graph diagram scene 14 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'N100 WAVE' Background: 3 flat bands in paler tints of scene color
+  Original VO: yang belum pernah kamu kenal. Tetapi orang mengira
+
+IMAGE # 85:
+  Visual Idea: EEG brainwave graph diagram scene 15 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: kita membenci suara asli kita secara alami. Ternyata
+
+IMAGE # 86:
+  Visual Idea: EEG brainwave graph diagram scene 16 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: anggapan itu salah besar. Pada tahun 2013, dua
+
+IMAGE # 87:
+  Visual Idea: EEG brainwave graph diagram scene 17 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: peneliti bernama Susan Hughes dan Marissa Harrison menggelar
+
+IMAGE # 88:
+  Visual Idea: EEG brainwave graph diagram scene 18 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'N100 WAVE' Background: 3 flat bands in paler tints of scene color
+  Original VO: eksperimen unik di Albright College. Mereka meminta 80
+
+IMAGE # 89:
+  Visual Idea: EEG brainwave graph diagram scene 19 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: peserta menilai tingkat daya tarik dari berbagai rekaman
+
+IMAGE # 90:
+  Visual Idea: EEG brainwave graph diagram scene 20 showing N100 signal suppression during active speech
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: suara berhitung satu sampai sepuluh. Tanpa diberitahu, peneliti
+
+IMAGE # 91:
+  Visual Idea: Unrecognized self-voice rating experiment scene 1 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: menyelipkan rekaman suara peserta itu sendiri ke dalam
+
+IMAGE # 92:
+  Visual Idea: Unrecognized self-voice rating experiment scene 2 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color
+  Original VO: daftar. Hasilnya sangat mengejutkan. Ketika peserta tidak sadar
+
+IMAGE # 93:
+  Visual Idea: Unrecognized self-voice rating experiment scene 3 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: bahwa itu adalah suara mereka sendiri, mereka justru
+
+IMAGE # 94:
+  Visual Idea: Unrecognized self-voice rating experiment scene 4 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: menilai suara mereka jauh lebih menarik dibandingkan penilaian
+
+IMAGE # 95:
+  Visual Idea: Unrecognized self-voice rating experiment scene 5 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: orang lain. Otakmu secara tidak sadar sangat menyukai
+
+IMAGE # 96:
+  Visual Idea: Unrecognized self-voice rating experiment scene 6 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color
+  Original VO: karakter suaramu sendiri melalui bias ego implisit. Di
+
+IMAGE # 97:
+  Visual Idea: Unrecognized self-voice rating experiment scene 7 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: sinilah titik baliknya. Rasa tidak nyaman dan benci
+
+IMAGE # 98:
+  Visual Idea: Unrecognized self-voice rating experiment scene 8 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: itu baru muncul saat kesadaran eksplisitmu menyadari identitas
+
+IMAGE # 99:
+  Visual Idea: Unrecognized self-voice rating experiment scene 9 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: suaramu. Penelitian terbaru oleh Victor Rosi dan timnya
+
+IMAGE #100:
+  Visual Idea: Unrecognized self-voice rating experiment scene 10 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color
+  Original VO: pada tahun 2026 mengonfirmasi hal ini. Ketika orang
+
+IMAGE #101:
+  Visual Idea: Unrecognized self-voice rating experiment scene 11 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: secara spontan mengenali suaranya di rekaman, ekspektasi internal
+
+IMAGE #102:
+  Visual Idea: Unrecognized self-voice rating experiment scene 12 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: mereka langsung bentrok dengan kenyataan akustik. Kesadaran itulah
+
+IMAGE #103:
+  Visual Idea: Unrecognized self-voice rating experiment scene 13 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: yang memicu rasa terkejut dan canggung. Jadi, suaramu
+
+IMAGE #104:
+  Visual Idea: Unrecognized self-voice rating experiment scene 14 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color
+  Original VO: di rekaman sebenarnya tidak pernah buruk. Orang lain
+
+IMAGE #105:
+  Visual Idea: Unrecognized self-voice rating experiment scene 15 showing implicit self-enhancement bias
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: mendengarnya sebagai suara yang wajar dan menarik. Yang
+
+IMAGE #106:
+  Visual Idea: Explicit recognition shock scene 1 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: membuatmu terganggu hanyalah kejutan otakmu yang kehilangan filter
+
+IMAGE #107:
+  Visual Idea: Explicit recognition shock scene 2 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: tulang dan peredam bising internal. Sejak Thomas Edison
+
+IMAGE #108:
+  Visual Idea: Explicit recognition shock scene 3 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'REAL VOICE' Background: 3 flat bands in paler tints of scene color
+  Original VO: memutar ulang rekamannya pada tahun 1877, manusia terus
+
+IMAGE #109:
+  Visual Idea: Explicit recognition shock scene 4 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: terkejut oleh suara mereka sendiri. Namun kini kamu
+
+IMAGE #110:
+  Visual Idea: Explicit recognition shock scene 5 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: sudah tahu rahasianya. Suara dari rekaman adalah suaramu
+
+IMAGE #111:
+  Visual Idea: Explicit recognition shock scene 6 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: yang jujur bagi dunia. Jika kamu terus mendengarkan
+
+IMAGE #112:
+  Visual Idea: Explicit recognition shock scene 7 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 'REAL VOICE' Background: 3 flat bands in paler tints of scene color
+  Original VO: rekaman suaramu, otakmu akan terbiasa dan berhenti terkejut.
+
+IMAGE #113:
+  Visual Idea: Explicit recognition shock scene 8 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: Lagipula, jika secara tidak sadar kamu menyukai suaramu
+
+IMAGE #114:
+  Visual Idea: Explicit recognition shock scene 9 revealing true authentic vocal beauty to the world
+  Focus      : Main subject taking 40% frame height on left third, supporting props on right third
+  Label      : 
+  Original VO: sendiri, mengapa kamu harus ragu memperdengarkannya kepada dunia?
+

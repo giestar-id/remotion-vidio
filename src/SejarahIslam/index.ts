@@ -1,0 +1,2 @@
+export {SejarahIslamDocu} from './SejarahIslamVideo';
+

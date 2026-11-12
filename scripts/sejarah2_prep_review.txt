@@ -1,0 +1,639 @@
+S001 [     0..  4840 | 4840ms] VO: Pada tahun 610 Masehi, di sebuah gua sunyi di
+     TOK: Pada tahun 610 Masehi, di sebuah gua sunyi di
+     VIS: Exterior view of the solitary rugged Mount Nur under a deep charcoal night sky in 610 CE, barren jagged cliffs, dusty windswe
+S002 [  4840..  9480 | 4640ms] VO: puncak tebing berbatu dekat Makkah, seseorang berusia empat puluh
+     TOK: puncak tebing berbatu dekat Makkah, seseorang berusia empat puluh
+     VIS: The rocky cave mouth of Gua Hira perched on high stone cliffs overlooking the distant dark horizon of Makkah, textured basalt
+S003 [  9480.. 14330 | 4850ms] VO: tahun sedang menyendiri dalam kegelapan. Di bawah gua itu,
+     TOK: tahun sedang menyendiri dalam kegelapan. Di bawah gua itu,
+     VIS: Solitary figure of the forty-year-old Prophet sitting in deep meditation inside the dark cavern of Gua Hira, humble linen rob
+S004 [ 14330.. 18910 | 4580ms] VO: sebagian besar bangsa Arab sedang tenggelam dalam zaman Jahiliyah:
+     TOK: sebagian besar bangsa Arab sedang tenggelam dalam zaman Jahiliyah:
+     VIS: Panoramic view of pre-Islamic Makkah valley engulfed in dusty shadows of Jahiliyah, barren hills, harsh desert winds blowing 
+S005 [ 18910.. 22510 | 3600ms] VO: ratusan patung berhala dipuja di sekeliling Ka’bah,
+     TOK: ratusan patung berhala dipuja di sekeliling Ka’bah,
+     VIS: Hundreds of carved stone and wooden idols surrounding the ancient stone Ka'bah in a dusty basin, rough pagan statues standing
+S006 [ 22510.. 26510 | 4000ms] VO: sebagian kabilah mengubur bayi perempuan hidup-hidup ke dalam pasir,
+     TOK: sebagian kabilah mengubur bayi perempuan hidup-hidup ke dalam pasir,
+     VIS: Dark barren desert dune at twilight, a small patch of disturbed sand marked by a spade in the ground under a gloomy sky, sole
+S007 [ 26510.. 31150 | 4640ms] VO: dan perang antarsuku berkecamuk tanpa henti.
+     TOK: dan perang antarsuku berkecamuk tanpa henti.
+     VIS: Silhouetted desert warriors clashing with raised spears and shields across windswept dunes under a dusty charcoal sky, endles
+S008 [ 31150.. 34750 | 3600ms] VO: Di tengah pekatnya malam di Gua Hira itulah,
+     TOK: Di tengah pekatnya malam di Gua Hira itulah,
+     VIS: Interior of Gua Hira at the dead of night, rough dark stone walls suddenly touched by a miraculous beam of soft heavenly illu
+S009 [ 34750.. 39510 | 4760ms] VO: sebuah suara memerintahkan pria bernama Muhammad shallallahu ‘alaihi wasallam
+     TOK: sebuah suara memerintahkan pria bernama Muhammad shallallahu ‘alaihi wasallam
+     VIS: The Prophet standing in solemn awe inside Gua Hira receiving the divine command of Iqra, modest linen garments, face covered 
+S010 [ 39510.. 44680 | 5170ms] VO: untuk membaca. Detik itu menjadi titik tolak perubahan terbesar
+     TOK: untuk membaca. Detik itu menjadi titik tolak perubahan terbesar
+     VIS: Glowing golden light radiating from the mouth of Gua Hira, illuminating the rugged mountain ridges of Mount Nur against the d
+S011 [ 44680.. 49540 | 4860ms] VO: dalam sejarah peradaban gurun pasir. Bagaimana sebuah risalah yang
+     TOK: dalam sejarah peradaban gurun pasir. Bagaimana sebuah risalah yang
+     VIS: Vast desert dunes of Arabia stretching into the horizon, sunrise light slowly spreading over endless sand ridges, symbol of m
+S012 [ 49540.. 52780 | 3240ms] VO: dimulai oleh satu orang di dalam gua sunyi mampu
+     TOK: dimulai oleh satu orang di dalam gua sunyi mampu
+     VIS: Solitary mountain peak of Mount Nur under dawn light, standing majestic above the barren desert wilderness. 2D woodcut style,
+S013 [ 52780.. 57020 | 4240ms] VO: mengubah masyarakat yang terpecah belah dan tenggelam dalam krisis moral,
+     TOK: mengubah masyarakat yang terpecah belah dan tenggelam dalam krisis moral,
+     VIS: Conceptual split illustration: on the left, dark fragmented tribal clans in discord; on the right, morning dawn breaking over
+S014 [ 57020.. 61300 | 4280ms] VO: hingga berhasil mendirikan negara-kota berkeadaban di Madinah dalam rentang
+     TOK: hingga berhasil mendirikan negara-kota berkeadaban di Madinah dalam rentang
+     VIS: Lush green date palm oasis of Madinah with peaceful mudbrick dwellings under a clear calm sky, civilized city-state. 2D illus
+S015 [ 61300.. 65410 | 4110ms] VO: sekitar dua belas tahun? Saat wahyu pertama turun,
+     TOK: sekitar dua belas tahun? Saat wahyu pertama turun,
+     VIS: Aged parchment timeline showing the desert route between Makkah and Madinah marked by gentle wavy linear lines, twelve golden
+S016 [ 65410.. 69710 | 4300ms] VO: kota Makkah dikuasai oleh para bangsawan pedagang Suku Quraisy.
+     TOK: kota Makkah dikuasai oleh para bangsawan pedagang Suku Quraisy.
+     VIS: Wealthy Quraysh merchant aristocrats in luxurious dark robes gathered outside stone dwellings in Makkah, haughty expressions,
+S017 [ 69710.. 73330 | 3620ms] VO: Kehidupan kota ditopang oleh ratusan berhala di sekitar Ka’bah
+     TOK: Kehidupan kota ditopang oleh ratusan berhala di sekitar Ka’bah
+     VIS: High-angle view of the unpolished stone Ka'bah surrounded by carved basalt idols in the busy Makkah valley. 2D woodcut style,
+S018 [ 73330.. 77970 | 4640ms] VO: dan jalur perdagangan kafilah. Tatanan sosial di sana sangat timpang.
+     TOK: dan jalur perdagangan kafilah. Tatanan sosial di sana sangat timpang.
+     VIS: Heavily loaded merchant camel caravan winding its way into the rocky mountain pass of Makkah, sacks of trading goods under a 
+S019 [ 77970.. 81790 | 3820ms] VO: Kaum elit kaya menimbun harta, sementara budak dan fakir
+     TOK: Kaum elit kaya menimbun harta, sementara budak dan fakir
+     VIS: A wealthy Quraysh merchant sitting indoors counting bronze scales and piles of coins, adorned in rich fabrics, dark shadows. 
+S020 [ 81790.. 85960 | 4170ms] VO: miskin diperlakukan seperti barang tanpa perlindungan hukum.
+     TOK: miskin diperlakukan seperti barang tanpa perlindungan hukum.
+     VIS: Poor indentured laborers and enslaved workers carrying heavy stone blocks in the dusty alleyways of Makkah, weary and impover
+S021 [ 85960.. 90420 | 4460ms] VO: Fanatisme kesukuan menjadi harga mati. Siapa yang berasal dari
+     TOK: Fanatisme kesukuan menjadi harga mati. Siapa yang berasal dari
+     VIS: Tribal clan banner pole planted firmly in the dry ground beside sheathed swords, symbolizing unyielding tribal fanaticism (as
+S022 [ 90420.. 93670 | 3250ms] VO: klan lemah, nasibnya berada di ujung tanduk.
+     TOK: klan lemah, nasibnya berada di ujung tanduk.
+     VIS: A vulnerable impoverished nomad family huddled outside a crumbling mud shelter in Makkah, exposed to desert winds, neglected 
+S023 [ 93670.. 98070 | 4400ms] VO: Kemapanan para penguasa Makkah ini tiba-tiba terguncang ketika Nabi
+     TOK: Kemapanan para penguasa Makkah ini tiba-tiba terguncang ketika Nabi
+     VIS: A cracked stone boundary pillar teetering on a desert ridge, visual metaphor for precarious fate in Jahiliyah society. 2D woo
+S024 [ 98070..102290 | 4220ms] VO: Muhammad shallallahu ‘alaihi wasallam mulai menyuarakan ajaran tauhid dan
+     TOK: Muhammad shallallahu ‘alaihi wasallam mulai menyuarakan ajaran tauhid dan
+     VIS: The Prophet standing with calm moral authority in a sunlit Makkah alleyway, modest linen robes, face covered by radiant glowi
+S025 [102290..107580 | 5290ms] VO: keadilan sosial. Pada mulanya, dakwah Islam berjalan secara sembunyi-sembunyi
+     TOK: keadilan sosial. Pada mulanya, dakwah Islam berjalan secara sembunyi-sembunyi
+     VIS: A simple clay water bowl and broken stone chain resting on a clean rock in sunlight, visual metaphor for divine monotheism an
+S026 [107580..110800 | 3220ms] VO: selama kurang lebih tiga tahun. Pertemuan digelar di rumah
+     TOK: selama kurang lebih tiga tahun. Pertemuan digelar di rumah
+     VIS: Silhouettes of early believers walking quietly through narrow winding stone alleys of Makkah at twilight toward a secluded ho
+S027 [110800..115140 | 4340ms] VO: sederhana milik sahabat muda bernama al-Arqam bin Abi al-Arqam.
+     TOK: sederhana milik sahabat muda bernama al-Arqam bin Abi al-Arqam.
+     VIS: Exterior of the humble mudbrick residence of al-Arqam nestled near the foothills of Safa, a faint warm light glowing from its
+S028 [115140..118340 | 3200ms] VO: Di rumah inilah fondasi keimanan dibangun perlahan.
+     TOK: Di rumah inilah fondasi keimanan dibangun perlahan.
+     VIS: Young al-Arqam welcoming trusted companions into his humble home, noble desert attire, face covered by radiant glowing light.
+S029 [118340..122460 | 4120ms] VO: Orang-orang pertama yang menyambut ajaran ini sebagian besar adalah
+     TOK: Orang-orang pertama yang menyambut ajaran ini sebagian besar adalah
+     VIS: Warm clay oil lamp illuminating the humble interior room, soft golden glow reflecting off earthen walls and mats, atmosphere 
+S030 [122460..125220 | 2760ms] VO: mereka yang tertindas oleh sistem Jahiliyah.
+     TOK: mereka yang tertindas oleh sistem Jahiliyah.
+     VIS: Small circle of early believers seated together on palm mats in quiet devotion, coarse linen tunics, faces covered by radiant
+S031 [125220..129280 | 4060ms] VO: Ada budak seperti Bilal bin Rabah, perempuan terhormat seperti Khadijah,
+     TOK: Ada budak seperti Bilal bin Rabah, perempuan terhormat seperti Khadijah,
+     VIS: Bilal and Khadijah seated with dignity among the believers, Bilal in coarse linen and Khadijah in modest dark veil, both face
+S032 [129280..132720 | 3440ms] VO: serta pemuda berani seperti Ali bin Abi Thalib dan
+     TOK: serta pemuda berani seperti Ali bin Abi Thalib dan
+     VIS: Young Ali and Zaid seated side by side, youthful steadfast courage, coarse desert robes, faces covered by radiant glowing lig
+S033 [132720..137320 | 4600ms] VO: Zaid bin Haritsah. Namun pergerakan sunyi itu berubah menjadi
+     TOK: Zaid bin Haritsah. Namun pergerakan sunyi itu berubah menjadi
+     VIS: The small door of Darul Arqam opening outward to reveal the vast, windy desert hills of Makkah at dawn. 2D woodcut style, cha
+S034 [137320..141780 | 4460ms] VO: badai terbuka saat perintah dakwah terang-terangan turun.
+     TOK: badai terbuka saat perintah dakwah terang-terangan turun.
+     VIS: Dawn wind sweeping over the rocky limestone ridge of Bukit Safa, dark clouds breaking over the valley of Makkah. 2D woodcut s
+S035 [141780..145260 | 3480ms] VO: Nabi naik ke bukit Safa dan menyerukan kebenaran kepada
+     TOK: Nabi naik ke bukit Safa dan menyerukan kebenaran kepada
+     VIS: The Prophet standing atop the rocky summit of Bukit Safa, robes blowing gently in the morning wind, face covered by radiant g
+S036 [145260..148230 | 2970ms] VO: kaum Quraisy yang beliau panggil berkumpul.
+     TOK: kaum Quraisy yang beliau panggil berkumpul.
+     VIS: Crowd of Quraysh tribal elders and citizens looking up from the base of Bukit Safa, surprised and conflicted expressions, sty
+S037 [148230..152690 | 4460ms] VO: Setelah itu, beliau juga menyampaikan risalahnya kepada kabilah-kabilah yang
+     TOK: Setelah itu, beliau juga menyampaikan risalahnya kepada kabilah-kabilah yang
+     VIS: The Prophet visiting pilgrim tents pitched outside Makkah, delivering the message to diverse kabilah elders, face covered by 
+S038 [152690..155500 | 2810ms] VO: datang ke Makkah pada musim haji.
+     TOK: datang ke Makkah pada musim haji.
+     VIS: Pilgrim caravans arriving in Makkah for the annual pilgrimage season, colorful camel saddles and diverse tribes gathering nea
+S039 [155500..160100 | 4600ms] VO: Bisa jadi kamu bertanya-tanya, kenapa para bangsawan Quraisy begitu
+     TOK: Bisa jadi kamu bertanya-tanya, kenapa para bangsawan Quraisy begitu
+     VIS: Stern faces of Quraysh oligarchs whispering angrily together in the shadows of an ancient stone archway, stylized 2D faces. 2
+S040 [160100..163230 | 3130ms] VO: panik dan marah terhadap seruan ini?
+     TOK: panik dan marah terhadap seruan ini?
+     VIS: A parchment roll unrolled on a wooden table displaying five ancient symbolic marks rendered as flowing wavy linear lines, no 
+S041 [163230..167330 | 4100ms] VO: Para sejarawan menganalisis setidaknya lima alasan mendasar di balik
+     TOK: Para sejarawan menganalisis setidaknya lima alasan mendasar di balik
+     VIS: Historical scholars' study chamber with ancient parchment treatises and charcoal sketches on stone walls, analysis of early o
+S042 [167330..171750 | 4420ms] VO: penolakan mereka. Pertama, mereka menolak keyakinan akan adanya hari
+     TOK: penolakan mereka. Pertama, mereka menolak keyakinan akan adanya hari
+     VIS: Dry bleached desert skull and brittle bones half-buried in dry sand under a scorching sun, representing the Quraysh skepticis
+S043 [171750..177030 | 5280ms] VO: kebangkitan dan pembalasan amal. Kedua, sebagian elit Quraisy menyamakan
+     TOK: kebangkitan dan pembalasan amal. Kedua, sebagian elit Quraisy menyamakan
+     VIS: Balance of divine justice illustrated symbolically in sand: an ethereal feather and stone weighing deed marks, rejected by sk
+S044 [177030..180370 | 3340ms] VO: risalah kenabian dengan perebutan kekuasaan politik.
+     TOK: risalah kenabian dengan perebutan kekuasaan politik.
+     VIS: Two rival tribal leaders arguing passionately over an empty ornate stone seat in a courtyard, symbolizing fear of political r
+S045 [180370..184530 | 4160ms] VO: Mereka khawatir tunduk pada ajaran ini berarti menyerahkan kepemimpinan
+     TOK: Mereka khawatir tunduk pada ajaran ini berarti menyerahkan kepemimpinan
+     VIS: Elitist Quraysh leaders looking toward the residential quarter of Bani Hasyim with suspicion and envy, stylized 2D illustrate
+S046 [184530..189380 | 4850ms] VO: Makkah kepada klan Bani Hasyim. Ketiga, faktor ekonomi.
+     TOK: Makkah kepada klan Bani Hasyim. Ketiga, faktor ekonomi.
+     VIS: A stone banner carved with the emblem of Bani Hasyim, casting a long shadow across Makkah's council grounds, political tensio
+S047 [189380..192640 | 3260ms] VO: Menurut tradisi, Ka’bah saat itu dikelilingi tiga ratus enam
+     TOK: Menurut tradisi, Ka’bah saat itu dikelilingi tiga ratus enam
+     VIS: High-angle view of the Ka'bah surrounded by carved basalt and sandstone idols, bustling with superstitious pilgrims making of
+S048 [192640..196120 | 3480ms] VO: puluh berhala. Kota Makkah hidup dari peziarah yang datang
+     TOK: puluh berhala. Kota Makkah hidup dari peziarah yang datang
+     VIS: Pilgrim caravans arriving at Makkah's stone gates, merchants greeting them eagerly with trays of food and incense, economic d
+S049 [196120..198880 | 2760ms] VO: ke tempat suci itu, dan orang-orang yang bergantung pada
+     TOK: ke tempat suci itu, dan orang-orang yang bergantung pada
+     VIS: A pagan artisan in Makkah carving stone and wood idols in a workshop, surrounded by finished idol statues and chisels. 2D ill
+S050 [198880..203360 | 4480ms] VO: perdagangan serta pemujaan berhala takut kehilangan mata pencaharian jika
+     TOK: perdagangan serta pemujaan berhala takut kehilangan mata pencaharian jika
+     VIS: A merchant looking anxiously at an empty coin box beside rows of unsold stone idols, fear of economic loss. 2D woodcut style,
+S051 [203360..209300 | 5940ms] VO: penyembahan berhala dihentikan. Keempat, Islam menegaskan persamaan derajat manusia
+     TOK: penyembahan berhala dihentikan. Keempat, Islam menegaskan persamaan derajat manusia
+     VIS: Dark stone idol Hubal standing in shadow while morning sunlight illuminates the plain Ka'bah wall, visual contrast of fading 
+S052 [209300..212900 | 3600ms] VO: di hadapan Tuhan, hal yang sangat dibenci kaum bangsawan
+     TOK: di hadapan Tuhan, hal yang sangat dibenci kaum bangsawan
+     VIS: A noble master in fine garments and an enslaved worker in tattered cloth standing side by side under sunlight, an unbroken ho
+S053 [212900..216680 | 3780ms] VO: karena meruntuhkan status istimewa mereka atas para budak.
+     TOK: karena meruntuhkan status istimewa mereka atas para budak.
+     VIS: Aristocratic elder scowling in disgust as he turns his back on an egalitarian gathering, clutching his ornate robe. 2D illust
+S054 [216680..221280 | 4600ms] VO: Dan kelima, fanatisme terhadap tradisi nenek moyang.
+     TOK: Dan kelima, fanatisme terhadap tradisi nenek moyang.
+     VIS: A row of weathered stone ancestor statues carved into a desert cliff, dusty and eroded by winds, representing rigid devotion 
+S055 [221280..224200 | 2920ms] VO: Ketika kata-kata tidak mempan membendung dakwah,
+     TOK: Ketika kata-kata tidak mempan membendung dakwah,
+     VIS: A heavy iron whip and cruel wooden shackles lying on blazing hot desert sand, harsh noon sun casting sharp dark shadows. 2D i
+S056 [224200..227180 | 2980ms] VO: kaum Quraisy mulai memakai kekerasan fisik.
+     TOK: kaum Quraisy mulai memakai kekerasan fisik.
+     VIS: Quraysh tormentors brandishing iron rods and whips under the scorching midday sun of Makkah, aggressive stances in desert dus
+S057 [227180..230800 | 3620ms] VO: Bilal dicambuk dan ditindih batu panas di terik gurun pasir.
+     TOK: Bilal dicambuk dan ditindih batu panas di terik gurun pasir.
+     VIS: Bilal lying steadfast on scorching sun-bleached desert rocks, a massive heavy black stone placed upon his chest, head tilted 
+S058 [230800..236360 | 5560ms] VO: Keluarga Yasir disiksa hingga Sumayyah dan suaminya, Yasir, gugur.
+     TOK: Keluarga Yasir disiksa hingga Sumayyah dan suaminya, Yasir, gugur.
+     VIS: Elder Yasir and his noble wife Sumayyah standing bound to wooden stakes in the desert heat, dignified steadfast gazes, faces 
+S059 [236360..240420 | 4060ms] VO: Sumayyah dikenal sebagai syahid pertama dalam Islam.
+     TOK: Sumayyah dikenal sebagai syahid pertama dalam Islam.
+     VIS: Rays of serene golden heavenly light breaking through the dusty sky to illuminate the fallen noble figure of Sumayyah, symbol
+S060 [240420..243940 | 3520ms] VO: Melihat pengikutnya yang lemah terus disiksa tanpa henti,
+     TOK: Melihat pengikutnya yang lemah terus disiksa tanpa henti,
+     VIS: The Prophet looking down with deep sorrow and compassion upon the injured early believers, hands gently offering comfort, fac
+S061 [243940..248460 | 4520ms] VO: Nabi mengambil langkah penyelamatan. Sebagian sahabat diperintahkan menyeberangi Laut
+     TOK: Nabi mengambil langkah penyelamatan. Sebagian sahabat diperintahkan menyeberangi Laut
+     VIS: The Prophet instructing a group of travel-ready companions at night, pointing toward the western sea route, the Prophet's fac
+S062 [248460..250880 | 2420ms] VO: Merah menuju negeri Habasyah di Ethiopia.
+     TOK: Merah menuju negeri Habasyah di Ethiopia.
+     VIS: A wooden sailing dhow boat with white sails crossing the dark choppy waters of the Red Sea at night under a canopy of stars t
+S063 [250880..254540 | 3660ms] VO: Di sana mereka mendapat perlindungan dari seorang raja Kristen
+     TOK: Di sana mereka mendapat perlindungan dari seorang raja Kristen
+     VIS: King Najasyi seated upon a carved dark wood throne in the stone palace of Axum, crown and regal mantle, listening with compas
+S064 [254540..258740 | 4200ms] VO: yang adil bernama Najasyi. Inilah salah satu peristiwa suaka
+     TOK: yang adil bernama Najasyi. Inilah salah satu peristiwa suaka
+     VIS: Muslim refugees standing with dignified humility before the Christian king, presenting an open scroll with gentle wavy linear
+S065 [258740..262710 | 3970ms] VO: lintas benua paling awal dalam sejarah Islam.
+     TOK: lintas benua paling awal dalam sejarah Islam.
+     VIS: Ancient map on textured aged parchment showing the maritime route from Makkah, across the Red Sea, into the horn of Africa an
+S066 [262710..266070 | 3360ms] VO: Di Makkah, para pemuka Quraisy semakin putus asa.
+     TOK: Di Makkah, para pemuka Quraisy semakin putus asa.
+     VIS: Frustrated Quraysh elders pacing nervously in a stone courtyard, clenching their fists in deadlock, stylized 2D illustrated f
+S067 [266070..271870 | 5800ms] VO: Menurut riwayat, mereka mencoba menawarkan kepada Nabi tumpukan harta,
+     TOK: Menurut riwayat, mereka mencoba menawarkan kepada Nabi tumpukan harta,
+     VIS: Chests overflowing with gold coins, ornate silver goblets, and rich silk fabrics brought as a bribe, sitting on a stone floor
+S068 [271870..277780 | 5910ms] VO: kedudukan pemimpin kota, hingga pernikahan dengan wanita yang paling diinginkan.
+     TOK: kedudukan pemimpin kota, hingga pernikahan dengan wanita yang paling diinginkan.
+     VIS: An ornate carved wooden throne and royal robes set beside bridal silk canopies, offered as worldly dominion and rejected. 2D 
+S069 [277780..282630 | 4850ms] VO: Semua tawaran itu ditolak. Karena jalan bujukan gagal,
+     TOK: Semua tawaran itu ditolak. Karena jalan bujukan gagal,
+     VIS: The Prophet standing resolute, hand gently raised in firm refusal of worldly offers, face covered by radiant glowing light, g
+S070 [282630..287450 | 4820ms] VO: para elit Quraisy bersatu menandatangani piagam pemboikotan ekonomi dan
+     TOK: para elit Quraisy bersatu menandatangani piagam pemboikotan ekonomi dan
+     VIS: Quraysh elders gathered around an ominous parchment contract on a stone table in Darun Nadwah, dipping quill into ink to sign
+S071 [287450..291660 | 4210ms] VO: sosial terhadap klan Bani Hasyim dan Bani Muthalib.
+     TOK: sosial terhadap klan Bani Hasyim dan Bani Muthalib.
+     VIS: A heavy iron seal stamped in black wax on the boycott scroll, tribal seals of all major Quraysh clans binding the blockade ag
+S072 [291660..297060 | 5400ms] VO: Mekanisme pemboikotan ini bekerja ibarat jerat leher ekonomi yang mematikan.
+     TOK: Mekanisme pemboikotan ini bekerja ibarat jerat leher ekonomi yang mematikan.
+     VIS: A heavy hemp rope forming a tight noose around an empty grain basket on cracked earth, visual metaphor for the choking econom
+S073 [297060..301080 | 4020ms] VO: Selama kurang lebih tiga tahun, klan pendukung Nabi terkurung
+     TOK: Selama kurang lebih tiga tahun, klan pendukung Nabi terkurung
+     VIS: Narrow rocky gorge of Syi'b Abi Thalib surrounded by steep barren cliffs, harsh shadows trapping the quarantined clan, isolat
+S074 [301080..304140 | 3060ms] VO: di sebuah lembah sempit di pinggiran Makkah.
+     TOK: di sebuah lembah sempit di pinggiran Makkah.
+     VIS: A small makeshift shelter of woven palm mats wedged between steep rocky cliffs of the ravine, windswept dust swirling in the 
+S075 [304140..307780 | 3640ms] VO: Tidak ada pasokan makanan yang boleh dijual kepada mereka,
+     TOK: Tidak ada pasokan makanan yang boleh dijual kepada mereka,
+     VIS: Empty clay storage jars and overturned flour bins sitting dry inside a tent, dust blowing across bare earthen floor. 2D illus
+S076 [307780..311620 | 3840ms] VO: tidak ada pernikahan yang diizinkan, dan tidak ada hubungan
+     TOK: tidak ada pernikahan yang diizinkan, dan tidak ada hubungan
+     VIS: A merchant caravan turning away at the valley mouth, refused permission by Quraysh guards to trade with the besieged clan. 2D
+S077 [311620..316720 | 5100ms] VO: dagang yang diperbolehkan. Tangis anak-anak kecil yang kelaparan terdengar
+     TOK: dagang yang diperbolehkan. Tangis anak-anak kecil yang kelaparan terdengar
+     VIS: A mother comforting her hungry weeping children inside a small linen tent in the quarantined valley, somber dim lighting. 2D 
+S078 [316720..319970 | 3250ms] VO: menyayat hati hingga ke pemukiman Makkah.
+     TOK: menyayat hati hingga ke pemukiman Makkah.
+     VIS: Distant view of Makkah's illuminated stone houses while echoes of weeping from the dark barren valley fade into the night win
+S079 [319970..324150 | 4180ms] VO: Mereka terpaksa memakan dedaunan kering dan potongan kulit hewan
+     TOK: Mereka terpaksa memakan dedaunan kering dan potongan kulit hewan
+     VIS: A weathered clay pot boiling dried desert leaves and boiled leather strips over a small smoky fire, desperate survival in the
+S080 [324150..328440 | 4290ms] VO: sekadar untuk bertahan hidup. Dan di sinilah titik terendah
+     TOK: sekadar untuk bertahan hidup. Dan di sinilah titik terendah
+     VIS: A solitary dry leaf drifting across cracked desert stone into a dry watercourse, symbol of extreme austerity and endurance. 2
+S081 [328440..331550 | 3110ms] VO: dari seluruh perjuangan di Makkah terjadi.
+     TOK: dari seluruh perjuangan di Makkah terjadi.
+     VIS: A solitary leafless desert shrub clinging to life on a cracked stone cliff under a dark gray sky, metaphor for the lowest poi
+S082 [331550..335950 | 4400ms] VO: Tak lama setelah boikot berakhir, dua benteng pelindung terkuat
+     TOK: Tak lama setelah boikot berakhir, dua benteng pelindung terkuat
+     VIS: The eaten-away boycott parchment hanging inside Ka'bah, decayed by termites except for sacred wavy linear lines at the top. 2
+S083 [335950..341000 | 5050ms] VO: Nabi wafat dalam waktu berdekatan. Paman beliau, Abu Thalib,
+     TOK: Nabi wafat dalam waktu berdekatan. Paman beliau, Abu Thalib,
+     VIS: An aged Bedouin elder's woolen cloak and wooden walking staff lying resting by a stone hearth, quiet solemnity in an empty ro
+S084 [341000..344960 | 3960ms] VO: yang selama puluhan tahun menjadi pelindung dari ancaman klan Quraisy,
+     TOK: yang selama puluhan tahun menjadi pelindung dari ancaman klan Quraisy,
+     VIS: Silhouetted figure of an elder protector standing between a gathering mob and a doorway, now fading into evening mist, symbol
+S085 [344960..351740 | 6780ms] VO: meninggal dunia. Selang beberapa waktu kemudian, sang istri tercinta Khadijah,
+     TOK: meninggal dunia. Selang beberapa waktu kemudian, sang istri tercinta Khadijah,
+     VIS: A desert graveyard at twilight with solitary stone markers under a melancholy violet-gray sky, solemn winds blowing sand part
+S086 [351740..356770 | 5030ms] VO: tempat beliau bersandar dan yang mengorbankan hartanya, turut berpulang.
+     TOK: tempat beliau bersandar dan yang mengorbankan hartanya, turut berpulang.
+     VIS: A modest dark veil and folded linen mantle resting quietly on a wooden chest in soft evening light, symbolizing the passing o
+S087 [356770..360750 | 3980ms] VO: Tahun kepedihan ini dicatat dalam sejarah sebagai Amul Huzni,
+     TOK: Tahun kepedihan ini dicatat dalam sejarah sebagai Amul Huzni,
+     VIS: A dark charcoal storm cloud hovering over the mountains of Makkah, rainless and heavy with sorrow, Year of Sorrow (Amul Huzni
+S088 [360750..365610 | 4860ms] VO: atau Tahun Duka Cita. Tanpa perlindungan Abu Thalib dan Khadijah,
+     TOK: atau Tahun Duka Cita. Tanpa perlindungan Abu Thalib dan Khadijah,
+     VIS: Emboldened Quraysh adversaries shouting insults in Makkah's streets, throwing dust toward believers now that guardians have p
+S089 [365610..370330 | 4720ms] VO: perlakuan kaum Quraisy semakin keras. Nabi mencoba mencari basis
+     TOK: perlakuan kaum Quraisy semakin keras. Nabi mencoba mencari basis
+     VIS: The Prophet walking along a winding mountain trail toward the highland city of Thaif, solitary figure in sun-bleached linen r
+S090 [370330..373510 | 3180ms] VO: perlindungan baru ke kota pegunungan Thaif.
+     TOK: perlindungan baru ke kota pegunungan Thaif.
+     VIS: Stone gateway of the mountain city of Thaif, fruit orchards in the background, hostile townspeople gathering at the walls. 2D
+S091 [373510..378270 | 4760ms] VO: Namun harapan itu berbuah luka. Penduduk Thaif justru menolak
+     TOK: Namun harapan itu berbuah luka. Penduduk Thaif justru menolak
+     VIS: Hostile crowd in Thaif lining the dusty road, scowling and jeering from rooftops and doorways, stylized 2D illustrated faces.
+S092 [378270..381890 | 3620ms] VO: beliau dengan caci maki dan lemparan batu hingga tubuh
+     TOK: beliau dengan caci maki dan lemparan batu hingga tubuh
+     VIS: Rough stones flying through the air and scattered on the dusty road outside Thaif, aggressive hostile crowd in shadows, 2D il
+S093 [381890..386250 | 4360ms] VO: beliau terluka. Di tengah kepedihan dan kebuntuan inilah,
+     TOK: beliau terluka. Di tengah kepedihan dan kebuntuan inilah,
+     VIS: The Prophet resting beneath the shade of an orchard grape arbor outside Thaif, wounded feet in sand, hands raised in humble p
+S094 [386250..391010 | 4760ms] VO: fajar pertolongan justru terbit dari arah yang tak disangka-sangka.
+     TOK: fajar pertolongan justru terbit dari arah yang tak disangka-sangka.
+     VIS: A single beam of warm dawn light piercing through heavy storm clouds over the desert mountains, symbolizing unexpected hope. 
+S095 [391010..395630 | 4620ms] VO: Setiap musim haji tiba, suku-suku dari penjuru jazirah berdatangan
+     TOK: Setiap musim haji tiba, suku-suku dari penjuru jazirah berdatangan
+     VIS: Pilgrim encampments in Mina near Makkah under a starry night sky, small campfires flickering beside rocky hillsides. 2D woodc
+S096 [395630..399010 | 3380ms] VO: ke Makkah. Pada tahun kesebelas kenabian,
+     TOK: ke Makkah. Pada tahun kesebelas kenabian,
+     VIS: A solitary camel rider arriving in the valley of Mina at night, guided by distant campfires among rugged boulders. 2D illustr
+S097 [399010..402350 | 3340ms] VO: Nabi menemui enam orang pria dari suku Khazraj yang
+     TOK: Nabi menemui enam orang pria dari suku Khazraj yang
+     VIS: The Prophet meeting six travelers from the Khazraj tribe around a secluded campfire in Mina, earnest dialogue, the Prophet's 
+S098 [402350..407010 | 4660ms] VO: datang dari kota Yatsrib. Yatsrib adalah lembah pertanian subur
+     TOK: datang dari kota Yatsrib. Yatsrib adalah lembah pertanian subur
+     VIS: Date palm orchards of Yatsrib with ancient stone irrigation canals, shadowed by lingering memories of civil war between Aus a
+S099 [407010..411170 | 4160ms] VO: yang sedang dilanda perselisihan dan perang saudara menahun antara
+     TOK: yang sedang dilanda perselisihan dan perang saudara menahun antara
+     VIS: Two rival tribal banners of Aus and Khazraj planted in an uncultivated field in Yatsrib, broken arrow shafts between them, sc
+S100 [411170..415740 | 4570ms] VO: suku Aus dan Khazraj. Warga Yatsrib kerap mendengar dari
+     TOK: suku Aus dan Khazraj. Warga Yatsrib kerap mendengar dari
+     VIS: A gathering of Yatsrib citizens listening attentively to elders in a palm grove courtyard, discussing hopes for peace and uni
+S101 [415740..419460 | 3720ms] VO: tetangga Yahudi mereka tentang akan datangnya seorang nabi.
+     TOK: tetangga Yahudi mereka tentang akan datangnya seorang nabi.
+     VIS: Jewish community members in traditional scholarly robes conversing outside a stone study house in Yatsrib, sharing ancient pr
+S102 [419460..423160 | 3700ms] VO: Begitu mendengar risalah yang disampaikan Nabi Muhammad,
+     TOK: Begitu mendengar risalah yang disampaikan Nabi Muhammad,
+     VIS: The Prophet reciting divine guidance softly by the fire, words like cool rain upon thirsty soil, face covered by radiant glow
+S103 [423160..426560 | 3400ms] VO: keenam orang itu menyatakan keislaman mereka.
+     TOK: keenam orang itu menyatakan keislaman mereka.
+     VIS: The six Khazraj men listening with brightened, receptive expressions around the fire, nodding in sincere acceptance of faith,
+S104 [426560..430500 | 3940ms] VO: Pertemuan kecil itu menggelinding menjadi arus sejarah yang besar.
+     TOK: Pertemuan kecil itu menggelinding menjadi arus sejarah yang besar.
+     VIS: A small mountain stream trickling between rocks, joining with another stream to form a strong river, metaphor for historical 
+S105 [430500..434500 | 4000ms] VO: Pada tahun berikutnya, berlangsung Bai'at Aqabah Pertama.
+     TOK: Pada tahun berikutnya, berlangsung Bai'at Aqabah Pertama.
+     VIS: The First Pledge at Aqabah: twelve representatives from Yatsrib clasping hands with the Prophet under moonlit rocky cliffs, t
+S106 [434500..439200 | 4700ms] VO: Dua belas perwakilan Yatsrib berikrar memegang nilai-nilai tauhid dan
+     TOK: Dua belas perwakilan Yatsrib berikrar memegang nilai-nilai tauhid dan
+     VIS: Hands of the believers raised in solemn oath, casting away stolen idol trinkets into the sand, symbol of moral commitment. 2D
+S107 [439200..443750 | 4550ms] VO: moralitas luhur. Setahun berselang, datang rombongan yang jauh lebih
+     TOK: moralitas luhur. Setahun berselang, datang rombongan yang jauh lebih
+     VIS: A caravan of pilgrims from Yatsrib journeying south under bright skies, among them seventy-five eager hearts seeking guidance
+S108 [443750..447610 | 3860ms] VO: besar dalam Bai'at Aqabah Kedua. Sekitar tujuh puluh lima
+     TOK: besar dalam Bai'at Aqabah Kedua. Sekitar tujuh puluh lima
+     VIS: The Second Pledge at Aqabah: seventy-five men and women from Yatsrib gathered in secrecy under the shadows of Aqabah hill, pr
+S109 [447610..451370 | 3760ms] VO: warga Yatsrib mengundang Nabi ke kota mereka dan bersumpah
+     TOK: warga Yatsrib mengundang Nabi ke kota mereka dan bersumpah
+     VIS: Tribal leaders of Aus and Khazraj pledging allegiance side by side, holding their hands over their hearts in resolute loyalty
+S110 [451370..456370 | 5000ms] VO: setia untuk melindungi beliau selayaknya melindungi keluarga mereka sendiri.
+     TOK: setia untuk melindungi beliau selayaknya melindungi keluarga mereka sendiri.
+     VIS: Interlocking arms of tribal warriors forming a protective circle around an open sanctuary flame, symbol of defensive alliance
+S111 [456370..460350 | 3980ms] VO: Melihat pintu baru telah terbuka, Nabi memerintahkan para pengikutnya
+     TOK: Melihat pintu baru telah terbuka, Nabi memerintahkan para pengikutnya
+     VIS: A heavy wooden door swinging wide open to reveal a bright desert sunrise, visual symbol of a new era of opportunity. 2D woodc
+S112 [460350..462950 | 2600ms] VO: di Makkah untuk berhijrah ke Yatsrib.
+     TOK: di Makkah untuk berhijrah ke Yatsrib.
+     VIS: The Prophet in quiet counsel with close companions, giving the discreet directive to migrate toward Yatsrib, face covered by 
+S113 [462950..467990 | 5040ms] VO: Mereka berangkat secara bertahap dan diam-diam, berkelompok kecil maupun sendiri-sendiri,
+     TOK: Mereka berangkat secara bertahap dan diam-diam, berkelompok kecil maupun sendiri-sendiri,
+     VIS: Small groups of Muslim families stealthily departing Makkah by night, leading pack animals with quiet footsteps through deser
+S114 [467990..471490 | 3500ms] VO: meninggalkan rumah, tanah, dan harta mereka di Makkah.
+     TOK: meninggalkan rumah, tanah, dan harta mereka di Makkah.
+     VIS: Abandoned stone courtyards in Makkah with locked doors and quiet alleys, left behind by those who migrated for their faith. 2
+S115 [471490..475910 | 4420ms] VO: Hingga akhirnya, sebagian besar kaum Muslim Makkah sudah berada
+     TOK: Hingga akhirnya, sebagian besar kaum Muslim Makkah sudah berada
+     VIS: Early migrant families arriving in the welcoming green oasis of Yatsrib, greeted warmly by local inhabitants at the city edge
+S116 [475910..480120 | 4210ms] VO: di Yatsrib. Menyadari kota Yatsrib akan menjadi pangkalan kekuatan
+     TOK: di Yatsrib. Menyadari kota Yatsrib akan menjadi pangkalan kekuatan
+     VIS: Panoramic view of Yatsrib oasis bustling with new settlements and renewed vitality as the majority of emigrants arrive. 2D il
+S117 [480120..483260 | 3140ms] VO: baru bagi umat Islam, para pemimpin Quraisy panik.
+     TOK: baru bagi umat Islam, para pemimpin Quraisy panik.
+     VIS: Shocked and infuriated Quraysh nobles watching empty Muslim quarters in Makkah, realizing a new base has risen in Yatsrib. 2D
+S118 [483260..488160 | 4900ms] VO: Pada tahun 622 Masehi, mereka berkumpul di balai Darun
+     TOK: Pada tahun 622 Masehi, mereka berkumpul di balai Darun
+     VIS: Heavy stone facade of Darun Nadwah in Makkah under ominous dusk clouds in 622 CE, sinister torches burning outside the pillar
+S119 [488160..492680 | 4520ms] VO: Nadwah dan menyusun rencana pamungkas: mengepung rumah Nabi dengan
+     TOK: Nadwah dan menyusun rencana pamungkas: mengepung rumah Nabi dengan
+     VIS: High-tension council in Darun Nadwah, Quraysh elders shouting in panic, stone benches crowded with agitated nobles, plotting 
+S120 [492680..496240 | 3560ms] VO: pemuda-pemuda dari berbagai klan agar pembunuhan itu tidak bisa
+     TOK: pemuda-pemuda dari berbagai klan agar pembunuhan itu tidak bisa
+     VIS: A ring of young Quraysh warriors from diverse clans holding iron swords around a central table, plotting collective assassina
+S121 [496240..498540 | 2300ms] VO: dituntut balas oleh satu klan saja,
+     TOK: dituntut balas oleh satu klan saja,
+     VIS: A blood feud banner pole in sand, visual metaphor showing that distributing the assassination among all clans prevents single
+S122 [498540..503640 | 5100ms] VO: lalu membunuh beliau di tempat tidurnya. Namun rencana itu gagal.
+     TOK: lalu membunuh beliau di tempat tidurnya. Namun rencana itu gagal.
+     VIS: Exterior of the Prophet's humble mudbrick house in Makkah surrounded by shadowy armed figures with drawn swords under a starr
+S123 [503640..506180 | 2540ms] VO: Ali bin Abi Thalib tidur di ranjang Nabi untuk
+     TOK: Ali bin Abi Thalib tidur di ranjang Nabi untuk
+     VIS: Young Ali lying calmly on the Prophet's bed covered by a green Yamani cloak, serene courage, face covered by radiant glowing 
+S124 [506180..509960 | 3780ms] VO: mengecoh para pengepung, sementara Nabi dan Abu Bakar ash-Shiddiq
+     TOK: mengecoh para pengepung, sementara Nabi dan Abu Bakar ash-Shiddiq
+     VIS: [DESERT HIJRAH ROUTE & GUA TSUR] The Prophet and Abu Bakar slipping quietly past sleeping guards through desert shadows, face
+S125 [509960..514340 | 4380ms] VO: berhasil keluar dari kepungan malam, bersembunyi di Gua Tsur,
+     TOK: berhasil keluar dari kepungan malam, bersembunyi di Gua Tsur,
+     VIS: Entrance of Gua Tsur concealed by thorny acacia bushes and spiders' webs on a rugged cliff face under the moon. 2D woodcut st
+S126 [514340..518740 | 4400ms] VO: lalu melintasi gurun menuju Yatsrib. Sebagian orang mengira hijrah
+     TOK: lalu melintasi gurun menuju Yatsrib. Sebagian orang mengira hijrah
+     VIS: Two riders on camels navigating steep sand dunes under a vast twilight desert sky, moving steadily northward toward Yatsrib. 
+S127 [518740..523360 | 4620ms] VO: hanyalah pelarian dari ancaman musuh. Padahal fakta sejarah membuktikan
+     TOK: hanyalah pelarian dari ancaman musuh. Padahal fakta sejarah membuktikan
+     VIS: Soldiers inspecting an empty military campsite in frustration, swords idle, visual metaphor for military assumptions. 2D wood
+S128 [523360..526840 | 3480ms] VO: hal yang jauh lebih besar. Para pakar sejarah mencatat
+     TOK: hal yang jauh lebih besar. Para pakar sejarah mencatat
+     VIS: A pair of balances weighing worldly conquest against moral enlightenment, tipped toward radiant knowledge. 2D illustrated sty
+S129 [526840..532060 | 5220ms] VO: bahwa hijrah adalah transformasi sosial paling mendasar dalam sejarah dunia.
+     TOK: bahwa hijrah adalah transformasi sosial paling mendasar dalam sejarah dunia.
+     VIS: An ancient leather-bound chronicle book resting open on an carved wooden pedestal, soft morning light illuminating its aged p
+S130 [532060..536800 | 4740ms] VO: Hijrah bukan sekadar berpindah tempat sejauh ratusan kilometer di
+     TOK: Hijrah bukan sekadar berpindah tempat sejauh ratusan kilometer di
+     VIS: A stylized historical map showing migration paths from Makkah to Yatsrib glowing with gentle warm light across desert sands. 
+S131 [536800..542230 | 5430ms] VO: atas peta. Hijrah adalah lompatan raksasa dari tatanan kesukuan
+     TOK: atas peta. Hijrah adalah lompatan raksasa dari tatanan kesukuan
+     VIS: Ancient parchment map of Arabia, geographical distance between Makkah and Yatsrib fading as a radiant bridge of light connect
+S132 [542230..545050 | 2820ms] VO: kuno yang berlandaskan darah dan klan,
+     TOK: kuno yang berlandaskan darah dan klan,
+     VIS: A heavy iron clan chain snapping apart in mid-air, while threads of luminous golden light weave together into a strong fabric
+S133 [545050..549150 | 4100ms] VO: menuju tatanan masyarakat beradab yang disatukan oleh komitmen moral
+     TOK: menuju tatanan masyarakat beradab yang disatukan oleh komitmen moral
+     VIS: An open civic assembly ground with stone paving and communal wells, symbol of civilized urban community replacing tribal anar
+S134 [549150..553630 | 4480ms] VO: dan iman. Ketika Nabi tiba di Yatsrib pada tahun
+     TOK: dan iman. Ketika Nabi tiba di Yatsrib pada tahun
+     VIS: A glowing sunrise over the palm trees of Madinah, casting long peaceful shadows across the desert, dawn of a new civilization
+S135 [553630..559730 | 6100ms] VO: 622 Masehi, beliau membiarkan untanya berjalan tanpa ditarik tali kekangnya,
+     TOK: 622 Masehi, beliau membiarkan untanya berjalan tanpa ditarik tali kekangnya,
+     VIS: The Prophet riding his camel into Yatsrib in 622 CE, greeted by joyful crowds lining the palm pathways, the Prophet's face co
+S136 [559730..564590 | 4860ms] VO: karena unta itu diperintahkan Allah. Unta itu akhirnya berlutut
+     TOK: karena unta itu diperintahkan Allah. Unta itu akhirnya berlutut
+     VIS: Close-up on the Prophet's camel walking freely with loose reins through the dusty lanes of Yatsrib, guided by divine will, th
+S137 [564590..567890 | 3300ms] VO: di atas sebidang tanah penjemuran kurma milik dua anak
+     TOK: di atas sebidang tanah penjemuran kurma milik dua anak
+     VIS: The camel kneeling gently on an open sunlit plot of land used for drying dates, surrounded by date palms and clay walls. 2D i
+S138 [567890..572850 | 4960ms] VO: yatim bernama Sahl dan Suhail. Di tanah inilah kelak
+     TOK: yatim bernama Sahl dan Suhail. Di tanah inilah kelak
+     VIS: Two humble young orphan boys, Sahl and Suhail, standing respectfully near their date-drying field with joyful expressions, st
+S139 [572850..578560 | 5710ms] VO: dibangun masjid. Sejak itu Yatsrib dikenal sebagai Madinatun Nabi,
+     TOK: dibangun masjid. Sejak itu Yatsrib dikenal sebagai Madinatun Nabi,
+     VIS: Builders marking the foundation boundary stones on the date-drying field under the bright sun of Madinah, beginning of the sa
+S140 [578560..584010 | 5450ms] VO: “Kota Nabi”, atau disingkat Madinah, yang secara harfiah bermakna “kota”.
+     TOK: “Kota Nabi”, atau disingkat Madinah, yang secara harfiah bermakna “kota”.
+     VIS: A carved stone monument at the oasis entrance inscribed with gentle flowing wavy linear lines symbolizing the title 'Madinatu
+S141 [584010..588490 | 4480ms] VO: Kata tamaddun, yang berarti peradaban, berasal dari akar kata
+     TOK: Kata tamaddun, yang berarti peradaban, berasal dari akar kata
+     VIS: Ancient city gates of Madinah framed by flourishing date palm groves and peaceful community courtyards under clear open skies
+S142 [588490..592890 | 4400ms] VO: yang sama, sehingga Madinah kerap dimaknai sebagai kota tempat
+     TOK: yang sama, sehingga Madinah kerap dimaknai sebagai kota tempat
+     VIS: Stylized linguistic roots branching out on aged parchment: ancient root letters rendered as flowing decorative vine motifs sy
+S143 [592890..598780 | 5890ms] VO: peradaban dibangun. Di Madinah, status umat Islam berubah total.
+     TOK: peradaban dibangun. Di Madinah, status umat Islam berubah total.
+     VIS: Sunlight breaking brilliantly over the rooftops of Madinah, transforming the desert settlement into an organized city of ligh
+S144 [598780..602680 | 3900ms] VO: Di Makkah mereka adalah kelompok tertindas yang dikucilkan.
+     TOK: Di Makkah mereka adalah kelompok tertindas yang dikucilkan.
+     VIS: Shadowed figures walking quietly through Makkah's narrow alleys, looking back over their shoulders, reminder of persecution i
+S145 [602680..606350 | 3670ms] VO: Di Madinah, mereka memegang kendali kepemimpinan politik.
+     TOK: Di Madinah, mereka memegang kendali kepemimpinan politik.
+     VIS: Confident citizens in clean white and ochre tunics walking freely in the sunny public spaces of Madinah, faces covered by rad
+S146 [606350..611270 | 4920ms] VO: Nabi Muhammad tidak lagi hanya berperan sebagai pembawa risalah agama,
+     TOK: Nabi Muhammad tidak lagi hanya berperan sebagai pembawa risalah agama,
+     VIS: The Prophet standing in prayer in front of believers in Makkah, carrying the divine message amid adversity, face covered by r
+S147 [611270..616910 | 5640ms] VO: melainkan memikul mandat ganda: pemimpin spiritual sekaligus pemimpin masyarakat
+     TOK: melainkan memikul mandat ganda: pemimpin spiritual sekaligus pemimpin masyarakat
+     VIS: The Prophet standing in the open civic pavilion of Madinah, holding a judicial wooden staff in one hand and blessing the comm
+S148 [616910..622860 | 5950ms] VO: dan kepala negara-kota. Untuk membangun masyarakat majemuk yang berkeadaban,
+     TOK: dan kepala negara-kota. Untuk membangun masyarakat majemuk yang berkeadaban,
+     VIS: A diverse gathering of desert tribes and city dwellers seated attentively before a central dais in Madinah, united as a plura
+S149 [622860..626870 | 4010ms] VO: Nabi segera meletakkan tiga pilar pembangunan peradaban.
+     TOK: Nabi segera meletakkan tiga pilar pembangunan peradaban.
+     VIS: Three strong unpolished stone pillars standing upright in desert soil under an arch of dawn light, symbol of the three founda
+S150 [626870..630370 | 3500ms] VO: Pilar pertama adalah pendirian Masjid Nabawi.
+     TOK: Pilar pertama adalah pendirian Masjid Nabawi.
+     VIS: Construction of the first boundary walls of Masjid Nabawi, unbaked mud bricks neatly laid in courses on dry earth. 2D woodcut
+S151 [630370..633510 | 3140ms] VO: Di masa lalu, suku-suku Arab hanya berkumpul di balai
+     TOK: Di masa lalu, suku-suku Arab hanya berkumpul di balai
+     VIS: Ancient tribal assembly pavilions scattered and isolated in desert hills, each under separate rival flags, symbol of past tri
+S152 [633510..637090 | 3580ms] VO: sukunya masing-masing untuk membanggakan garis keturunan.
+     TOK: sukunya masing-masing untuk membanggakan garis keturunan.
+     VIS: Tribal banners of diverse clans lying abandoned on the sand, while a single olive-wood shelter welcomes all under one roof. 2
+S153 [637090..641500 | 4410ms] VO: Nabi menyatukan berbagai elemen masyarakat di bawah satu atap.
+     TOK: Nabi menyatukan berbagai elemen masyarakat di bawah satu atap.
+     VIS: Men of different tribes and origins standing shoulder to shoulder in clean rows inside the spacious open courtyard of Masjid 
+S154 [641500..644640 | 3140ms] VO: Masjid Nabawi dibangun bukan hanya untuk salat berjamaah.
+     TOK: Masjid Nabawi dibangun bukan hanya untuk salat berjamaah.
+     VIS: Believers bowing in unified congregational prayer facing north in the simple unadorned mudbrick courtyard of Masjid Nabawi, s
+S155 [644640..650520 | 5880ms] VO: Bangunan ini berfungsi sebagai balai musyawarah, tempat menyelesaikan perkara hukum,
+     TOK: Bangunan ini berfungsi sebagai balai musyawarah, tempat menyelesaikan perkara hukum,
+     VIS: An open consultation area under the thatched palm roof of Masjid Nabawi, elders and leaders seated on woven mats discussing c
+S156 [650520..654340 | 3820ms] VO: pusat bantuan sosial, serta tempat belajar bagi para sahabat
+     TOK: pusat bantuan sosial, serta tempat belajar bagi para sahabat
+     VIS: Sacks of dates and grain distributed from the mosque portico to needy families and widows, social welfare center. 2D woodcut 
+S157 [654340..659080 | 4740ms] VO: miskin yang tinggal di serambinya, yang dikenal sebagai Ahlus Suffah.
+     TOK: miskin yang tinggal di serambinya, yang dikenal sebagai Ahlus Suffah.
+     VIS: Shaded rear terrace of Masjid Nabawi (Ahlus Suffah) where devoted poor students study scrolls with wavy linear lines (no real
+S158 [659080..662560 | 3480ms] VO: Masjid menjadi pusat urusan publik sekaligus spiritual.
+     TOK: Masjid menjadi pusat urusan publik sekaligus spiritual.
+     VIS: Exterior panoramic view of Masjid Nabawi with palm frond roof and mud walls, bustling with peaceful civic life in the heart o
+S159 [662560..668560 | 6000ms] VO: Pilar kedua adalah al-Mu'akhah, yaitu program persaudaraan antara kaum
+     TOK: Pilar kedua adalah al-Mu'akhah, yaitu program persaudaraan antara kaum
+     VIS: Two clasped hands emerging from different sleeves—one coarse travel-worn Muhajir robe and one local Anshar garment—against a 
+S160 [668560..674020 | 5460ms] VO: Muhajirin pendatang dari Makkah dengan kaum Anshar warga asli Madinah.
+     TOK: Muhajirin pendatang dari Makkah dengan kaum Anshar warga asli Madinah.
+     VIS: An Anshar host embracing an arriving Muhajir traveler at the outskirts of Madinah, both faces covered by radiant glowing ligh
+S161 [674020..678480 | 4460ms] VO: Kaum Muhajirin tiba di Madinah dalam keadaan miskin karena
+     TOK: Kaum Muhajirin tiba di Madinah dalam keadaan miskin karena
+     VIS: Muhajirin migrants arriving in Madinah carrying only small cloth bundles, weary and destitute after losing their homes in Mak
+S162 [678480..683940 | 5460ms] VO: sebagian besar harta benda mereka ditinggalkan atau disita di Makkah.
+     TOK: sebagian besar harta benda mereka ditinggalkan atau disita di Makkah.
+     VIS: Confiscated possessions in Makkah: locked doors and sealed storehouses left behind by the emigrants in the shadow of Quraysh 
+S163 [683940..688040 | 4100ms] VO: Melalui program ini, ikatan klan purba dihancurkan.
+     TOK: Melalui program ini, ikatan klan purba dihancurkan.
+     VIS: A carved wooden tribal crest breaking into fragments on a stone floor, while a unified palm tree grows through it, symbol of 
+S164 [688040..691920 | 3880ms] VO: Abu Bakar dipersaudarakan dengan Kharijah bin Zaid,
+     TOK: Abu Bakar dipersaudarakan dengan Kharijah bin Zaid,
+     VIS: Abu Bakr and Kharijah bin Zaid embracing warmly as brothers outside an Anshar home, faces covered by radiant glowing light, g
+S165 [691920..697440 | 5520ms] VO: dan Ja'far bin Abi Thalib dipersaudarakan dengan Mu'adz bin Jabal.
+     TOK: dan Ja'far bin Abi Thalib dipersaudarakan dengan Mu'adz bin Jabal.
+     VIS: Ja'far and young Mu'adz bin Jabal walking together through date groves in brotherly companionship, faces covered by radiant g
+S166 [697440..701940 | 4500ms] VO: Persaudaraan ini menjadi jalan keluar dari krisis kemanusiaan.
+     TOK: Persaudaraan ini menjadi jalan keluar dari krisis kemanusiaan.
+     VIS: A fresh desert spring gushing forth from dry rocks, watering a grove of newly planted saplings, metaphor for humanitarian rev
+S167 [701940..704640 | 2700ms] VO: Kaum Anshar dengan sukarela membagi rumah,
+     TOK: Kaum Anshar dengan sukarela membagi rumah,
+     VIS: An open doorway of a spacious Madinah home, an Anshar host warmly welcoming a Muhajir brother inside to share living quarters
+S168 [704640..708300 | 3660ms] VO: bahkan harta mereka kepada saudara baru mereka.
+     TOK: bahkan harta mereka kepada saudara baru mereka.
+     VIS: An Anshar host dividing baskets of harvested fresh dates and grain sacks in half with a smile, offering the share to his brot
+S169 [708300..713580 | 5280ms] VO: Sa’ad bin Rabi’ menawarkan separuh hartanya kepada Abdurrahman bin Auf,
+     TOK: Sa’ad bin Rabi’ menawarkan separuh hartanya kepada Abdurrahman bin Auf,
+     VIS: Sa'ad bin Rabi' gesturing generously to divide his palm orchard and stores, facing Abdurrahman bin Auf, both faces covered by
+S170 [713580..717940 | 4360ms] VO: tetapi Abdurrahman memilih untuk hanya ditunjukkan jalan ke pasar
+     TOK: tetapi Abdurrahman memilih untuk hanya ditunjukkan jalan ke pasar
+     VIS: Abdurrahman bin Auf politely declining half the wealth with a respectful hand over his chest, pointing toward the bustling ma
+S171 [717940..721440 | 3500ms] VO: agar bisa berdagang dengan usahanya sendiri.
+     TOK: agar bisa berdagang dengan usahanya sendiri.
+     VIS: The vibrant outdoor marketplace of Madinah: stalls of dried dates, grain, camel leather, and pottery, honest bustling commerc
+S172 [721440..726800 | 5360ms] VO: Fanatisme kesukuan (asabiyah) dilebur ke dalam persaudaraan atas dasar
+     TOK: Fanatisme kesukuan (asabiyah) dilebur ke dalam persaudaraan atas dasar
+     VIS: A glowing circle of diverse hands holding a single cord around an olive tree, symbolizing the triumph of universal brotherhoo
+S173 [726800..732350 | 5550ms] VO: akidah dan kemanusiaan. Pilar ketiga adalah Piagam Madinah,
+     TOK: akidah dan kemanusiaan. Pilar ketiga adalah Piagam Madinah,
+     VIS: A large aged leather parchment scroll unrolled on a wooden table, inscribed with rows of flowing wavy linear lines representi
+S174 [732350..737560 | 5210ms] VO: sebuah perjanjian tertulis yang kerap disebut juga Konstitusi Madinah.
+     TOK: sebuah perjanjian tertulis yang kerap disebut juga Konstitusi Madinah.
+     VIS: Close-up of the parchment scroll illuminated by a warm clay oil lamp, showing neat rows of flowing wavy linear lines suggesti
+S175 [737560..742020 | 4460ms] VO: Kota Madinah saat itu dihuni oleh penduduk yang sangat majemuk:
+     TOK: Kota Madinah saat itu dihuni oleh penduduk yang sangat majemuk:
+     VIS: A panoramic view of Madinah showing diverse quarters: Muslim mudbrick houses, pagan Arab compounds, and stone towers of Jewis
+S176 [742020..746260 | 4240ms] VO: kaum Muslim Muhajirin dan Anshar, orang-orang Arab yang masih
+     TOK: kaum Muslim Muhajirin dan Anshar, orang-orang Arab yang masih
+     VIS: Muslim citizens in simple robes and pagan Arab neighbors in traditional desert garb conversing calmly in a shared date grove 
+S177 [746260..752020 | 5760ms] VO: menyembah berhala, serta suku-suku Yahudi seperti Bani Qainuqa, Bani Nadhir,
+     TOK: menyembah berhala, serta suku-suku Yahudi seperti Bani Qainuqa, Bani Nadhir,
+     VIS: Fortified stone towers and mudbrick estates of the Jewish clans (Bani Qainuqa, Bani Nadhir, Bani Quraizhah) nestled among dat
+S178 [752020..756800 | 4780ms] VO: dan Bani Quraizhah. Piagam ini menegaskan bahwa seluruh penduduk
+     TOK: dan Bani Quraizhah. Piagam ini menegaskan bahwa seluruh penduduk
+     VIS: Representatives of Muslim, non-Muslim Arab, and Jewish communities of Madinah seated in a circle around an open treaty table,
+S179 [756800..759040 | 2240ms] VO: Madinah yang terikat dalam perjanjian itu,
+     TOK: Madinah yang terikat dalam perjanjian itu,
+     VIS: Dignified delegates from various clans placing their seal rings onto soft wax around the parchment document, affirming collec
+S180 [759040..761700 | 2660ms] VO: apa pun latar belakang suku dan agamanya,
+     TOK: apa pun latar belakang suku dan agamanya,
+     VIS: A diverse circle of community elders standing together in an open courtyard, diverse turbans and robes, united as one civic b
+S181 [761700..765990 | 4290ms] VO: merupakan satu kesatuan masyarakat yang disebut Ummah.
+     TOK: merupakan satu kesatuan masyarakat yang disebut Ummah.
+     VIS: A central section of the parchment scroll glowing faintly with golden warmth, flowing wavy linear lines signifying the sacred
+S182 [765990..771090 | 5100ms] VO: Setiap kelompok dijamin kebebasannya untuk menjalankan keyakinan agamanya.
+     TOK: Setiap kelompok dijamin kebebasannya untuk menjalankan keyakinan agamanya.
+     VIS: A quiet stone courtyard where a Muslim portico and a Jewish study house stand facing each other under peaceful skies, freedom
+S183 [771090..775970 | 4880ms] VO: Apabila Madinah diserang dari luar, semua pihak berkewajiban bahu-membahu
+     TOK: Apabila Madinah diserang dari luar, semua pihak berkewajiban bahu-membahu
+     VIS: Watchtowers along the mudbrick defensive perimeter walls of Madinah manned by diverse community defenders scanning the desert
+S184 [775970..779950 | 3980ms] VO: mempertahankan kota. Tidak ada klan yang boleh bersekutu secara
+     TOK: mempertahankan kota. Tidak ada klan yang boleh bersekutu secara
+     VIS: Defenders reinforcing a stone barricade and digging defensive trenches outside the palm groves of Madinah with collective eff
+S185 [779950..783170 | 3220ms] VO: diam-diam dengan Quraisy yang memusuhi Madinah.
+     TOK: diam-diam dengan Quraisy yang memusuhi Madinah.
+     VIS: A closed heavy wooden city gate with iron bolts, blocking covert envoys from Makkah, symbol of vigilance against secret allia
+S186 [783170..786950 | 3780ms] VO: Dan jika terjadi perselisihan besar, perkara itu dibawa kepada
+     TOK: Dan jika terjadi perselisihan besar, perkara itu dibawa kepada
+     VIS: Two clan elders presenting a disputed boundary stone before an open assembly in Madinah, seeking peaceful judicial arbitratio
+S187 [786950..791400 | 4450ms] VO: Nabi Muhammad untuk diputuskan. Melalui Piagam Madinah,
+     TOK: Nabi Muhammad untuk diputuskan. Melalui Piagam Madinah,
+     VIS: The Prophet seated in the council pavilion listening calmly to an arbitration between differing citizens, holding the scroll 
+S188 [791400..795920 | 4520ms] VO: kelompok-kelompok yang berbeda keyakinan diakui sebagai bagian dari masyarakat
+     TOK: kelompok-kelompok yang berbeda keyakinan diakui sebagai bagian dari masyarakat
+     VIS: Jewish community elders in dignified scholarly robes holding their copy of the parchment pact, treated as protected equal par
+S189 [795920..800120 | 4200ms] VO: yang sama, dengan hak dan perlindungan yang dijamin dalam perjanjian.
+     TOK: yang sama, dengan hak dan perlindungan yang dijamin dalam perjanjian.
+     VIS: A balanced bronze balance of justice resting on smooth stone in the open air of Madinah, symbolizing impartial rule of law. 2
+S190 [800120..804920 | 4800ms] VO: Para peneliti modern sering menyebutnya salah satu dokumen politik
+     TOK: Para peneliti modern sering menyebutnya salah satu dokumen politik
+     VIS: An ancient library or archive room with stone shelves holding historical treaty rolls, soft dust motes floating in sunlight b
+S191 [804920..810140 | 5220ms] VO: tertulis paling awal yang mengatur kehidupan bersama masyarakat majemuk,
+     TOK: tertulis paling awal yang mengatur kehidupan bersama masyarakat majemuk,
+     VIS: An ancient scroll resting alongside a quill on an old wooden lectern, symbolic of the earliest written social contracts of ma
+S192 [810140..814980 | 4840ms] VO: meski istilah seperti “konstitusi” dan “warga negara” adalah bahasa
+     TOK: meski istilah seperti “konstitusi” dan “warga negara” adalah bahasa
+     VIS: Modern legal books and ancient parchment scrolls displayed side by side in a scholarly study, conceptual bridge of constituti
+S193 [814980..819580 | 4600ms] VO: zaman sekarang, dan mereka juga masih berdiskusi mengenai kapan
+     TOK: zaman sekarang, dan mereka juga masih berdiskusi mengenai kapan
+     VIS: Scholarly discussion silhouettes gathered around a table with historical timeline maps of early Arabia, examining historical 
+S194 [819580..825000 | 5420ms] VO: tepatnya naskah itu disusun. Perbedaan corak sosial antara Makkah
+     TOK: tepatnya naskah itu disusun. Perbedaan corak sosial antara Makkah
+     VIS: An hourglass with sand steadily running through it on an aged wooden desk beside the Constitution of Madinah scroll, flowing 
+S195 [825000..827960 | 2960ms] VO: pra-Islam dan Madinah kini terlihat nyata.
+     TOK: pra-Islam dan Madinah kini terlihat
+     VIS: Split composition: left side shows jagged harsh rocks of Makkah in charcoal shadow; right side shows fertile palm groves of M
+S196 [827960..832180 | 4220ms] VO: Di Makkah Jahiliyah, hukum rimba berkuasa.
+     TOK: nyata. Di Makkah Jahiliyah, hukum rimba berkuasa.
+     VIS: A proud warlord standing over a defeated adversary in Makkah's dusty sands, symbol of the law of the jungle in Jahiliyah. 2D 
+S197 [832180..837220 | 5040ms] VO: Siapa yang kuat dan banyak sukunya, dialah yang menentukan keadaan.
+     TOK: Siapa yang kuat dan banyak sukunya, dialah yang menentukan keadaan.
+     VIS: A wealthy clan chieftain in Makkah surrounded by heavily armed guards, deciding disputes by tribal might rather than justice.
+S198 [837220..841360 | 4140ms] VO: Penindasan terhadap kaum lemah dan perempuan terjadi tanpa ada
+     TOK: Penindasan terhadap kaum lemah dan perempuan terjadi tanpa ada
+     VIS: A poor woman and an orphan standing helpless in a dusty Makkah alleyway, ignored by passing wealthy merchants, absence of leg
+S199 [841360..845820 | 4460ms] VO: lembaga hukum yang membela, bahkan sebagian kabilah mengubur anak
+     TOK: lembaga hukum yang membela, bahkan sebagian kabilah mengubur anak
+     VIS: A desolate moonlit sand dune where a single small white cloth strip flutters in the wind, somber reminder of infanticide in J
+S200 [845820..849380 | 3560ms] VO: perempuan hidup-hidup karena dipandang sebagai aib.
+     TOK: perempuan hidup-hidup karena dipandang sebagai aib.
+     VIS: A grieving mother standing in dark shadows of a rocky gorge, head covered in sorrow under an overcast sky, darkness of Jahili
+S201 [849380..854460 | 5080ms] VO: Sebaliknya di Madinah, kehidupan bermasyarakat mulai diatur oleh kesepakatan
+     TOK: Sebaliknya di Madinah, kehidupan bermasyarakat mulai diatur oleh kesepakatan
+     VIS: A serene public hall in Madinah where a written contract is read before attentive community members, dawn light streaming in.
+S202 [854460..858400 | 3940ms] VO: tertulis dan tuntunan agama yang menjunjung keadilan.
+     TOK: tertulis dan tuntunan agama yang menjunjung keadilan.
+     VIS: A judge in Madinah reviewing a written pact with flowing wavy linear lines, delivering an impartial verdict to ordinary citiz
+S203 [858400..862880 | 4480ms] VO: Kaum perempuan diberi hak kepemilikan harta pribadi, hak waris,
+     TOK: Kaum perempuan diberi hak kepemilikan harta pribadi, hak waris,
+     VIS: A woman in Madinah receiving property deeds and inheritance documents represented by parchment with flowing wavy linear lines
+S204 [862880..868160 | 5280ms] VO: serta perlindungan dalam pernikahan. Sistem perbudakan mulai dibatasi dan
+     TOK: serta perlindungan dalam pernikahan. Sistem perbudakan mulai dibatasi dan
+     VIS: A peaceful Madinah family courtyard: a mother educating her young daughters near a pomegranate tree in sunlight, dignity and 
+S205 [868160..872200 | 4040ms] VO: pembebasan budak didorong sebagai amal yang sangat utama.
+     TOK: pembebasan budak didorong sebagai amal yang sangat utama.
+     VIS: An enslaved person having iron neck shackles unbolted and set free by a believer, stepping into sunlight with dignity, noble 
+S206 [872200..877580 | 5380ms] VO: Kesenjangan sosial dipersempit melalui ajaran zakat dan anjuran sedekah.
+     TOK: Kesenjangan sosial dipersempit melalui ajaran zakat dan anjuran sedekah.
+     VIS: Grain sacks and dried fruits being measured into baskets of Zakat and distributed to impoverished families in Madinah's court
+S207 [877580..881580 | 4000ms] VO: Watak sebagian masyarakat gurun yang semula mudah tersulut perang
+     TOK: Watak sebagian masyarakat gurun yang semula mudah tersulut perang
+     VIS: Broken pieces of a carved stone idol lying discarded beside an ancient well, while citizens sit together in peaceful consulta
+S208 [881580..888640 | 7060ms] VO: antarsuku dan memuja berhala batu, berangsur-angsur diarahkan menuju kebiasaan bermusyawarah,
+     TOK: antarsuku dan memuja berhala batu, berangsur-angsur diarahkan menuju kebiasaan bermusyawarah,
+     VIS: An open consultative assembly of Madinah citizens seated in an open-air shaded colonnade, exchanging thoughtful opinions peac
+S209 [888640..893880 | 5240ms] VO: pengendalian diri, dan ikatan persaudaraan yang melampaui batas klan.
+     TOK: pengendalian diri, dan ikatan persaudaraan yang melampaui batas klan.
+     VIS: Diverse hands holding a woven rope of fellowship across an olive orchard, symbolizing mutual self-restraint and brotherhood b
+S210 [893880..898060 | 4180ms] VO: Perjalanan dari kesunyian Gua Hira menuju kota Madinah telah
+     TOK: Perjalanan dari kesunyian Gua Hira menuju kota Madinah telah
+     VIS: A panoramic sunset view connecting the distant peaks of Mount Nur in Makkah to the flourishing green oasis of Madinah across 
+S211 [898060..902180 | 4120ms] VO: melahirkan tatanan sejarah baru. Dari satu orang yang menerima
+     TOK: melahirkan tatanan sejarah baru. Dari satu orang yang menerima
+     VIS: A single burning oil lamp resting inside the rugged cave of Hira, casting long shadows across desert stones, beginning of an 
+S212 [902180..906520 | 4340ms] VO: wahyu di puncak gunung batu, lahirlah sebuah masyarakat yang
+     TOK: wahyu di puncak gunung batu, lahirlah sebuah masyarakat yang
+     VIS: Mount Nur peak bathed in soft radiant morning light, a golden beacon shining out across the vast desert lands of the world. 2
+S213 [906520..909320 | 2800ms] VO: kelak menjadi mercusuar peradaban.
+     TOK: kelak menjadi mercusuar peradaban.
+     VIS: Madinah shining as a radiant city-state of light and justice amidst the surrounding desert wilderness, beacon of civilization

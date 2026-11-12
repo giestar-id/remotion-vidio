@@ -1,0 +1,644 @@
+SCENE   1 [     0 ->   6690 | 6.69s] (raw DOCX: 0-6690)
+  VO (spoken) : Tahun 483 Sebelum Masehi, di bukit berbatu Laurion dekat Athena,
+  IMG (actual): In [LAURION MINES], an Athenian miner in rough tunic strikes dark rock with a pickaxe, dust drifting.
+
+SCENE   2 [  6690 ->  12420 | 5.73s] (raw DOCX: 6690-12420)
+  VO (spoken) : seorang penambang menghantam batu karang dan menemukan urat perak tebal.
+  IMG (actual): The pickaxe cracks stone, exposing a thick glistening vein of [LAURION SILVER ORE].
+
+SCENE   3 [ 12420 ->  20240 | 7.82s] [SHIFTED] (raw DOCX: 12420-20240)
+  VO (spoken) : Nilainya sekitar 100 talenta perak. Jumlah ini sanggup membuat seluruh warga kaya mendadak.
+  IMG (actual): A wooden scale in a dim cavern weighing chunks of raw [LAURION SILVER ORE] against stone weights.
+
+SCENE   4 [ 20240 ->  24870 | 4.63s] [SHIFTED] (raw DOCX: 20240-24870)
+  VO (spoken) : Namun, politisi bernama Themistocles melarang uang itu dibagi-bagikan.
+  IMG (actual): In [ACROPOLIS & AGORA OF ATHENS], [THEMISTOCLES] raises his hand, halting the division of silver.
+
+SCENE   5 [ 24870 ->  28770 | 3.90s] [SHIFTED] (raw DOCX: 24870-28770)
+  VO (spoken) : Dia meyakinkan warga untuk memakai seluruh perak
+  IMG (actual): [THEMISTOCLES] gestures toward the sea, presenting a naval draft with wavy linear lines to citizens.
+
+SCENE   6 [ 28770 ->  32830 | 4.06s] [SHIFTED] (raw DOCX: 28770-32830)
+  VO (spoken) : demi membiayai dua ratus kapal perang trireme.
+  IMG (actual): Athenian shipwrights assembling wooden ribs of [ATHENIAN TRIREME] galleys in a coastal dockyard.
+
+SCENE   7 [ 32830 ->  37070 | 4.24s] (raw DOCX: 32830-37070)
+  VO (spoken) : Keputusan nekat ini kelak menyelamatkan Yunani dari kepunahan.
+  IMG (actual): A completed [ATHENIAN TRIREME] cutting through choppy Aegean waters, its bronze ram gleaming.
+
+SCENE   8 [ 37070 ->  41270 | 4.20s] (raw DOCX: 37070-41270)
+  VO (spoken) : Peradaban besar tidak selalu lahir dari lembah subur.
+  IMG (actual): Wide view: Greece's arid, jagged limestone mountains under a sun-bleached sky.
+
+SCENE   9 [ 41270 ->  45210 | 3.94s] (raw DOCX: 41270-45210)
+  VO (spoken) : Bangsa Yunani membangun dunia dari batu karang tandus,
+  IMG (actual): Archaic Greek farmers toiling on barren terraced hills, clearing limestone stones with mattocks.
+
+SCENE  10 [ 45210 ->  49510 | 4.30s] (raw DOCX: 45210-49510)
+  VO (spoken) : kelangkaan pangan, dan ancaman maut yang selalu mengintai.
+  IMG (actual): A parched, cracked barley field with withered stalks and thorny scrub, dust drifting in the heat.
+
+SCENE  11 [ 49510 ->  53620 | 4.11s] [SHIFTED] (raw DOCX: 49510-53620)
+  VO (spoken) : Ini adalah kisah bagaimana kepingan perak dari bukit berbatu
+  IMG (actual): A chunk of raw silver bathed in morning light, casting the shadow of a war galley.
+
+SCENE  12 [ 53620 ->  59430 | 5.81s] [SHIFTED] (raw DOCX: 53620-59430)
+  VO (spoken) : menjelma menjadi armada pelindung, melahirkan kedaulatan rakyat pertama,
+  IMG (actual): Three [ATHENIAN TRIREME] galleys sailing in formation past a limestone stele marked with wavy lines.
+
+SCENE  13 [ 59430 ->  64730 | 5.30s] (raw DOCX: 59430-64730)
+  VO (spoken) : meledak melintasi benua, lalu menaklukkan pikiran para penakluknya sendiri.
+  IMG (actual): An ancient parchment map with wavy linear borders unrolling across a Mediterranean coast table.
+
+SCENE  14 [ 64730 ->  69470 | 4.74s] (raw DOCX: 64730-69470)
+  VO (spoken) : Yang kita tahu, Yunani pada mulanya bukanlah negara kesatuan.
+  IMG (actual): 2D map of ancient Greece deeply fractured by mountain ridges and Aegean gulfs.
+
+SCENE  15 [ 69470 ->  75330 | 5.86s] [SHIFTED] (raw DOCX: 69470-75330)
+  VO (spoken) : Wilayahnya terpecah oleh barisan gunung terjal dan ribuan teluk sempit di Laut Aegea.
+  IMG (actual): Steep limestone ridges plunging sharply into narrow, deep olive-green Aegean gulfs.
+
+SCENE  16 [ 75330 ->  79730 | 4.40s] [SHIFTED] (raw DOCX: 75330-79730)
+  VO (spoken) : Alam yang keras memaksa mereka hidup terisolasi dalam komunitas mandiri
+  IMG (actual): An isolated archaic fishing village nestled between coastal cliffs, skiffs pulled on pebbles.
+
+SCENE  17 [ 79730 ->  83370 | 3.64s] [SHIFTED] (raw DOCX: 79730-83370)
+  VO (spoken) : bernama polis. Artinya, negara-kota.
+  IMG (actual): An archaic Greek polis on a rocky plateau, fortified by sun-bleached walls beneath a stone shrine.
+
+SCENE  18 [ 83370 ->  88310 | 4.94s] (raw DOCX: 83370-88310)
+  VO (spoken) : Setiap polis memiliki hukum, dewa pelindung, dan mata uang sendiri.
+  IMG (actual): A boundary altar between rival poleis on a dusty ridge, carved with faint wavy linear lines.
+
+SCENE  19 [ 88310 ->  91810 | 3.50s] (raw DOCX: 88310-91810)
+  VO (spoken) : Mereka terus bersaing memperebutkan petak gandum sempit.
+  IMG (actual): Archaic hoplites with bronze round shields clashing over a contested golden barley field.
+
+SCENE  20 [ 91810 ->  95070 | 3.26s] [SHIFTED] (raw DOCX: 91810-95070)
+  VO (spoken) : Kala itu, hidup petani bebas sangat rapuh.
+  IMG (actual): An abandoned stone farmhouse with a wooden plow sitting in cracked, dry dirt.
+
+SCENE  21 [ 95070 -> 100920 | 5.85s] [SHIFTED] (raw DOCX: 95070-100920)
+  VO (spoken) : Sekali gagal panen, satu keluarga bisa langsung diperbudak untuk melunasi utang pangan.
+  IMG (actual): A peasant farmer and his family kneeling in dust before a stern aristocratic bailiff.
+
+SCENE  22 [100920 -> 108070 | 7.15s] [SHIFTED] (raw DOCX: 100920-108070)
+  VO (spoken) : Sekitar 594 Sebelum Masehi, jurang kemiskinan di Athena nyaris menyulut perang saudara.
+  IMG (actual): In the Athenian Agora, wealthy nobles in himations confront debt-ridden commoners.
+
+SCENE  23 [108070 -> 112570 | 4.50s] [SHIFTED] (raw DOCX: 108070-112570)
+  VO (spoken) : Bangsawan menguasai tanah, sementara rakyat tercekik utang.
+  IMG (actual): Close-up: a peasant's calloused hands clutching a sickle in defiance against nobles.
+
+SCENE  24 [112570 -> 117600 | 5.03s] (raw DOCX: 112570-117600)
+  VO (spoken) : Demi mencegah pertumpahan darah, mereka menunjuk Solon merombak hukum.
+  IMG (actual): In the assembly, lawgiver [SOLON] steps forward holding wooden law tablets (axones).
+
+SCENE  25 [117600 -> 120540 | 2.94s] [SHIFTED] (raw DOCX: 117600-120540)
+  VO (spoken) : Solon mencabut batu penanda utang di ladang
+  IMG (actual): [SOLON] forcefully uproots a heavy stone [HOROI DEBT STONES] from dry dirt, toppling it.
+
+SCENE  26 [120540 -> 129480 | 8.94s] [SHIFTED] (raw DOCX: 120540-129480)
+  VO (spoken) : serta memerdekakan warga yang diperbudak. Tindakan ini disebut seisachtheia. Artinya, pelepasan beban yang mengguncang.
+  IMG (actual): Enslaved Athenian families rejoicing as iron neck shackles fall into the dry dirt.
+
+SCENE  27 [129480 -> 132840 | 3.36s] [SHIFTED] (raw DOCX: 129480-132840)
+  VO (spoken) : Dia melarang pinjaman berjaminan tubuh manusia.
+  IMG (actual): [SOLON] writing legal reforms with charcoal wavy linear lines on whitened wooden tablets.
+
+SCENE  28 [132840 -> 135400 | 2.56s] [SHIFTED] (raw DOCX: 132840-135400)
+  VO (spoken) : Solon tidak membagikan tanah orang kaya,
+  IMG (actual): [SOLON] unbars the wooden gates of the popular assembly, welcoming common citizens.
+
+SCENE  29 [135400 -> 141350 | 5.95s] [SHIFTED] (raw DOCX: 135400-141350)
+  VO (spoken) : tetapi membuka pintu rapat umum bagi seluruh warga. Tapi sebelum sampai ke sana,
+  IMG (actual): Common artisans and farmers entering the open-air stone assembly under morning light.
+
+SCENE  30 [141350 -> 144050 | 2.70s] [SHIFTED] (raw DOCX: 141350-144050)
+  VO (spoken) : para elit masih menyimpan dendam lama.
+  IMG (actual): In a shaded colonnade, bitter aristocrats whisper conspiratorially around a bronze brazier.
+
+SCENE  31 [144050 -> 154350 | 10.30s] [SHIFTED] (raw DOCX: 144050-154350)
+  VO (spoken) : Sekitar 508 Sebelum Masehi, perebutan kekuasaan antarbangsawan memuncak lagi. Di sinilah ceritanya berubah.
+  IMG (actual): Aristocratic factions arguing furiously with clenched fists in the Athenian Agora.
+
+SCENE  32 [154350 -> 159930 | 5.58s] [SHIFTED] (raw DOCX: 154350-159930)
+  VO (spoken) : Bangsawan bernama Cleisthenes mengambil langkah tanpa tandingan.
+  IMG (actual): [CLEISTHENES] ascends the stone bema, unrolling a papyrus chart with wavy linear circles.
+
+SCENE  33 [159930 -> 166590 | 6.66s] [SHIFTED] (raw DOCX: 159930-166590)
+  VO (spoken) : Dia membubarkan empat suku aristokrat lama dan membentuk sepuluh suku baru buatan.
+  IMG (actual): Visual: four old aristocratic crests fragmenting into ten equal geometric tribal seals.
+
+SCENE  34 [166590 -> 171550 | 4.96s] (raw DOCX: 166590-171550)
+  VO (spoken) : Mekanisme ini bekerja rapi meredam permusuhan antargolongan.
+  IMG (actual): A diagram of Attica: coastal nets, inland wheat, and city pots interlinked by cords.
+
+SCENE  35 [171550 -> 177250 | 5.70s] [SHIFTED] (raw DOCX: 171550-177250)
+  VO (spoken) : Wilayah Athena dibagi tiga zona: pesisir, pedalaman, dan kota.
+  IMG (actual): An illustrated map of Attica showing coast, inland, and city zones marked with wavy lines.
+
+SCENE  36 [177250 -> 182090 | 4.84s] [SHIFTED] (raw DOCX: 177250-182090)
+  VO (spoken) : Tiap suku baru wajib berisi gabungan warga dari ketiga zona tersebut.
+  IMG (actual): A sailor, a sunburnt farmer, and an urban smith clasping hands in civic solidarity.
+
+SCENE  37 [182090 -> 189830 | 7.74s] [SHIFTED] (raw DOCX: 182090-189830)
+  VO (spoken) : Ibarat menyatukan serpihan tulang, otot, dan kulit tubuh agar bergerak serempak di bawah satu kesadaran.
+  IMG (actual): Symbolic rendering of human bone, muscle, and skin moving in a unified, coordinated stride.
+
+SCENE  38 [189830 -> 196420 | 6.59s] [SHIFTED] (raw DOCX: 189830-196420)
+  VO (spoken) : Mereka yang dulunya bermusuhan dipaksa duduk berdampingan mengurus pertahanan dan anggaran kota.
+  IMG (actual): Ten tribal representatives seated at a circular stone table reviewing civic records.
+
+SCENE  39 [196420 -> 200960 | 4.54s] [SHIFTED] (raw DOCX: 196420-200960)
+  VO (spoken) : Dewan lima ratus orang dibentuk lewat undian acak berkala.
+  IMG (actual): Citizens by a stone allotment machine (kleroterion), dropping bronze voting tokens.
+
+SCENE  40 [200960 -> 203370 | 2.41s] [SHIFTED] (raw DOCX: 200960-203370)
+  VO (spoken) : Siapa pun pria merdeka punya peluang
+  IMG (actual): A humble citizen chosen by lot receiving an official stone seal before the council.
+
+SCENE  41 [203370 -> 206100 | 2.73s] [SHIFTED] (raw DOCX: 203370-206100)
+  VO (spoken) : setara memimpin selama satu tahun.
+  IMG (actual): A craftsman in a plain chiton presiding impartially over an open-air stone court.
+
+SCENE  42 [206100 -> 212570 | 6.47s] (raw DOCX: 206100-212570)
+  VO (spoken) : Mereka menamainya isonomia. Artinya, kesetaraan hak di hadapan hukum.
+  IMG (actual): A monumental limestone stele carved with wavy linear lines representing isonomia.
+
+SCENE  43 [212570 -> 218180 | 5.61s] (raw DOCX: 212570-218180)
+  VO (spoken) : Gagasan ini menjadi benih awal pemerintahan yang kita sebut demokrasi.
+  IMG (actual): Thousands of Athenian citizens raising their right hands in unison on the Pnyx hill.
+
+SCENE  44 [218180 -> 223700 | 5.52s] (raw DOCX: 218180-223700)
+  VO (spoken) : Namun, tepat saat Athena mulai memperdebatkan undang-undang secara terbuka,
+  IMG (actual): The Athenian Agora humming with public debate before Doric limestone stoas.
+
+SCENE  45 [223700 -> 230220 | 6.52s] [SHIFTED] (raw DOCX: 223700-230220)
+  VO (spoken) : ancaman raksasa datang dari timur. Kekaisaran Persia bertekad menundukkan Yunani
+  IMG (actual): A colossal charcoal shadow of the Persian royal lion spreading across the Aegean Sea.
+
+SCENE  46 [230220 -> 234160 | 3.94s] [SHIFTED] (raw DOCX: 230220-234160)
+  VO (spoken) : akibat campur tangan Athena dalam pemberontakan Ionia.
+  IMG (actual): The coastal city of Sardis burning in the distance during the Ionian revolt, smoke rising.
+
+SCENE  47 [234160 -> 240320 | 6.16s] [SHIFTED] (raw DOCX: 234160-240320)
+  VO (spoken) : Pasukan Persia dipukul mundur oleh tombak Athena di Marathon pada 490 Sebelum Masehi.
+  IMG (actual): Athenian hoplites with bronze shields charging Persians on the dusty plain of Marathon.
+
+SCENE  48 [240320 -> 243550 | 3.23s] [SHIFTED] (raw DOCX: 240320-243550)
+  VO (spoken) : Sepuluh tahun berselang, putranya, Raja Xerxes,
+  IMG (actual): Great King [XERXES] on a golden war throne, surveying his Hellespont bridge of boats.
+
+SCENE  49 [243550 -> 247290 | 3.74s] (raw DOCX: 243550-247290)
+  VO (spoken) : memimpin ekspedisi kedua dengan skala jauh lebih mengerikan.
+  IMG (actual): Vast Persian army of Immortals marching in armor, baggage camels raising dust clouds.
+
+SCENE  50 [247290 -> 252550 | 5.26s] (raw DOCX: 247290-252550)
+  VO (spoken) : Ratusan ribu prajurit dan ribuan kapal bergerak menyapu wilayah utara.
+  IMG (actual): Hundreds of Persian and Phoenician war galleys darkening the northern sea horizon.
+
+SCENE  51 [252550 -> 257750 | 5.20s] (raw DOCX: 252550-257750)
+  VO (spoken) : Di celah sempit Thermopylae, Raja Leonidas bersama tiga ratus prajurit
+  IMG (actual): Spartan King [LEONIDAS] and three hundred hoplites locking shields at Thermopylae.
+
+SCENE  52 [257750 -> 262490 | 4.74s] (raw DOCX: 257750-262490)
+  VO (spoken) : Sparta bertarung sampai gugur demi mengulur waktu mundur bagi sekutu.
+  IMG (actual): [LEONIDAS] and battered Spartans fighting fiercely against waves of Persian immortals.
+
+SCENE  53 [262490 -> 266940 | 4.45s] (raw DOCX: 262490-266940)
+  VO (spoken) : Pengorbanan itu heroik, tetapi pertahanan darat tetap bobol.
+  IMG (actual): The narrow pass of Thermopylae littered with broken bronze shields at sunset.
+
+SCENE  54 [266940 -> 270000 | 3.06s] [SHIFTED] (raw DOCX: 266940-270000)
+  VO (spoken) : Pasukan Persia merangsek masuk ke Athena
+  IMG (actual): Persian troops marching through silent, deserted Athens carrying flaring torches.
+
+SCENE  55 [270000 -> 275810 | 5.81s] [SHIFTED] (raw DOCX: 270000-275810)
+  VO (spoken) : dan membakar kuil Akropolis menjadi abu hitam. Dan itu belum yang terburuk.
+  IMG (actual): Flames and black smoke engulfing wooden shrines on the Acropolis into drifting ash.
+
+SCENE  56 [275810 -> 281360 | 5.55s] (raw DOCX: 275810-281360)
+  VO (spoken) : Melihat kotanya hangus, Themistocles tak menyerah. Dia mengarahkan warga mengungsi
+  IMG (actual): On Salamis cliffs, [THEMISTOCLES] gazes at smoldering Athens across the strait.
+
+SCENE  57 [281360 -> 287640 | 6.28s] [SHIFTED] (raw DOCX: 281360-287640)
+  VO (spoken) : ke Pulau Salamis dan mempertaruhkan nasib pada dinding kayu: dua ratus kapal trireme dari perak Laurion.
+  IMG (actual): Athenian refugee families in seaside tents looking upon two hundred moored warships.
+
+SCENE  58 [287640 -> 291140 | 3.50s] [SHIFTED] (raw DOCX: 287640-291140)
+  VO (spoken) : Themistocles menyusun perangkap licik.
+  IMG (actual): [THEMISTOCLES] in an olive cloak secretly dictating a deceptive scroll to slave Sicinnus.
+
+SCENE  59 [291140 -> 296450 | 5.31s] (raw DOCX: 291140-296450)
+  VO (spoken) : Dia mengirim budak kepercayaannya membawa pesan rahasia palsu kepada Xerxes
+  IMG (actual): Sicinnus rowing a small boat under a crescent moon toward the Persian fleet torches.
+
+SCENE  60 [296450 -> 301070 | 4.62s] (raw DOCX: 296450-301070)
+  VO (spoken) : bahwa pasukan Yunani sedang panik dan bersiap melarikan diri lewat
+  IMG (actual): In a royal tent, Sicinnus presents the sealed scroll with wavy lines to Persian commanders.
+
+SCENE  61 [301070 -> 309420 | 8.35s] [SHIFTED] (raw DOCX: 301070-309420)
+  VO (spoken) : selat. Tergiur kemenangan kilat, Xerxes memerintahkan armadanya mengepung Selat Salamis pada malam hari.
+  IMG (actual): Persian armada entering the narrow straits in pitch darkness, oars churning sea foam.
+
+SCENE  62 [309420 -> 312500 | 3.08s] [SHIFTED] (raw DOCX: 309420-312500)
+  VO (spoken) : Di lorong laut inilah taktik perang bekerja.
+  IMG (actual): Morning mist clearing over [STRAIT OF SALAMIS], revealing Athenian triremes in battle line.
+
+SCENE  63 [312500 -> 317190 | 4.69s] [SHIFTED] (raw DOCX: 312500-317190)
+  VO (spoken) : Kapal trireme Yunani memiliki lambung ramping dengan tiga tingkat dayung
+  IMG (actual): Interior cutaway of [ATHENIAN TRIREME]: citizen rowers pulling synchronized oars in three banks.
+
+SCENE  64 [317190 -> 319940 | 2.75s] [SHIFTED] (raw DOCX: 317190-319940)
+  VO (spoken) : yang dikayuh seratus tujuh puluh pendayung.
+  IMG (actual): Sweat on the brow of an Athenian rower pulling hard to the coxswain's mallet beat.
+
+SCENE  65 [319940 -> 322770 | 2.83s] [SHIFTED] (raw DOCX: 319940-322770)
+  VO (spoken) : Haluan kapal dipasangi moncong perunggu tajam.
+  IMG (actual): Close-up: the bronze three-pronged ram (embolos) slicing through foamy seawater.
+
+SCENE  66 [322770 -> 329160 | 6.39s] [SHIFTED] (raw DOCX: 322770-329160)
+  VO (spoken) : Saat kapal Persia yang tambun berdesakan di selat sempit, gerak mereka terkunci rapat.
+  IMG (actual): Bulky Persian ships wedged in the bottleneck of Salamis, crashing into one another.
+
+SCENE  67 [329160 -> 337100 | 7.94s] [SHIFTED] (raw DOCX: 329160-337100)
+  VO (spoken) : Ibarat rombongan truk muatan berat tersangkut di gang perkampungan, mereka saling menabrak dan mematahkan dayung sendiri.
+  IMG (actual): Aerial view of trapped Persian vessels in utter disarray in the narrow channel.
+
+SCENE  68 [337100 -> 339440 | 2.34s] [SHIFTED] (raw DOCX: 337100-339440)
+  VO (spoken) : Kapal trireme lincah melesat,
+  IMG (actual): Athenian triremes darting forward, their bronze rams smashing enemy cedar hulls.
+
+SCENE  69 [339440 -> 342040 | 2.60s] [SHIFTED] (raw DOCX: 339440-342040)
+  VO (spoken) : menghantam lambung lawan hingga remuk.
+  IMG (actual): Cedar timber splintering as Persian ships capsize, soldiers plunging into waves.
+
+SCENE  70 [342040 -> 346895 | 4.86s] [SHIFTED] (raw DOCX: 342040-346895)
+  VO (spoken) : Di atas bukit, Xerxes terpaksa menyaksikan armadanya tenggelam ke dasar laut.
+  IMG (actual): King [XERXES] on Mount Aigaleo covering his face as his royal armada sinks below.
+
+SCENE  71 [346895 -> 353350 | 6.46s] [SHIFTED] (raw DOCX: 346895-353350)
+  VO (spoken) : Kemenangan di Salamis dan pertempuran Plataea pada tahun berikutnya berhasil mengusir Persia.
+  IMG (actual): Victorious Greek triremes sailing past the victory trophy at Salamis in morning sun.
+
+SCENE  72 [353350 -> 358310 | 4.96s] (raw DOCX: 353350-358310)
+  VO (spoken) : Athena melonjak menjadi pemimpin persekutuan laut yang makmur dan ditakuti.
+  IMG (actual): In [ACROPOLIS & AGORA OF ATHENS], island allies delivering silver tribute baskets.
+
+SCENE  73 [358310 -> 363490 | 5.18s] [SHIFTED] (raw DOCX: 358310-363490)
+  VO (spoken) : Sekarang kita berhenti sejenak melihat posisi Yunani di titik tengah sejarah.
+  IMG (actual): A marble relief map of the Aegean showing Athenian power, fine cracks appearing.
+
+SCENE  74 [363490 -> 368060 | 4.57s] [SHIFTED] (raw DOCX: 363490-368060)
+  VO (spoken) : Puncak kejayaan diraih dan penjajah terusir, tetapi benih kehancuran
+  IMG (actual): Two stone steles on a ridge: one crowned with naval laurel, one scarred by spears.
+
+SCENE  75 [368060 -> 373150 | 5.09s] [SHIFTED] (raw DOCX: 368060-373150)
+  VO (spoken) : bertunas dari dada bangsa ini sendiri. Di satu sudut berdiri Athena,
+  IMG (actual): Split view: vibrant marble Athens on left, austere stone Sparta on right.
+
+SCENE  76 [373150 -> 375960 | 2.81s] [SHIFTED] (raw DOCX: 373150-375960)
+  VO (spoken) : kota laut yang kaya seni dan debat filsafat.
+  IMG (actual): Athenian philosophers debating in stoas as Parthenon columns rise on the Acropolis.
+
+SCENE  77 [375960 -> 381810 | 5.85s] [SHIFTED] (raw DOCX: 375960-381810)
+  VO (spoken) : Di sudut lain berdiri Sparta, kekuatan darat dengan reputasi militer legendaris.
+  IMG (actual): In [SPARTA & EUROTAS VALLEY], bronze-clad hoplites drilling on red dirt by mountains.
+
+SCENE  78 [381810 -> 386110 | 4.30s] (raw DOCX: 381810-386110)
+  VO (spoken) : Banyak orang mengira Sparta bangsa prajurit super yang kebal kekalahan.
+  IMG (actual): A heroic bronze statue of an invincible Spartan warrior gleaming under bright sky.
+
+SCENE  79 [386110 -> 390090 | 3.98s] [SHIFTED] (raw DOCX: 386110-390090)
+  VO (spoken) : Namun, catatan sejarah membuka kenyataan berbanding terbalik.
+  IMG (actual): Close-up: the bronze Spartan statue cracking open, revealing hollow dust inside.
+
+SCENE  80 [390090 -> 394410 | 4.32s] [SHIFTED] (raw DOCX: 390090-394410)
+  VO (spoken) : Para sejarawan menyebut tabir kehebatan ini sebagai Ilusi Sparta.
+  IMG (actual): Symbolic: a shimmering phalanx dissolving into arid dust.
+
+SCENE  81 [394410 -> 401490 | 7.08s] [SHIFTED] (raw DOCX: 394410-401490)
+  VO (spoken) : Di balik zirah perunggu perkasa, masyarakat Sparta digerogoti penyakit sosial mematikan bernama oliganthropia.
+  IMG (actual): Desolate view: the Eurotas valley with empty stone barracks and abandoned fields.
+
+SCENE  82 [401490 -> 404740 | 3.25s] [SHIFTED] (raw DOCX: 401490-404740)
+  VO (spoken) : Artinya, penyusutan drastis jumlah penduduk merdeka.
+  IMG (actual): A lone bronze Spartan shield lying half-buried in dry dust, weathered by rains.
+
+SCENE  83 [404740 -> 408170 | 3.43s] [SHIFTED] (raw DOCX: 404740-408170)
+  VO (spoken) : Sistem sosial Sparta luar biasa kaku.
+  IMG (actual): An austere Spartan mess hall with barren stone benches and unadorned walls.
+
+SCENE  84 [408170 -> 416850 | 8.68s] [SHIFTED] (raw DOCX: 408170-416850)
+  VO (spoken) : Untuk mempertahankan status warga penuh, seorang pria wajib lulus pelatihan brutal agoge dan menyetor makanan ke perjamuan bersama.
+  IMG (actual): Young Spartan boys barefoot in dirt, enduring brutal agoge training under overseers.
+
+SCENE  85 [416850 -> 420530 | 3.68s] (raw DOCX: 416850-420530)
+  VO (spoken) : Bila prajurit jatuh miskin, hak warganya langsung dicabut.
+  IMG (actual): A disgraced Spartan citizen cast out of the mess hall, stripped of his red cloak.
+
+SCENE  86 [420530 -> 425136 | 4.61s] [SHIFTED] (raw DOCX: 420530-425136)
+  VO (spoken) : Ditambah gempa bumi dahsyat tahun 464 Sebelum Masehi
+  IMG (actual): The 464 BC earthquake: mountain boulders crashing down, destroying Spartan barracks.
+
+SCENE  87 [425136 -> 429620 | 4.48s] [SHIFTED] (raw DOCX: 425136-429620)
+  VO (spoken) : serta sikap menutup diri, populasi inti mereka menyusut drastis.
+  IMG (actual): Messenian helots gathering on Mount Ithome, watching the earthquake dust rise.
+
+SCENE  88 [429620 -> 433750 | 4.13s] (raw DOCX: 429620-433750)
+  VO (spoken) : Dari delapan ribu prajurit di awal perang Persia,
+  IMG (actual): Eight thousand Spartan hoplites standing in dense, impenetrable bronze ranks.
+
+SCENE  89 [433750 -> 438650 | 4.90s] (raw DOCX: 433750-438650)
+  VO (spoken) : jumlahnya merosot hingga tersisa kurang dari seribu orang seabad kemudian.
+  IMG (actual): A century later: a small, sparse cluster of fewer than a thousand aging warriors.
+
+SCENE  90 [438650 -> 443650 | 5.00s] [SHIFTED] (raw DOCX: 438650-443650)
+  VO (spoken) : Sparta beroperasi mirip perkumpulan elit yang terus membuang anggotanya sendiri
+  IMG (actual): Elderly Spartan aristocrats on a stone dais turning their backs on poor citizens.
+
+SCENE  91 [443650 -> 447040 | 3.39s] [SHIFTED] (raw DOCX: 443650-447040)
+  VO (spoken) : sampai tak ada lagi prajurit di medan laga.
+  IMG (actual): An empty Spartan drill field at dusk, long shadows stretching across barren earth.
+
+SCENE  92 [447040 -> 455390 | 8.35s] [SHIFTED] (raw DOCX: 447040-455390)
+  VO (spoken) : Kecemasan Sparta melihat kekayaan laut Athena akhirnya menyulut Perang Peloponnesos pada 431 Sebelum Masehi.
+  IMG (actual): Spartan leaders in a stone council room debating war against Athens over a map.
+
+SCENE  93 [455390 -> 458765 | 3.38s] [SHIFTED] (raw DOCX: 455390-458765)
+  VO (spoken) : Perang saudara ini berkecamuk selama dua puluh tujuh tahun.
+  IMG (actual): Spartan hoplites marching through burning olive groves outside Athens in 431 BC.
+
+SCENE  94 [458765 -> 464340 | 5.58s] [SHIFTED] (raw DOCX: 458765-464340)
+  VO (spoken) : Athena berlindung di balik tembok panjang sambil mengandalkan suplai laut.
+  IMG (actual): Crowded refugees inside the Long Walls of Athens, misery in smoke-filled alleys.
+
+SCENE  95 [464340 -> 468590 | 4.25s] [SHIFTED] (raw DOCX: 464340-468590)
+  VO (spoken) : Namun, wabah penyakit menyerang dari dalam, membunuh sepertiga penduduk
+  IMG (actual): The Great Plague: citizens collapsing by fountains; [PERICLES] lying feverish.
+
+SCENE  96 [468590 -> 471370 | 2.78s] [SHIFTED] (raw DOCX: 468590-471370)
+  VO (spoken) : termasuk pemimpin mereka, Pericles.
+  IMG (actual): The tomb of [PERICLES] under dreary skies as cold rain washes over stone monuments.
+
+SCENE  97 [471370 -> 477090 | 5.72s] (raw DOCX: 471370-477090)
+  VO (spoken) : Ambisi Athena hancur setelah ekspedisi militer ke Sisilia musnah dibantai.
+  IMG (actual): The Sicilian disaster: Athenian triremes ablaze in Syracuse harbor, army crushed.
+
+SCENE  98 [477090 -> 481400 | 4.31s] [SHIFTED] (raw DOCX: 477090-481400)
+  VO (spoken) : Dibantu kucuran emas Persia, Sparta akhirnya membangun armada laut
+  IMG (actual): Persian satrap handing chests of gold coins to Spartan admiral Lysander.
+
+SCENE  99 [481400 -> 487691 | 6.29s] [SHIFTED] (raw DOCX: 481400-487691)
+  VO (spoken) : dan menghancurkan sisa kapal Athena di Aegospotami pada 405 Sebelum Masehi.
+  IMG (actual): At Aegospotami, Spartan galleys capture the beached Athenian fleet along the shore.
+
+SCENE 100 [487691 -> 493140 | 5.45s] [SHIFTED] (raw DOCX: 487691-493140)
+  VO (spoken) : Athena menyerah karena kelaparan. Tembok pertahanannya dirobohkan.
+  IMG (actual): Athenian citizens weeping as the Long Walls are dismantled to the sound of flutes.
+
+SCENE 101 [493140 -> 499500 | 6.36s] [SHIFTED] (raw DOCX: 493140-499500)
+  VO (spoken) : Kemenangan Sparta berumur sangat pendek. Ketiadaan prajurit membuat kepemimpinan mereka rapuh.
+  IMG (actual): Spartan governors standing haughty atop the Acropolis, isolated without allies.
+
+SCENE 102 [499500 -> 504490 | 4.99s] (raw DOCX: 499500-504490)
+  VO (spoken) : Pada 371 Sebelum Masehi di Leuktra, pasukan Thebes melancarkan
+  IMG (actual): At Leuktra in 371 BC, Theban general Epaminondas massing fifty ranks deep on the left.
+
+SCENE 103 [504490 -> 508940 | 4.45s] (raw DOCX: 504490-508940)
+  VO (spoken) : taktik formasi miring yang meremukkan barisan elit Sparta.
+  IMG (actual): The Theban Sacred Band shattering the elite Spartan battle line, King falling.
+
+SCENE 104 [508940 -> 514050 | 5.11s] (raw DOCX: 508940-514050)
+  VO (spoken) : Wilayah budak Messenia yang ratusan tahun menopang ekonomi Sparta dibebaskan.
+  IMG (actual): Messenian helots breaking iron chains atop Mount Ithome, building free walls.
+
+SCENE 105 [514050 -> 519940 | 5.89s] (raw DOCX: 514050-519940)
+  VO (spoken) : Sparta terpuruk menjadi desa pedalaman dan tidak pernah bangkit lagi.
+  IMG (actual): Sparta reduced to five humble, impoverished agrarian villages in the Eurotas vale.
+
+SCENE 106 [519940 -> 524930 | 4.99s] [SHIFTED] (raw DOCX: 519940-524930)
+  VO (spoken) : Seluruh tanah Yunani kini luluh lantak, bangkrut, dan saling mencurigai.
+  IMG (actual): Post-war Greek countryside: broken pottery, fallow fields, and decaying towers.
+
+SCENE 107 [524930 -> 527640 | 2.71s] [SHIFTED] (raw DOCX: 524930-527640)
+  VO (spoken) : Di titik nadir inilah,
+  IMG (actual): Northern mountain peaks of Macedonia shrouded in dark gathering storm clouds.
+
+SCENE 108 [527640 -> 531670 | 4.03s] [SHIFTED] (raw DOCX: 527640-531670)
+  VO (spoken) : ancaman baru muncul dari perbatasan utara berhutan lebat.
+  IMG (actual): Macedonian royal armories: blacksmiths forging hundreds of long iron spearheads.
+
+SCENE 109 [531670 -> 537350 | 5.68s] [SHIFTED] (raw DOCX: 531670-537350)
+  VO (spoken) : Kerajaan Makedonia, wilayah pegunungan yang kerap dicap setengah barbar oleh orang Athena,
+  IMG (actual): Macedonian hill peasants drilling in formation under King [PHILIP II]'s command.
+
+SCENE 110 [537350 -> 541110 | 3.76s] [SHIFTED] (raw DOCX: 537350-541110)
+  VO (spoken) : bangkit pesat di bawah komando Raja Philip II.
+  IMG (actual): King [PHILIP II], scarred eye patch prominent, reviewing his professional army.
+
+SCENE 111 [541110 -> 546770 | 5.66s] [SHIFTED] (raw DOCX: 541110-546770)
+  VO (spoken) : Philip merevolusi formasi tempur dengan sarissa, tombak kayu sepanjang enam meter.
+  IMG (actual): Close-up: the eighteen-foot [SARISSA PIKE], balanced with a bronze counterweight.
+
+SCENE 112 [546770 -> 550870 | 4.10s] [SHIFTED] (raw DOCX: 546770-550870)
+  VO (spoken) : Pada 338 Sebelum Masehi di Chaeronea,
+  IMG (actual): An impenetrable bristling wall of sarissa pikes projecting five tiers forward.
+
+SCENE 113 [550870 -> 554470 | 3.60s] [SHIFTED] (raw DOCX: 550870-554470)
+  VO (spoken) : Philip menundukkan gabungan tentara Athena dan Thebes.
+  IMG (actual): Battle of Chaeronea in 338 BC: Macedonian phalanx crushing allied Greek lines.
+
+SCENE 114 [554470 -> 557700 | 3.23s] [SHIFTED] (raw DOCX: 554470-557700)
+  VO (spoken) : Zaman kemandirian negara-kota Yunani resmi tamat.
+  IMG (actual): The marble Lion of Chaeronea monument standing over the mass grave of the fallen.
+
+SCENE 115 [557700 -> 561750 | 4.05s] [SHIFTED] (raw DOCX: 557700-561750)
+  VO (spoken) : Dua tahun kemudian, Philip tewas dibunuh.
+  IMG (actual): King [PHILIP II] assassinated in a theater portal amidst festival celebrations.
+
+SCENE 116 [561750 -> 570980 | 9.23s] [SHIFTED] (raw DOCX: 561750-570980)
+  VO (spoken) : Putranya yang berumur dua puluh tahun, Alexander, mengambil alih tahta. Alexander menyeberang ke Asia membawa satu tekad mutlak:
+  IMG (actual): Young [ALEXANDER THE GREAT] drawing his sword as newly crowned Macedonian king.
+
+SCENE 117 [570980 -> 578490 | 7.51s] [SHIFTED] (raw DOCX: 570980-578490)
+  VO (spoken) : menumbangkan Kekaisaran Persia. Lewat kecepatan manuver pasukan berkuda di Granicus,
+  IMG (actual): Alexander leading his cavalry charge across the rushing waters of the Granicus.
+
+SCENE 118 [578490 -> 584310 | 5.82s] (raw DOCX: 578490-584310)
+  VO (spoken) : Issus, dan Gaugamela, Alexander menumbangkan kekuasaan raja Persia.
+  IMG (actual): Battle of Gaugamela: Alexander in bronze armor galloping through swirling desert dust.
+
+SCENE 119 [584310 -> 588280 | 3.97s] [SHIFTED] (raw DOCX: 584310-588280)
+  VO (spoken) : Pasukannya merebut Mesir, mendirikan kota Alexandria,
+  IMG (actual): Alexander pacing the Egyptian shoreline, laying out Alexandria's streets with grain.
+
+SCENE 120 [588280 -> 591640 | 3.36s] [SHIFTED] (raw DOCX: 588280-591640)
+  VO (spoken) : lalu membakar istana Persepolis.
+  IMG (actual): The grand stone palace of Persepolis engulfed in roaring charcoal flames and ash.
+
+SCENE 121 [591640 -> 596650 | 5.01s] [SHIFTED] (raw DOCX: 591640-596650)
+  VO (spoken) : Dahaga ekspansinya tak pernah padam melintasi ribuan mil padang gurun
+  IMG (actual): Alexander's army marching across vast, sun-baked sand dunes of the Gedrosian desert.
+
+SCENE 122 [596650 -> 602250 | 5.60s] [SHIFTED] (raw DOCX: 596650-602250)
+  VO (spoken) : sampai tiba di tepi Sungai Hyphasis di India. Di tepian sungai inilah
+  IMG (actual): On the muddy banks of the Hyphasis river in India, weary soldiers lower their spears.
+
+SCENE 123 [602250 -> 605930 | 3.68s] [SHIFTED] (raw DOCX: 602250-605930)
+  VO (spoken) : prajuritnya yang letih menolak melangkah lebih jauh.
+  IMG (actual): Exhausted veteran soldiers weeping before Alexander's tent, refusing to march east.
+
+SCENE 124 [605930 -> 615100 | 9.17s] [SHIFTED] (raw DOCX: 605930-615100)
+  VO (spoken) : Alexander mendirikan dua belas altar batu raksasa penanda batas akhir dunia yang dikenalnya, lalu memutar haluan pulang.
+  IMG (actual): Twelve colossal stone altars standing on the riverbank at the edge of the known world.
+
+SCENE 125 [615100 -> 621000 | 5.90s] [SHIFTED] (raw DOCX: 615100-621000)
+  VO (spoken) : Sang penakluk muda wafat di Babilonia pada tahun 323 Sebelum Masehi
+  IMG (actual): Alexander lying feverish on a golden couch in Babylon, generals standing vigil.
+
+SCENE 126 [621000 -> 624220 | 3.22s] [SHIFTED] (raw DOCX: 621000-624220)
+  VO (spoken) : dalam usia tiga puluh dua tahun.
+  IMG (actual): Alexander's royal signet ring slipping from his lifeless fingers onto mosaic stone.
+
+SCENE 127 [624220 -> 628610 | 4.39s] [SHIFTED] (raw DOCX: 624220-628610)
+  VO (spoken) : Kematian mendadak tanpa pewaris sah meninggalkan lubang kekuasaan menganga.
+  IMG (actual): An empty imperial throne with Alexander's diadem draped in heavy charcoal shadow.
+
+SCENE 128 [628610 -> 634890 | 6.28s] [SHIFTED] (raw DOCX: 628610-634890)
+  VO (spoken) : Para jenderalnya yang bergelar Diadochi berebut wilayah dalam perang saudara panjang.
+  IMG (actual): The Diadochi generals unsheathing bronze swords over a carved marble empire map.
+
+SCENE 129 [634890 -> 639150 | 4.26s] [SHIFTED] (raw DOCX: 634890-639150)
+  VO (spoken) : Dari puing kekaisaran itu, terbentuk tiga dinasti besar:
+  IMG (actual): War elephants and armored phalanxes clashing at the Battle of Ipsus in 301 BC.
+
+SCENE 130 [639150 -> 645380 | 6.23s] [SHIFTED] (raw DOCX: 639150-645380)
+  VO (spoken) : Ptolemeus di Mesir, Seleukia di Timur Dekat, dan Antigonid di Makedonia.
+  IMG (actual): Map of the East partitioned into Ptolemaic Egypt, Seleucid Asia, Antigonid Greece.
+
+SCENE 131 [645380 -> 647680 | 2.30s] [SHIFTED] (raw DOCX: 645380-647680)
+  VO (spoken) : Inilah era Helenistik.
+  IMG (actual): A grand Hellenistic harbor with a colossal stone lighthouse, galleys arriving.
+
+SCENE 132 [647680 -> 655440 | 7.76s] [SHIFTED] (raw DOCX: 647680-655440)
+  VO (spoken) : Kedaulatan politik negara-kota telah sirna, tetapi denyut kebudayaannya menyebar ke seluruh penjuru bumi.
+  IMG (actual): A caravan of camels carrying amphorae and papyrus scrolls across desert trade routes.
+
+SCENE 133 [655440 -> 661070 | 5.63s] [SHIFTED] (raw DOCX: 655440-661070)
+  VO (spoken) : Dialek bahasa Yunani sederhana bernama Koine menjadi bahasa pengantar pergaulan internasional
+  IMG (actual): Greek, Persian, and Egyptian merchants conversing in Koine Greek in a busy agora.
+
+SCENE 134 [661070 -> 663620 | 2.55s] [SHIFTED] (raw DOCX: 661070-663620)
+  VO (spoken) : dari Laut Mediterania sampai India.
+  IMG (actual): A bronze scroll case with an unrolled papyrus treaty covered in wavy linear script.
+
+SCENE 135 [663620 -> 669060 | 5.44s] [SHIFTED] (raw DOCX: 663620-669060)
+  VO (spoken) : Di perpustakaan Alexandria, para sarjana menyusun dasar ilmu ukur geometri
+  IMG (actual): Scholars in the Great Library of Alexandria studying geometry scrolls by globes.
+
+SCENE 136 [669060 -> 671800 | 2.74s] [SHIFTED] (raw DOCX: 669060-671800)
+  VO (spoken) : dan menghitung keliling bumi.
+  IMG (actual): Eratosthenes calculating the Earth's circumference by measuring well shadows.
+
+SCENE 137 [671800 -> 677890 | 6.09s] [SHIFTED] (raw DOCX: 671800-677890)
+  VO (spoken) : Jauh di pedalaman Asia Tengah, tepatnya di situs Ai Khanoum di tepi Sungai Oxus di Afghanistan modern,
+  IMG (actual): The Oxus river winding through dry mountain steppes of northern Afghanistan.
+
+SCENE 138 [677890 -> 683130 | 5.24s] (raw DOCX: 677890-683130)
+  VO (spoken) : para arkeolog menemukan reruntuhan kota Yunani lengkap dengan teater terbuka,
+  IMG (actual): The Hellenistic city of [AI KHANOUM & HELLENISTIC CITIES]: theater and stone colonnades.
+
+SCENE 139 [683130 -> 686110 | 2.98s] [SHIFTED] (raw DOCX: 683130-686110)
+  VO (spoken) : gimnasium, dan pilar batu bergaya Korintus.
+  IMG (actual): Greco-Bactrian youths wrestling in Ai Khanoum's gymnasium beside Heracles reliefs.
+
+SCENE 140 [686110 -> 691790 | 5.68s] [SHIFTED] (raw DOCX: 686110-691790)
+  VO (spoken) : Di makam pendiri kota terpahat untaian pepatah dari Kuil Delphi di Yunani
+  IMG (actual): Carved limestone stele at Kineas's tomb at Ai Khanoum, etched with wavy linear lines.
+
+SCENE 141 [691790 -> 696230 | 4.44s] [SHIFTED] (raw DOCX: 691790-696230)
+  VO (spoken) : yang mengajarkan manusia belajar sopan santun di masa kecil,
+  IMG (actual): A Greek teacher in Ai Khanoum guiding a child with a wax tablet inscribed in wavy lines.
+
+SCENE 142 [696230 -> 698830 | 2.60s] [SHIFTED] (raw DOCX: 696230-698830)
+  VO (spoken) : menguasai emosi di masa muda,
+  IMG (actual): A young rider demonstrating self-discipline, holding back a spirited horse in dust.
+
+SCENE 143 [698830 -> 701370 | 2.54s] [SHIFTED] (raw DOCX: 698830-701370)
+  VO (spoken) : berlaku adil di masa dewasa,
+  IMG (actual): A mature magistrate at a stone judgment seat, balancing legal scales with fairness.
+
+SCENE 144 [701370 -> 704010 | 2.64s] [SHIFTED] (raw DOCX: 701370-704010)
+  VO (spoken) : memberi nasihat bijak di masa tua,
+  IMG (actual): A white-bearded elder imparting counsel to young men beside an altar at twilight.
+
+SCENE 145 [704010 -> 706260 | 2.25s] [SHIFTED] (raw DOCX: 704010-706260)
+  VO (spoken) : dan menghadapi maut tanpa penyesalan.
+  IMG (actual): A calm stone funeral relief of a peaceful elder departing life without regret.
+
+SCENE 146 [706260 -> 714670 | 8.41s] [SHIFTED] (raw DOCX: 706260-714670)
+  VO (spoken) : Keping perak yang dulu dicungkil seorang penambang miskin dari bukit Laurion tidak hanya berhenti menjadi papan kayu kapal trireme.
+  IMG (actual): Macro transformation: jagged [LAURION SILVER ORE] morphing into a gleaming drachma.
+
+SCENE 147 [714670 -> 722420 | 7.75s] [SHIFTED] (raw DOCX: 714670-722420)
+  VO (spoken) : Logam itu telah menjelma menjadi ribuan keping koin berukir kepala dewa dan raja
+  IMG (actual): A silver tetradrachm stamped with Athena's owl, bordered with delicate wavy lines.
+
+SCENE 148 [722420 -> 731190 | 8.77s] [SHIFTED] (raw DOCX: 722420-731190)
+  VO (spoken) : yang mengalirkan gagasan tentang akal budi, hukum tertulis, dan ilmu pengetahuan ke peradaban lain.
+  IMG (actual): Diverse hands passing silver drachma coins from palm to palm in a bustling port.
+
+SCENE 149 [731190 -> 739930 | 8.74s] [SHIFTED] (raw DOCX: 731190-739930)
+  VO (spoken) : Ketika legiun Romawi menaklukkan daratan Yunani pada abad kedua Sebelum Masehi, mereka menguasai benteng dan tanahnya,
+  IMG (actual): Roman legions with rectangular red shields marching past ruined Corinthian columns.
+
+SCENE 150 [739930 -> 743300 | 3.37s] [SHIFTED] (raw DOCX: 739930-743300)
+  VO (spoken) : tetapi pikiran mereka justru ditaklukkan
+  IMG (actual): A Roman consul in a white toga bowing respectfully before a Greek philosopher.
+
+SCENE 151 [743300 -> 748840 | 5.54s] [SHIFTED] (raw DOCX: 743300-748840)
+  VO (spoken) : oleh seni, sastra, dan filsafat bangsa yang mereka tundukkan.
+  IMG (actual): Roman scribes copying Greek scrolls covered with wavy linear charcoal handwriting.
+
+SCENE 152 [748840 -> 754100 | 5.26s] (raw DOCX: 748840-754100)
+  VO (spoken) : Para penakluk berlutut di hadapan kecerdasan mereka yang dikalahkan.
+  IMG (actual): Roman stonemasons laying out aqueducts and temples using Greek geometric ratios.
+
+SCENE 153 [754100 -> 757050 | 2.95s] [SHIFTED] (raw DOCX: 754100-757050)
+  VO (spoken) : Hari ini, kemegahan fisik kuil Yunani
+  IMG (actual): Weathered white columns of the Parthenon bathed in glowing late-afternoon amber light.
+
+SCENE 154 [757050 -> 760520 | 3.47s] [SHIFTED] (raw DOCX: 757050-760520)
+  VO (spoken) : telah menjadi reruntuhan batu kapur bisu.
+  IMG (actual): The empty stone speaker's bema on the Pnyx hill overlooking the tranquil Aegean.
+
+SCENE 155 [760520 -> 770750 | 10.23s] [SHIFTED] (raw DOCX: 760520-770750)
+  VO (spoken) : Namun, setiap kali manusia berkumpul di bilik suara untuk menentukan pemimpinnya, mereka menyalakan kembali api demokrasi Cleisthenes.
+  IMG (actual): A modern citizen dropping a ballot into a voting box, overlaid with ancient bronze tokens.
+
+SCENE 156 [770750 -> 779040 | 8.29s] [SHIFTED] (raw DOCX: 770750-779040)
+  VO (spoken) : Setiap kali para hakim mengadili perkara berdasarkan pasal tertulis, mereka mengulang ketegasan hukum Solon.
+  IMG (actual): A modern courtroom judge's gavel beside an ancient stone stele of Solon's laws.
+
+SCENE 157 [779040 -> 784420 | 5.38s] [SHIFTED] (raw DOCX: 779040-784420)
+  VO (spoken) : Dan setiap kali para ilmuwan memetakan semesta dengan penalaran rasional,
+  IMG (actual): A modern astronomer's telescope aimed at stars beside ancient parchment diagrams.
+
+SCENE 158 [784420 -> 790310 | 5.89s] [SHIFTED] (raw DOCX: 784420-790310)
+  VO (spoken) : mereka menyalakan obor pengetahuan yang pernah dipantik di bukit berbatu Athena.
+  IMG (actual): A scholar studying by a desk lamp, surrounded by centuries of philosophical texts.
+
+SCENE 159 [790310 -> 797510 | 7.20s] [SHIFTED] (raw DOCX: 790310-797510)
+  VO (spoken) : Sebuah peradaban sejati tidak diukur dari seberapa kokoh benteng batunya bertahan melawan waktu,
+  IMG (actual): A crumbling ancient stone rampart dissolving slowly into dust on a grassy hill.
+
+SCENE 160 [797510 -> 800920 | 3.41s] [SHIFTED] (raw DOCX: 797510-800920)
+  VO (spoken) : melainkan seberapa dalam gagasan kemanusiaannya
+  IMG (actual): A solitary Greek stone stele carved with wavy linear lines against the Aegean horizon.
+
+SCENE 161 [800920 -> 804360 | 3.44s] [SHIFTED] (raw DOCX: 800920-804360)
+  VO (spoken) : tertanam di benak dunia yang datang setelahnya.
+  IMG (actual): Wide panoramic sunset over the Aegean Sea, golden ochre waters meeting the sky.
+

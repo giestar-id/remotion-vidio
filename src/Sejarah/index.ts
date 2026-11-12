@@ -1,0 +1,1 @@
+export {SejarahDocu} from './SejarahMainVideo';

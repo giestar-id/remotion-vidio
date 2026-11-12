@@ -1,0 +1,644 @@
+ROW   1 (     0 -   6060 ms):
+  VO   : Tahun[0-520] 483[520-2160] Sebelum[2160-2800] Masehi,[2800-3260] di[3260-3840?] bukit[3840-4260] berbatu[4260-4700] Laurion[4700-5340] dekat[5520-5660] Athena,[5660-6060]
+  IMG#1  : In [LAURION MINES], an Athenian miner in rough tunic strikes dark rock with a pickaxe, dust drifting.
+
+ROW   2 (  6820 -  11640 ms):
+  VO   : seorang[6820-7240] penambang[7240-7820] menghantam[7820-8600] batu[8600-8920] karang[8920-9360] dan[9360-9920] menemukan[9920-10440] urat[10440-11000] perak[11000-11320] tebal.[11320-11640]
+  IMG#2  : The pickaxe cracks stone, exposing a thick glistening vein of [LAURION SILVER ORE].
+
+ROW   3 ( 12550 -  17690 ms):
+  VO   : Nilainya[12550-13170] sekitar[13170-13730] 100[13730-14350] talenta[14350-15230?] perak.[15230-15630] Jumlah[16410-16690] ini[16690-16870] sanggup[16870-17370] membuat[17370-17690]
+  IMG#3  : A wooden scale in a dim cavern weighing chunks of raw [LAURION SILVER ORE] against stone weights.
+
+ROW   4 ( 17690 -  23750 ms):
+  VO   : seluruh[17690-18350] warga[18350-18630] kaya[18630-19070] mendadak.[19070-19570] Namun,[20370-20850] politisi[21190-21550] bernama[21550-21990] Themistocles[21990-22750] melarang[22750-23750]
+  IMG#4  : In [ACROPOLIS & AGORA OF ATHENS], [THEMISTOCLES] raises his hand, halting the division of silver.
+
+ROW   5 ( 23750 -  28490 ms):
+  VO   : uang[23750-23970] itu[23970-24170] dibagi-bagikan.[24170-24890?] Dia[24890-25750] meyakinkan[25750-26590] warga[26590-27010] untuk[27010-27310] memakai[27310-27750] seluruh[27750-28490]
+  IMG#5  : [THEMISTOCLES] gestures toward the sea, presenting a naval draft with wavy linear lines to citizens.
+
+ROW   6 ( 28490 -  32960 ms):
+  VO   : perak[28490-28790] demi[28790-29390] membiayai[29390-29830] dua[29830-30134?] ratus[30134-30590?] kapal[30590-31210] perang[31210-31510] trireme.[31510-32960?]
+  IMG#6  : Athenian shipwrights assembling wooden ribs of [ATHENIAN TRIREME] galleys in a coastal dockyard.
+
+ROW   7 ( 32960 -  36280 ms):
+  VO   : Keputusan[32960-33420] nekat[33420-33660] ini[33660-34000] kelak[34000-34400] menyelamatkan[34400-35100] Yunani[35100-35560] dari[35560-35820] kepunahan.[35820-36280]
+  IMG#7  : A completed [ATHENIAN TRIREME] cutting through choppy Aegean waters, its bronze ram gleaming.
+
+ROW   8 ( 37200 -  40640 ms):
+  VO   : Peradaban[37200-37480] besar[37680-38060] tidak[38060-38520] selalu[38520-39080] lahir[39080-39580] dari[39580-39800] lembah[39800-40160] subur.[40160-40640]
+  IMG#8  : Wide view: Greece's arid, jagged limestone mountains under a sun-bleached sky.
+
+ROW   9 ( 41400 -  44920 ms):
+  VO   : Bangsa[41400-41860] Yunani[41860-42400] membangun[42400-43120] dunia[43120-43660] dari[43660-43880] batu[43880-44160] karang[44160-44460] tandus,[44460-44920]
+  IMG#9  : Archaic Greek farmers toiling on barren terraced hills, clearing limestone stones with mattocks.
+
+ROW  10 ( 45340 -  48920 ms):
+  VO   : kelangkaan[45340-45840] pangan,[45840-46240] dan[46240-46620] ancaman[46620-47280] maut[47280-47760] yang[47760-47900] selalu[47900-48380] mengintai.[48380-48920]
+  IMG#10 : A parched, cracked barley field with withered stalks and thorny scrub, dust drifting in the heat.
+
+ROW  11 ( 49640 -  53640 ms):
+  VO   : Ini[49640-49880] adalah[49880-50140] kisah[50140-50680] bagaimana[50680-51520] kepingan[51520-52020] perak[52020-52400] dari[52400-52680] bukit[52680-53140] berbatu[53140-53640]
+  IMG#11 : A chunk of raw silver bathed in morning light, casting the shadow of a war galley.
+
+ROW  12 ( 53640 -  58980 ms):
+  VO   : menjelma[53640-54580] menjadi[54580-54880] armada[54880-55620] pelindung,[55620-56060] melahirkan[56720-57480] kedaulatan[57480-58060] rakyat[58060-58500] pertama,[58500-58980]
+  IMG#12 : Three [ATHENIAN TRIREME] galleys sailing in formation past a limestone stele marked with wavy lines.
+
+ROW  13 ( 59560 -  64080 ms):
+  VO   : meledak[59560-59940] melintasi[59940-60680] benua,[60680-61180] lalu[61680-61960] menaklukkan[61960-62440] pikiran[62440-62960] para[62960-63180] penakluknya[63180-63780] sendiri.[63780-64080]
+  IMG#13 : An ancient parchment map with wavy linear borders unrolling across a Mediterranean coast table.
+
+ROW  14 ( 64860 -  68840 ms):
+  VO   : Yang[64860-65040] kita[65040-65260] tahu,[65260-65560] Yunani[66360-66720] pada[66720-66940] mulanya[66940-67320] bukanlah[67320-67660] negara[67980-68320] kesatuan.[68320-68840]
+  IMG#14 : 2D map of ancient Greece deeply fractured by mountain ridges and Aegean gulfs.
+
+ROW  15 ( 69600 -  73560 ms):
+  VO   : Wilayahnya[69600-70120] terpecah[70120-70740] oleh[70740-70880] barisan[70880-71360] gunung[71360-71760] terjal[71760-72120] dan[72120-72680] ribuan[72680-73200] teluk[73200-73560]
+  IMG#15 : Steep limestone ridges plunging sharply into narrow, deep olive-green Aegean gulfs.
+
+ROW  16 ( 73560 -  76840 ms):
+  VO   : sempit[73560-74000] di[74000-74001?] Laut[74000-74340] Aegea.[74340-74860] Alam[75460-75700] yang[75700-75820] keras[75820-76080] memaksa[76080-76680] mereka[76680-76840]
+  IMG#16 : An isolated archaic fishing village nestled between coastal cliffs, skiffs pulled on pebbles.
+
+ROW  17 ( 76840 -  82360 ms):
+  VO   : hidup[76840-77340] terisolasi[77340-78220] dalam[78220-78480] komunitas[78480-79000] mandiri[79000-79540] bernama[79860-80100] polis.[80100-80520] Artinya,[81360-81780] negara-kota.[81780-82360]
+  IMG#17 : An archaic Greek polis on a rocky plateau, fortified by sun-bleached walls beneath a stone shrine.
+
+ROW  18 ( 83500 -  87620 ms):
+  VO   : Setiap[83500-83940] polis[83940-84200] memiliki[84200-84660] hukum,[84660-85160] dewa[85640-85900] pelindung,[85900-86280] dan[86280-86720] mata[86720-86960] uang[86960-87240] sendiri.[87240-87620]
+  IMG#18 : A boundary altar between rival poleis on a dusty ridge, carved with faint wavy linear lines.
+
+ROW  19 ( 88440 -  91420 ms):
+  VO   : Mereka[88440-88660] terus[88660-88900] bersaing[88900-89460] memperebutkan[89460-90040] petak[90040-90500] gandum[90500-90920] sempit.[90920-91420]
+  IMG#19 : Archaic hoplites with bronze round shields clashing over a contested golden barley field.
+
+ROW  20 ( 91940 -  96160 ms):
+  VO   : Kala[91940-92200] itu,[92200-92480] hidup[92480-92960] petani[92960-93240] bebas[93240-93560] sangat[93560-93980] rapuh.[93980-94420] Sekali[95200-95520] gagal[95520-95860] panen,[95860-96160]
+  IMG#20 : An abandoned stone farmhouse with a wooden plow sitting in cracked, dry dirt.
+
+ROW  21 ( 96540 - 100180 ms):
+  VO   : satu[96540-96700] keluarga[96700-97180] bisa[97180-97440] langsung[97440-97980] diperbudak[97980-98680] untuk[98680-98940] melunasi[98940-99560] utang[99560-99900] pangan.[99900-100180]
+  IMG#21 : A peasant farmer and his family kneeling in dust before a stern aristocratic bailiff.
+
+ROW  22 (101050 - 106710 ms):
+  VO   : Sekitar[101050-101490] 594[101490-102510] Sebelum[102510-103150] Masehi,[103150-103550] jurang[104330-104610] kemiskinan[104610-105150] di[105150-105290] Athena[105290-105650] nyaris[105650-106110] menyulut[106110-106710]
+  IMG#22 : In the Athenian Agora, wealthy nobles in himations confront debt-ridden commoners.
+
+ROW  23 (106710 - 111840 ms):
+  VO   : perang[106710-106970] saudara.[106970-107410] Bangsawan[108200-108900] menguasai[108900-109780] tanah,[109780-110240?] sementara[110240-110520] rakyat[110520-111020] tercekik[111020-111540] utang.[111540-111840]
+  IMG#23 : Close-up: a peasant's calloused hands clutching a sickle in defiance against nobles.
+
+ROW  24 (112700 - 116920 ms):
+  VO   : Demi[112700-113140] mencegah[113140-113520] pertumpahan[113520-113960] darah,[113960-114380] mereka[114380-115000] menunjuk[115000-115440] Solon[115440-115960] merombak[115960-116640] hukum.[116640-116920]
+  IMG#24 : In the assembly, lawgiver [SOLON] steps forward holding wooden law tablets (axones).
+
+ROW  25 (117730 - 121550 ms):
+  VO   : Solon[117730-118110] mencabut[118110-118690] batu[118690-119110] penanda[119110-119470] utang[119470-119790] di[119790-119950] ladang[119950-120310] serta[120670-120850] memerdekakan[120850-121550]
+  IMG#25 : [SOLON] forcefully uproots a heavy stone [HOROI DEBT STONES] from dry dirt, toppling it.
+
+ROW  26 (121550 - 126740 ms):
+  VO   : warga[121550-121970] yang[121970-122150] diperbudak.[122150-122710] Tindakan[123400-123740] ini[123740-124060] disebut[124060-124580] seisachtheia.[124580-126340?] Artinya,[126340-126740]
+  IMG#26 : Enslaved Athenian families rejoicing as iron neck shackles fall into the dry dirt.
+
+ROW  27 (126740 - 132170 ms):
+  VO   : pelepasan[126740-127640] beban[127640-128100] yang[128100-128340] mengguncang.[128340-128940] Dia[129610-129910] melarang[129910-130450] pinjaman[130450-130850] berjaminan[130850-131450] tubuh[131450-131710] manusia.[131710-132170]
+  IMG#27 : [SOLON] writing legal reforms with charcoal wavy linear lines on whitened wooden tablets.
+
+ROW  28 (132970 - 137110 ms):
+  VO   : Solon[132970-133230] tidak[133230-133430] membagikan[133430-133990] tanah[133990-134450] orang[134450-134650] kaya,[134650-134990] tetapi[135530-135830] membuka[135830-136290] pintu[136290-136770] rapat[136770-137110]
+  IMG#28 : [SOLON] unbars the wooden gates of the popular assembly, welcoming common citizens.
+
+ROW  29 (137110 - 140860 ms):
+  VO   : umum[137110-137390] bagi[137390-137910] seluruh[137910-138450] warga.[138450-138810] Tapi[139360-139860] sebelum[139860-140220] sampai[140220-140460] ke[140460-140461?] sana,[140460-140860]
+  IMG#29 : Common artisans and farmers entering the open-air stone assembly under morning light.
+
+ROW  30 (141480 - 146960 ms):
+  VO   : para[141480-141640] elit[141640-142000] masih[142000-142460] menyimpan[142460-142960] dendam[142960-143200?] lama.[143200-143580] Sekitar[144180-144800] 508[144800-146020] Sebelum[146020-146500] Masehi,[146500-146960]
+  IMG#30 : In a shaded colonnade, bitter aristocrats whisper conspiratorially around a bronze brazier.
+
+ROW  31 (147620 - 153800 ms):
+  VO   : perebutan[147620-148140] kekuasaan[148140-148980] antarbangsawan[148980-150000?] memuncak[150000-150740] lagi.[150740-151200] Di[151980-152200] sinilah[152200-152740?] ceritanya[152740-153380] berubah.[153380-153800]
+  IMG#31 : Aristocratic factions arguing furiously with clenched fists in the Athenian Agora.
+
+ROW  32 (154480 - 161440 ms):
+  VO   : Bangsawan[154480-155280] bernama[155280-155780] Cleisthenes[155780-156660?] mengambil[156660-157600] langkah[157600-158080] tanpa[158080-158620] tandingan.[158620-159320] Dia[160060-160320] membubarkan[160320-160920] empat[160920-161440?]
+  IMG#32 : [CLEISTHENES] ascends the stone bema, unrolling a papyrus chart with wavy linear circles.
+
+ROW  33 (161440 - 165820 ms):
+  VO   : suku[161440-161860] aristokrat[161860-162520] lama[162520-162920] dan[162920-163520] membentuk[163520-164020] sepuluh[164020-164480?] suku[164480-165040] baru[165040-165360] buatan.[165360-165820]
+  IMG#33 : Visual: four old aristocratic crests fragmenting into ten equal geometric tribal seals.
+
+ROW  34 (166720 - 170760 ms):
+  VO   : Mekanisme[166720-167340] ini[167340-167620] bekerja[167620-168140] rapi[168140-168620] meredam[168620-169220] permusuhan[169220-169840] antargolongan.[170260-170760]
+  IMG#34 : A diagram of Attica: coastal nets, inland wheat, and city pots interlinked by cords.
+
+ROW  35 (171680 - 177620 ms):
+  VO   : Wilayah[171680-172140] Athena[172140-172640] dibagi[172820-173180] tiga[173180-173480?] zona:[173480-174020] pesisir,[174440-175040] pedalaman,[175340-175720] dan[175720-176200] kota.[176200-176560] Tiap[177380-177620]
+  IMG#35 : An illustrated map of Attica showing coast, inland, and city zones marked with wavy lines.
+
+ROW  36 (177620 - 181400 ms):
+  VO   : suku[177620-177880] baru[177880-178240] wajib[178240-178700] berisi[178700-179080] gabungan[179080-179660] warga[179660-180060] dari[180060-180320] ketiga[180320-180660] zona[180660-181000] tersebut.[181000-181400]
+  IMG#36 : A sailor, a sunburnt farmer, and an urban smith clasping hands in civic solidarity.
+
+ROW  37 (182220 - 186900 ms):
+  VO   : Ibarat[182220-182680] menyatukan[182680-183440] serpihan[183440-184120] tulang,[184120-184620] otot,[185000-185220] dan[185220-185560] kulit[185560-186040] tubuh[186040-186560] agar[186560-186900]
+  IMG#37 : Symbolic rendering of human bone, muscle, and skin moving in a unified, coordinated stride.
+
+ROW  38 (186900 - 191080 ms):
+  VO   : bergerak[186900-187400] serempak[187400-187940] di[187940-188180] bawah[188180-188420] satu[188420-188780] kesadaran.[188780-189300] Mereka[189960-190540] yang[190540-190720] dulunya[190720-191080]
+  IMG#38 : Ten tribal representatives seated at a circular stone table reviewing civic records.
+
+ROW  39 (191080 - 195700 ms):
+  VO   : bermusuhan[191080-191700] dipaksa[191700-192600] duduk[192600-192880] berdampingan[192880-193620] mengurus[193620-194140] pertahanan[194140-194740] dan[194740-194940] anggaran[194940-195420] kota.[195420-195700]
+  IMG#39 : Citizens by a stone allotment machine (kleroterion), dropping bronze voting tokens.
+
+ROW  40 (196550 - 201670 ms):
+  VO   : Dewan[196550-196930] lima[196930-197130?] ratus[197130-197370?] orang[197370-198070] dibentuk[198070-198710] lewat[198710-198970] undian[198970-199490] acak[199490-199970] berkala.[199970-200410] Siapa[201090-201670]
+  IMG#40 : A humble citizen chosen by lot receiving an official stone seal before the council.
+
+ROW  41 (201670 - 205290 ms):
+  VO   : pun[201670-201671?] pria[201670-201970] merdeka[201970-202450] punya[202450-202990] peluang[202990-203390] setara[203390-203850] memimpin[203850-204430] selama[204430-204730] satu[204730-205010] tahun.[205010-205290]
+  IMG#41 : A craftsman in a plain chiton presiding impartially over an open-air stone court.
+
+ROW  42 (206230 - 211910 ms):
+  VO   : Mereka[206230-206510] menamainya[206510-207210] isonomia.[207210-208430] Artinya,[208990-209450] kesetaraan[209950-210570] hak[210570-210850] di[210850-210851?] hadapan[210850-211570] hukum.[211570-211910]
+  IMG#42 : A monumental limestone stele carved with wavy linear lines representing isonomia.
+
+ROW  43 (212700 - 217580 ms):
+  VO   : Gagasan[212700-213140] ini[213140-213560] menjadi[213560-213980] benih[213980-214500] awal[214500-214960] pemerintahan[214960-215600] yang[215600-215920] kita[215920-216220] sebut[216220-216520] demokrasi.[216920-217580]
+  IMG#43 : Thousands of Athenian citizens raising their right hands in unison on the Pnyx hill.
+
+ROW  44 (218310 - 223270 ms):
+  VO   : Namun,[218310-218890] tepat[219130-219510] saat[219510-219890] Athena[219890-220270] mulai[220270-220730] memperdebatkan[220730-221490] undang-undang[221490-222350?] secara[222350-222770] terbuka,[222770-223270]
+  IMG#44 : The Athenian Agora humming with public debate before Doric limestone stoas.
+
+ROW  45 (223830 - 229470 ms):
+  VO   : ancaman[223830-224270] raksasa[224270-224970] datang[224970-225450] dari[225450-225730] timur.[225730-226070] Kekaisaran[226710-227350] Persia[227350-228030] bertekad[228030-228890] menundukkan[228890-229470]
+  IMG#45 : A colossal charcoal shadow of the Persian royal lion spreading across the Aegean Sea.
+
+ROW  46 (229470 - 233450 ms):
+  VO   : Yunani[229470-230050] akibat[230350-230630] campur[230630-230930] tangan[230930-231190] Athena[231190-231690] dalam[231690-232210] pemberontakan[232210-232970] Ionia.[232970-233450]
+  IMG#46 : The coastal city of Sardis burning in the distance during the Ionian revolt, smoke rising.
+
+ROW  47 (234290 - 238110 ms):
+  VO   : Pasukan[234290-234690] Persia[234690-235150] dipukul[235150-235550] mundur[235550-235990] oleh[235990-236210] tombak[236210-236550] Athena[236550-236990] di[236990-237250] Marathon[237250-237810] pada[237810-238110]
+  IMG#47 : Athenian hoplites with bronze shields charging Persians on the dusty plain of Marathon.
+
+ROW  48 (238110 - 243570 ms):
+  VO   : 490[238110-239050] Sebelum[239050-239790] Masehi.[239790-239791?] Sepuluh[239790-240890] tahun[240890-241110] berselang,[241110-241550] putranya,[241870-242430] Raja[242870-243070] Xerxes,[243070-243570]
+  IMG#48 : Great King [XERXES] on a golden war throne, surveying his Hellespont bridge of boats.
+
+ROW  49 (243570 - 247310 ms):
+  VO   : memimpin[243570-244490] ekspedisi[244490-245010] kedua[245010-245450] dengan[245450-245770] skala[245770-246217?] jauh[246217-246590?] lebih[246590-246810] mengerikan.[246810-247310]
+  IMG#49 : Vast Persian army of Immortals marching in armor, baggage camels raising dust clouds.
+
+ROW  50 (247310 - 252570 ms):
+  VO   : Ratusan[247310-248710?] ribu[248710-249090] prajurit[249090-249670] dan[249670-249790] ribuan[249790-250270] kapal[250270-250790] bergerak[250790-251310] menyapu[251310-251890] wilayah[251890-252230] utara.[252230-252570]
+  IMG#50 : Hundreds of Persian and Phoenician war galleys darkening the northern sea horizon.
+
+ROW  51 (252570 - 257770 ms):
+  VO   : Di[252570-253410?] celah[253410-253890] sempit[253890-254270] Thermopylae,[254270-255410?] Raja[255410-255610] Leonidas[255610-256130] bersama[256130-256650] tiga[256650-256795?] ratus[256795-256970?] prajurit[256970-257770]
+  IMG#51 : Spartan King [LEONIDAS] and three hundred hoplites locking shields at Thermopylae.
+
+ROW  52 (257770 - 261970 ms):
+  VO   : Sparta[257770-258230] bertarung[258230-258910] sampai[258910-259230] gugur[259230-259590?] demi[259590-260050] mengulur[260050-260510] waktu[260510-260810] mundur[260810-261330] bagi[261330-261590] sekutu.[261590-261970]
+  IMG#52 : [LEONIDAS] and battered Spartans fighting fiercely against waves of Persian immortals.
+
+ROW  53 (262620 - 266960 ms):
+  VO   : Pengorbanan[262620-263360] itu[263360-263620] heroik,[263620-264220] tetapi[264760-265180] pertahanan[265180-265720] darat[265720-266080] tetap[266080-266560] bobol.[266560-266960]
+  IMG#53 : The narrow pass of Thermopylae littered with broken bronze shields at sunset.
+
+ROW  54 (266960 - 271400 ms):
+  VO   : Pasukan[266960-268080] Persia[268080-268540] merangsek[268540-269080] masuk[269080-269420] ke[269420-269660] Athena[269660-270020] dan[270020-270480] membakar[270480-271060] kuil[271060-271400]
+  IMG#54 : Persian troops marching through silent, deserted Athens carrying flaring torches.
+
+ROW  55 (271400 - 275200 ms):
+  VO   : Akropolis[271400-272020] menjadi[272020-272320] abu[272320-272660] hitam.[272660-273020] Dan[273640-273720] itu[273720-274200] belum[274200-274520] yang[274520-274780] terburuk.[274780-275200]
+  IMG#55 : Flames and black smoke engulfing wooden shrines on the Acropolis into drifting ash.
+
+ROW  56 (275940 - 281380 ms):
+  VO   : Melihat[275940-276360] kotanya[276360-276880] hangus,[276880-277360] Themistocles[277360-278500?] tak[278500-278740] menyerah.[278740-279120] Dia[279800-279920] mengarahkan[279920-280460] warga[280460-280880] mengungsi[280880-281380]
+  IMG#56 : On Salamis cliffs, [THEMISTOCLES] gazes at smoldering Athens across the strait.
+
+ROW  57 (281380 - 285144 ms):
+  VO   : ke[281380-281381?] Pulau[281380-281740] Salamis[281740-282160] dan[282160-282600] mempertaruhkan[282600-283300] nasib[283300-283640] pada[283640-283900] dinding[283900-284300] kayu:[284300-284840] dua[284840-285144?]
+  IMG#57 : Athenian refugee families in seaside tents looking upon two hundred moored warships.
+
+ROW  58 (285144 - 290730 ms):
+  VO   : ratus[285144-285600?] kapal[285600-286100] trireme[286100-286600?] dari[286600-286840] perak[286840-287220] Laurion.[287220-287660] Themistocles[287660-289170?] menyusun[289170-289890] perangkap[289890-290330] licik.[290330-290730]
+  IMG#58 : [THEMISTOCLES] in an olive cloak secretly dictating a deceptive scroll to slave Sicinnus.
+
+ROW  59 (291270 - 296470 ms):
+  VO   : Dia[291270-291410] mengirim[291410-291810] budak[291810-292230] kepercayaannya[292230-293330] membawa[293330-293930] pesan[293930-294330] rahasia[294330-294830] palsu[294830-295490] kepada[295490-295830] Xerxes[295830-296470?]
+  IMG#59 : Sicinnus rowing a small boat under a crescent moon toward the Persian fleet torches.
+
+ROW  60 (296470 - 301090 ms):
+  VO   : bahwa[296470-297450] pasukan[297450-297910] Yunani[297910-298290] sedang[298290-298610] panik[298610-299070] dan[299070-299350] bersiap[299350-299910] melarikan[299910-300330] diri[300330-300770] lewat[300770-301090]
+  IMG#60 : In a royal tent, Sicinnus presents the sealed scroll with wavy lines to Persian commanders.
+
+ROW  61 (301090 - 307790 ms):
+  VO   : selat.[301090-301530] Tergiur[302290-302970] kemenangan[302970-303390] kilat,[303390-303950] Xerxes[303950-304910?] memerintahkan[304910-305770] armadanya[305770-306410] mengepung[306410-307010] Selat[307010-307410] Salamis[307410-307790]
+  IMG#61 : Persian armada entering the narrow straits in pitch darkness, oars churning sea foam.
+
+ROW  62 (307790 - 311990 ms):
+  VO   : pada[307790-308050] malam[308050-308330] hari.[308330-308590] Di[309550-309710] lorong[309710-310030] laut[310030-310230] inilah[310230-310730?] taktik[310730-311210] perang[311210-311510] bekerja.[311510-311990]
+  IMG#62 : Morning mist clearing over [STRAIT OF SALAMIS], revealing Athenian triremes in battle line.
+
+ROW  63 (312630 - 316310 ms):
+  VO   : Kapal[312630-313010] trireme[313010-313430] Yunani[313430-313890] memiliki[313890-314510] lambung[314510-315010] ramping[315010-315590] dengan[315590-315890] tiga[315890-316310?]
+  IMG#63 : Interior cutaway of [ATHENIAN TRIREME]: citizen rowers pulling synchronized oars in three banks.
+
+ROW  64 (316310 - 319370 ms):
+  VO   : tingkat[316310-316790] dayung[316790-317210] yang[317210-317350] dikayuh[317350-317870] seratus[317870-318182?] tujuh[318182-318416?] puluh[318416-318650?] pendayung.[318650-319370]
+  IMG#64 : Sweat on the brow of an Athenian rower pulling hard to the coxswain's mallet beat.
+
+ROW  65 (320070 - 324870 ms):
+  VO   : Haluan[320070-320410] kapal[320410-320910] dipasangi[320910-321430] moncong[321430-321890] perunggu[321890-322390] tajam.[322390-322790] Saat[322790-323930] kapal[323930-324190] Persia[324190-324610] yang[324610-324870]
+  IMG#65 : Close-up: the bronze three-pronged ram (embolos) slicing through foamy seawater.
+
+ROW  66 (324870 - 328690 ms):
+  VO   : tambun[324870-325310] berdesakan[325310-326030] di[326030-326230] selat[326230-326470] sempit,[326470-326890] gerak[327390-327610] mereka[327610-327830] terkunci[327830-328270] rapat.[328270-328690]
+  IMG#66 : Bulky Persian ships wedged in the bottleneck of Salamis, crashing into one another.
+
+ROW  67 (329290 - 333110 ms):
+  VO   : Ibarat[329290-329730] rombongan[329870-330290] truk[330290-330570] muatan[330770-330930] berat[330930-331370] tersangkut[331570-332090] di[332090-332190?] gang[332190-332410] perkampungan,[332410-333110]
+  IMG#67 : Aerial view of trapped Persian vessels in utter disarray in the narrow channel.
+
+ROW  68 (333550 - 338570 ms):
+  VO   : mereka[333550-333690] saling[333690-334290] menabrak[334290-334790] dan[334790-335050] mematahkan[335050-335850] dayung[335850-336150] sendiri.[336150-336510] Kapal[337230-337670] trireme[337670-338110] lincah[338110-338570?]
+  IMG#68 : Athenian triremes darting forward, their bronze rams smashing enemy cedar hulls.
+
+ROW  69 (338570 - 342930 ms):
+  VO   : melesat,[338570-339090] menghantam[339570-340150] lambung[340150-340490] lawan[340490-340830] hingga[340830-341290] remuk.[341290-341610] Di[342170-342370] atas[342370-342570] bukit,[342570-342930]
+  IMG#69 : Cedar timber splintering as Persian ships capsize, soldiers plunging into waves.
+
+ROW  70 (342930 - 348300 ms):
+  VO   : Xerxes[342930-343710?] terpaksa[343710-344170] menyaksikan[344170-344710] armadanya[344710-345510] tenggelam[345510-346050] ke[346050-346210] dasar[346210-346610] laut.[346610-346830] Kemenangan[346960-348060] di[348060-348300]
+  IMG#70 : King [XERXES] on Mount Aigaleo covering his face as his royal armada sinks below.
+
+ROW  71 (348300 - 352740 ms):
+  VO   : Salamis[348300-348700] dan[348700-349020] pertempuran[349020-349520] Plataea[349520-350200] pada[350200-350460] tahun[350460-350720] berikutnya[350720-351300] berhasil[351300-351940] mengusir[351940-352300] Persia.[352300-352740]
+  IMG#71 : Victorious Greek triremes sailing past the victory trophy at Salamis in morning sun.
+
+ROW  72 (353480 - 357700 ms):
+  VO   : Athena[353480-353860] melonjak[353860-354480] menjadi[354480-354800] pemimpin[354800-355380] persekutuan[355380-355940] laut[355940-356160] yang[356160-356400] makmur[356400-357000] dan[357000-357200] ditakuti.[357200-357700]
+  IMG#72 : In [ACROPOLIS & AGORA OF ATHENS], island allies delivering silver tribute baskets.
+
+ROW  73 (358440 - 362560 ms):
+  VO   : Sekarang[358440-358940] kita[358940-359140] berhenti[359140-359560] sejenak[359560-360120] melihat[360340-360600] posisi[360600-361020] Yunani[361020-361560] di[361560-361760] titik[361760-362180] tengah[362180-362560]
+  IMG#73 : A marble relief map of the Aegean showing Athenian power, fine cracks appearing.
+
+ROW  74 (362560 - 368080 ms):
+  VO   : sejarah.[362560-363060] Puncak[363620-363980] kejayaan[363980-364480] diraih[364480-364840] dan[364840-365160] penjajah[365160-365640] terusir,[365640-366340] tetapi[366760-367100] benih[367100-367520] kehancuran[367520-368080]
+  IMG#74 : Two stone steles on a ridge: one crowned with naval laurel, one scarred by spears.
+
+ROW  75 (368080 - 372280 ms):
+  VO   : bertunas[368080-368760] dari[368760-369120] dada[369120-369520] bangsa[369520-369940] ini[369940-370120] sendiri.[370120-370420] Di[371120-371300] satu[371300-371500] sudut[371500-371880] berdiri[371880-372280]
+  IMG#75 : Split view: vibrant marble Athens on left, austere stone Sparta on right.
+
+ROW  76 (372280 - 376700 ms):
+  VO   : Athena,[372280-372780] kota[373280-373540] laut[373540-373800] yang[373800-373940] kaya[373940-374360] seni[374600-374800] dan[374800-375040] debat[375040-375400] filsafat.[375400-375980] Di[375980-376700]
+  IMG#76 : Athenian philosophers debating in stoas as Parthenon columns rise on the Acropolis.
+
+ROW  77 (376700 - 381200 ms):
+  VO   : sudut[376700-376940] lain[376940-377120] berdiri[377120-377520] Sparta,[377520-378040] kekuatan[378480-378820] darat[378820-379300] dengan[379300-379500] reputasi[379500-379980] militer[379980-380360] legendaris.[380360-381200]
+  IMG#77 : In [SPARTA & EUROTAS VALLEY], bronze-clad hoplites drilling on red dirt by mountains.
+
+ROW  78 (381940 - 385700 ms):
+  VO   : Banyak[381940-382160] orang[382160-382400] mengira[382400-382760] Sparta[382760-383400] bangsa[383400-383760] prajurit[383760-384260] super[384260-384580] yang[384580-384860] kebal[384860-385160] kekalahan.[385160-385700]
+  IMG#78 : A heroic bronze statue of an invincible Spartan warrior gleaming under bright sky.
+
+ROW  79 (386240 - 391260 ms):
+  VO   : Namun,[386240-386580] catatan[386580-387040] sejarah[387040-387520] membuka[387520-388000] kenyataan[388000-388700] berbanding[388700-389220] terbalik.[389220-389680] Para[390220-390480] sejarawan[390480-390920] menyebut[390920-391260]
+  IMG#79 : Close-up: the bronze Spartan statue cracking open, revealing hollow dust inside.
+
+ROW  80 (391260 - 395740 ms):
+  VO   : tabir[391260-391720] kehebatan[391720-392240] ini[392240-392440] sebagai[392440-392800] Ilusi[392800-393340] Sparta.[393340-393920] Di[394540-394720] balik[394720-395020] zirah[395020-395340] perunggu[395340-395740]
+  IMG#80 : Symbolic: a shimmering phalanx dissolving into arid dust.
+
+ROW  81 (395740 - 401080 ms):
+  VO   : perkasa,[395740-396220] masyarakat[396660-396960] Sparta[396960-397420] digerogoti[397540-398000] penyakit[398000-398560] sosial[398560-398960] mematikan[398960-399440] bernama[399440-399980] oliganthropia.[399980-401080]
+  IMG#81 : Desolate view: the Eurotas valley with empty stone barracks and abandoned fields.
+
+ROW  82 (401620 - 407160 ms):
+  VO   : Artinya,[401620-402060] penyusutan[402060-402840] drastis[402840-403380] jumlah[403380-403940] penduduk[403940-404360] merdeka.[404360-404760] Sistem[404760-405800] sosial[405800-406240] Sparta[406240-406700] luar[406700-407160]
+  IMG#82 : A lone bronze Spartan shield lying half-buried in dry dust, weathered by rains.
+
+ROW  83 (407160 - 411940 ms):
+  VO   : biasa[407160-407460] kaku.[407460-407840] Untuk[408300-408640] mempertahankan[408640-409280] status[409280-409680] warga[409680-410020] penuh,[410020-410360] seorang[410800-411000] pria[411000-411400] wajib[411400-411940]
+  IMG#83 : An austere Spartan mess hall with barren stone benches and unadorned walls.
+
+ROW  84 (411940 - 416240 ms):
+  VO   : lulus[411940-412260] pelatihan[412260-412800] brutal[412800-413120] agoge[413120-413780] dan[413780-414220] menyetor[414220-414616?] makanan[414616-414968?] ke[414968-415100?] perjamuan[415100-415680] bersama.[415680-416240]
+  IMG#84 : Young Spartan boys barefoot in dirt, enduring brutal agoge training under overseers.
+
+ROW  85 (416980 - 420240 ms):
+  VO   : Bila[416980-417200] prajurit[417200-417680] jatuh[417680-417940] miskin,[417940-418320] hak[418660-418780] warganya[418780-419300] langsung[419300-419740] dicabut.[419740-420240]
+  IMG#85 : A disgraced Spartan citizen cast out of the mess hall, stripped of his red cloak.
+
+ROW  86 (420660 - 425598 ms):
+  VO   : Ditambah[420660-421200] gempa[421200-421700] bumi[421700-421892?] dahsyat[421892-422200?] tahun[422200-422620] 464[422620-424000] Sebelum[424000-424640] Masehi[424640-425156?] serta[425156-425598?]
+  IMG#86 : The 464 BC earthquake: mountain boulders crashing down, destroying Spartan barracks.
+
+ROW  87 (425598 - 429640 ms):
+  VO   : sikap[425598-426040?] menutup[426040-426360] diri,[426360-426740] populasi[427220-427680] inti[427680-428120] mereka[428120-428340] menyusut[428340-429020] drastis.[429020-429640]
+  IMG#87 : Messenian helots gathering on Mount Ithome, watching the earthquake dust rise.
+
+ROW  88 (429640 - 433340 ms):
+  VO   : Dari[429640-430620] delapan[430620-431040] ribu[431040-431440] prajurit[431440-431980] di[431980-432120] awal[432120-432480] perang[432480-432740] Persia,[432740-433340]
+  IMG#88 : Eight thousand Spartan hoplites standing in dense, impenetrable bronze ranks.
+
+ROW  89 (433880 - 437860 ms):
+  VO   : jumlahnya[433880-434180] merosot[434180-434740] hingga[434740-435060] tersisa[435060-435400] kurang[435400-435940] dari[435940-436140] seribu[436140-436560] orang[436560-436780] seabad[436780-437340] kemudian.[437340-437860]
+  IMG#89 : A century later: a small, sparse cluster of fewer than a thousand aging warriors.
+
+ROW  90 (438780 - 442920 ms):
+  VO   : Sparta[438780-439220] beroperasi[439220-439940] mirip[439940-440320] perkumpulan[440320-440780] elit[440780-441160] yang[441160-441420] terus[441420-441760] membuang[441760-442360] anggotanya[442360-442920]
+  IMG#90 : Elderly Spartan aristocrats on a stone dais turning their backs on poor citizens.
+
+ROW  91 (442920 - 446260 ms):
+  VO   : sendiri[442920-443300] sampai[443780-443940] tak[443940-444200] ada[444200-444460] lagi[444460-444760] prajurit[444760-445400] di[445400-445540] medan[445540-445860] laga.[445860-446260]
+  IMG#91 : An empty Spartan drill field at dusk, long shadows stretching across barren earth.
+
+ROW  92 (447170 - 452270 ms):
+  VO   : Kecemasan[447170-447770] Sparta[447770-448270] melihat[448270-448650] kekayaan[448650-449190] laut[449190-449450] Athena[449450-449970] akhirnya[450270-450670] menyulut[450670-451110] Perang[451110-451430] Peloponnesos[451430-452270]
+  IMG#92 : Spartan leaders in a stone council room debating war against Athens over a map.
+
+ROW  93 (452270 - 457730 ms):
+  VO   : pada[452270-452590] 431[452590-453850] Sebelum[453850-454730] Masehi.[454730-455410?] Perang[455410-455910] saudara[455910-456270] ini[456270-456530] berkecamuk[456530-457170] selama[457170-457570] dua[457570-457730?]
+  IMG#93 : Spartan hoplites marching through burning olive groves outside Athens in 431 BC.
+
+ROW  94 (457730 - 462380 ms):
+  VO   : puluh[457730-457970?] tujuh[457970-458210?] tahun.[458210-458670] Athena[458860-460140] berlindung[460140-460600] di[460600-460840] balik[460840-461120] tembok[461120-461380] panjang[461380-461840] sambil[462160-462380]
+  IMG#94 : Crowded refugees inside the Long Walls of Athens, misery in smoke-filled alleys.
+
+ROW  95 (462380 - 466400 ms):
+  VO   : mengandalkan[462380-462960] suplai[462960-463777?] laut.[463777-464360?] Namun,[464360-464620] wabah[464760-464980] penyakit[464980-465460] menyerang[465460-465900] dari[465900-466100] dalam,[466100-466400]
+  IMG#95 : The Great Plague: citizens collapsing by fountains; [PERICLES] lying feverish.
+
+ROW  96 (466880 - 470540 ms):
+  VO   : membunuh[466880-467260] sepertiga[467260-467460] penduduk[467460-468380] termasuk[468720-469020] pemimpin[469020-469460] mereka,[469460-469780] Pericles.[469780-470540]
+  IMG#96 : The tomb of [PERICLES] under dreary skies as cold rain washes over stone monuments.
+
+ROW  97 (471500 - 476300 ms):
+  VO   : Ambisi[471500-471960] Athena[471960-472420] hancur[472420-473040] setelah[473040-473500] ekspedisi[473500-473980] militer[473980-474460] ke[474460-474667?] Sisilia[474667-475220?] musnah[475220-475660] dibantai.[475840-476300]
+  IMG#97 : The Sicilian disaster: Athenian triremes ablaze in Syracuse harbor, army crushed.
+
+ROW  98 (477220 - 481900 ms):
+  VO   : Dibantu[477220-477600] kucuran[477600-477980] emas[477980-478260] Persia,[478260-479180] Sparta[479340-479700] akhirnya[479700-480260] membangun[480260-480740] armada[480740-481080] laut[481080-481420] dan[481420-481900]
+  IMG#98 : Persian satrap handing chests of gold coins to Spartan admiral Lysander.
+
+ROW  99 (481900 - 487001 ms):
+  VO   : menghancurkan[481900-482720] sisa[482720-483080] kapal[483080-483400] Athena[483400-483800] di[483800-484060] Aegospotami[484060-485000?] pada[485000-485380] 405[485380-486680] Sebelum[486680-487000] Masehi.[487000-487001?]
+  IMG#99 : At Aegospotami, Spartan galleys capture the beached Athenian fleet along the shore.
+
+ROW 100 (487000 - 494190 ms):
+  VO   : Athena[487000-488320] menyerah[488380-488900] karena[488900-489220] kelaparan.[489220-489780] Tembok[490320-490680] pertahanannya[490680-491420] dirobohkan.[491420-492280] Kemenangan[493270-493670] Sparta[493670-494190]
+  IMG#100: Athenian citizens weeping as the Long Walls are dismantled to the sound of flutes.
+
+ROW 101 (494190 - 498990 ms):
+  VO   : berumur[494190-494610] sangat[494610-494950] pendek.[494950-495430] Ketiadaan[496030-496650] prajurit[496650-497230] membuat[497230-497510] kepemimpinan[497510-498230] mereka[498230-498450] rapuh.[498450-498990]
+  IMG#101: Spartan governors standing haughty atop the Acropolis, isolated without allies.
+
+ROW 102 (499630 - 504510 ms):
+  VO   : Pada[499630-499910] 371[499910-501110] Sebelum[501110-501730] Masehi[501730-501731?] di[501730-502130] Leuktra,[502130-502950?] pasukan[502950-503510] Thebes[503510-503830] melancarkan[503830-504510]
+  IMG#102: At Leuktra in 371 BC, Theban general Epaminondas massing fifty ranks deep on the left.
+
+ROW 103 (504510 - 508290 ms):
+  VO   : taktik[504510-505130] formasi[505130-505650] miring[505650-506090] yang[506090-506490] meremukkan[506490-507050] barisan[507050-507490] elit[507490-507790] Sparta.[507790-508290]
+  IMG#103: The Theban Sacred Band shattering the elite Spartan battle line, King falling.
+
+ROW 104 (509070 - 514070 ms):
+  VO   : Wilayah[509070-509510] budak[509510-509930] Messenia[509930-510570] yang[510910-511010] ratusan[511010-511470] tahun[511470-511850] menopang[511850-512330] ekonomi[512330-512770] Sparta[512770-513270] dibebaskan.[513270-514070]
+  IMG#104: Messenian helots breaking iron chains atop Mount Ithome, building free walls.
+
+ROW 105 (514070 - 519130 ms):
+  VO   : Sparta[514070-515330] terpuruk[515330-515930] menjadi[515930-516290] desa[516290-516770] pedalaman[516770-517470] dan[517470-517770] tidak[517770-518050] pernah[518050-518350] bangkit[518350-518790] lagi.[518790-519130]
+  IMG#105: Sparta reduced to five humble, impoverished agrarian villages in the Eurotas vale.
+
+ROW 106 (520070 - 523410 ms):
+  VO   : Seluruh[520070-520430] tanah[520430-520790] Yunani[520790-521230] kini[521230-521630] luluh[521630-521990] lantak,[521990-522450] bangkrut,[522990-523410]
+  IMG#106: Post-war Greek countryside: broken pottery, fallow fields, and decaying towers.
+
+ROW 107 (523410 - 527770 ms):
+  VO   : dan[523410-523890] saling[523890-524350] mencurigai.[524350-524950] Di[524950-525870?] titik[525870-526370] nadir[526370-526670] inilah,[526670-527770?]
+  IMG#107: Northern mountain peaks of Macedonia shrouded in dark gathering storm clouds.
+
+ROW 108 (527770 - 532900 ms):
+  VO   : ancaman[527770-528090] baru[528090-528410] muncul[528410-528950] dari[528950-529250] perbatasan[529250-529790] utara[529790-530290] berhutan[530290-530770] lebat.[530770-531050] Kerajaan[531800-532360] Makedonia,[532360-532900]
+  IMG#108: Macedonian royal armories: blacksmiths forging hundreds of long iron spearheads.
+
+ROW 109 (533480 - 536860 ms):
+  VO   : wilayah[533480-533800] pegunungan[533800-534360] yang[534360-534540] kerap[534540-534840] dicap[534840-535200] setengah[535200-535600] barbar[535600-535980] oleh[535980-536200] orang[536200-536460] Athena,[536460-536860]
+  IMG#109: Macedonian hill peasants drilling in formation under King [PHILIP II]'s command.
+
+ROW 110 (537480 - 540240 ms):
+  VO   : bangkit[537480-537740] pesat[537740-538180] di[538180-538440] bawah[538440-538680] komando[538680-539140] Raja[539140-539660] Philip[539660-539940] II.[539940-540240]
+  IMG#110: King [PHILIP II], scarred eye patch prominent, reviewing his professional army.
+
+ROW 111 (541240 - 545500 ms):
+  VO   : Philip[541240-541400] merevolusi[541400-542080] formasi[542080-542600] tempur[542600-543000] dengan[543000-543260] sarissa,[543260-543760] tombak[543760-544640] kayu[544640-545020] sepanjang[545020-545500]
+  IMG#111: Close-up: the eighteen-foot [SARISSA PIKE], balanced with a bronze counterweight.
+
+ROW 112 (545500 - 551000 ms):
+  VO   : enam[545500-545501?] meter.[545500-546120] Pada[546900-547220] 338[547220-548480] Sebelum[548480-549120] Masehi[549120-549121?] di[549120-549740] Chaeronea,[549740-551000?]
+  IMG#112: An impenetrable bristling wall of sarissa pikes projecting five tiers forward.
+
+ROW 113 (551000 - 555980 ms):
+  VO   : Philip[551000-551120] menundukkan[551120-551680] gabungan[551680-552340] tentara[552340-552760] Athena[552760-553160] dan[553160-553400] Thebes.[553400-553740] Zaman[554600-554980] kemandirian[554980-555660] negara-kota[555660-555980]
+  IMG#113: Battle of Chaeronea in 338 BC: Macedonian phalanx crushing allied Greek lines.
+
+ROW 114 (556260 - 561300 ms):
+  VO   : Yunani[556260-556720] resmi[556720-557340] tamat.[557340-557720] Dua[557720-558820?] tahun[558820-559080] kemudian,[559080-559600] Philip[560080-560260] tewas[560260-560740] dibunuh.[560960-561300]
+  IMG#114: The marble Lion of Chaeronea monument standing over the mass grave of the fallen.
+
+ROW 115 (561880 - 566600 ms):
+  VO   : Putranya[561880-562400] yang[562400-562840] berumur[562840-563240] dua[563240-563408?] puluh[563408-563660?] tahun,[563660-564160] Alexander,[564640-564940] mengambil[564940-566020] alih[566020-566260] tahta.[566260-566600]
+  IMG#115: King [PHILIP II] assassinated in a theater portal amidst festival celebrations.
+
+ROW 116 (567140 - 571000 ms):
+  VO   : Alexander[567140-567640] menyeberang[567640-568480] ke[568480-568620] Asia[568620-568940] membawa[569520-569740] satu[569740-570260] tekad[570260-570640] mutlak:[570640-571000]
+  IMG#116: Young [ALEXANDER THE GREAT] drawing his sword as newly crowned Macedonian king.
+
+ROW 117 (571000 - 578180 ms):
+  VO   : menumbangkan[571000-572540] Kekaisaran[572700-573120] Persia.[573120-573720] Lewat[574780-575080] kecepatan[575080-575740] manuver[575740-576180] pasukan[576180-576600] berkuda[576600-577180] di[577180-577440] Granicus,[577440-578180]
+  IMG#117: Alexander leading his cavalry charge across the rushing waters of the Granicus.
+
+ROW 118 (578620 - 583660 ms):
+  VO   : Issus,[578620-579080] dan[579360-579460] Gaugamela,[579460-580840?] Alexander[580840-581200] menumbangkan[581200-582300] kekuasaan[582420-582900] raja[582900-583120] Persia.[583120-583660]
+  IMG#118: Battle of Gaugamela: Alexander in bronze armor galloping through swirling desert dust.
+
+ROW 119 (584440 - 590780 ms):
+  VO   : Pasukannya[584440-585200] merebut[585200-585740] Mesir,[585740-586240] mendirikan[586680-587180] kota[587180-587580] Alexandria,[587580-588300] lalu[588300-589000] membakar[589000-589640] istana[589640-590000] Persepolis.[590000-590780]
+  IMG#119: Alexander pacing the Egyptian shoreline, laying out Alexandria's streets with grain.
+
+ROW 120 (591770 - 596245 ms):
+  VO   : Dahaga[591770-592270] ekspansinya[592270-592930] tak[592930-593250] pernah[593250-593450] padam[593450-593910] melintasi[594290-594770] ribuan[594770-595430] mil[595430-595750] padang[595750-596245?]
+  IMG#120: The grand stone palace of Persepolis engulfed in roaring charcoal flames and ash.
+
+ROW 121 (596245 - 599650 ms):
+  VO   : gurun[596245-596670?] sampai[596670-597130] tiba[597130-597550] di[597550-597730] tepi[597730-597970] Sungai[597970-598330] Hyphasis[598330-599170] di[599170-599350] India.[599350-599650]
+  IMG#121: Alexander's army marching across vast, sun-baked sand dunes of the Gedrosian desert.
+
+ROW 122 (599650 - 604960 ms):
+  VO   : Di[599650-600670] tepian[600960-601220] sungai[601220-601660] inilah[601660-602020] prajuritnya[602380-602960] yang[602960-603180] letih[603180-603560] menolak[603560-604260] melangkah[604260-604740] lebih[604740-604960]
+  IMG#122: On the muddy banks of the Hyphasis river in India, weary soldiers lower their spears.
+
+ROW 123 (604960 - 610080 ms):
+  VO   : jauh.[604960-605600] Alexander[606060-606500] mendirikan[606500-607120] dua[607120-607360?] belas[607360-607720?] altar[607720-608320] batu[608320-608321?] raksasa[608320-609300] penanda[609300-610080]
+  IMG#123: Exhausted veteran soldiers weeping before Alexander's tent, refusing to march east.
+
+ROW 124 (610080 - 614260 ms):
+  VO   : batas[610080-610640] akhir[610640-610980] dunia[610980-611480] yang[611480-611760] dikenalnya,[611760-612340] lalu[612840-613100] memutar[613100-613520] haluan[613520-613860] pulang.[613860-614260]
+  IMG#124: Twelve colossal stone altars standing on the riverbank at the edge of the known world.
+
+ROW 125 (615230 - 619230 ms):
+  VO   : Sang[615230-615510] penakluk[615510-615930] muda[615930-616350] wafat[616670-617070] di[617070-617230] Babilonia[617230-617630] pada[617630-618090] tahun[618090-618370] 323[618370-619230]
+  IMG#125: Alexander lying feverish on a golden couch in Babylon, generals standing vigil.
+
+ROW 126 (619990 - 623110 ms):
+  VO   : Sebelum[619990-620210] Masehi[620210-620650] dalam[621130-621250] usia[621250-621690] tiga[621690-621983?] puluh[621983-622335?] dua[622335-622570?] tahun.[622570-623110]
+  IMG#126: Alexander's royal signet ring slipping from his lifeless fingers onto mosaic stone.
+
+ROW 127 (624350 - 629630 ms):
+  VO   : Kematian[624350-624770] mendadak[624770-625350] tanpa[625350-625750] pewaris[625750-626570] sah[626570-626730?] meninggalkan[626730-627150] lubang[627150-627530] kekuasaan[627710-628250] menganga.[628250-628630] Para[628630-629630]
+  IMG#127: An empty imperial throne with Alexander's diadem draped in heavy charcoal shadow.
+
+ROW 128 (629630 - 634270 ms):
+  VO   : jenderalnya[629630-630290] yang[630290-630490] bergelar[630490-630890] Diadochi[630890-631990?] berebut[631990-632170] wilayah[632170-632770] dalam[632770-632990] perang[632990-633370] saudara[633370-633790] panjang.[633790-634270]
+  IMG#128: The Diadochi generals unsheathing bronze swords over a carved marble empire map.
+
+ROW 129 (635020 - 640140 ms):
+  VO   : Dari[635020-635360] puing[635360-635740] kekaisaran[635880-636240] itu,[636240-636620] terbentuk[636620-637360] tiga[637360-637860] dinasti[637860-638240] besar:[638240-638640] Ptolemeus[639280-639960] di[639960-640140]
+  IMG#129: War elephants and armored phalanxes clashing at the Battle of Ipsus in 301 BC.
+
+ROW 130 (640140 - 644460 ms):
+  VO   : Mesir,[640140-640500] Seleukia[641000-641580] di[641580-641900] Timur[641900-642160] Dekat,[642160-642420] dan[642880-642980] Antigonid[642980-643700] di[643700-644000] Makedonia.[644000-644460]
+  IMG#130: Map of the East partitioned into Ptolemaic Egypt, Seleucid Asia, Antigonid Greece.
+
+ROW 131 (645510 - 650210 ms):
+  VO   : Inilah[645510-645970] era[645970-646470] Helenistik.[646470-647130] Kedaulatan[647810-648330] politik[648330-648770] negara-kota[648770-649090] telah[649430-649850] sirna,[649850-650210]
+  IMG#131: A grand Hellenistic harbor with a colossal stone lighthouse, galleys arriving.
+
+ROW 132 (650730 - 655460 ms):
+  VO   : tetapi[650730-651030] denyut[651030-651490] kebudayaannya[651490-652310] menyebar[652310-652930] ke[652930-652931?] seluruh[652930-653650] penjuru[653650-654290] bumi.[654290-655460?]
+  IMG#132: A caravan of camels carrying amphorae and papyrus scrolls across desert trade routes.
+
+ROW 133 (655460 - 660080 ms):
+  VO   : Dialek[655460-655880] bahasa[655880-656200] Yunani[656200-656600] sederhana[656600-657120] bernama[657120-657540?] Koine[657540-657920] menjadi[658480-658660] bahasa[658660-659140] pengantar[659140-659700] pergaulan[659700-660080]
+  IMG#133: Greek, Persian, and Egyptian merchants conversing in Koine Greek in a busy agora.
+
+ROW 134 (660080 - 666440 ms):
+  VO   : internasional[660080-660860] dari[661200-661440] Laut[661440-661740] Mediterania[661740-662340] sampai[662340-663060] India.[663060-663640] Di[663640-664380?] perpustakaan[664380-665240] Alexandria,[665240-665880] para[666340-666440]
+  IMG#134: A bronze scroll case with an unrolled papyrus treaty covered in wavy linear script.
+
+ROW 135 (666440 - 671820 ms):
+  VO   : sarjana[666440-666960] menyusun[666960-667420] dasar[667420-667900] ilmu[667900-668180] ukur[668180-668500] geometri[668500-669080] dan[669080-669540] menghitung[669540-670040] keliling[670040-670780] bumi.[670780-671820?]
+  IMG#135: Scholars in the Great Library of Alexandria studying geometry scrolls by globes.
+
+ROW 136 (671820 - 674640 ms):
+  VO   : Jauh[671820-672260] di[672260-672380] pedalaman[672380-672740] Asia[672740-672741?] Tengah,[672740-673540] tepatnya[673760-674060] di[674060-674160] situs[674160-674340] Ai[674340-674640?]
+  IMG#136: Eratosthenes calculating the Earth's circumference by measuring well shadows.
+
+ROW 137 (674640 - 677440 ms):
+  VO   : Khanoum[674640-675440?] di[675440-675490] tepi[675480-675720] Sungai[675720-675980] Oxus[675980-676380] di[676380-676660] Afghanistan[676660-677100] modern,[677100-677440]
+  IMG#137: The Oxus river winding through dry mountain steppes of northern Afghanistan.
+
+ROW 138 (678020 - 682680 ms):
+  VO   : para[678020-678340] arkeolog[678340-678760] menemukan[678760-679320] reruntuhan[679320-679980] kota[679980-680340] Yunani[680340-680820] lengkap[680820-681540] dengan[681540-681840] teater[681840-682240] terbuka,[682240-682680]
+  IMG#138: The Hellenistic city of [AI KHANOUM & HELLENISTIC CITIES]: theater and stone colonnades.
+
+ROW 139 (683260 - 687640 ms):
+  VO   : gimnasium,[683260-683840] dan[684340-684390] pilar[684380-684680] batu[684680-685120] bergaya[685120-685480] Korintus.[685480-686060] Di[686160-687060] makam[687060-687380] pendiri[687380-687640]
+  IMG#139: Greco-Bactrian youths wrestling in Ai Khanoum's gymnasium beside Heracles reliefs.
+
+ROW 140 (687640 - 691440 ms):
+  VO   : kota[687640-688020] terpahat[688380-688780] untaian[688780-689120] pepatah[689120-689530] dari[689680-689960] Kuil[689960-690240] Delphi[690240-690800] di[690800-691080] Yunani[691080-691440]
+  IMG#140: Carved limestone stele at Kineas's tomb at Ai Khanoum, etched with wavy linear lines.
+
+ROW 141 (691920 - 695760 ms):
+  VO   : yang[691920-691980] mengajarkan[691980-692460] manusia[692460-693080] belajar[693520-694080] sopan[694080-694540] santun[694540-694960] di[694960-695180] masa[695180-695360] kecil,[695360-695760]
+  IMG#141: A Greek teacher in Ai Khanoum guiding a child with a wax tablet inscribed in wavy lines.
+
+ROW 142 (696360 - 701020 ms):
+  VO   : menguasai[696360-697080] emosi[697080-697540] di[697540-697740] masa[697740-697960] muda,[697960-698320] berlaku[698960-699440] adil[699440-699960] di[699960-700220] masa[700220-700420] dewasa,[700420-701020]
+  IMG#142: A young rider demonstrating self-discipline, holding back a spirited horse in dust.
+
+ROW 143 (701500 - 705760 ms):
+  VO   : memberi[701500-702100] nasihat[702100-702300?] bijak[702300-702720] di[702720-702920] masa[702920-703140] tua,[703140-703400] dan[704140-704300] menghadapi[704300-704800] maut[704800-705180] tanpa[705180-705760]
+  IMG#143: A mature magistrate at a stone judgment seat, balancing legal scales with fairness.
+
+ROW 144 (705760 - 710570 ms):
+  VO   : penyesalan.[705760-706280] Keping[706280-707298?] perak[707298-708170?] yang[708170-708350] dulu[708350-708510] dicungkil[708690-709130] seorang[709130-709530] penambang[709530-709890] miskin[709890-710310] dari[710310-710570]
+  IMG#144: A white-bearded elder imparting counsel to young men beside an altar at twilight.
+
+ROW 145 (710570 - 714690 ms):
+  VO   : bukit[710570-710850] Laurion[710850-711370] tidak[711370-711870] hanya[711870-712130] berhenti[712130-712630] menjadi[712630-712970] papan[712970-713470] kayu[713470-713910] kapal[713910-714250] trireme.[714250-714690]
+  IMG#145: A calm stone funeral relief of a peaceful elder departing life without regret.
+
+ROW 146 (714690 - 720370 ms):
+  VO   : Logam[714690-715690] itu[715690-716070?] telah[716070-716510] menjelma[716510-717090] menjadi[717090-717490] ribuan[717490-718150] keping[718150-719130] koin[719130-719570?] berukir[719570-719970] kepala[719970-720370]
+  IMG#146: Macro transformation: jagged [LAURION SILVER ORE] morphing into a gleaming drachma.
+
+ROW 147 (720370 - 725390 ms):
+  VO   : dewa[720370-720830] dan[721410-721490] raja[721490-721910] yang[722550-722670] mengalirkan[722670-723370] gagasan[723370-723950] tentang[723950-724390] akal[724390-724930] budi,[724930-725390]
+  IMG#147: A silver tetradrachm stamped with Athena's owl, bordered with delicate wavy lines.
+
+ROW 148 (725910 - 729750 ms):
+  VO   : hukum[725910-726150] tertulis,[726150-726950] dan[727390-727450] ilmu[727450-727930] pengetahuan[727930-728750] ke[728750-728950?] peradaban[728950-729470] lain.[729470-729750]
+  IMG#148: Diverse hands passing silver drachma coins from palm to palm in a bustling port.
+
+ROW 149 (731320 - 736260 ms):
+  VO   : Ketika[731320-731840] legiun[731840-732280] Romawi[732280-732780] menaklukkan[732780-733380] daratan[733380-733820] Yunani[733820-734340] pada[734340-734760] abad[734760-735080] kedua[735080-735500] Sebelum[735500-736260]
+  IMG#149: Roman legions with rectangular red shields marching past ruined Corinthian columns.
+
+ROW 150 (736260 - 742680 ms):
+  VO   : Masehi,[736260-736960?] mereka[736960-737360] menguasai[737360-737960] benteng[737960-738560] dan[738560-738940] tanahnya,[738940-739540] tetapi[740060-740720] pikiran[741220-741620] mereka[741620-741900] justru[741900-742680]
+  IMG#150: A Roman consul in a white toga bowing respectfully before a Greek philosopher.
+
+ROW 151 (742680 - 747900 ms):
+  VO   : ditaklukkan[742680-743320] oleh[743320-743700] seni,[743700-744220] sastra,[744220-745100] dan[745580-745630] filsafat[745620-746380] bangsa[746380-747000] yang[747000-747240] mereka[747240-747440] tundukkan.[747440-747900]
+  IMG#151: Roman scribes copying Greek scrolls covered with wavy linear charcoal handwriting.
+
+ROW 152 (748970 - 753330 ms):
+  VO   : Para[748970-749290] penakluk[749290-749850] berlutut[749850-750670] di[750670-750671?] hadapan[750670-751410] kecerdasan[751410-751870] mereka[752110-752350] yang[752350-752730] dikalahkan.[752730-753330]
+  IMG#152: Roman stonemasons laying out aqueducts and temples using Greek geometric ratios.
+
+ROW 153 (754230 - 759010 ms):
+  VO   : Hari[754230-754550] ini,[754550-754950] kemegahan[755370-755930] fisik[755930-756370] kuil[756370-756610?] Yunani[756610-757070] telah[757070-757510] menjadi[757510-757730] reruntuhan[757730-758490] batu[758490-759010]
+  IMG#153: Weathered white columns of the Parthenon bathed in glowing late-afternoon amber light.
+
+ROW 154 (759010 - 764210 ms):
+  VO   : kapur[759010-759350] bisu.[759350-759750] Namun,[760650-761190] setiap[761590-761950] kali[761950-762270] manusia[762270-762750] berkumpul[762750-763410] di[763410-763550] bilik[763550-763770] suara[763770-764210]
+  IMG#154: The empty stone speaker's bema on the Pnyx hill overlooking the tranquil Aegean.
+
+ROW 155 (764210 - 770880 ms):
+  VO   : untuk[764210-764730] menentukan[764730-765310] pemimpinnya,[765310-766130] mereka[766650-766990] menyalakan[766990-767490] kembali[767490-768010] api[768010-768670] demokrasi[768670-769370] Cleisthenes.[769370-770880?]
+  IMG#155: A modern citizen dropping a ballot into a voting box, overlaid with ancient bronze tokens.
+
+ROW 156 (770880 - 776100 ms):
+  VO   : Setiap[770880-771240] kali[771240-771620] para[771920-772060] hakim[772060-772480] mengadili[772480-772860] perkara[772860-773440] berdasarkan[773440-774040] pasal[774040-774620] tertulis,[774620-775260] mereka[775840-776100]
+  IMG#156: A modern courtroom judge's gavel beside an ancient stone stele of Solon's laws.
+
+ROW 157 (776100 - 781650 ms):
+  VO   : mengulang[776100-776880] ketegasan[776880-777400] hukum[777400-777780] Solon.[777780-778360] Dan[779170-779410] setiap[779410-779830] kali[779830-780130] para[780550-780730] ilmuwan[780730-781150] memetakan[781150-781650]
+  IMG#157: A modern astronomer's telescope aimed at stars beside ancient parchment diagrams.
+
+ROW 158 (781650 - 787090 ms):
+  VO   : semesta[781650-782290] dengan[782290-782630] penalaran[782630-783330] rasional,[783330-783830] mereka[784550-784810] menyalakan[784810-785330] obor[785330-785670] pengetahuan[785670-786410] yang[786410-786790] pernah[786790-787090]
+  IMG#158: A scholar studying by a desk lamp, surrounded by centuries of philosophical texts.
+
+ROW 159 (787090 - 793160 ms):
+  VO   : dipantik[787090-787870] di[787870-787871?] bukit[787870-788550] berbatu[788550-789110] Athena.[789110-789490] Sebuah[790440-790980] peradaban[790980-791420] sejati[791420-792040] tidak[792040-792540] diukur[792540-793160]
+  IMG#159: A crumbling ancient stone rampart dissolving slowly into dust on a grassy hill.
+
+ROW 160 (793160 - 799060 ms):
+  VO   : dari[793160-793340] seberapa[793340-793980] kokoh[793980-794420] benteng[794420-795120] batunya[795120-795560] bertahan[795560-796220] melawan[796220-796560] waktu,[796560-797000] melainkan[797640-798220] seberapa[798680-799060]
+  IMG#160: A solitary Greek stone stele carved with wavy linear lines against the Aegean horizon.
+
+ROW 161 (799060 - 804000 ms):
+  VO   : dalam[799060-799480] gagasan[799480-800040] kemanusiaannya[800040-800940] tertanam[800940-801600] di[801600-801760] benak[801760-802000] dunia[802000-802540] yang[802540-802900] datang[802900-803420] setelahnya.[803420-804000]
+  IMG#161: Wide panoramic sunset over the Aegean Sea, golden ochre waters meeting the sky.
+

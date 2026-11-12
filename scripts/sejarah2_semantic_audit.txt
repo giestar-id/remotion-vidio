@@ -1,0 +1,852 @@
+SCENE   1 [     0 ->   4820 | 4.82s] (raw DOCX: 0-4820)
+  VO (spoken) : Pada tahun 610 Masehi, di sebuah gua sunyi di
+  IMG (actual): [GUA HIRA & MOUNT NUR] Exterior view of the solitary rugged Mount Nur under a deep charcoal night sky in 610 CE, barren jagged cliffs, dusty windswept atmo
+
+SCENE   2 [  4820 ->   7770 | 2.95s] [SHIFTED] (raw DOCX: 4820-7770)
+  VO (spoken) : puncak tebing berbatu dekat Makkah,
+  IMG (actual): [GUA HIRA & MOUNT NUR] The rocky cave mouth of Gua Hira perched on high stone cliffs overlooking the distant dark horizon of Makkah, textured basalt rock. 
+
+SCENE   3 [  7770 ->  12920 | 5.15s] [SHIFTED] (raw DOCX: 7770-12920)
+  VO (spoken) : seseorang berusia empat puluh tahun sedang menyendiri dalam kegelapan.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] Solitary figure of the forty-year-old Prophet sitting in deep meditation inside the dark cavern of Gua Hira, humble 
+
+SCENE   4 [ 12920 ->  18880 | 5.96s] [SHIFTED] (raw DOCX: 12920-18880)
+  VO (spoken) : Di bawah gua itu, sebagian besar bangsa Arab sedang tenggelam dalam zaman Jahiliyah:
+  IMG (actual): [PRE-ISLAMIC MAKKAH & KA'BAH] Panoramic view of pre-Islamic Makkah valley engulfed in dusty shadows of Jahiliyah, barren hills, harsh desert winds blowing 
+
+SCENE   5 [ 18880 ->  22480 | 3.60s] (raw DOCX: 18880-22480)
+  VO (spoken) : ratusan patung berhala dipuja di sekeliling Ka’bah,
+  IMG (actual): [PRE-ISLAMIC MAKKAH & KA'BAH] Hundreds of carved stone and wooden idols surrounding the ancient stone Ka'bah in a dusty basin, rough pagan statues standing
+
+SCENE   6 [ 22480 ->  26490 | 4.01s] (raw DOCX: 22480-26490)
+  VO (spoken) : sebagian kabilah mengubur bayi perempuan hidup-hidup ke dalam pasir,
+  IMG (actual): Dark barren desert dune at twilight, a small patch of disturbed sand marked by a spade in the ground under a gloomy sky, solemn reminder of the burial of i
+
+SCENE   7 [ 26490 ->  31120 | 4.63s] (raw DOCX: 26490-31120)
+  VO (spoken) : dan perang antarsuku berkecamuk tanpa henti.
+  IMG (actual): Silhouetted desert warriors clashing with raised spears and shields across windswept dunes under a dusty charcoal sky, endless tribal warfare. 2D illustrat
+
+SCENE   8 [ 31120 ->  34720 | 3.60s] (raw DOCX: 31120-34720)
+  VO (spoken) : Di tengah pekatnya malam di Gua Hira itulah,
+  IMG (actual): [GUA HIRA & MOUNT NUR] Interior of Gua Hira at the dead of night, rough dark stone walls suddenly touched by a miraculous beam of soft heavenly illuminatio
+
+SCENE   9 [ 34720 ->  41510 | 6.79s] [SHIFTED] (raw DOCX: 34720-41510)
+  VO (spoken) : sebuah suara memerintahkan pria bernama Muhammad shallallahu ‘alaihi wasallam untuk membaca.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [GUA HIRA & MOUNT NUR] The Prophet standing in solemn awe inside Gua Hira receiving the divine command of Iqra, mode
+
+SCENE  10 [ 41510 ->  43540 | 2.03s] [SHIFTED] (raw DOCX: 41510-43540)
+  VO (spoken) : Detik itu menjadi titik tolak
+  IMG (actual): [GUA HIRA & MOUNT NUR] Glowing golden light radiating from the mouth of Gua Hira, illuminating the rugged mountain ridges of Mount Nur against the dark des
+
+SCENE  11 [ 43540 ->  47590 | 4.05s] [SHIFTED] (raw DOCX: 43540-47590)
+  VO (spoken) : perubahan terbesar dalam sejarah peradaban gurun pasir.
+  IMG (actual): Vast desert dunes of Arabia stretching into the horizon, sunrise light slowly spreading over endless sand ridges, symbol of monumental transformation. 2D i
+
+SCENE  12 [ 47590 ->  51920 | 4.33s] [SHIFTED] (raw DOCX: 47590-51920)
+  VO (spoken) : Bagaimana sebuah risalah yang dimulai oleh satu orang di dalam gua sunyi
+  IMG (actual): [GUA HIRA & MOUNT NUR] Solitary mountain peak of Mount Nur under dawn light, standing majestic above the barren desert wilderness. 2D woodcut style, faded 
+
+SCENE  13 [ 51920 ->  56990 | 5.07s] [SHIFTED] (raw DOCX: 51920-56990)
+  VO (spoken) : mampu mengubah masyarakat yang terpecah belah dan tenggelam dalam krisis moral,
+  IMG (actual): Conceptual split illustration: on the left, dark fragmented tribal clans in discord; on the right, morning dawn breaking over stone buildings. 2D illustrat
+
+SCENE  14 [ 56990 ->  60500 | 3.51s] [SHIFTED] (raw DOCX: 56990-60500)
+  VO (spoken) : hingga berhasil mendirikan negara-kota berkeadaban di Madinah
+  IMG (actual): [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Lush green date palm oasis of Madinah with peaceful mudbrick dwellings under a clear calm sky, civilized city-sta
+
+SCENE  15 [ 60500 ->  62980 | 2.48s] [SHIFTED] (raw DOCX: 60500-62980)
+  VO (spoken) : dalam rentang sekitar dua belas tahun?
+  IMG (actual): Aged parchment timeline showing the desert route between Makkah and Madinah marked by gentle wavy linear lines, twelve golden sand marks. 2D woodcut style,
+
+SCENE  16 [ 62980 ->  69690 | 6.71s] [SHIFTED] (raw DOCX: 62980-69690)
+  VO (spoken) : Saat wahyu pertama turun, kota Makkah dikuasai oleh para bangsawan pedagang Suku Quraisy.
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Wealthy Quraysh merchant aristocrats in luxurious dark robes gathered outside stone dwellings in Makkah, haughty exp
+
+SCENE  17 [ 69690 ->  73310 | 3.62s] [SHIFTED] (raw DOCX: 69690-73310)
+  VO (spoken) : Kehidupan kota ditopang oleh ratusan berhala di sekitar Ka’bah
+  IMG (actual): [PRE-ISLAMIC MAKKAH & KA'BAH] High-angle view of the unpolished stone Ka'bah surrounded by carved basalt idols in the busy Makkah valley. 2D woodcut style,
+
+SCENE  18 [ 73310 ->  75700 | 2.39s] [SHIFTED] (raw DOCX: 73310-75700)
+  VO (spoken) : dan jalur perdagangan kafilah.
+  IMG (actual): Heavily loaded merchant camel caravan winding its way into the rocky mountain pass of Makkah, sacks of trading goods under a scorching sun. 2D illustrated 
+
+SCENE  19 [ 75700 ->  80520 | 4.82s] [SHIFTED] (raw DOCX: 75700-80520)
+  VO (spoken) : Tatanan sosial di sana sangat timpang. Kaum elit kaya menimbun harta,
+  IMG (actual): A wealthy Quraysh merchant sitting indoors counting bronze scales and piles of coins, adorned in rich fabrics, dark shadows. 2D woodcut style, charcoal bla
+
+SCENE  20 [ 80520 ->  85930 | 5.41s] [SHIFTED] (raw DOCX: 80520-85930)
+  VO (spoken) : sementara budak dan fakir miskin diperlakukan seperti barang tanpa perlindungan hukum.
+  IMG (actual): Poor indentured laborers and enslaved workers carrying heavy stone blocks in the dusty alleyways of Makkah, weary and impoverished. 2D illustrated style, c
+
+SCENE  21 [ 85930 ->  89170 | 3.24s] [SHIFTED] (raw DOCX: 85930-89170)
+  VO (spoken) : Fanatisme kesukuan menjadi harga mati.
+  IMG (actual): Tribal clan banner pole planted firmly in the dry ground beside sheathed swords, symbolizing unyielding tribal fanaticism (asabiyah). 2D woodcut style, cha
+
+SCENE  22 [ 89170 ->  93640 | 4.47s] [SHIFTED] (raw DOCX: 89170-93640)
+  VO (spoken) : Siapa yang berasal dari klan lemah, nasibnya berada di ujung tanduk.
+  IMG (actual): A vulnerable impoverished nomad family huddled outside a crumbling mud shelter in Makkah, exposed to desert winds, neglected by the clans. 2D illustrated s
+
+SCENE  23 [ 93640 ->  97350 | 3.71s] [SHIFTED] (raw DOCX: 93640-97350)
+  VO (spoken) : Kemapanan para penguasa Makkah ini tiba-tiba terguncang
+  IMG (actual): A cracked stone boundary pillar teetering on a desert ridge, visual metaphor for precarious fate in Jahiliyah society. 2D woodcut style, charcoal blacks, f
+
+SCENE  24 [ 97350 ->  99750 | 2.40s] [SHIFTED] (raw DOCX: 97350-99750)
+  VO (spoken) : ketika Nabi Muhammad shallallahu ‘alaihi wasallam
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing with calm moral authority in a sunlit Makkah alleyway, modest linen robes, face covered by radi
+
+SCENE  25 [ 99750 -> 103270 | 3.52s] [SHIFTED] (raw DOCX: 99750-103270)
+  VO (spoken) : mulai menyuarakan ajaran tauhid dan keadilan sosial.
+  IMG (actual): A simple clay water bowl and broken stone chain resting on a clean rock in sunlight, visual metaphor for divine monotheism and social justice. 2D woodcut s
+
+SCENE  26 [103270 -> 109550 | 6.28s] [SHIFTED] (raw DOCX: 103270-109550)
+  VO (spoken) : Pada mulanya, dakwah Islam berjalan secara sembunyi-sembunyi selama kurang lebih tiga tahun.
+  IMG (actual): Silhouettes of early believers walking quietly through narrow winding stone alleys of Makkah at twilight toward a secluded house. 2D illustrated style, cha
+
+SCENE  27 [109550 -> 115010 | 5.46s] [SHIFTED] (raw DOCX: 109550-115010)
+  VO (spoken) : Pertemuan digelar di rumah sederhana milik sahabat muda bernama al-Arqam bin Abi al-Arqam.
+  IMG (actual): [DARUL ARQAM HOUSE] Exterior of the humble mudbrick residence of al-Arqam nestled near the foothills of Safa, a faint warm light glowing from its wooden do
+
+SCENE  28 [115010 -> 118320 | 3.31s] (raw DOCX: 115010-118320)
+  VO (spoken) : Di rumah inilah fondasi keimanan dibangun perlahan.
+  IMG (actual): [AL-ARQAM BIN ABI AL-ARQAM] [DARUL ARQAM HOUSE] Young al-Arqam welcoming trusted companions into his humble home, noble desert attire, face covered by radi
+
+SCENE  29 [118320 -> 121380 | 3.06s] [SHIFTED] (raw DOCX: 118320-121380)
+  VO (spoken) : Orang-orang pertama yang menyambut ajaran ini
+  IMG (actual): [DARUL ARQAM HOUSE] Warm clay oil lamp illuminating the humble interior room, soft golden glow reflecting off earthen walls and mats, atmosphere of serene 
+
+SCENE  30 [121380 -> 125190 | 3.81s] [SHIFTED] (raw DOCX: 121380-125190)
+  VO (spoken) : sebagian besar adalah mereka yang tertindas oleh sistem Jahiliyah.
+  IMG (actual): [COMPANIONS (SAHABAT)] [DARUL ARQAM HOUSE] Small circle of early believers seated together on palm mats in quiet devotion, coarse linen tunics, faces cover
+
+SCENE  31 [125190 -> 129260 | 4.07s] (raw DOCX: 125190-129260)
+  VO (spoken) : Ada budak seperti Bilal bin Rabah, perempuan terhormat seperti Khadijah,
+  IMG (actual): [BILAL BIN RABAH] [KHADIJAH BINT KHUWAILID] Bilal and Khadijah seated with dignity among the believers, Bilal in coarse linen and Khadijah in modest dark v
+
+SCENE  32 [129260 -> 134250 | 4.99s] [SHIFTED] (raw DOCX: 129260-134250)
+  VO (spoken) : serta pemuda berani seperti Ali bin Abi Thalib dan Zaid bin Haritsah.
+  IMG (actual): [ALI BIN ABI THALIB] [ZAID BIN HARITSAH] Young Ali and Zaid seated side by side, youthful steadfast courage, coarse desert robes, faces covered by radiant 
+
+SCENE  33 [134250 -> 138480 | 4.23s] [SHIFTED] (raw DOCX: 134250-138480)
+  VO (spoken) : Namun pergerakan sunyi itu berubah menjadi badai terbuka
+  IMG (actual): [DARUL ARQAM HOUSE] The small door of Darul Arqam opening outward to reveal the vast, windy desert hills of Makkah at dawn. 2D woodcut style, charcoal blac
+
+SCENE  34 [138480 -> 141750 | 3.27s] [SHIFTED] (raw DOCX: 138480-141750)
+  VO (spoken) : saat perintah dakwah terang-terangan turun.
+  IMG (actual): [BUKIT SAFA] Dawn wind sweeping over the rocky limestone ridge of Bukit Safa, dark clouds breaking over the valley of Makkah. 2D woodcut style, charcoal bl
+
+SCENE  35 [141750 -> 144780 | 3.03s] [SHIFTED] (raw DOCX: 141750-144780)
+  VO (spoken) : Nabi naik ke bukit Safa dan menyerukan kebenaran
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [BUKIT SAFA] The Prophet standing atop the rocky summit of Bukit Safa, robes blowing gently in the morning wind, fac
+
+SCENE  36 [144780 -> 148200 | 3.42s] [SHIFTED] (raw DOCX: 144780-148200)
+  VO (spoken) : kepada kaum Quraisy yang beliau panggil berkumpul.
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] [BUKIT SAFA] Crowd of Quraysh tribal elders and citizens looking up from the base of Bukit Safa, surprised and confl
+
+SCENE  37 [148200 -> 151290 | 3.09s] [SHIFTED] (raw DOCX: 148200-151290)
+  VO (spoken) : Setelah itu, beliau juga menyampaikan risalahnya
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet visiting pilgrim tents pitched outside Makkah, delivering the message to diverse kabilah elders, face co
+
+SCENE  38 [151290 -> 155470 | 4.18s] [SHIFTED] (raw DOCX: 151290-155470)
+  VO (spoken) : kepada kabilah-kabilah yang datang ke Makkah pada musim haji.
+  IMG (actual): Pilgrim caravans arriving in Makkah for the annual pilgrimage season, colorful camel saddles and diverse tribes gathering near tents in the valley. 2D wood
+
+SCENE  39 [155470 -> 163200 | 7.73s] [SHIFTED] (raw DOCX: 155470-163200)
+  VO (spoken) : Bisa jadi kamu bertanya-tanya, kenapa para bangsawan Quraisy begitu panik dan marah terhadap seruan ini?
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Stern faces of Quraysh oligarchs whispering angrily together in the shadows of an ancient stone archway, stylized 2D
+
+SCENE  40 [163200 -> 165350 | 2.15s] [SHIFTED] [USES SCENE_41] (raw DOCX: 163200-164670)
+  VO (spoken) : Para sejarawan menganalisis setidaknya
+  IMG (actual): Historical scholars' study chamber with ancient parchment treatises and charcoal sketches on stone walls, analysis of early opposition. 2D illustrated styl
+
+SCENE  41 [165350 -> 168560 | 3.21s] [SHIFTED] [USES SCENE_40] (raw DOCX: 164670-167310)
+  VO (spoken) : lima alasan mendasar di balik penolakan mereka.
+  IMG (actual): A parchment roll unrolled on a wooden table displaying five ancient symbolic marks rendered as flowing wavy linear lines, no real text. 2D woodcut style, f
+
+SCENE  42 [168560 -> 172550 | 3.99s] [SHIFTED] (raw DOCX: 167310-172550)
+  VO (spoken) : Pertama, mereka menolak keyakinan akan adanya hari kebangkitan
+  IMG (actual): Dry bleached desert skull and brittle bones half-buried in dry sand under a scorching sun, representing the Quraysh skepticism of bodily resurrection. 2D i
+
+SCENE  43 [172550 -> 176430 | 3.88s] [SHIFTED] (raw DOCX: 172550-176430)
+  VO (spoken) : dan pembalasan amal. Kedua, sebagian elit Quraisy
+  IMG (actual): Balance of divine justice illustrated symbolically in sand: an ethereal feather and stone weighing deed marks, rejected by skeptical pagan elders. 2D woodc
+
+SCENE  44 [176430 -> 180340 | 3.91s] [SHIFTED] (raw DOCX: 176430-180340)
+  VO (spoken) : menyamakan risalah kenabian dengan perebutan kekuasaan politik.
+  IMG (actual): Two rival tribal leaders arguing passionately over an empty ornate stone seat in a courtyard, symbolizing fear of political rivalry. 2D woodcut style, char
+
+SCENE  45 [180340 -> 183210 | 2.87s] [SHIFTED] (raw DOCX: 180340-183210)
+  VO (spoken) : Mereka khawatir tunduk pada ajaran ini berarti
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Elitist Quraysh leaders looking toward the residential quarter of Bani Hasyim with suspicion and envy, stylized 2D i
+
+SCENE  46 [183210 -> 187110 | 3.90s] [SHIFTED] (raw DOCX: 183210-187110)
+  VO (spoken) : menyerahkan kepemimpinan Makkah kepada klan Bani Hasyim.
+  IMG (actual): A stone banner carved with the emblem of Bani Hasyim, casting a long shadow across Makkah's council grounds, political tension. 2D woodcut style, charcoal 
+
+SCENE  47 [187110 -> 193870 | 6.76s] [SHIFTED] (raw DOCX: 187110-193870)
+  VO (spoken) : Ketiga, faktor ekonomi. Menurut tradisi, Ka’bah saat itu dikelilingi tiga ratus enam puluh berhala.
+  IMG (actual): [PRE-ISLAMIC MAKKAH & KA'BAH] High-angle view of the Ka'bah surrounded by carved basalt and sandstone idols, bustling with superstitious pilgrims making of
+
+SCENE  48 [193870 -> 197330 | 3.46s] [SHIFTED] (raw DOCX: 193870-197330)
+  VO (spoken) : Kota Makkah hidup dari peziarah yang datang ke tempat suci itu,
+  IMG (actual): Pilgrim caravans arriving at Makkah's stone gates, merchants greeting them eagerly with trays of food and incense, economic dependence on pilgrimage. 2D wo
+
+SCENE  49 [197330 -> 200820 | 3.49s] [SHIFTED] (raw DOCX: 197330-198860)
+  VO (spoken) : dan orang-orang yang bergantung pada perdagangan serta pemujaan berhala
+  IMG (actual): [PRE-ISLAMIC MAKKAH & KA'BAH] A pagan artisan in Makkah carving stone and wood idols in a workshop, surrounded by finished idol statues and chisels. 2D ill
+
+SCENE  50 [200820 -> 203340 | 2.52s] [SHIFTED] (raw DOCX: 198860-203340)
+  VO (spoken) : takut kehilangan mata pencaharian jika
+  IMG (actual): A merchant looking anxiously at an empty coin box beside rows of unsold stone idols, fear of economic loss. 2D woodcut style, charcoal blacks, faded ochres
+
+SCENE  51 [203340 -> 205590 | 2.25s] [SHIFTED] (raw DOCX: 203340-205590)
+  VO (spoken) : penyembahan berhala dihentikan.
+  IMG (actual): Dark stone idol Hubal standing in shadow while morning sunlight illuminates the plain Ka'bah wall, visual contrast of fading paganism and rising truth. 2D 
+
+SCENE  52 [205590 -> 210670 | 5.08s] [SHIFTED] (raw DOCX: 205590-210670)
+  VO (spoken) : Keempat, Islam menegaskan persamaan derajat manusia di hadapan Tuhan,
+  IMG (actual): A noble master in fine garments and an enslaved worker in tattered cloth standing side by side under sunlight, an unbroken horizontal line of equality. 2D 
+
+SCENE  53 [210670 -> 216650 | 5.98s] [SHIFTED] (raw DOCX: 210670-216650)
+  VO (spoken) : hal yang sangat dibenci kaum bangsawan karena meruntuhkan status istimewa mereka atas para budak.
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Aristocratic elder scowling in disgust as he turns his back on an egalitarian gathering, clutching his ornate robe. 
+
+SCENE  54 [216650 -> 221250 | 4.60s] (raw DOCX: 216650-221250)
+  VO (spoken) : Dan kelima, fanatisme terhadap tradisi nenek moyang.
+  IMG (actual): A row of weathered stone ancestor statues carved into a desert cliff, dusty and eroded by winds, representing rigid devotion to ancestral traditions. 2D wo
+
+SCENE  55 [221250 -> 224170 | 2.92s] (raw DOCX: 221250-224170)
+  VO (spoken) : Ketika kata-kata tidak mempan membendung dakwah,
+  IMG (actual): A heavy iron whip and cruel wooden shackles lying on blazing hot desert sand, harsh noon sun casting sharp dark shadows. 2D illustrated style, charcoal bla
+
+SCENE  56 [224170 -> 227150 | 2.98s] (raw DOCX: 224170-227150)
+  VO (spoken) : kaum Quraisy mulai memakai kekerasan fisik.
+  IMG (actual): Quraysh tormentors brandishing iron rods and whips under the scorching midday sun of Makkah, aggressive stances in desert dust, stylized 2D faces. 2D woodc
+
+SCENE  57 [227150 -> 230780 | 3.63s] (raw DOCX: 227150-230780)
+  VO (spoken) : Bilal dicambuk dan ditindih batu panas di terik gurun pasir.
+  IMG (actual): [BILAL BIN RABAH] Bilal lying steadfast on scorching sun-bleached desert rocks, a massive heavy black stone placed upon his chest, head tilted heavenward i
+
+SCENE  58 [230780 -> 236330 | 5.55s] (raw DOCX: 230780-236330)
+  VO (spoken) : Keluarga Yasir disiksa hingga Sumayyah dan suaminya, Yasir, gugur.
+  IMG (actual): [SUMAYYAH & YASIR] Elder Yasir and his noble wife Sumayyah standing bound to wooden stakes in the desert heat, dignified steadfast gazes, faces covered by 
+
+SCENE  59 [236330 -> 240390 | 4.06s] (raw DOCX: 236330-240390)
+  VO (spoken) : Sumayyah dikenal sebagai syahid pertama dalam Islam.
+  IMG (actual): [SUMAYYAH & YASIR] Rays of serene golden heavenly light breaking through the dusty sky to illuminate the fallen noble figure of Sumayyah, symbol of the fir
+
+SCENE  60 [240390 -> 243920 | 3.53s] (raw DOCX: 240390-243920)
+  VO (spoken) : Melihat pengikutnya yang lemah terus disiksa tanpa henti,
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet looking down with deep sorrow and compassion upon the injured early believers, hands gently offering com
+
+SCENE  61 [243920 -> 246130 | 2.21s] [SHIFTED] (raw DOCX: 243920-246130)
+  VO (spoken) : Nabi mengambil langkah penyelamatan.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The Prophet instructing a group of travel-ready companions at night, pointing toward the west
+
+SCENE  62 [246130 -> 250860 | 4.73s] [SHIFTED] (raw DOCX: 246130-250860)
+  VO (spoken) : Sebagian sahabat diperintahkan menyeberangi Laut Merah menuju negeri Habasyah di Ethiopia.
+  IMG (actual): A wooden sailing dhow boat with white sails crossing the dark choppy waters of the Red Sea at night under a canopy of stars toward the African coast. 2D wo
+
+SCENE  63 [250860 -> 256200 | 5.34s] [SHIFTED] (raw DOCX: 250860-256200)
+  VO (spoken) : Di sana mereka mendapat perlindungan dari seorang raja Kristen yang adil bernama Najasyi.
+  IMG (actual): [KING NAJASYI OF HABASYAH] King Najasyi seated upon a carved dark wood throne in the stone palace of Axum, crown and regal mantle, listening with compassio
+
+SCENE  64 [256200 -> 258720 | 2.52s] [SHIFTED] (raw DOCX: 256200-258720)
+  VO (spoken) : Inilah salah satu peristiwa suaka
+  IMG (actual): [COMPANIONS (SAHABAT)] [KING NAJASYI OF HABASYAH] Muslim refugees standing with dignified humility before the Christian king, presenting an open scroll wit
+
+SCENE  65 [258720 -> 262680 | 3.96s] [SHIFTED] (raw DOCX: 258720-262680)
+  VO (spoken) : lintas benua paling awal dalam sejarah Islam.
+  IMG (actual): Ancient map on textured aged parchment showing the maritime route from Makkah, across the Red Sea, into the horn of Africa and Axum, marked with wavy lines
+
+SCENE  66 [262680 -> 266040 | 3.36s] (raw DOCX: 262680-266040)
+  VO (spoken) : Di Makkah, para pemuka Quraisy semakin putus asa.
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Frustrated Quraysh elders pacing nervously in a stone courtyard, clenching their fists in deadlock, stylized 2D illu
+
+SCENE  67 [266040 -> 271840 | 5.80s] (raw DOCX: 266040-271840)
+  VO (spoken) : Menurut riwayat, mereka mencoba menawarkan kepada Nabi tumpukan harta,
+  IMG (actual): Chests overflowing with gold coins, ornate silver goblets, and rich silk fabrics brought as a bribe, sitting on a stone floor before leaders. 2D illustrate
+
+SCENE  68 [271840 -> 277750 | 5.91s] (raw DOCX: 271840-277750)
+  VO (spoken) : kedudukan pemimpin kota, hingga pernikahan dengan wanita yang paling diinginkan.
+  IMG (actual): An ornate carved wooden throne and royal robes set beside bridal silk canopies, offered as worldly dominion and rejected. 2D woodcut style, faded ochres, c
+
+SCENE  69 [277750 -> 280260 | 2.51s] [SHIFTED] (raw DOCX: 277750-280260)
+  VO (spoken) : Semua tawaran itu ditolak.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing resolute, hand gently raised in firm refusal of worldly offers, face covered by radiant glowing
+
+SCENE  70 [280260 -> 285410 | 5.15s] [SHIFTED] (raw DOCX: 280260-285410)
+  VO (spoken) : Karena jalan bujukan gagal, para elit Quraisy bersatu menandatangani
+  IMG (actual): [DARUN NADWAH] [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Quraysh elders gathered around an ominous parchment contract on a stone table in Darun Nadwah, dippin
+
+SCENE  71 [285410 -> 291630 | 6.22s] [SHIFTED] (raw DOCX: 285410-291630)
+  VO (spoken) : piagam pemboikotan ekonomi dan sosial terhadap klan Bani Hasyim dan Bani Muthalib.
+  IMG (actual): A heavy iron seal stamped in black wax on the boycott scroll, tribal seals of all major Quraysh clans binding the blockade against Bani Hasyim. 2D illustra
+
+SCENE  72 [291630 -> 297030 | 5.40s] (raw DOCX: 291630-297030)
+  VO (spoken) : Mekanisme pemboikotan ini bekerja ibarat jerat leher ekonomi yang mematikan.
+  IMG (actual): A heavy hemp rope forming a tight noose around an empty grain basket on cracked earth, visual metaphor for the choking economic blockade. 2D woodcut style,
+
+SCENE  73 [297030 -> 301060 | 4.03s] [SHIFTED] (raw DOCX: 297030-301060)
+  VO (spoken) : Selama kurang lebih tiga tahun, klan pendukung Nabi terkurung
+  IMG (actual): Narrow rocky gorge of Syi'b Abi Thalib surrounded by steep barren cliffs, harsh shadows trapping the quarantined clan, isolated and desolate. 2D illustrate
+
+SCENE  74 [301060 -> 304110 | 3.05s] [SHIFTED] (raw DOCX: 301060-304110)
+  VO (spoken) : di sebuah lembah sempit di pinggiran Makkah.
+  IMG (actual): A small makeshift shelter of woven palm mats wedged between steep rocky cliffs of the ravine, windswept dust swirling in the valley. 2D woodcut style, char
+
+SCENE  75 [304110 -> 307750 | 3.64s] [SHIFTED] (raw DOCX: 304110-307750)
+  VO (spoken) : Tidak ada pasokan makanan yang boleh dijual kepada mereka,
+  IMG (actual): Empty clay storage jars and overturned flour bins sitting dry inside a tent, dust blowing across bare earthen floor. 2D illustrated style, faded ochres, ch
+
+SCENE  76 [307750 -> 313630 | 5.88s] [SHIFTED] (raw DOCX: 307750-313630)
+  VO (spoken) : tidak ada pernikahan yang diizinkan, dan tidak ada hubungan dagang yang diperbolehkan.
+  IMG (actual): A merchant caravan turning away at the valley mouth, refused permission by Quraysh guards to trade with the besieged clan. 2D woodcut style, charcoal black
+
+SCENE  77 [313630 -> 316700 | 3.07s] [SHIFTED] (raw DOCX: 313630-316700)
+  VO (spoken) : Tangis anak-anak kecil yang kelaparan terdengar
+  IMG (actual): A mother comforting her hungry weeping children inside a small linen tent in the quarantined valley, somber dim lighting. 2D illustrated style, charcoal bl
+
+SCENE  78 [316700 -> 319940 | 3.24s] [SHIFTED] (raw DOCX: 316700-319940)
+  VO (spoken) : menyayat hati hingga ke pemukiman Makkah.
+  IMG (actual): Distant view of Makkah's illuminated stone houses while echoes of weeping from the dark barren valley fade into the night wind. 2D woodcut style, charcoal 
+
+SCENE  79 [319940 -> 324120 | 4.18s] (raw DOCX: 319940-324120)
+  VO (spoken) : Mereka terpaksa memakan dedaunan kering dan potongan kulit hewan
+  IMG (actual): A weathered clay pot boiling dried desert leaves and boiled leather strips over a small smoky fire, desperate survival in the blockade. 2D illustrated styl
+
+SCENE  80 [324120 -> 328420 | 4.30s] [SHIFTED] (raw DOCX: 324120-328420)
+  VO (spoken) : sekadar untuk bertahan hidup. Dan di sinilah titik terendah
+  IMG (actual): A solitary dry leaf drifting across cracked desert stone into a dry watercourse, symbol of extreme austerity and endurance. 2D woodcut style, faded ochres,
+
+SCENE  81 [328420 -> 331520 | 3.10s] [SHIFTED] (raw DOCX: 328420-331520)
+  VO (spoken) : dari seluruh perjuangan di Makkah terjadi.
+  IMG (actual): A solitary leafless desert shrub clinging to life on a cracked stone cliff under a dark gray sky, metaphor for the lowest point of struggle. 2D illustrated
+
+SCENE  82 [331520 -> 334120 | 2.60s] [SHIFTED] (raw DOCX: 331520-334120)
+  VO (spoken) : Tak lama setelah boikot berakhir,
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] The eaten-away boycott parchment hanging inside Ka'bah, decayed by termites except for sacred wavy linear lines at t
+
+SCENE  83 [334120 -> 340980 | 6.86s] [SHIFTED] (raw DOCX: 334120-340980)
+  VO (spoken) : dua benteng pelindung terkuat Nabi wafat dalam waktu berdekatan. Paman beliau, Abu Thalib,
+  IMG (actual): An aged Bedouin elder's woolen cloak and wooden walking staff lying resting by a stone hearth, quiet solemnity in an empty room. 2D illustrated style, char
+
+SCENE  84 [340980 -> 346850 | 5.87s] [SHIFTED] (raw DOCX: 340980-346850)
+  VO (spoken) : yang selama puluhan tahun menjadi pelindung dari ancaman klan Quraisy, meninggal dunia.
+  IMG (actual): Silhouetted figure of an elder protector standing between a gathering mob and a doorway, now fading into evening mist, symbol of Abu Thalib's passing. 2D w
+
+SCENE  85 [346850 -> 351710 | 4.86s] [SHIFTED] (raw DOCX: 346850-351710)
+  VO (spoken) : Selang beberapa waktu kemudian, sang istri tercinta Khadijah,
+  IMG (actual): A desert graveyard at twilight with solitary stone markers under a melancholy violet-gray sky, solemn winds blowing sand particles. 2D illustrated style, c
+
+SCENE  86 [351710 -> 356740 | 5.03s] (raw DOCX: 351710-356740)
+  VO (spoken) : tempat beliau bersandar dan yang mengorbankan hartanya, turut berpulang.
+  IMG (actual): A modest dark veil and folded linen mantle resting quietly on a wooden chest in soft evening light, symbolizing the passing of Khadijah, atmosphere of prof
+
+SCENE  87 [356740 -> 362780 | 6.04s] [SHIFTED] (raw DOCX: 356740-362780)
+  VO (spoken) : Tahun kepedihan ini dicatat dalam sejarah sebagai Amul Huzni, atau Tahun Duka Cita.
+  IMG (actual): A dark charcoal storm cloud hovering over the mountains of Makkah, rainless and heavy with sorrow, Year of Sorrow (Amul Huzni). 2D illustrated style, charc
+
+SCENE  88 [362780 -> 365580 | 2.80s] [SHIFTED] (raw DOCX: 362780-365580)
+  VO (spoken) : Tanpa perlindungan Abu Thalib dan Khadijah,
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Emboldened Quraysh adversaries shouting insults in Makkah's streets, throwing dust toward believers now that guardia
+
+SCENE  89 [365580 -> 371250 | 5.67s] [SHIFTED] (raw DOCX: 365580-371250)
+  VO (spoken) : perlakuan kaum Quraisy semakin keras. Nabi mencoba mencari basis perlindungan baru
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet walking along a winding mountain trail toward the highland city of Thaif, solitary figure in sun-bleache
+
+SCENE  90 [371250 -> 373380 | 2.13s] [SHIFTED] (raw DOCX: 371250-373380)
+  VO (spoken) : ke kota pegunungan Thaif.
+  IMG (actual): Stone gateway of the mountain city of Thaif, fruit orchards in the background, hostile townspeople gathering at the walls. 2D woodcut style, muted olive gr
+
+SCENE  91 [373380 -> 378250 | 4.87s] (raw DOCX: 373380-378250)
+  VO (spoken) : Namun harapan itu berbuah luka. Penduduk Thaif justru menolak
+  IMG (actual): Hostile crowd in Thaif lining the dusty road, scowling and jeering from rooftops and doorways, stylized 2D illustrated faces. 2D woodcut style, charcoal bl
+
+SCENE  92 [378250 -> 381870 | 3.62s] (raw DOCX: 378250-381870)
+  VO (spoken) : beliau dengan caci maki dan lemparan batu hingga tubuh
+  IMG (actual): Rough stones flying through the air and scattered on the dusty road outside Thaif, aggressive hostile crowd in shadows, 2D illustrated style. Charcoal blac
+
+SCENE  93 [381870 -> 386220 | 4.35s] [SHIFTED] (raw DOCX: 381870-386220)
+  VO (spoken) : beliau terluka. Di tengah kepedihan dan kebuntuan inilah,
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet resting beneath the shade of an orchard grape arbor outside Thaif, wounded feet in sand, hands raised in
+
+SCENE  94 [386220 -> 390880 | 4.66s] [SHIFTED] (raw DOCX: 386220-390880)
+  VO (spoken) : fajar pertolongan justru terbit dari arah yang tak disangka-sangka.
+  IMG (actual): A single beam of warm dawn light piercing through heavy storm clouds over the desert mountains, symbolizing unexpected hope. 2D illustrated style, sun-blea
+
+SCENE  95 [390880 -> 396170 | 5.29s] [SHIFTED] (raw DOCX: 390880-396170)
+  VO (spoken) : Setiap musim haji tiba, suku-suku dari penjuru jazirah berdatangan ke Makkah.
+  IMG (actual): Pilgrim encampments in Mina near Makkah under a starry night sky, small campfires flickering beside rocky hillsides. 2D woodcut style, charcoal blacks, fad
+
+SCENE  96 [396170 -> 398980 | 2.81s] [SHIFTED] (raw DOCX: 396170-398980)
+  VO (spoken) : Pada tahun kesebelas kenabian,
+  IMG (actual): A solitary camel rider arriving in the valley of Mina at night, guided by distant campfires among rugged boulders. 2D illustrated style, charcoal blacks, f
+
+SCENE  97 [398980 -> 404130 | 5.15s] [SHIFTED] (raw DOCX: 398980-404130)
+  VO (spoken) : Nabi menemui enam orang pria dari suku Khazraj yang datang dari kota Yatsrib.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The Prophet meeting six travelers from the Khazraj tribe around a secluded campfire in Mina, 
+
+SCENE  98 [404130 -> 406990 | 2.86s] [SHIFTED] (raw DOCX: 404130-406990)
+  VO (spoken) : Yatsrib adalah lembah pertanian subur
+  IMG (actual): [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Date palm orchards of Yatsrib with ancient stone irrigation canals, shadowed by lingering memories of civil war b
+
+SCENE  99 [406990 -> 413490 | 6.50s] [SHIFTED] (raw DOCX: 406990-413490)
+  VO (spoken) : yang sedang dilanda perselisihan dan perang saudara menahun antara suku Aus dan Khazraj.
+  IMG (actual): Two rival tribal banners of Aus and Khazraj planted in an uncultivated field in Yatsrib, broken arrow shafts between them, scars of the Battle of Bu'ath. 2
+
+SCENE 100 [413490 -> 415720 | 2.23s] [SHIFTED] (raw DOCX: 413490-415720)
+  VO (spoken) : Warga Yatsrib kerap mendengar dari
+  IMG (actual): A gathering of Yatsrib citizens listening attentively to elders in a palm grove courtyard, discussing hopes for peace and unity. 2D illustrated style, mute
+
+SCENE 101 [415720 -> 419430 | 3.71s] (raw DOCX: 415720-419430)
+  VO (spoken) : tetangga Yahudi mereka tentang akan datangnya seorang nabi.
+  IMG (actual): Jewish community members in traditional scholarly robes conversing outside a stone study house in Yatsrib, sharing ancient prophecy scrolls with wavy linea
+
+SCENE 102 [419430 -> 423130 | 3.70s] (raw DOCX: 419430-423130)
+  VO (spoken) : Begitu mendengar risalah yang disampaikan Nabi Muhammad,
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet reciting divine guidance softly by the fire, words like cool rain upon thirsty soil, face covered by rad
+
+SCENE 103 [423130 -> 426530 | 3.40s] (raw DOCX: 423130-426530)
+  VO (spoken) : keenam orang itu menyatakan keislaman mereka.
+  IMG (actual): [COMPANIONS (SAHABAT)] The six Khazraj men listening with brightened, receptive expressions around the fire, nodding in sincere acceptance of faith, faces 
+
+SCENE 104 [426530 -> 430480 | 3.95s] (raw DOCX: 426530-430480)
+  VO (spoken) : Pertemuan kecil itu menggelinding menjadi arus sejarah yang besar.
+  IMG (actual): A small mountain stream trickling between rocks, joining with another stream to form a strong river, metaphor for historical momentum. 2D illustrated style
+
+SCENE 105 [430480 -> 434480 | 4.00s] (raw DOCX: 430480-434480)
+  VO (spoken) : Pada tahun berikutnya, berlangsung Bai'at Aqabah Pertama.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The First Pledge at Aqabah: twelve representatives from Yatsrib clasping hands with the Proph
+
+SCENE 106 [434480 -> 440800 | 6.32s] [SHIFTED] (raw DOCX: 434480-440800)
+  VO (spoken) : Dua belas perwakilan Yatsrib berikrar memegang nilai-nilai tauhid dan moralitas luhur.
+  IMG (actual): Hands of the believers raised in solemn oath, casting away stolen idol trinkets into the sand, symbol of moral commitment. 2D illustrated style, charcoal b
+
+SCENE 107 [440800 -> 444440 | 3.64s] [SHIFTED] (raw DOCX: 440800-444440)
+  VO (spoken) : Setahun berselang, datang rombongan yang jauh lebih besar
+  IMG (actual): A caravan of pilgrims from Yatsrib journeying south under bright skies, among them seventy-five eager hearts seeking guidance. 2D woodcut style, faded ochr
+
+SCENE 108 [444440 -> 447590 | 3.15s] [SHIFTED] (raw DOCX: 444440-446030)
+  VO (spoken) : dalam Bai'at Aqabah Kedua. Sekitar tujuh puluh lima
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [COMPANIONS (SAHABAT)] The Second Pledge at Aqabah: seventy-five men and women from Yatsrib gathered in secrecy unde
+
+SCENE 109 [447590 -> 451350 | 3.76s] [SHIFTED] (raw DOCX: 446030-451350)
+  VO (spoken) : warga Yatsrib mengundang Nabi ke kota mereka dan bersumpah
+  IMG (actual): [COMPANIONS (SAHABAT)] Tribal leaders of Aus and Khazraj pledging allegiance side by side, holding their hands over their hearts in resolute loyalty, faces
+
+SCENE 110 [451350 -> 456340 | 4.99s] (raw DOCX: 451350-456340)
+  VO (spoken) : setia untuk melindungi beliau selayaknya melindungi keluarga mereka sendiri.
+  IMG (actual): Interlocking arms of tribal warriors forming a protective circle around an open sanctuary flame, symbol of defensive alliance. 2D illustrated style, charco
+
+SCENE 111 [456340 -> 458660 | 2.32s] [SHIFTED] (raw DOCX: 456340-458660)
+  VO (spoken) : Melihat pintu baru telah terbuka,
+  IMG (actual): A heavy wooden door swinging wide open to reveal a bright desert sunrise, visual symbol of a new era of opportunity. 2D woodcut style, sun-bleached whites,
+
+SCENE 112 [458660 -> 462820 | 4.16s] [SHIFTED] (raw DOCX: 458660-462820)
+  VO (spoken) : Nabi memerintahkan para pengikutnya di Makkah untuk berhijrah ke Yatsrib.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet in quiet counsel with close companions, giving the discreet directive to migrate toward Yatsrib, face co
+
+SCENE 113 [462820 -> 467970 | 5.15s] (raw DOCX: 462820-467970)
+  VO (spoken) : Mereka berangkat secara bertahap dan diam-diam, berkelompok kecil maupun sendiri-sendiri,
+  IMG (actual): Small groups of Muslim families stealthily departing Makkah by night, leading pack animals with quiet footsteps through desert paths. 2D woodcut style, cha
+
+SCENE 114 [467970 -> 471470 | 3.50s] (raw DOCX: 467970-471470)
+  VO (spoken) : meninggalkan rumah, tanah, dan harta mereka di Makkah.
+  IMG (actual): Abandoned stone courtyards in Makkah with locked doors and quiet alleys, left behind by those who migrated for their faith. 2D illustrated style, charcoal 
+
+SCENE 115 [471470 -> 477410 | 5.94s] [SHIFTED] (raw DOCX: 471470-477410)
+  VO (spoken) : Hingga akhirnya, sebagian besar kaum Muslim Makkah sudah berada di Yatsrib.
+  IMG (actual): [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Early migrant families arriving in the welcoming green oasis of Yatsrib, greeted warmly by local inhabitants at t
+
+SCENE 116 [477410 -> 480480 | 3.07s] [SHIFTED] (raw DOCX: 477410-481710)
+  VO (spoken) : Menyadari kota Yatsrib akan menjadi pangkalan kekuatan baru
+  IMG (actual): Panoramic view of Yatsrib oasis bustling with new settlements and renewed vitality as the majority of emigrants arrive. 2D illustrated style, muted olive g
+
+SCENE 117 [480480 -> 483240 | 2.76s] [SHIFTED] (raw DOCX: 481710-483240)
+  VO (spoken) : bagi umat Islam, para pemimpin Quraisy panik.
+  IMG (actual): [QURAYSH TRIBAL ELDERS & DARUN NADWAH] Shocked and infuriated Quraysh nobles watching empty Muslim quarters in Makkah, realizing a new base has risen in Ya
+
+SCENE 118 [483240 -> 488540 | 5.30s] [SHIFTED] (raw DOCX: 483240-488540)
+  VO (spoken) : Pada tahun 622 Masehi, mereka berkumpul di balai Darun Nadwah
+  IMG (actual): [DARUN NADWAH] Heavy stone facade of Darun Nadwah in Makkah under ominous dusk clouds in 622 CE, sinister torches burning outside the pillars. 2D illustrat
+
+SCENE 119 [488540 -> 492420 | 3.88s] [SHIFTED] (raw DOCX: 488540-492420)
+  VO (spoken) : dan menyusun rencana pamungkas: mengepung rumah Nabi
+  IMG (actual): [DARUN NADWAH] [QURAYSH TRIBAL ELDERS & DARUN NADWAH] High-tension council in Darun Nadwah, Quraysh elders shouting in panic, stone benches crowded with ag
+
+SCENE 120 [492420 -> 496220 | 3.80s] [SHIFTED] (raw DOCX: 492420-496220)
+  VO (spoken) : dengan pemuda-pemuda dari berbagai klan agar pembunuhan itu tidak bisa
+  IMG (actual): [DARUN NADWAH] A ring of young Quraysh warriors from diverse clans holding iron swords around a central table, plotting collective assassination. 2D illust
+
+SCENE 121 [496220 -> 498510 | 2.29s] [SHIFTED] (raw DOCX: 496220-498510)
+  VO (spoken) : dituntut balas oleh satu klan saja,
+  IMG (actual): A blood feud banner pole in sand, visual metaphor showing that distributing the assassination among all clans prevents single-clan retaliation. 2D woodcut 
+
+SCENE 122 [498510 -> 500570 | 2.06s] [SHIFTED] (raw DOCX: 498510-500570)
+  VO (spoken) : lalu membunuh beliau di tempat tidurnya.
+  IMG (actual): Exterior of the Prophet's humble mudbrick house in Makkah surrounded by shadowy armed figures with drawn swords under a starry midnight sky. 2D illustrated
+
+SCENE 123 [500570 -> 505960 | 5.39s] [SHIFTED] (raw DOCX: 500570-505960)
+  VO (spoken) : Namun rencana itu gagal. Ali bin Abi Thalib tidur di ranjang Nabi
+  IMG (actual): [ALI BIN ABI THALIB] Young Ali lying calmly on the Prophet's bed covered by a green Yamani cloak, serene courage, face covered by radiant glowing light, gl
+
+SCENE 124 [505960 -> 509940 | 3.98s] [SHIFTED] (raw DOCX: 505960-509940)
+  VO (spoken) : untuk mengecoh para pengepung, sementara Nabi dan Abu Bakar ash-Shiddiq
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [ABU BAKR ASH-SHIDDIQ] [DESERT HIJRAH ROUTE & GUA TSUR] The Prophet and Abu Bakar slipping quietly past sleeping gua
+
+SCENE 125 [509940 -> 514320 | 4.38s] [SHIFTED] (raw DOCX: 509940-514320)
+  VO (spoken) : berhasil keluar dari kepungan malam, bersembunyi di Gua Tsur,
+  IMG (actual): [DESERT HIJRAH ROUTE & GUA TSUR] Entrance of Gua Tsur concealed by thorny acacia bushes and spiders' webs on a rugged cliff face under the moon. 2D woodcut
+
+SCENE 126 [514320 -> 517030 | 2.71s] [SHIFTED] (raw DOCX: 514320-517030)
+  VO (spoken) : lalu melintasi gurun menuju Yatsrib.
+  IMG (actual): [DESERT HIJRAH ROUTE & GUA TSUR] Two riders on camels navigating steep sand dunes under a vast twilight desert sky, moving steadily northward toward Yatsri
+
+SCENE 127 [517030 -> 521390 | 4.36s] [SHIFTED] (raw DOCX: 517030-521390)
+  VO (spoken) : Sebagian orang mengira hijrah hanyalah pelarian dari ancaman musuh.
+  IMG (actual): Soldiers inspecting an empty military campsite in frustration, swords idle, visual metaphor for military assumptions. 2D woodcut style, charcoal blacks, fa
+
+SCENE 128 [521390 -> 524780 | 3.39s] [SHIFTED] (raw DOCX: 521390-524780)
+  VO (spoken) : Padahal fakta sejarah membuktikan hal yang jauh lebih besar.
+  IMG (actual): A pair of balances weighing worldly conquest against moral enlightenment, tipped toward radiant knowledge. 2D illustrated style, faded ochres, charcoal bla
+
+SCENE 129 [524780 -> 532030 | 7.25s] [SHIFTED] (raw DOCX: 524780-532030)
+  VO (spoken) : Para pakar sejarah mencatat bahwa hijrah adalah transformasi sosial paling mendasar dalam sejarah dunia.
+  IMG (actual): An ancient leather-bound chronicle book resting open on an carved wooden pedestal, soft morning light illuminating its aged pages, wavy linear lines (no re
+
+SCENE 130 [532030 -> 538200 | 6.17s] [SHIFTED] (raw DOCX: 532030-538200)
+  VO (spoken) : Hijrah bukan sekadar berpindah tempat sejauh ratusan kilometer di atas peta.
+  IMG (actual): A stylized historical map showing migration paths from Makkah to Yatsrib glowing with gentle warm light across desert sands. 2D illustrated style, faded oc
+
+SCENE 131 [538200 -> 542210 | 4.01s] [SHIFTED] (raw DOCX: 538200-542210)
+  VO (spoken) : Hijrah adalah lompatan raksasa dari tatanan kesukuan
+  IMG (actual): Ancient parchment map of Arabia, geographical distance between Makkah and Yatsrib fading as a radiant bridge of light connects the two cities. 2D woodcut s
+
+SCENE 132 [542210 -> 545020 | 2.81s] (raw DOCX: 542210-545020)
+  VO (spoken) : kuno yang berlandaskan darah dan klan,
+  IMG (actual): A heavy iron clan chain snapping apart in mid-air, while threads of luminous golden light weave together into a strong fabric, metaphor for new social bond
+
+SCENE 133 [545020 -> 550240 | 5.22s] [SHIFTED] (raw DOCX: 545020-550240)
+  VO (spoken) : menuju tatanan masyarakat beradab yang disatukan oleh komitmen moral dan iman.
+  IMG (actual): An open civic assembly ground with stone paving and communal wells, symbol of civilized urban community replacing tribal anarchy. 2D woodcut style, sun-ble
+
+SCENE 134 [550240 -> 555840 | 5.60s] [SHIFTED] (raw DOCX: 550240-555840)
+  VO (spoken) : Ketika Nabi tiba di Yatsrib pada tahun 622 Masehi,
+  IMG (actual): A glowing sunrise over the palm trees of Madinah, casting long peaceful shadows across the desert, dawn of a new civilization. 2D illustrated style, sun-bl
+
+SCENE 135 [555840 -> 559700 | 3.86s] [SHIFTED] (raw DOCX: 555840-559700)
+  VO (spoken) : beliau membiarkan untanya berjalan tanpa ditarik tali kekangnya,
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] The Prophet riding his camel into Yatsrib in 622 CE, greeted by joyful cro
+
+SCENE 136 [559700 -> 562540 | 2.84s] [SHIFTED] (raw DOCX: 559700-562540)
+  VO (spoken) : karena unta itu diperintahkan Allah.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] Close-up on the Prophet's camel walking freely with loose reins through the dusty lanes of Yatsrib, guided by divine
+
+SCENE 137 [562540 -> 566930 | 4.39s] [SHIFTED] (raw DOCX: 562540-566930)
+  VO (spoken) : Unta itu akhirnya berlutut di atas sebidang tanah penjemuran kurma
+  IMG (actual): [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] The camel kneeling gently on an open sunlit plot of land used for drying dates, surrounded by date palms and clay
+
+SCENE 138 [566930 -> 570070 | 3.14s] [SHIFTED] (raw DOCX: 566930-570070)
+  VO (spoken) : milik dua anak yatim bernama Sahl dan Suhail.
+  IMG (actual): Two humble young orphan boys, Sahl and Suhail, standing respectfully near their date-drying field with joyful expressions, stylized 2D faces. 2D woodcut st
+
+SCENE 139 [570070 -> 574530 | 4.46s] [SHIFTED] (raw DOCX: 570070-574530)
+  VO (spoken) : Di tanah inilah kelak dibangun masjid.
+  IMG (actual): [MASJID NABAWI] Builders marking the foundation boundary stones on the date-drying field under the bright sun of Madinah, beginning of the sanctuary. 2D il
+
+SCENE 140 [574530 -> 579280 | 4.75s] [SHIFTED] (raw DOCX: 574530-581080)
+  VO (spoken) : Sejak itu Yatsrib dikenal sebagai Madinatun Nabi, “Kota Nabi”,
+  IMG (actual): A carved stone monument at the oasis entrance inscribed with gentle flowing wavy linear lines symbolizing the title 'Madinatun Nabi' (no real letters or te
+
+SCENE 141 [579280 -> 583980 | 4.70s] [SHIFTED] (raw DOCX: 581080-583980)
+  VO (spoken) : atau disingkat Madinah, yang secara harfiah bermakna “kota”.
+  IMG (actual): Ancient city gates of Madinah framed by flourishing date palm groves and peaceful community courtyards under clear open skies. 2D illustrated style, muted 
+
+SCENE 142 [583980 -> 589420 | 5.44s] [SHIFTED] (raw DOCX: 583980-592870)
+  VO (spoken) : Kata tamaddun, yang berarti peradaban, berasal dari akar kata yang sama,
+  IMG (actual): Stylized linguistic roots branching out on aged parchment: ancient root letters rendered as flowing decorative vine motifs symbolizing 'Tamaddun' and civil
+
+SCENE 143 [589420 -> 598750 | 9.33s] [SHIFTED] (raw DOCX: 592870-598750)
+  VO (spoken) : sehingga Madinah kerap dimaknai sebagai kota tempat peradaban dibangun. Di Madinah, status umat Islam berubah total.
+  IMG (actual): Sunlight breaking brilliantly over the rooftops of Madinah, transforming the desert settlement into an organized city of light. 2D illustrated style, sun-b
+
+SCENE 144 [598750 -> 602650 | 3.90s] (raw DOCX: 598750-602650)
+  VO (spoken) : Di Makkah mereka adalah kelompok tertindas yang dikucilkan.
+  IMG (actual): Shadowed figures walking quietly through Makkah's narrow alleys, looking back over their shoulders, reminder of persecution in the past. 2D woodcut style, 
+
+SCENE 145 [602650 -> 606325 | 3.67s] (raw DOCX: 602650-606325)
+  VO (spoken) : Di Madinah, mereka memegang kendali kepemimpinan politik.
+  IMG (actual): [COMPANIONS (SAHABAT)] Confident citizens in clean white and ochre tunics walking freely in the sunny public spaces of Madinah, faces covered by radiant gl
+
+SCENE 146 [606325 -> 611240 | 4.92s] (raw DOCX: 606325-611240)
+  VO (spoken) : Nabi Muhammad tidak lagi hanya berperan sebagai pembawa risalah agama,
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing in prayer in front of believers in Makkah, carrying the divine message amid adversity, face cov
+
+SCENE 147 [611240 -> 619410 | 8.17s] [SHIFTED] (raw DOCX: 611240-619410)
+  VO (spoken) : melainkan memikul mandat ganda: pemimpin spiritual sekaligus pemimpin masyarakat dan kepala negara-kota.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet standing in the open civic pavilion of Madinah, holding a judicial wooden staff in one hand and blessing
+
+SCENE 148 [619410 -> 622830 | 3.42s] [SHIFTED] (raw DOCX: 619410-622830)
+  VO (spoken) : Untuk membangun masyarakat majemuk yang berkeadaban,
+  IMG (actual): A diverse gathering of desert tribes and city dwellers seated attentively before a central dais in Madinah, united as a pluralistic society. 2D woodcut sty
+
+SCENE 149 [622830 -> 626840 | 4.01s] (raw DOCX: 622830-626840)
+  VO (spoken) : Nabi segera meletakkan tiga pilar pembangunan peradaban.
+  IMG (actual): Three strong unpolished stone pillars standing upright in desert soil under an arch of dawn light, symbol of the three foundations of civilization. 2D illu
+
+SCENE 150 [626840 -> 630340 | 3.50s] (raw DOCX: 626840-630340)
+  VO (spoken) : Pilar pertama adalah pendirian Masjid Nabawi.
+  IMG (actual): [MASJID NABAWI] Construction of the first boundary walls of Masjid Nabawi, unbaked mud bricks neatly laid in courses on dry earth. 2D woodcut style, faded 
+
+SCENE 151 [630340 -> 634590 | 4.25s] [SHIFTED] (raw DOCX: 630340-634590)
+  VO (spoken) : Di masa lalu, suku-suku Arab hanya berkumpul di balai sukunya masing-masing
+  IMG (actual): Ancient tribal assembly pavilions scattered and isolated in desert hills, each under separate rival flags, symbol of past tribal fragmentation. 2D illustra
+
+SCENE 152 [634590 -> 637060 | 2.47s] [SHIFTED] (raw DOCX: 634590-637060)
+  VO (spoken) : untuk membanggakan garis keturunan.
+  IMG (actual): Tribal banners of diverse clans lying abandoned on the sand, while a single olive-wood shelter welcomes all under one roof. 2D woodcut style, faded ochres,
+
+SCENE 153 [637060 -> 641470 | 4.41s] (raw DOCX: 637060-641470)
+  VO (spoken) : Nabi menyatukan berbagai elemen masyarakat di bawah satu atap.
+  IMG (actual): [MASJID NABAWI] Men of different tribes and origins standing shoulder to shoulder in clean rows inside the spacious open courtyard of Masjid Nabawi, equal 
+
+SCENE 154 [641470 -> 644610 | 3.14s] (raw DOCX: 641470-644610)
+  VO (spoken) : Masjid Nabawi dibangun bukan hanya untuk salat berjamaah.
+  IMG (actual): [MASJID NABAWI] Believers bowing in unified congregational prayer facing north in the simple unadorned mudbrick courtyard of Masjid Nabawi, serene morning 
+
+SCENE 155 [644610 -> 650490 | 5.88s] (raw DOCX: 644610-650490)
+  VO (spoken) : Bangunan ini berfungsi sebagai balai musyawarah, tempat menyelesaikan perkara hukum,
+  IMG (actual): [MASJID NABAWI] An open consultation area under the thatched palm roof of Masjid Nabawi, elders and leaders seated on woven mats discussing community affai
+
+SCENE 156 [650490 -> 652330 | 1.84s] [SHIFTED] (raw DOCX: 650490-652330)
+  VO (spoken) : pusat bantuan sosial,
+  IMG (actual): [MASJID NABAWI] Sacks of dates and grain distributed from the mosque portico to needy families and widows, social welfare center. 2D woodcut style, faded o
+
+SCENE 157 [652330 -> 659060 | 6.73s] [SHIFTED] (raw DOCX: 652330-659060)
+  VO (spoken) : serta tempat belajar bagi para sahabat miskin yang tinggal di serambinya, yang dikenal sebagai Ahlus Suffah.
+  IMG (actual): [MASJID NABAWI] Shaded rear terrace of Masjid Nabawi (Ahlus Suffah) where devoted poor students study scrolls with wavy linear lines (no real text) and ref
+
+SCENE 158 [659060 -> 662610 | 3.55s] (raw DOCX: 659060-662610)
+  VO (spoken) : Masjid menjadi pusat urusan publik sekaligus spiritual.
+  IMG (actual): [MASJID NABAWI] Exterior panoramic view of Masjid Nabawi with palm frond roof and mud walls, bustling with peaceful civic life in the heart of Madinah. 2D 
+
+SCENE 159 [662610 -> 667860 | 5.25s] [SHIFTED] (raw DOCX: 662610-667860)
+  VO (spoken) : Pilar kedua adalah al-Mu'akhah, yaitu program persaudaraan
+  IMG (actual): Two clasped hands emerging from different sleeves—one coarse travel-worn Muhajir robe and one local Anshar garment—against a warm sunrise backdrop, symbol 
+
+SCENE 160 [667860 -> 674000 | 6.14s] [SHIFTED] (raw DOCX: 667860-674000)
+  VO (spoken) : antara kaum Muhajirin pendatang dari Makkah dengan kaum Anshar warga asli Madinah.
+  IMG (actual): [COMPANIONS (SAHABAT)] An Anshar host embracing an arriving Muhajir traveler at the outskirts of Madinah, both faces covered by radiant glowing light, glow
+
+SCENE 161 [674000 -> 677760 | 3.76s] [SHIFTED] (raw DOCX: 674000-677760)
+  VO (spoken) : Kaum Muhajirin tiba di Madinah dalam keadaan miskin
+  IMG (actual): [COMPANIONS (SAHABAT)] Muhajirin migrants arriving in Madinah carrying only small cloth bundles, weary and destitute after losing their homes in Makkah, fa
+
+SCENE 162 [677760 -> 683910 | 6.15s] [SHIFTED] (raw DOCX: 677760-683910)
+  VO (spoken) : karena sebagian besar harta benda mereka ditinggalkan atau disita di Makkah.
+  IMG (actual): Confiscated possessions in Makkah: locked doors and sealed storehouses left behind by the emigrants in the shadow of Quraysh oppression. 2D woodcut style, 
+
+SCENE 163 [683910 -> 688020 | 4.11s] (raw DOCX: 683910-688020)
+  VO (spoken) : Melalui program ini, ikatan klan purba dihancurkan.
+  IMG (actual): A carved wooden tribal crest breaking into fragments on a stone floor, while a unified palm tree grows through it, symbol of tribal ties dismantled. 2D ill
+
+SCENE 164 [688020 -> 691900 | 3.88s] (raw DOCX: 688020-691900)
+  VO (spoken) : Abu Bakar dipersaudarakan dengan Kharijah bin Zaid,
+  IMG (actual): [ABU BAKR ASH-SHIDDIQ] [KHARIJAH BIN ZAID] Abu Bakr and Kharijah bin Zaid embracing warmly as brothers outside an Anshar home, faces covered by radiant glo
+
+SCENE 165 [691900 -> 697410 | 5.51s] (raw DOCX: 691900-697410)
+  VO (spoken) : dan Ja'far bin Abi Thalib dipersaudarakan dengan Mu'adz bin Jabal.
+  IMG (actual): [JA'FAR BIN ABI THALIB] [MU'ADZ BIN JABAL] Ja'far and young Mu'adz bin Jabal walking together through date groves in brotherly companionship, faces covered
+
+SCENE 166 [697410 -> 701910 | 4.50s] (raw DOCX: 697410-701910)
+  VO (spoken) : Persaudaraan ini menjadi jalan keluar dari krisis kemanusiaan.
+  IMG (actual): A fresh desert spring gushing forth from dry rocks, watering a grove of newly planted saplings, metaphor for humanitarian revitalization. 2D woodcut style,
+
+SCENE 167 [701910 -> 704620 | 2.71s] (raw DOCX: 701910-704620)
+  VO (spoken) : Kaum Anshar dengan sukarela membagi rumah,
+  IMG (actual): An open doorway of a spacious Madinah home, an Anshar host warmly welcoming a Muhajir brother inside to share living quarters, generous hospitality. 2D ill
+
+SCENE 168 [704620 -> 708270 | 3.65s] (raw DOCX: 704620-708270)
+  VO (spoken) : bahkan harta mereka kepada saudara baru mereka.
+  IMG (actual): An Anshar host dividing baskets of harvested fresh dates and grain sacks in half with a smile, offering the share to his brother in faith. 2D woodcut style
+
+SCENE 169 [708270 -> 713550 | 5.28s] (raw DOCX: 708270-713550)
+  VO (spoken) : Sa’ad bin Rabi’ menawarkan separuh hartanya kepada Abdurrahman bin Auf,
+  IMG (actual): [SA'AD BIN RABI' & ABDURRAHMAN BIN AUF] Sa'ad bin Rabi' gesturing generously to divide his palm orchard and stores, facing Abdurrahman bin Auf, both faces 
+
+SCENE 170 [713550 -> 717920 | 4.37s] (raw DOCX: 713550-717920)
+  VO (spoken) : tetapi Abdurrahman memilih untuk hanya ditunjukkan jalan ke pasar
+  IMG (actual): [SA'AD BIN RABI' & ABDURRAHMAN BIN AUF] Abdurrahman bin Auf politely declining half the wealth with a respectful hand over his chest, pointing toward the b
+
+SCENE 171 [717920 -> 721410 | 3.49s] (raw DOCX: 717920-721410)
+  VO (spoken) : agar bisa berdagang dengan usahanya sendiri.
+  IMG (actual): The vibrant outdoor marketplace of Madinah: stalls of dried dates, grain, camel leather, and pottery, honest bustling commerce under palm shadows. 2D illus
+
+SCENE 172 [721410 -> 729380 | 7.97s] [SHIFTED] (raw DOCX: 721410-729380)
+  VO (spoken) : Fanatisme kesukuan (asabiyah) dilebur ke dalam persaudaraan atas dasar akidah dan kemanusiaan.
+  IMG (actual): A glowing circle of diverse hands holding a single cord around an olive tree, symbolizing the triumph of universal brotherhood over asabiyah. 2D woodcut st
+
+SCENE 173 [729380 -> 732320 | 2.94s] [SHIFTED] (raw DOCX: 729380-732320)
+  VO (spoken) : Pilar ketiga adalah Piagam Madinah,
+  IMG (actual): [PIAGAM MADINAH SCROLL] A large aged leather parchment scroll unrolled on a wooden table, inscribed with rows of flowing wavy linear lines representing the
+
+SCENE 174 [732320 -> 737530 | 5.21s] (raw DOCX: 732320-737530)
+  VO (spoken) : sebuah perjanjian tertulis yang kerap disebut juga Konstitusi Madinah.
+  IMG (actual): [PIAGAM MADINAH SCROLL] Close-up of the parchment scroll illuminated by a warm clay oil lamp, showing neat rows of flowing wavy linear lines suggesting con
+
+SCENE 175 [737530 -> 741990 | 4.46s] (raw DOCX: 737530-741990)
+  VO (spoken) : Kota Madinah saat itu dihuni oleh penduduk yang sangat majemuk:
+  IMG (actual): A panoramic view of Madinah showing diverse quarters: Muslim mudbrick houses, pagan Arab compounds, and stone towers of Jewish clans residing peacefully si
+
+SCENE 176 [741990 -> 747300 | 5.31s] [SHIFTED] (raw DOCX: 741990-747300)
+  VO (spoken) : kaum Muslim Muhajirin dan Anshar, orang-orang Arab yang masih menyembah berhala,
+  IMG (actual): Muslim citizens in simple robes and pagan Arab neighbors in traditional desert garb conversing calmly in a shared date grove in Madinah. 2D woodcut style, 
+
+SCENE 177 [747300 -> 754190 | 6.89s] [SHIFTED] (raw DOCX: 747300-754190)
+  VO (spoken) : serta suku-suku Yahudi seperti Bani Qainuqa, Bani Nadhir, dan Bani Quraizhah.
+  IMG (actual): Fortified stone towers and mudbrick estates of the Jewish clans (Bani Qainuqa, Bani Nadhir, Bani Quraizhah) nestled among date palms in Madinah. 2D illustr
+
+SCENE 178 [754190 -> 756780 | 2.59s] [SHIFTED] (raw DOCX: 754190-756780)
+  VO (spoken) : Piagam ini menegaskan bahwa seluruh penduduk
+  IMG (actual): [PIAGAM MADINAH SCROLL] Representatives of Muslim, non-Muslim Arab, and Jewish communities of Madinah seated in a circle around an open treaty table, styli
+
+SCENE 179 [756780 -> 759020 | 2.24s] (raw DOCX: 756780-759020)
+  VO (spoken) : Madinah yang terikat dalam perjanjian itu,
+  IMG (actual): Dignified delegates from various clans placing their seal rings onto soft wax around the parchment document, affirming collective unity. 2D illustrated sty
+
+SCENE 180 [759020 -> 761680 | 2.66s] (raw DOCX: 759020-761680)
+  VO (spoken) : apa pun latar belakang suku dan agamanya,
+  IMG (actual): A diverse circle of community elders standing together in an open courtyard, diverse turbans and robes, united as one civic body. 2D woodcut style, charcoa
+
+SCENE 181 [761680 -> 765960 | 4.28s] (raw DOCX: 761680-765960)
+  VO (spoken) : merupakan satu kesatuan masyarakat yang disebut Ummah.
+  IMG (actual): [PIAGAM MADINAH SCROLL] A central section of the parchment scroll glowing faintly with golden warmth, flowing wavy linear lines signifying the sacred pact 
+
+SCENE 182 [765960 -> 771060 | 5.10s] (raw DOCX: 765960-771060)
+  VO (spoken) : Setiap kelompok dijamin kebebasannya untuk menjalankan keyakinan agamanya.
+  IMG (actual): A quiet stone courtyard where a Muslim portico and a Jewish study house stand facing each other under peaceful skies, freedom of faith respected. 2D woodcu
+
+SCENE 183 [771060 -> 774090 | 3.03s] [SHIFTED] (raw DOCX: 771060-774090)
+  VO (spoken) : Apabila Madinah diserang dari luar, semua pihak
+  IMG (actual): Watchtowers along the mudbrick defensive perimeter walls of Madinah manned by diverse community defenders scanning the desert horizon together. 2D illustra
+
+SCENE 184 [774090 -> 777540 | 3.45s] [SHIFTED] (raw DOCX: 774090-777540)
+  VO (spoken) : berkewajiban bahu-membahu mempertahankan kota.
+  IMG (actual): Defenders reinforcing a stone barricade and digging defensive trenches outside the palm groves of Madinah with collective effort. 2D woodcut style, faded o
+
+SCENE 185 [777540 -> 783140 | 5.60s] [SHIFTED] (raw DOCX: 777540-783140)
+  VO (spoken) : Tidak ada klan yang boleh bersekutu secara diam-diam dengan Quraisy yang memusuhi Madinah.
+  IMG (actual): A closed heavy wooden city gate with iron bolts, blocking covert envoys from Makkah, symbol of vigilance against secret alliances. 2D illustrated style, ch
+
+SCENE 186 [783140 -> 786650 | 3.51s] [SHIFTED] (raw DOCX: 783140-786650)
+  VO (spoken) : Dan jika terjadi perselisihan besar, perkara itu dibawa
+  IMG (actual): Two clan elders presenting a disputed boundary stone before an open assembly in Madinah, seeking peaceful judicial arbitration. 2D woodcut style, charcoal 
+
+SCENE 187 [786650 -> 789770 | 3.12s] [SHIFTED] (raw DOCX: 786650-789770)
+  VO (spoken) : kepada Nabi Muhammad untuk diputuskan.
+  IMG (actual): [PROPHET MUHAMMAD (PEACE BE UPON HIM)] The Prophet seated in the council pavilion listening calmly to an arbitration between differing citizens, holding th
+
+SCENE 188 [789770 -> 795900 | 6.13s] [SHIFTED] (raw DOCX: 789770-795900)
+  VO (spoken) : Melalui Piagam Madinah, kelompok-kelompok yang berbeda keyakinan diakui sebagai bagian dari masyarakat
+  IMG (actual): [PIAGAM MADINAH SCROLL] Jewish community elders in dignified scholarly robes holding their copy of the parchment pact, treated as protected equal partners 
+
+SCENE 189 [795900 -> 800100 | 4.20s] (raw DOCX: 795900-800100)
+  VO (spoken) : yang sama, dengan hak dan perlindungan yang dijamin dalam perjanjian.
+  IMG (actual): A balanced bronze balance of justice resting on smooth stone in the open air of Madinah, symbolizing impartial rule of law. 2D illustrated style, faded och
+
+SCENE 190 [800100 -> 804900 | 4.80s] (raw DOCX: 800100-804900)
+  VO (spoken) : Para peneliti modern sering menyebutnya salah satu dokumen politik
+  IMG (actual): An ancient library or archive room with stone shelves holding historical treaty rolls, soft dust motes floating in sunlight beams, milestone of constitutio
+
+SCENE 191 [804900 -> 810110 | 5.21s] (raw DOCX: 804900-810110)
+  VO (spoken) : tertulis paling awal yang mengatur kehidupan bersama masyarakat majemuk,
+  IMG (actual): [PIAGAM MADINAH SCROLL] An ancient scroll resting alongside a quill on an old wooden lectern, symbolic of the earliest written social contracts of mankind.
+
+SCENE 192 [810110 -> 816230 | 6.12s] [SHIFTED] (raw DOCX: 810110-816230)
+  VO (spoken) : meski istilah seperti “konstitusi” dan “warga negara” adalah bahasa zaman sekarang,
+  IMG (actual): Modern legal books and ancient parchment scrolls displayed side by side in a scholarly study, conceptual bridge of constitutional thought. 2D woodcut style
+
+SCENE 193 [816230 -> 819560 | 3.33s] [SHIFTED] (raw DOCX: 816230-819560)
+  VO (spoken) : dan mereka juga masih berdiskusi mengenai kapan
+  IMG (actual): Scholarly discussion silhouettes gathered around a table with historical timeline maps of early Arabia, examining historical dating debates. 2D illustrated
+
+SCENE 194 [819560 -> 822130 | 2.57s] [SHIFTED] (raw DOCX: 819560-822130)
+  VO (spoken) : tepatnya naskah itu disusun.
+  IMG (actual): An hourglass with sand steadily running through it on an aged wooden desk beside the Constitution of Madinah scroll, flowing wavy linear lines. 2D woodcut 
+
+SCENE 195 [822130 -> 828855 | 6.72s] [SHIFTED] (raw DOCX: 822130-828855)
+  VO (spoken) : Perbedaan corak sosial antara Makkah pra-Islam dan Madinah kini terlihat nyata.
+  IMG (actual): Split composition: left side shows jagged harsh rocks of Makkah in charcoal shadow; right side shows fertile palm groves of Madinah in soft ochre sunlight.
+
+SCENE 196 [828855 -> 832150 | 3.29s] [SHIFTED] (raw DOCX: 828855-832150)
+  VO (spoken) : Di Makkah Jahiliyah, hukum rimba berkuasa.
+  IMG (actual): A proud warlord standing over a defeated adversary in Makkah's dusty sands, symbol of the law of the jungle in Jahiliyah. 2D woodcut style, charcoal blacks
+
+SCENE 197 [832150 -> 837190 | 5.04s] (raw DOCX: 832150-837190)
+  VO (spoken) : Siapa yang kuat dan banyak sukunya, dialah yang menentukan keadaan.
+  IMG (actual): A wealthy clan chieftain in Makkah surrounded by heavily armed guards, deciding disputes by tribal might rather than justice. 2D illustrated style, charcoa
+
+SCENE 198 [837190 -> 841340 | 4.15s] (raw DOCX: 837190-841340)
+  VO (spoken) : Penindasan terhadap kaum lemah dan perempuan terjadi tanpa ada
+  IMG (actual): A poor woman and an orphan standing helpless in a dusty Makkah alleyway, ignored by passing wealthy merchants, absence of legal protection. 2D woodcut styl
+
+SCENE 199 [841340 -> 847220 | 5.88s] [SHIFTED] (raw DOCX: 841340-847220)
+  VO (spoken) : lembaga hukum yang membela, bahkan sebagian kabilah mengubur anak perempuan hidup-hidup
+  IMG (actual): A desolate moonlit sand dune where a single small white cloth strip flutters in the wind, somber reminder of infanticide in Jahiliyah. 2D illustrated style
+
+SCENE 200 [847220 -> 849350 | 2.13s] [SHIFTED] (raw DOCX: 847220-849350)
+  VO (spoken) : karena dipandang sebagai aib.
+  IMG (actual): A grieving mother standing in dark shadows of a rocky gorge, head covered in sorrow under an overcast sky, darkness of Jahiliyah customs. 2D woodcut style,
+
+SCENE 201 [849350 -> 854440 | 5.09s] (raw DOCX: 849350-854440)
+  VO (spoken) : Sebaliknya di Madinah, kehidupan bermasyarakat mulai diatur oleh kesepakatan
+  IMG (actual): A serene public hall in Madinah where a written contract is read before attentive community members, dawn light streaming in. 2D illustrated style, sun-ble
+
+SCENE 202 [854440 -> 858370 | 3.93s] (raw DOCX: 854440-858370)
+  VO (spoken) : tertulis dan tuntunan agama yang menjunjung keadilan.
+  IMG (actual): A judge in Madinah reviewing a written pact with flowing wavy linear lines, delivering an impartial verdict to ordinary citizens. 2D woodcut style, charcoa
+
+SCENE 203 [858370 -> 862850 | 4.48s] (raw DOCX: 858370-862850)
+  VO (spoken) : Kaum perempuan diberi hak kepemilikan harta pribadi, hak waris,
+  IMG (actual): A woman in Madinah receiving property deeds and inheritance documents represented by parchment with flowing wavy linear lines, treated with dignity and leg
+
+SCENE 204 [862850 -> 868140 | 5.29s] (raw DOCX: 862850-868140)
+  VO (spoken) : serta perlindungan dalam pernikahan. Sistem perbudakan mulai dibatasi dan
+  IMG (actual): A peaceful Madinah family courtyard: a mother educating her young daughters near a pomegranate tree in sunlight, dignity and safety guaranteed. 2D woodcut 
+
+SCENE 205 [868140 -> 872170 | 4.03s] (raw DOCX: 868140-872170)
+  VO (spoken) : pembebasan budak didorong sebagai amal yang sangat utama.
+  IMG (actual): An enslaved person having iron neck shackles unbolted and set free by a believer, stepping into sunlight with dignity, noble act of emancipation. 2D illust
+
+SCENE 206 [872170 -> 877550 | 5.38s] (raw DOCX: 872170-877550)
+  VO (spoken) : Kesenjangan sosial dipersempit melalui ajaran zakat dan anjuran sedekah.
+  IMG (actual): Grain sacks and dried fruits being measured into baskets of Zakat and distributed to impoverished families in Madinah's courtyard, narrowing the wealth gap
+
+SCENE 207 [877550 -> 884325 | 6.78s] [SHIFTED] (raw DOCX: 877550-884325)
+  VO (spoken) : Watak sebagian masyarakat gurun yang semula mudah tersulut perang antarsuku dan memuja berhala batu,
+  IMG (actual): Broken pieces of a carved stone idol lying discarded beside an ancient well, while citizens sit together in peaceful consultation around clean water. 2D il
+
+SCENE 208 [884325 -> 888510 | 4.18s] [SHIFTED] (raw DOCX: 884325-888510)
+  VO (spoken) : berangsur-angsur diarahkan menuju kebiasaan bermusyawarah,
+  IMG (actual): An open consultative assembly of Madinah citizens seated in an open-air shaded colonnade, exchanging thoughtful opinions peacefully. 2D woodcut style, char
+
+SCENE 209 [888510 -> 893850 | 5.34s] (raw DOCX: 888510-893850)
+  VO (spoken) : pengendalian diri, dan ikatan persaudaraan yang melampaui batas klan.
+  IMG (actual): Diverse hands holding a woven rope of fellowship across an olive orchard, symbolizing mutual self-restraint and brotherhood beyond clans. 2D illustrated st
+
+SCENE 210 [893850 -> 900470 | 6.62s] [SHIFTED] (raw DOCX: 893850-900470)
+  VO (spoken) : Perjalanan dari kesunyian Gua Hira menuju kota Madinah telah melahirkan tatanan sejarah baru.
+  IMG (actual): A panoramic sunset view connecting the distant peaks of Mount Nur in Makkah to the flourishing green oasis of Madinah across desert dunes. 2D woodcut style
+
+SCENE 211 [900470 -> 904470 | 4.00s] [SHIFTED] (raw DOCX: 900470-902160)
+  VO (spoken) : Dari satu orang yang menerima wahyu di puncak gunung batu,
+  IMG (actual): A single burning oil lamp resting inside the rugged cave of Hira, casting long shadows across desert stones, beginning of an epoch. 2D illustrated style, c
+
+SCENE 212 [904470 -> 906500 | 2.03s] [SHIFTED] (raw DOCX: 902160-906500)
+  VO (spoken) : lahirlah sebuah masyarakat yang
+  IMG (actual): [GUA HIRA & MOUNT NUR] Mount Nur peak bathed in soft radiant morning light, a golden beacon shining out across the vast desert lands of the world. 2D woodc
+
+SCENE 213 [906500 -> 909320 | 2.82s] (raw DOCX: 906500-909320)
+  VO (spoken) : kelak menjadi mercusuar peradaban.
+  IMG (actual): [MADINAH OASIS & KEBUN KURMA SAHL-SUHAIL] Madinah shining as a radiant city-state of light and justice amidst the surrounding desert wilderness, beacon of 
+

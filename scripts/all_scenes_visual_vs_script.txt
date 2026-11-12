@@ -1,0 +1,456 @@
+Scene   1:
+  Visual : Thomas Edison leaning close toward brass phonograph horn on workbench
+  Script : Pada tahun 1877, Thomas Edison membisikkan bait puisi
+
+Scene   2:
+  Visual : Edison hand-turning brass crank handle of phonograph machine
+  Script : anak-anak ke sebuah mesin perunggu yang berputar. Saat
+
+Scene   3:
+  Visual : Needle stylus touching rotating brass cylinder drum
+  Script : jarum mesin memutar ulang suaranya, ia tersentak kaget.
+
+Scene   4:
+  Visual : Edison jumping back with wide dot eyes and raised eyebrows in surprise
+  Script : Suara dari corong itu sama sekali tidak terdengar
+
+Scene   5:
+  Visual : Wavy sound arcs emerging from phonograph horn toward Edison
+  Script : seperti dirinya. Ia merasa seperti mendengar orang asing
+
+Scene   6:
+  Visual : Edison staring at a stranger stickman shadow silhouette on parchment wall
+  Script : yang menirukan perkataannya. Mengapa hampir semua manusia di
+
+Scene   7:
+  Visual : Edison pointing stick arm suspiciously at wall shadow silhouette
+  Script : bumi merasa asing dan terganggu saat mendengar rekaman
+
+Scene   8:
+  Visual : Narrator stickman standing center with open stick arms gesturing to world globe icon
+  Script : suaranya sendiri? Setiap kali kamu berbicara, suaramu menempuh
+
+Scene   9:
+  Visual : Narrator wearing studio headphones with cringing eyebrow expression
+  Script : dua jalur yang berbeda untuk sampai ke telingamu.
+
+Scene  10:
+  Visual : Narrator speaking as sound waves branch into two separate arrow paths
+  Script : Jalur pertama adalah konduksi udara. Gelombang suara keluar
+
+Scene  11:
+  Visual : Head profile cross-section showing Path 1 (Air Conduction) leaving mouth
+  Script : dari mulutmu, merambat di udara, menggetarkan gendang telinga,
+
+Scene  12:
+  Visual : Royal blue air soundwaves traveling through open space toward eardrum
+  Script : lalu diteruskan ke organ pendengaran. Orang lain mendengar
+
+Scene  13:
+  Visual : Blue soundwave vibrating thin eardrum line in cross-section
+  Script : suaramu murni melalui jalur udara ini. Namun, kamu
+
+Scene  14:
+  Visual : External listener stickman receiving blue air soundwaves at ear canal
+  Script : mendengar suaramu sendiri melalui jalur kedua, yaitu konduksi
+
+Scene  15:
+  Visual : Head profile cross-section highlighting Path 2 (Bone Conduction) inside skull bone layer
+  Script : tulang. Saat pita suaramu bergetar, getaran itu merambat
+
+Scene  16:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 1 filtering low frequencies
+  Script : langsung melalui tulang tengkorakmu. Tulang tengkorak manusia bertindak
+
+Scene  17:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 2 filtering low frequencies
+  Script : seperti penyaring nada rendah. Tulang ini memperkuat getaran
+
+Scene  18:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 3 filtering low frequencies
+  Script : frekuensi rendah di bawah 1.000 Hz. Hasilnya, suara
+
+Scene  19:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 4 filtering low frequencies
+  Script : yang kamu dengar di dalam kepalamu sendiri terasa
+
+Scene  20:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 5 filtering low frequencies
+  Script : lebih berat, hangat, dan berwibawa. Kamu sudah terbiasa
+
+Scene  21:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 6 filtering low frequencies
+  Script : mendengar versi yang kaya nada bass ini sepanjang
+
+Scene  22:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 7 filtering low frequencies
+  Script : hidupmu. Tapi saat suara direkam, mikrofon hanya menangkap
+
+Scene  23:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 8 filtering low frequencies
+  Script : gelombang udara. Komponen getaran tulang hilang sepenuhnya. Suaramu
+
+Scene  24:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 9 filtering low frequencies
+  Script : tiba-tiba terdengar lebih tipis dan lebih tinggi. Tapi
+
+Scene  25:
+  Visual : Anatomical skull diagram showing internal bone conduction wave 10 filtering low frequencies
+  Script : ini belum yang terburuk. Apakah ketidaknyamanan ini cuma
+
+Scene  26:
+  Visual : Psychological testing scene 1 with reel recorder and test subject experiencing voice confrontation
+  Script : karena masalah frekuensi fisik? Pada tahun 1966, dua
+
+Scene  27:
+  Visual : Psychological testing scene 2 with reel recorder and test subject experiencing voice confrontation
+  Script : psikolog bernama Philip Holzman dan Clyde Rousey menggelar
+
+Scene  28:
+  Visual : Psychological testing scene 3 with reel recorder and test subject experiencing voice confrontation
+  Script : penelitian di Menninger Foundation. Mereka curiga ada alasan
+
+Scene  29:
+  Visual : Psychological testing scene 4 with reel recorder and test subject experiencing voice confrontation
+  Script : psikologis yang lebih dalam. Holzman dan Rousey menamai
+
+Scene  30:
+  Visual : Psychological testing scene 5 with reel recorder and test subject experiencing voice confrontation
+  Script : fenomena ini sebagai konfrontasi suara atau voice confrontation.
+
+Scene  31:
+  Visual : Psychological testing scene 6 with reel recorder and test subject experiencing voice confrontation
+  Script : Dalam uji coba mereka, hanya 38 persen orang
+
+Scene  32:
+  Visual : Psychological testing scene 7 with reel recorder and test subject experiencing voice confrontation
+  Script : yang mampu mengenali suara rekaman mereka sendiri dalam
+
+Scene  33:
+  Visual : Psychological testing scene 8 with reel recorder and test subject experiencing voice confrontation
+  Script : lima detik pertama. Begitu rekaman diputar, para peserta
+
+Scene  34:
+  Visual : Psychological testing scene 9 with reel recorder and test subject experiencing voice confrontation
+  Script : berteriak menolak dan meminta mesin dimatikan. Holzman dan
+
+Scene  35:
+  Visual : Psychological testing scene 10 with reel recorder and test subject experiencing voice confrontation
+  Script : Rousey menemukan fakta yang sangat mengejutkan. Rasa cemas
+
+Scene  36:
+  Visual : Psychological testing scene 11 with reel recorder and test subject experiencing voice confrontation
+  Script : itu muncul bukan hanya karena nada suaramu berubah.
+
+Scene  37:
+  Visual : Psychological testing scene 12 with reel recorder and test subject experiencing voice confrontation
+  Script : Rekaman suara ternyata bertindak seperti cermin emosi yang
+
+Scene  38:
+  Visual : Bilingual subject testing scene 1 comparing L1 native vs L2 second language voice playback
+  Script : telanjang. Saat kamu berbicara, perhatian sadarmu fokus pada
+
+Scene  39:
+  Visual : Bilingual subject testing scene 2 comparing L1 native vs L2 second language voice playback
+  Script : isi pesan. Kamu tidak sadar pada isyarat di
+
+Scene  40:
+  Visual : Bilingual subject testing scene 3 comparing L1 native vs L2 second language voice playback
+  Script : luar bahasa. Isyarat ini mencakup getaran nada yang
+
+Scene  41:
+  Visual : Bilingual subject testing scene 4 comparing L1 native vs L2 second language voice playback
+  Script : membocorkan rasa cemas, keraguan, kesedihan, atau ketegangan emosi.
+
+Scene  42:
+  Visual : Bilingual subject testing scene 5 comparing L1 native vs L2 second language voice playback
+  Script : Rekaman suara memutar ulang emosi tersembunyi yang sebenarnya
+
+Scene  43:
+  Visual : Bilingual subject testing scene 6 comparing L1 native vs L2 second language voice playback
+  Script : tidak ingin kamu tunjukkan kepada dunia. Dan di
+
+Scene  44:
+  Visual : Bilingual subject testing scene 7 comparing L1 native vs L2 second language voice playback
+  Script : sinilah ceritanya berubah. Pada tahun 1967, Holzman, Andrew
+
+Scene  45:
+  Visual : Bilingual subject testing scene 8 comparing L1 native vs L2 second language voice playback
+  Script : Berger, dan Rousey menguji kelompok orang bilinguis yang
+
+Scene  46:
+  Visual : Bilingual subject testing scene 9 comparing L1 native vs L2 second language voice playback
+  Script : menguasai dua bahasa. Mereka menguji peserta yang mempelajari
+
+Scene  47:
+  Visual : Bilingual subject testing scene 10 comparing L1 native vs L2 second language voice playback
+  Script : bahasa kedua setelah usia 16 tahun. Para peneliti
+
+Scene  48:
+  Visual : Bilingual subject testing scene 11 comparing L1 native vs L2 second language voice playback
+  Script : membandingkan reaksi saat peserta mendengar rekaman suara mereka
+
+Scene  49:
+  Visual : Bilingual subject testing scene 12 comparing L1 native vs L2 second language voice playback
+  Script : dalam bahasa ibu dan bahasa kedua. Hasilnya sungguh
+
+Scene  50:
+  Visual : Bilingual subject testing scene 13 comparing L1 native vs L2 second language voice playback
+  Script : tak terduga. Para peserta merasa jauh lebih terganggu
+
+Scene  51:
+  Visual : Brain motor cortex diagram scene 1 sending efference copy signal to auditory cortex
+  Script : saat mendengar suara mereka dalam bahasa ibu dibandingkan
+
+Scene  52:
+  Visual : Brain motor cortex diagram scene 2 sending efference copy signal to auditory cortex
+  Script : dalam bahasa kedua. Padahal tulang tengkorak dan pita
+
+Scene  53:
+  Visual : Brain motor cortex diagram scene 3 sending efference copy signal to auditory cortex
+  Script : suara yang digunakan sama persis. Ini membuktikan bahwa
+
+Scene  54:
+  Visual : Brain motor cortex diagram scene 4 sending efference copy signal to auditory cortex
+  Script : rasa benci pada suara sendiri bukan sekadar masalah
+
+Scene  55:
+  Visual : Brain motor cortex diagram scene 5 sending efference copy signal to auditory cortex
+  Script : akustik, melainkan kejutan psikologis karena bahasa ibu terkait
+
+Scene  56:
+  Visual : Brain motor cortex diagram scene 6 sending efference copy signal to auditory cortex
+  Script : erat dengan ego dan identitas dirimu. Mari kita
+
+Scene  57:
+  Visual : Brain motor cortex diagram scene 7 sending efference copy signal to auditory cortex
+  Script : atur ulang pemahaman kita. Otakmu telah membangun gambaran
+
+Scene  58:
+  Visual : Brain motor cortex diagram scene 8 sending efference copy signal to auditory cortex
+  Script : diri akustik selama puluhan tahun. Saat rekaman diputar,
+
+Scene  59:
+  Visual : Brain motor cortex diagram scene 9 sending efference copy signal to auditory cortex
+  Script : gambaran diri itu runtuh karena suaramu tidak sesuai
+
+Scene  60:
+  Visual : Brain motor cortex diagram scene 10 sending efference copy signal to auditory cortex
+  Script : dengan ekspektasi internalmu. Lalu bagaimana otakmu memproses suara
+
+Scene  61:
+  Visual : Brain motor cortex diagram scene 11 sending efference copy signal to auditory cortex
+  Script : saat kamu berbicara? Bayangkan saat kamu mencoba menggelitik
+
+Scene  62:
+  Visual : Brain motor cortex diagram scene 12 sending efference copy signal to auditory cortex
+  Script : dirimu sendiri. Kamu tidak akan merasa geli karena
+
+Scene  63:
+  Visual : Brain motor cortex diagram scene 13 sending efference copy signal to auditory cortex
+  Script : otakmu sudah tahu arah gerakan jarimu. Hal yang
+
+Scene  64:
+  Visual : Brain motor cortex diagram scene 14 sending efference copy signal to auditory cortex
+  Script : sama terjadi pada pendengaranmu. Ketika korteks motorik di
+
+Scene  65:
+  Visual : Brain motor cortex diagram scene 15 sending efference copy signal to auditory cortex
+  Script : otak merencanakan perintah untuk berbicara, otak mengirim sinyal
+
+Scene  66:
+  Visual : Brain motor cortex diagram scene 16 sending efference copy signal to auditory cortex
+  Script : ganda. Sinyal pertama dikirim ke pita suara untuk
+
+Scene  67:
+  Visual : Brain motor cortex diagram scene 17 sending efference copy signal to auditory cortex
+  Script : bergerak. Sinyal kedua dikirim ke area pendengaran sebagai
+
+Scene  68:
+  Visual : Brain motor cortex diagram scene 18 sending efference copy signal to auditory cortex
+  Script : salinan perintah atau salinan eferen. Salinan ini memicu
+
+Scene  69:
+  Visual : Brain motor cortex diagram scene 19 sending efference copy signal to auditory cortex
+  Script : ramalan internal bernama pelepasan korolari. Ramalan ini memperkirakan
+
+Scene  70:
+  Visual : Brain motor cortex diagram scene 20 sending efference copy signal to auditory cortex
+  Script : suara yang akan keluar. Saat suara aktualmu terdengar,
+
+Scene  71:
+  Visual : EEG brainwave graph diagram scene 1 showing N100 signal suppression during active speech
+  Script : otakmu secara otomatis meredam sensitivitas pendengaran. Dalam pengukuran
+
+Scene  72:
+  Visual : EEG brainwave graph diagram scene 2 showing N100 signal suppression during active speech
+  Script : gelombang otak, proses ini terlihat sebagai redaman sinyal
+
+Scene  73:
+  Visual : EEG brainwave graph diagram scene 3 showing N100 signal suppression during active speech
+  Script : gelombang N100 yang memuncak pada 80 hingga 120
+
+Scene  74:
+  Visual : EEG brainwave graph diagram scene 4 showing N100 signal suppression during active speech
+  Script : milidetik. Otakmu sengaja menurunkan volume pendengaran internal agar
+
+Scene  75:
+  Visual : EEG brainwave graph diagram scene 5 showing N100 signal suppression during active speech
+  Script : kamu tidak mengalami kelelahan saraf saat berbicara. Gampangnya,
+
+Scene  76:
+  Visual : EEG brainwave graph diagram scene 6 showing N100 signal suppression during active speech
+  Script : otakmu memakai fitur peredam bising otomatis setiap kali
+
+Scene  77:
+  Visual : EEG brainwave graph diagram scene 7 showing N100 signal suppression during active speech
+  Script : kamu membuka mulut. Namun, mekanismenya berubah total saat
+
+Scene  78:
+  Visual : EEG brainwave graph diagram scene 8 showing N100 signal suppression during active speech
+  Script : kamu mendengarkan rekaman. Saat memutar ulang audio, area
+
+Scene  79:
+  Visual : EEG brainwave graph diagram scene 9 showing N100 signal suppression during active speech
+  Script : motorik otakmu tidak bekerja. Tidak ada perintah bicara,
+
+Scene  80:
+  Visual : EEG brainwave graph diagram scene 10 showing N100 signal suppression during active speech
+  Script : tidak ada salinan eferen, dan sinyal peredam bising
+
+Scene  81:
+  Visual : EEG brainwave graph diagram scene 11 showing N100 signal suppression during active speech
+  Script : N100 mati sepenuhnya. Otakmu menganalisis suara rekaman itu
+
+Scene  82:
+  Visual : EEG brainwave graph diagram scene 12 showing N100 signal suppression during active speech
+  Script : tanpa perlindungan internal. Otak memproses suaramu dengan ketajaman
+
+Scene  83:
+  Visual : EEG brainwave graph diagram scene 13 showing N100 signal suppression during active speech
+  Script : penuh, sama seperti saat menilai suara orang asing
+
+Scene  84:
+  Visual : EEG brainwave graph diagram scene 14 showing N100 signal suppression during active speech
+  Script : yang belum pernah kamu kenal. Tetapi orang mengira
+
+Scene  85:
+  Visual : EEG brainwave graph diagram scene 15 showing N100 signal suppression during active speech
+  Script : kita membenci suara asli kita secara alami. Ternyata
+
+Scene  86:
+  Visual : EEG brainwave graph diagram scene 16 showing N100 signal suppression during active speech
+  Script : anggapan itu salah besar. Pada tahun 2013, dua
+
+Scene  87:
+  Visual : EEG brainwave graph diagram scene 17 showing N100 signal suppression during active speech
+  Script : peneliti bernama Susan Hughes dan Marissa Harrison menggelar
+
+Scene  88:
+  Visual : EEG brainwave graph diagram scene 18 showing N100 signal suppression during active speech
+  Script : eksperimen unik di Albright College. Mereka meminta 80
+
+Scene  89:
+  Visual : EEG brainwave graph diagram scene 19 showing N100 signal suppression during active speech
+  Script : peserta menilai tingkat daya tarik dari berbagai rekaman
+
+Scene  90:
+  Visual : EEG brainwave graph diagram scene 20 showing N100 signal suppression during active speech
+  Script : suara berhitung satu sampai sepuluh. Tanpa diberitahu, peneliti
+
+Scene  91:
+  Visual : Unrecognized self-voice rating experiment scene 1 showing implicit self-enhancement bias
+  Script : menyelipkan rekaman suara peserta itu sendiri ke dalam
+
+Scene  92:
+  Visual : Unrecognized self-voice rating experiment scene 2 showing implicit self-enhancement bias
+  Script : daftar. Hasilnya sangat mengejutkan. Ketika peserta tidak sadar
+
+Scene  93:
+  Visual : Unrecognized self-voice rating experiment scene 3 showing implicit self-enhancement bias
+  Script : bahwa itu adalah suara mereka sendiri, mereka justru
+
+Scene  94:
+  Visual : Unrecognized self-voice rating experiment scene 4 showing implicit self-enhancement bias
+  Script : menilai suara mereka jauh lebih menarik dibandingkan penilaian
+
+Scene  95:
+  Visual : Unrecognized self-voice rating experiment scene 5 showing implicit self-enhancement bias
+  Script : orang lain. Otakmu secara tidak sadar sangat menyukai
+
+Scene  96:
+  Visual : Unrecognized self-voice rating experiment scene 6 showing implicit self-enhancement bias
+  Script : karakter suaramu sendiri melalui bias ego implisit. Di
+
+Scene  97:
+  Visual : Unrecognized self-voice rating experiment scene 7 showing implicit self-enhancement bias
+  Script : sinilah titik baliknya. Rasa tidak nyaman dan benci
+
+Scene  98:
+  Visual : Unrecognized self-voice rating experiment scene 8 showing implicit self-enhancement bias
+  Script : itu baru muncul saat kesadaran eksplisitmu menyadari identitas
+
+Scene  99:
+  Visual : Unrecognized self-voice rating experiment scene 9 showing implicit self-enhancement bias
+  Script : suaramu. Penelitian terbaru oleh Victor Rosi dan timnya
+
+Scene 100:
+  Visual : Unrecognized self-voice rating experiment scene 10 showing implicit self-enhancement bias
+  Script : pada tahun 2026 mengonfirmasi hal ini. Ketika orang
+
+Scene 101:
+  Visual : Unrecognized self-voice rating experiment scene 11 showing implicit self-enhancement bias
+  Script : secara spontan mengenali suaranya di rekaman, ekspektasi internal
+
+Scene 102:
+  Visual : Unrecognized self-voice rating experiment scene 12 showing implicit self-enhancement bias
+  Script : mereka langsung bentrok dengan kenyataan akustik. Kesadaran itulah
+
+Scene 103:
+  Visual : Unrecognized self-voice rating experiment scene 13 showing implicit self-enhancement bias
+  Script : yang memicu rasa terkejut dan canggung. Jadi, suaramu
+
+Scene 104:
+  Visual : Unrecognized self-voice rating experiment scene 14 showing implicit self-enhancement bias
+  Script : di rekaman sebenarnya tidak pernah buruk. Orang lain
+
+Scene 105:
+  Visual : Unrecognized self-voice rating experiment scene 15 showing implicit self-enhancement bias
+  Script : mendengarnya sebagai suara yang wajar dan menarik. Yang
+
+Scene 106:
+  Visual : Explicit recognition shock scene 1 revealing true authentic vocal beauty to the world
+  Script : membuatmu terganggu hanyalah kejutan otakmu yang kehilangan filter
+
+Scene 107:
+  Visual : Explicit recognition shock scene 2 revealing true authentic vocal beauty to the world
+  Script : tulang dan peredam bising internal. Sejak Thomas Edison
+
+Scene 108:
+  Visual : Explicit recognition shock scene 3 revealing true authentic vocal beauty to the world
+  Script : memutar ulang rekamannya pada tahun 1877, manusia terus
+
+Scene 109:
+  Visual : Explicit recognition shock scene 4 revealing true authentic vocal beauty to the world
+  Script : terkejut oleh suara mereka sendiri. Namun kini kamu
+
+Scene 110:
+  Visual : Explicit recognition shock scene 5 revealing true authentic vocal beauty to the world
+  Script : sudah tahu rahasianya. Suara dari rekaman adalah suaramu
+
+Scene 111:
+  Visual : Explicit recognition shock scene 6 revealing true authentic vocal beauty to the world
+  Script : yang jujur bagi dunia. Jika kamu terus mendengarkan
+
+Scene 112:
+  Visual : Explicit recognition shock scene 7 revealing true authentic vocal beauty to the world
+  Script : rekaman suaramu, otakmu akan terbiasa dan berhenti terkejut.
+
+Scene 113:
+  Visual : Explicit recognition shock scene 8 revealing true authentic vocal beauty to the world
+  Script : Lagipula, jika secara tidak sadar kamu menyukai suaramu
+
+Scene 114:
+  Visual : Explicit recognition shock scene 9 revealing true authentic vocal beauty to the world
+  Script : sendiri, mengapa kamu harus ragu memperdengarkannya kepada dunia?
+

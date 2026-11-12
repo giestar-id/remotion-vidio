@@ -1,0 +1,914 @@
+[
+  {
+    "scene_num": 1,
+    "voiceover": "Pada tahun 1877, Thomas Edison membisikkan bait puisi",
+    "visual_idea": "Thomas Edison leaning close toward brass phonograph horn on workbench",
+    "focus": "Edison on left third taking 40% frame height, phonograph on right third",
+    "label": "'EDISON' Background: 2 flat bands (sand ground #E5D8D0, pale parchment wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Medium shot. Dominant dark brown (#5D4037) with ochre gold (#D4AC0D) accent. [EDISON LAB] with [EDISON] (leather brown vest #5D4037) and [BRASS PHONOGRAPH]. Visual idea: Thomas Edison leaning close toward brass phonograph horn on workbench. Focus: Edison on left third taking 40% frame height, phonograph on right third. Ground line and flat soft shadow beneath. Highlight: brass horn in ochre gold (#D4AC0D). Label text: 'EDISON' Background: 2 flat bands (sand ground #E5D8D0, pale parchment wall). Historically accurate 1877 Menlo Park lab."
+  },
+  {
+    "scene_num": 2,
+    "voiceover": "anak-anak ke sebuah mesin perunggu yang berputar. Saat",
+    "visual_idea": "Edison hand-turning brass crank handle of phonograph machine",
+    "focus": "Edison on left third at 35% frame height turning crank",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Wide shot. Dominant dark brown (#5D4037) with ochre gold (#D4AC0D) accent. [EDISON LAB] with [EDISON]. Visual idea: Edison hand-turning brass crank handle of phonograph machine. Focus: Edison on left third at 35% frame height turning crank. Ground line and flat soft shadow under feet. Highlight: cylinder drum in brass yellow (#D4AC0D). No text in this image. Background: 3 flat bands (sand ground, workbench, parchment wall). Historically accurate 1877 lab tools."
+  },
+  {
+    "scene_num": 3,
+    "voiceover": "jarum mesin memutar ulang suaranya, ia tersentak kaget.",
+    "visual_idea": "Needle stylus touching rotating brass cylinder drum",
+    "focus": "Needle tip taking 45% frame height in center third",
+    "label": "'NEEDLE' Background: 2 flat bands (workbench top, parchment wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Close-up shot of prop. Dominant dark brown (#5D4037) with ochre gold (#D4AC0D) accent. [EDISON LAB] with [BRASS PHONOGRAPH]. Visual idea: Needle stylus touching rotating brass cylinder drum. Focus: Needle tip taking 45% frame height in center third. Ground line under base. Highlight: needle tip in brass yellow (#D4AC0D). Label text: 'NEEDLE' Background: 2 flat bands (workbench top, parchment wall). Historically accurate 1877 phonograph components."
+  },
+  {
+    "scene_num": 4,
+    "voiceover": "Suara dari corong itu sama sekali tidak terdengar",
+    "visual_idea": "Edison jumping back with wide dot eyes and raised eyebrows in surprise",
+    "focus": "Edison on left third taking 40% frame height",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Medium shot. Dominant crimson red (#C0392B) with ochre gold (#D4AC0D) accent. [EDISON LAB] with [EDISON]. Visual idea: Edison jumping back with wide dot eyes and raised eyebrows in surprise. Focus: Edison on left third taking 40% frame height. Ground line and flat soft shadow. Highlight: exclamation mark in crimson red (#C0392B). No text in this image. Background: 2 flat bands (sand ground, parchment wall). Historically accurate 1877 clothing."
+  },
+  {
+    "scene_num": 5,
+    "voiceover": "seperti dirinya. Ia merasa seperti mendengar orang asing",
+    "visual_idea": "Wavy sound arcs emerging from phonograph horn toward Edison",
+    "focus": "Horn on left third, sound arcs floating right",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Wide shot. Dominant royal blue (#2980B9) with ochre gold (#D4AC0D) accent. [EDISON LAB] with [EDISON] and [BRASS PHONOGRAPH]. Visual idea: Wavy sound arcs emerging from phonograph horn toward Edison. Focus: Horn on left third, sound arcs floating right. Ground line and flat soft shadow. Highlight: sound arcs in royal blue (#2980B9). No text in this image. Background: 2 flat bands (sand ground, parchment wall). Historically accurate 1877 lab setting."
+  },
+  {
+    "scene_num": 6,
+    "voiceover": "yang menirukan perkataannya. Mengapa hampir semua manusia di",
+    "visual_idea": "Edison staring at a stranger stickman shadow silhouette on parchment wall",
+    "focus": "Edison on left third at 35% frame height, shadow silhouette on right third",
+    "label": "'STRANGER' Background: 2 flat bands (sand ground, parchment wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Medium shot. Dominant dark brown (#5D4037) with royal blue (#2980B9) accent. [EDISON LAB] with [EDISON]. Visual idea: Edison staring at a stranger stickman shadow silhouette on parchment wall. Focus: Edison on left third at 35% frame height, shadow silhouette on right third. Ground line and flat soft shadow. Highlight: shadow silhouette in royal blue (#2980B9). Label text: 'STRANGER' Background: 2 flat bands (sand ground, parchment wall). Historically accurate 1877 setting."
+  },
+  {
+    "scene_num": 7,
+    "voiceover": "bumi merasa asing dan terganggu saat mendengar rekaman",
+    "visual_idea": "Edison pointing stick arm suspiciously at wall shadow silhouette",
+    "focus": "Edison on left third taking 40% frame height pointing right",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Wide shot. Dominant dark brown (#5D4037) with crimson red (#C0392B) accent. [EDISON LAB] with [EDISON]. Visual idea: Edison pointing stick arm suspiciously at wall shadow silhouette. Focus: Edison on left third taking 40% frame height pointing right. Ground line and flat soft shadow. Highlight: pointing hand gesture. No text in this image. Background: 2 flat bands (sand ground, parchment wall). Historically accurate 1877 lab."
+  },
+  {
+    "scene_num": 8,
+    "voiceover": "suaranya sendiri? Setiap kali kamu berbicara, suaramu menempuh",
+    "visual_idea": "Narrator stickman standing center with open stick arms gesturing to world globe icon",
+    "focus": "Narrator on center third taking 40% frame height",
+    "label": "'EARTH' Background: 2 flat bands (ochre ground, parchment stage wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Wide shot. Dominant ochre gold (#D4AC0D) with royal blue (#2980B9) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Narrator stickman standing center with open stick arms gesturing to world globe icon. Focus: Narrator on center third taking 40% frame height. Ground line and flat soft shadow. Highlight: globe icon in ochre gold (#D4AC0D). Label text: 'EARTH' Background: 2 flat bands (ochre ground, parchment stage wall). Modern sound stage setting."
+  },
+  {
+    "scene_num": 9,
+    "voiceover": "dua jalur yang berbeda untuk sampai ke telingamu.",
+    "visual_idea": "Narrator wearing studio headphones with cringing eyebrow expression",
+    "focus": "Narrator taking 45% frame height in center third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Medium shot. Dominant crimson red (#C0392B) with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER]. Visual idea: Narrator wearing studio headphones with cringing eyebrow expression. Focus: Narrator taking 45% frame height in center third. Ground line and flat soft shadow. Highlight: headphones in crimson red (#C0392B). No text in this image. Background: 2 flat bands (ochre ground, stage wall). Modern sound stage."
+  },
+  {
+    "scene_num": 10,
+    "voiceover": "Jalur pertama adalah konduksi udara. Gelombang suara keluar",
+    "visual_idea": "Narrator speaking as sound waves branch into two separate arrow paths",
+    "focus": "Narrator on left third, branching paths on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Wide shot. Dominant royal blue (#2980B9) with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER]. Visual idea: Narrator speaking as sound waves branch into two separate arrow paths. Focus: Narrator on left third, branching paths on right third. Ground line and flat soft shadow. Highlight: Path 1 arrow in royal blue (#2980B9). No text in this image. Background: 2 flat bands (ground band, parchment wall). Modern sound stage."
+  },
+  {
+    "scene_num": 11,
+    "voiceover": "dari mulutmu, merambat di udara, menggetarkan gendang telinga,",
+    "visual_idea": "Head profile cross-section showing Path 1 (Air Conduction) leaving mouth",
+    "focus": "Head profile taking 40% frame height on left third",
+    "label": "'AIR PATH' Background: 2 flat bands (ground, parchment wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Medium shot. Dominant royal blue (#2980B9) with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER]. Visual idea: Head profile cross-section showing Path 1 (Air Conduction) leaving mouth. Focus: Head profile taking 40% frame height on left third. Ground line and flat soft shadow. Highlight: air path line in royal blue (#2980B9). Label text: 'AIR PATH' Background: 2 flat bands (ground, parchment wall). Diagram scene."
+  },
+  {
+    "scene_num": 12,
+    "voiceover": "lalu diteruskan ke organ pendengaran. Orang lain mendengar",
+    "visual_idea": "Royal blue air soundwaves traveling through open space toward eardrum",
+    "focus": "Soundwaves taking center third of frame",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Close-up shot of prop. Dominant royal blue (#2980B9) with ochre gold (#D4AC0D) accent. [SOUND STAGE]. Visual idea: Royal blue air soundwaves traveling through open space toward eardrum. Focus: Soundwaves taking center third of frame. Ground line below. Highlight: air soundwave arcs in royal blue (#2980B9). No text in this image. Background: 2 flat bands (ground, parchment wall). Diagram scene."
+  },
+  {
+    "scene_num": 13,
+    "voiceover": "suaramu murni melalui jalur udara ini. Namun, kamu",
+    "visual_idea": "Blue soundwave vibrating thin eardrum line in cross-section",
+    "focus": "Eardrum membrane line taking 45% frame height in center third",
+    "label": "'EAR DRUM' Background: 2 flat bands (ground, parchment wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Close-up shot of prop. Dominant royal blue (#2980B9) with crimson red (#C0392B) accent. [SOUND STAGE]. Visual idea: Blue soundwave vibrating thin eardrum line in cross-section. Focus: Eardrum membrane line taking 45% frame height in center third. Ground line below. Highlight: eardrum membrane line in crimson red (#C0392B). Label text: 'EAR DRUM' Background: 2 flat bands (ground, parchment wall). Diagram scene."
+  },
+  {
+    "scene_num": 14,
+    "voiceover": "mendengar suaramu sendiri melalui jalur kedua, yaitu konduksi",
+    "visual_idea": "External listener stickman receiving blue air soundwaves at ear canal",
+    "focus": "Listener stickman on right third taking 35% frame height",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Wide shot. Dominant royal blue (#2980B9) with green (#1E8449) accent. [SOUND STAGE] with [LISTENER] (royal blue tunic #2980B9). Visual idea: External listener stickman receiving blue air soundwaves at ear canal. Focus: Listener stickman on right third taking 35% frame height. Ground line and flat soft shadow. Highlight: ear canal icon in green (#1E8449). No text in this image. Background: 2 flat bands (ground, parchment wall). Modern setting."
+  },
+  {
+    "scene_num": 15,
+    "voiceover": "tulang. Saat pita suaramu bergetar, getaran itu merambat",
+    "visual_idea": "Head profile cross-section highlighting Path 2 (Bone Conduction) inside skull bone layer",
+    "focus": "Head profile on left third taking 40% frame height",
+    "label": "'BONE PATH' Background: 2 flat bands (ground, parchment wall)",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. Medium shot. Dominant dark brown (#5D4037) with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER]. Visual idea: Head profile cross-section highlighting Path 2 (Bone Conduction) inside skull bone layer. Focus: Head profile on left third taking 40% frame height. Ground line and flat soft shadow. Highlight: skull bone path in ochre gold (#D4AC0D). Label text: 'BONE PATH' Background: 2 flat bands (ground, parchment wall). Diagram scene."
+  },
+  {
+    "scene_num": 16,
+    "voiceover": "langsung melalui tulang tengkorakmu. Tulang tengkorak manusia bertindak",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 1 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'BASS 16' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 1 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'BASS 16' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 17,
+    "voiceover": "seperti penyaring nada rendah. Tulang ini memperkuat getaran",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 2 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant ochre gold (#D4AC0D) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 2 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 18,
+    "voiceover": "frekuensi rendah di bawah 1.000 Hz. Hasilnya, suara",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 3 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 3 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 19,
+    "voiceover": "yang kamu dengar di dalam kepalamu sendiri terasa",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 4 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 4 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 20,
+    "voiceover": "lebih berat, hangat, dan berwibawa. Kamu sudah terbiasa",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 5 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'BASS 20' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 5 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'BASS 20' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 21,
+    "voiceover": "mendengar versi yang kaya nada bass ini sepanjang",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 6 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 6 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 22,
+    "voiceover": "hidupmu. Tapi saat suara direkam, mikrofon hanya menangkap",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 7 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 7 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 23,
+    "voiceover": "gelombang udara. Komponen getaran tulang hilang sepenuhnya. Suaramu",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 8 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant ochre gold (#D4AC0D) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 8 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 24,
+    "voiceover": "tiba-tiba terdengar lebih tipis dan lebih tinggi. Tapi",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 9 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'BASS 24' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 9 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'BASS 24' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 25,
+    "voiceover": "ini belum yang terburuk. Apakah ketidaknyamanan ini cuma",
+    "visual_idea": "Anatomical skull diagram showing internal bone conduction wave 10 filtering low frequencies",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Anatomical skull diagram showing internal bone conduction wave 10 filtering low frequencies. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 26,
+    "voiceover": "karena masalah frekuensi fisik? Pada tahun 1966, dua",
+    "visual_idea": "Psychological testing scene 1 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 1 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 27,
+    "voiceover": "psikolog bernama Philip Holzman dan Clyde Rousey menggelar",
+    "visual_idea": "Psychological testing scene 2 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 2 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 28,
+    "voiceover": "penelitian di Menninger Foundation. Mereka curiga ada alasan",
+    "visual_idea": "Psychological testing scene 3 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'STUDY 28' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 3 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'STUDY 28' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 29,
+    "voiceover": "psikologis yang lebih dalam. Holzman dan Rousey menamai",
+    "visual_idea": "Psychological testing scene 4 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 4 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 30,
+    "voiceover": "fenomena ini sebagai konfrontasi suara atau voice confrontation.",
+    "visual_idea": "Psychological testing scene 5 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant dark brown (#5D4037) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 5 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 31,
+    "voiceover": "Dalam uji coba mereka, hanya 38 persen orang",
+    "visual_idea": "Psychological testing scene 6 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 6 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 32,
+    "voiceover": "yang mampu mengenali suara rekaman mereka sendiri dalam",
+    "visual_idea": "Psychological testing scene 7 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'STUDY 32' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 7 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'STUDY 32' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 33,
+    "voiceover": "lima detik pertama. Begitu rekaman diputar, para peserta",
+    "visual_idea": "Psychological testing scene 8 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 8 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 34,
+    "voiceover": "berteriak menolak dan meminta mesin dimatikan. Holzman dan",
+    "visual_idea": "Psychological testing scene 9 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 9 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 35,
+    "voiceover": "Rousey menemukan fakta yang sangat mengejutkan. Rasa cemas",
+    "visual_idea": "Psychological testing scene 10 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 10 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 36,
+    "voiceover": "itu muncul bukan hanya karena nada suaramu berubah.",
+    "visual_idea": "Psychological testing scene 11 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'STUDY 36' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant dark brown (#5D4037) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 11 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'STUDY 36' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 37,
+    "voiceover": "Rekaman suara ternyata bertindak seperti cermin emosi yang",
+    "visual_idea": "Psychological testing scene 12 with reel recorder and test subject experiencing voice confrontation",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [MENNINGER LAB] with [HOLZMAN] (tweed vest #6E2C00) and [ROUSEY] (forest green vest #1E8449). Visual idea: Psychological testing scene 12 with reel recorder and test subject experiencing voice confrontation. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 38,
+    "voiceover": "telanjang. Saat kamu berbicara, perhatian sadarmu fokus pada",
+    "visual_idea": "Bilingual subject testing scene 1 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 1 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 39,
+    "voiceover": "isi pesan. Kamu tidak sadar pada isyarat di",
+    "visual_idea": "Bilingual subject testing scene 2 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant royal blue (#2980B9) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 2 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 40,
+    "voiceover": "luar bahasa. Isyarat ini mencakup getaran nada yang",
+    "visual_idea": "Bilingual subject testing scene 3 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'L1 VS L2' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 3 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). Label text: 'L1 VS L2' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 41,
+    "voiceover": "membocorkan rasa cemas, keraguan, kesedihan, atau ketegangan emosi.",
+    "visual_idea": "Bilingual subject testing scene 4 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant royal blue (#2980B9) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 4 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 42,
+    "voiceover": "Rekaman suara memutar ulang emosi tersembunyi yang sebenarnya",
+    "visual_idea": "Bilingual subject testing scene 5 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 5 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 43,
+    "voiceover": "tidak ingin kamu tunjukkan kepada dunia. Dan di",
+    "visual_idea": "Bilingual subject testing scene 6 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant royal blue (#2980B9) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 6 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 44,
+    "voiceover": "sinilah ceritanya berubah. Pada tahun 1967, Holzman, Andrew",
+    "visual_idea": "Bilingual subject testing scene 7 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'L1 VS L2' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 7 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). Label text: 'L1 VS L2' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 45,
+    "voiceover": "Berger, dan Rousey menguji kelompok orang bilinguis yang",
+    "visual_idea": "Bilingual subject testing scene 8 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant royal blue (#2980B9) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 8 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 46,
+    "voiceover": "menguasai dua bahasa. Mereka menguji peserta yang mempelajari",
+    "visual_idea": "Bilingual subject testing scene 9 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 9 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 47,
+    "voiceover": "bahasa kedua setelah usia 16 tahun. Para peneliti",
+    "visual_idea": "Bilingual subject testing scene 10 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant royal blue (#2980B9) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 10 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 48,
+    "voiceover": "membandingkan reaksi saat peserta mendengar rekaman suara mereka",
+    "visual_idea": "Bilingual subject testing scene 11 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'L1 VS L2' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 11 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). Label text: 'L1 VS L2' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 49,
+    "voiceover": "dalam bahasa ibu dan bahasa kedua. Hasilnya sungguh",
+    "visual_idea": "Bilingual subject testing scene 12 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant royal blue (#2980B9) hue with crimson red (#C0392B) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 12 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 50,
+    "voiceover": "tak terduga. Para peserta merasa jauh lebih terganggu",
+    "visual_idea": "Bilingual subject testing scene 13 comparing L1 native vs L2 second language voice playback",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant crimson red (#C0392B) hue with royal blue (#2980B9) accent. [MENNINGER LAB] with [BERGER] (maroon cardigan #78281F) and [HOLZMAN]. Visual idea: Bilingual subject testing scene 13 comparing L1 native vs L2 second language voice playback. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 51,
+    "voiceover": "saat mendengar suara mereka dalam bahasa ibu dibandingkan",
+    "visual_idea": "Brain motor cortex diagram scene 1 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 1 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 52,
+    "voiceover": "dalam bahasa kedua. Padahal tulang tengkorak dan pita",
+    "visual_idea": "Brain motor cortex diagram scene 2 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'MOTOR' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 2 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'MOTOR' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 53,
+    "voiceover": "suara yang digunakan sama persis. Ini membuktikan bahwa",
+    "visual_idea": "Brain motor cortex diagram scene 3 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 3 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 54,
+    "voiceover": "rasa benci pada suara sendiri bukan sekadar masalah",
+    "visual_idea": "Brain motor cortex diagram scene 4 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 4 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 55,
+    "voiceover": "akustik, melainkan kejutan psikologis karena bahasa ibu terkait",
+    "visual_idea": "Brain motor cortex diagram scene 5 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 5 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 56,
+    "voiceover": "erat dengan ego dan identitas dirimu. Mari kita",
+    "visual_idea": "Brain motor cortex diagram scene 6 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'MOTOR' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 6 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'MOTOR' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 57,
+    "voiceover": "atur ulang pemahaman kita. Otakmu telah membangun gambaran",
+    "visual_idea": "Brain motor cortex diagram scene 7 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 7 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 58,
+    "voiceover": "diri akustik selama puluhan tahun. Saat rekaman diputar,",
+    "visual_idea": "Brain motor cortex diagram scene 8 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 8 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 59,
+    "voiceover": "gambaran diri itu runtuh karena suaramu tidak sesuai",
+    "visual_idea": "Brain motor cortex diagram scene 9 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 9 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 60,
+    "voiceover": "dengan ekspektasi internalmu. Lalu bagaimana otakmu memproses suara",
+    "visual_idea": "Brain motor cortex diagram scene 10 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'MOTOR' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 10 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'MOTOR' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 61,
+    "voiceover": "saat kamu berbicara? Bayangkan saat kamu mencoba menggelitik",
+    "visual_idea": "Brain motor cortex diagram scene 11 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 11 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 62,
+    "voiceover": "dirimu sendiri. Kamu tidak akan merasa geli karena",
+    "visual_idea": "Brain motor cortex diagram scene 12 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 12 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 63,
+    "voiceover": "otakmu sudah tahu arah gerakan jarimu. Hal yang",
+    "visual_idea": "Brain motor cortex diagram scene 13 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 13 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 64,
+    "voiceover": "sama terjadi pada pendengaranmu. Ketika korteks motorik di",
+    "visual_idea": "Brain motor cortex diagram scene 14 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'MOTOR' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 14 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'MOTOR' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 65,
+    "voiceover": "otak merencanakan perintah untuk berbicara, otak mengirim sinyal",
+    "visual_idea": "Brain motor cortex diagram scene 15 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 15 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 66,
+    "voiceover": "ganda. Sinyal pertama dikirim ke pita suara untuk",
+    "visual_idea": "Brain motor cortex diagram scene 16 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 16 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 67,
+    "voiceover": "bergerak. Sinyal kedua dikirim ke area pendengaran sebagai",
+    "visual_idea": "Brain motor cortex diagram scene 17 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 17 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 68,
+    "voiceover": "salinan perintah atau salinan eferen. Salinan ini memicu",
+    "visual_idea": "Brain motor cortex diagram scene 18 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'MOTOR' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 18 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'MOTOR' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 69,
+    "voiceover": "ramalan internal bernama pelepasan korolari. Ramalan ini memperkirakan",
+    "visual_idea": "Brain motor cortex diagram scene 19 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 19 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 70,
+    "voiceover": "suara yang akan keluar. Saat suara aktualmu terdengar,",
+    "visual_idea": "Brain motor cortex diagram scene 20 sending efference copy signal to auditory cortex",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Brain motor cortex diagram scene 20 sending efference copy signal to auditory cortex. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 71,
+    "voiceover": "otakmu secara otomatis meredam sensitivitas pendengaran. Dalam pengukuran",
+    "visual_idea": "EEG brainwave graph diagram scene 1 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 1 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 72,
+    "voiceover": "gelombang otak, proses ini terlihat sebagai redaman sinyal",
+    "visual_idea": "EEG brainwave graph diagram scene 2 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'N100 WAVE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 2 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'N100 WAVE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 73,
+    "voiceover": "gelombang N100 yang memuncak pada 80 hingga 120",
+    "visual_idea": "EEG brainwave graph diagram scene 3 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant dark brown (#5D4037) hue with crimson red (#C0392B) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 3 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 74,
+    "voiceover": "milidetik. Otakmu sengaja menurunkan volume pendengaran internal agar",
+    "visual_idea": "EEG brainwave graph diagram scene 4 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 4 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 75,
+    "voiceover": "kamu tidak mengalami kelelahan saraf saat berbicara. Gampangnya,",
+    "visual_idea": "EEG brainwave graph diagram scene 5 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 5 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 76,
+    "voiceover": "otakmu memakai fitur peredam bising otomatis setiap kali",
+    "visual_idea": "EEG brainwave graph diagram scene 6 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'N100 WAVE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 6 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'N100 WAVE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 77,
+    "voiceover": "kamu membuka mulut. Namun, mekanismenya berubah total saat",
+    "visual_idea": "EEG brainwave graph diagram scene 7 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 7 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 78,
+    "voiceover": "kamu mendengarkan rekaman. Saat memutar ulang audio, area",
+    "visual_idea": "EEG brainwave graph diagram scene 8 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 8 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 79,
+    "voiceover": "motorik otakmu tidak bekerja. Tidak ada perintah bicara,",
+    "visual_idea": "EEG brainwave graph diagram scene 9 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant dark brown (#5D4037) hue with crimson red (#C0392B) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 9 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 80,
+    "voiceover": "tidak ada salinan eferen, dan sinyal peredam bising",
+    "visual_idea": "EEG brainwave graph diagram scene 10 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'N100 WAVE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 10 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'N100 WAVE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 81,
+    "voiceover": "N100 mati sepenuhnya. Otakmu menganalisis suara rekaman itu",
+    "visual_idea": "EEG brainwave graph diagram scene 11 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 11 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 82,
+    "voiceover": "tanpa perlindungan internal. Otak memproses suaramu dengan ketajaman",
+    "visual_idea": "EEG brainwave graph diagram scene 12 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 12 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 83,
+    "voiceover": "penuh, sama seperti saat menilai suara orang asing",
+    "visual_idea": "EEG brainwave graph diagram scene 13 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 13 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 84,
+    "voiceover": "yang belum pernah kamu kenal. Tetapi orang mengira",
+    "visual_idea": "EEG brainwave graph diagram scene 14 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'N100 WAVE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 14 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). Label text: 'N100 WAVE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 85,
+    "voiceover": "kita membenci suara asli kita secara alami. Ternyata",
+    "visual_idea": "EEG brainwave graph diagram scene 15 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant dark brown (#5D4037) hue with crimson red (#C0392B) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 15 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 86,
+    "voiceover": "anggapan itu salah besar. Pada tahun 2013, dua",
+    "visual_idea": "EEG brainwave graph diagram scene 16 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 16 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 87,
+    "voiceover": "peneliti bernama Susan Hughes dan Marissa Harrison menggelar",
+    "visual_idea": "EEG brainwave graph diagram scene 17 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 17 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 88,
+    "voiceover": "eksperimen unik di Albright College. Mereka meminta 80",
+    "visual_idea": "EEG brainwave graph diagram scene 18 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'N100 WAVE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 18 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'N100 WAVE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 89,
+    "voiceover": "peserta menilai tingkat daya tarik dari berbagai rekaman",
+    "visual_idea": "EEG brainwave graph diagram scene 19 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant dark brown (#5D4037) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 19 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 90,
+    "voiceover": "suara berhitung satu sampai sepuluh. Tanpa diberitahu, peneliti",
+    "visual_idea": "EEG brainwave graph diagram scene 20 showing N100 signal suppression during active speech",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with ochre gold (#D4AC0D) accent. [ACOUSTIC LAB] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: EEG brainwave graph diagram scene 20 showing N100 signal suppression during active speech. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 91,
+    "voiceover": "menyelipkan rekaman suara peserta itu sendiri ke dalam",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 1 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 1 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 92,
+    "voiceover": "daftar. Hasilnya sangat mengejutkan. Ketika peserta tidak sadar",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 2 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'ALBRIGHT' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 2 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 93,
+    "voiceover": "bahwa itu adalah suara mereka sendiri, mereka justru",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 3 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 3 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 94,
+    "voiceover": "menilai suara mereka jauh lebih menarik dibandingkan penilaian",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 4 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 4 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 95,
+    "voiceover": "orang lain. Otakmu secara tidak sadar sangat menyukai",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 5 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 5 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 96,
+    "voiceover": "karakter suaramu sendiri melalui bias ego implisit. Di",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 6 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'ALBRIGHT' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 6 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 97,
+    "voiceover": "sinilah titik baliknya. Rasa tidak nyaman dan benci",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 7 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 7 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 98,
+    "voiceover": "itu baru muncul saat kesadaran eksplisitmu menyadari identitas",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 8 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 8 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 99,
+    "voiceover": "suaramu. Penelitian terbaru oleh Victor Rosi dan timnya",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 9 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 9 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 100,
+    "voiceover": "pada tahun 2026 mengonfirmasi hal ini. Ketika orang",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 10 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'ALBRIGHT' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 10 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 101,
+    "voiceover": "secara spontan mengenali suaranya di rekaman, ekspektasi internal",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 11 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 11 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 102,
+    "voiceover": "mereka langsung bentrok dengan kenyataan akustik. Kesadaran itulah",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 12 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 12 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 103,
+    "voiceover": "yang memicu rasa terkejut dan canggung. Jadi, suaramu",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 13 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 13 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 104,
+    "voiceover": "di rekaman sebenarnya tidak pernah buruk. Orang lain",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 14 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'ALBRIGHT' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with crimson red (#C0392B) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 14 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in crimson red (#C0392B). Label text: 'ALBRIGHT' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 105,
+    "voiceover": "mendengarnya sebagai suara yang wajar dan menarik. Yang",
+    "visual_idea": "Unrecognized self-voice rating experiment scene 15 showing implicit self-enhancement bias",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant royal blue (#2980B9) hue with ochre gold (#D4AC0D) accent. [ALBRIGHT LAB] with [HUGHES] (blue coat #1B4F72) and [HARRISON] (teal sweater #117A65). Visual idea: Unrecognized self-voice rating experiment scene 15 showing implicit self-enhancement bias. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in ochre gold (#D4AC0D). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 106,
+    "voiceover": "membuatmu terganggu hanyalah kejutan otakmu yang kehilangan filter",
+    "visual_idea": "Explicit recognition shock scene 1 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [ACOUSTIC LAB] with [ROSI] (charcoal turtleneck #2874A6). Visual idea: Explicit recognition shock scene 1 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 107,
+    "voiceover": "tulang dan peredam bising internal. Sejak Thomas Edison",
+    "visual_idea": "Explicit recognition shock scene 2 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with royal blue (#2980B9) accent. [ACOUSTIC LAB] with [ROSI] (charcoal turtleneck #2874A6). Visual idea: Explicit recognition shock scene 2 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 108,
+    "voiceover": "memutar ulang rekamannya pada tahun 1877, manusia terus",
+    "visual_idea": "Explicit recognition shock scene 3 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'REAL VOICE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [ACOUSTIC LAB] with [ROSI] (charcoal turtleneck #2874A6). Visual idea: Explicit recognition shock scene 3 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). Label text: 'REAL VOICE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 109,
+    "voiceover": "terkejut oleh suara mereka sendiri. Namun kini kamu",
+    "visual_idea": "Explicit recognition shock scene 4 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant green (#1E8449) hue with royal blue (#2980B9) accent. [ACOUSTIC LAB] with [ROSI] (charcoal turtleneck #2874A6). Visual idea: Explicit recognition shock scene 4 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 110,
+    "voiceover": "sudah tahu rahasianya. Suara dari rekaman adalah suaramu",
+    "visual_idea": "Explicit recognition shock scene 5 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [ACOUSTIC LAB] with [ROSI] (charcoal turtleneck #2874A6). Visual idea: Explicit recognition shock scene 5 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 111,
+    "voiceover": "yang jujur bagi dunia. Jika kamu terus mendengarkan",
+    "visual_idea": "Explicit recognition shock scene 6 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant green (#1E8449) hue with royal blue (#2980B9) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Explicit recognition shock scene 6 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 112,
+    "voiceover": "rekaman suaramu, otakmu akan terbiasa dan berhenti terkejut.",
+    "visual_idea": "Explicit recognition shock scene 7 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "'REAL VOICE' Background: 3 flat bands in paler tints of scene color",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. medium. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Explicit recognition shock scene 7 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). Label text: 'REAL VOICE' Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 113,
+    "voiceover": "Lagipula, jika secara tidak sadar kamu menyukai suaramu",
+    "visual_idea": "Explicit recognition shock scene 8 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. wide. Dominant green (#1E8449) hue with royal blue (#2980B9) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Explicit recognition shock scene 8 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in royal blue (#2980B9). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  },
+  {
+    "scene_num": 114,
+    "voiceover": "sendiri, mengapa kamu harus ragu memperdengarkannya kepada dunia?",
+    "visual_idea": "Explicit recognition shock scene 9 revealing true authentic vocal beauty to the world",
+    "focus": "Main subject taking 40% frame height on left third, supporting props on right third",
+    "label": "",
+    "full_prompt": "simple hand-inked 2D stickman doodle illustration, 16:9; bold black outlines, slightly wobbly like ink pen, heaviest lines in the image; flat solid color fills with no gradients and no shading, slightly offset from the outlines like a riso print; warm cream parchment base with light paper grain and faint stains; round white heads, dot eyes, slim stick limbs, tiny hands and feet; emotion shown by eyebrows, mouth and at most one or two small symbols (sweat drop, exclamation mark); big simple shapes, minimal detail. close-up shot of prop. Dominant ochre gold (#D4AC0D) hue with green (#1E8449) accent. [SOUND STAGE] with [SPEAKER] (ochre yellow tunic #F1C40F). Visual idea: Explicit recognition shock scene 9 revealing true authentic vocal beauty to the world. Focus: Main subject taking 40% frame height on left third, supporting props on right third. Ground line and flat soft shadow under figure. Highlight: key prop in green (#1E8449). No text in this image. Background: 3 flat bands in paler tints of scene color. Historically accurate setting."
+  }
+]
