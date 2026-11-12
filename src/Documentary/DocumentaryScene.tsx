@@ -37,7 +37,8 @@ export const DocumentaryScene: React.FC<{
           width: '100%',
           height: '100%',
           objectFit: 'cover',
-          transform: `translate(${x}%, ${y}%) scale(${s})`,
+          transform: `translate3d(${x}%, ${y}%, 0) scale(${s})`,
+          willChange: 'transform',
         }}
       />
     </AbsoluteFill>

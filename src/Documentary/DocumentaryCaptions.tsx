@@ -145,7 +145,7 @@ const DUST_PARTICLES = Array.from({length: 20}, (_, i) => ({
  */
 export const DocumentaryDecorations: React.FC<{config: DocumentaryHeaderConfig}> = ({config}) => {
   const frame = useCurrentFrame();
-  const {fps} = useVideoConfig();
+  const {fps, width, height} = useVideoConfig();
 
   const headerOpacity = interpolate(frame, [0, fps * 0.7], [0, 1], {
     easing: Easing.out(Easing.cubic),
@@ -155,14 +155,13 @@ export const DocumentaryDecorations: React.FC<{config: DocumentaryHeaderConfig}>
 
   return (
     <AbsoluteFill style={{pointerEvents: 'none'}}>
-      {/* Vignette ringan di tepi frame */}
+      {/* Vignette ringan di tepi frame (tanpa mixBlendMode agar compositing cepat) */}
       <div
         style={{
           position: 'absolute',
           inset: 0,
           background:
-            'radial-gradient(ellipse at center, rgba(0,0,0,0) 56%, rgba(18,14,9,0.44) 100%)',
-          mixBlendMode: 'multiply',
+            'radial-gradient(ellipse at center, rgba(0,0,0,0) 56%, rgba(12,9,6,0.5) 100%)',
         }}
       />
 
@@ -179,22 +178,23 @@ export const DocumentaryDecorations: React.FC<{config: DocumentaryHeaderConfig}>
         }}
       />
 
-      {/* Partikel debu arsip tipis & tenang */}
+      {/* Partikel debu arsip tipis & tenang via compositor transform (tanpa reflow per-frame) */}
       {DUST_PARTICLES.map((p, idx) => {
-        const px = (p.x0 + frame * p.vx + 100) % 100;
-        const py = ((p.y0 + frame * p.vy) % 100 + 100) % 100;
+        const px = ((p.x0 + frame * p.vx + 100) % 100) * 0.01 * width;
+        const py = (((p.y0 + frame * p.vy) % 100 + 100) % 100) * 0.01 * height;
         return (
           <div
             key={idx}
             style={{
               position: 'absolute',
-              left: `${px}%`,
-              top: `${py}%`,
+              left: 0,
+              top: 0,
               width: p.size,
               height: p.size,
               borderRadius: '50%',
               backgroundColor: p.dark ? 'rgba(36, 31, 26, 0.35)' : 'rgba(244, 231, 207, 0.45)',
               opacity: p.baseOpacity,
+              transform: `translate3d(${px.toFixed(1)}px, ${py.toFixed(1)}px, 0)`,
             }}
           />
         );
