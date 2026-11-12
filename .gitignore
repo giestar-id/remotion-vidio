@@ -4,6 +4,8 @@ out/
 # Dependensi Node & Python virtual environment
 node_modules/
 .venv/
+__pycache__/
+*.pyc
 
 # Cache & file internal Remotion / agent
 .remotion/
