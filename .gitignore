@@ -1,4 +1,4 @@
-# Hasil render video lokal (saat ini ~2.19 GB di out/)
+# Hasil render video lokal
 out/
 
 # Dependensi Node & Python virtual environment
@@ -20,9 +20,34 @@ assets/
 *.log
 .DS_Store
 Thumbs.db
+~$*
+*.tmp
 
-# Proyek lain di public/ di-ignore; hanya public/yunani & public/sejarah-2 yang di-track
+# Proyek lain di public/ di-ignore
 public/sejarah-1/
 public/stickman/
 public/stickman2/
 
+# File scratch/analisis sementara di scripts/
+scripts/*.json
+scripts/*.txt
+scripts/*.wav
+scripts/align_*
+scripts/inspect_*
+scripts/check_*
+scripts/test_*
+scripts/export_*
+scripts/match_*
+scripts/search_*
+scripts/parse_*
+scripts/rank_*
+scripts/rename_*
+scripts/assign_*
+scripts/verify_*
+scripts/build_*
+scripts/generate_*
+scripts/polish_*
+scripts/prepare_*
+scripts/detailed_*
+scripts/list_*
+scripts/google_flow_downloader.js

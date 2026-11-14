@@ -1,0 +1,1 @@
+export {ChinaDocu} from './ChinaMainVideo';

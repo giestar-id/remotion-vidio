@@ -6,6 +6,7 @@ import type { Timeline, VideoProps } from './types';
 import { SejarahDocu } from './Sejarah';
 import { YunaniDocu } from './Yunani';
 import { SejarahIslamDocu } from './SejarahIslam';
+import { ChinaDocu } from './China';
 
 export const FPS = 30;
 
@@ -122,6 +123,23 @@ export const Root: React.FC = () => {
         defaultProps={
           {
             proyek: 'sejarah-2',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="SejarahChina"
+        component={ChinaDocu}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 641}
+        defaultProps={
+          {
+            proyek: 'china',
             timeline: null,
             captions: [],
           } satisfies VideoProps
