@@ -18,13 +18,6 @@ const CHAPTER_SLIDE_BEFORE_IDS = new Set([20, 52, 95, 115, 138]);
 // Penanda babak sejarah sepanjang 10 menit dokumenter (lower-third elegan di atas subtitle)
 const ERA_MARKERS: EraMarker[] = [
   {
-    id: 'huanghe',
-    startMs: 2500,
-    endMs: 8000,
-    dateLabel: 'PERADABAN LEMBAH SUNGAI KUNING',
-    titleLabel: 'Lumpur Aluvial & Awal Agrikultur Kuno',
-  },
-  {
     id: 'hangtu',
     startMs: 11000,
     endMs: 16500,
