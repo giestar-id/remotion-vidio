@@ -1,0 +1,1616 @@
+[
+  {
+    "id": 1,
+    "script": "Kekaisaran terbesar di dunia barat tidak dimulai dari istana",
+    "visual": "2D illustrated, wide shot. A barren riverside landscape under pale dawn light, distant golden palace silhouette fading like a mirage. Palette of faded ochres, charcoal blacks, muted olive greens, and sun-bleached whites. Gritty aged parchment and dust texture. No readable text.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 2,
+    "script": "marmer emas, melainkan dari gundukan tanah lumpur",
+    "visual": "2D illustrated, close-up shot. Wet clods of clay and mud at the riverbank, simple wooden posts embedded in the earth. Palette of faded ochres, charcoal blacks, muted olive greens, and sun-bleached whites. Gritty stone and soil texture. No readable text.",
+    "animation": "Subtle pan down"
+  },
+  {
+    "id": 3,
+    "script": "dan pondok jerami di tepi sungai.",
+    "visual": "2D illustrated, medium shot of [SETTING_TIBER_RIVER_HILLS]. Primitive circular huts made of wattle and thatched straw roofs along muddy slopes. Palette of faded ochres, charcoal blacks, muted olive greens, sun-bleached whites, gritty parchment texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 4,
+    "script": "Di atas lumpur itulah sekelompok peternak membangun parit,",
+    "visual": "2D illustrated, wide shot. Stylized early Roman shepherds digging a defensive trench with simple wooden shovels into muddy soil. Palette of faded ochres, charcoal blacks, muted olive greens, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 5,
+    "script": "menancapkan tombak, dan menyusun aturan tertulis pertama mereka.",
+    "visual": "2D illustrated, medium shot. Weathered wooden palisade with spears planted firmly; in foreground hands hold [OBJECT_PARCHMENT_SCROLL] with flowing wavy linear lines instead of real text. Gritty texture, faded ochres, charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 6,
+    "script": "Bangsa lain datang dan pergi membawa pedang yang",
+    "visual": "2D illustrated, wide cinematic silhouette. Diverse ancient warriors marching across a dry hill ridge with sharpened bronze swords gleaming dimly. Gritty aged parchment texture, muted olive greens, charcoal blacks.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 7,
+    "script": "lebih tajam, tapi peradaban ini membangun sesuatu",
+    "visual": "2D illustrated, low angle shot. Close-up on ancient stone chisel and iron hammer carving into a solid travertine foundation block. Dust particles floating, palette of faded ochres, charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 8,
+    "script": "yang jauh lebih keras daripada besi, yaitu sistem hukum",
+    "visual": "2D illustrated, close-up shot. Large weathered stone tablet engraved with neat carved grooves forming flowing wavy linear lines with no readable letters or words. Gritty stone texture, faded ochre and charcoal black shadows.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 9,
+    "script": "dan campuran batu yang sanggup bertahan ribuan tahun.",
+    "visual": "2D illustrated, medium shot of [OBJECT_ROMAN_CONCRETE_BLOCK]. Massive block of volcanic concrete resting securely in shallow seawater with mineral crusts. Palette of muted olive greens, weathered ochres, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 10,
+    "script": "Dari sebuah bukit kecil di Italia, kekuasaan ini",
+    "visual": "2D illustrated, bird's eye view. A solitary rocky hill overlooking winding river bends, small watchfires burning on summits. Gritty dust and parchment texture, faded ochre, charcoal blacks.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 11,
+    "script": "meluas mencaplok tiga benua dan menaungi puluhan",
+    "visual": "2D illustrated, stylized artistic map table. An expansive parchment map across Europe, North Africa, and Asia, boundaries indicated by thick charcoal wash and wavy symbolic strokes with no labels or text. Faded ochre, muted olive green.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 12,
+    "script": "juta manusia.",
+    "visual": "2D illustrated, wide perspective shot. A vast stylized sea of stylized ancient civilian silhouettes standing under monumental Roman porticoes. Sun-bleached whites, charcoal blacks, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 13,
+    "script": "Bagaimana mungkin sebuah perkampungan gembala biasa bisa",
+    "visual": "2D illustrated, eye-level medium shot. A humble Roman shepherd in coarse tunics holding a crook, standing over a muddy sheepfold looking toward the distant horizon. Faded ochre, muted olive green, gritty parchment texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 14,
+    "script": "menaklukkan seluruh daratan Mediterania?",
+    "visual": "2D illustrated, dramatic wide shot. The azure Mediterranean sea rendered in muted olive green and grey-blue wash, bordered by jagged coastlines and silhouetted Roman galleys. Gritty textures, sun-bleached white spray.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 15,
+    "script": "Mengapa kekaisaran yang tampak abadi ini akhirnya pecah,",
+    "visual": "2D illustrated, symbolic composition. A colossal classical stone column cracking diagonally across its fluted shaft under an ominous overcast sky. Gritty stone fractures, charcoal blacks, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 16,
+    "script": "runtuh, lalu lenyap dari peta dunia?",
+    "visual": "2D illustrated, medium shot. Chunks of shattered marble lying submerged in dust and wind-blown dry weeds on an abandoned plain. Palette of faded ochres, charcoal blacks, sun-bleached whites, gritty parchment texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 17,
+    "script": "Dan mengapa cara hidup kita hari ini,",
+    "visual": "2D illustrated, transition medium shot. A silhouetted contemporary urban street corner dissolving into antique classical stonework beneath it. Palette of charcoal blacks, faded ochre, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 18,
+    "script": "mulai dari gedung parlemen, kitab undang-undang,",
+    "visual": "2D illustrated, frontal medium shot. Neoclassical governmental facade with triangular pediment and ionic columns; below it sits an open leather-bound legal tome covered in flowing wavy linear lines without text. Gritty texture, sun-bleached whites, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 19,
+    "script": "sampai kalender di dinding, masih meniru cetak biru",
+    "visual": "2D illustrated, close-up shot. A wall grid calendar with twelve divided stone boxes displaying carved flowing wavy lines instead of dates and words. Faded ochre, stone dust texture.",
+    "animation": "Subtle pan left"
+  },
+  {
+    "id": 20,
+    "script": "yang mereka tinggalkan ribuan tahun lalu?",
+    "visual": "2D illustrated, atmospheric wide shot. Roman arches casting long shadows that align directly with modern building foundations. Gritty aged parchment, muted olive green, faded ochres.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 21,
+    "script": "Ini adalah kisah bagaimana kota Roma menciptakan mesin",
+    "visual": "2D illustrated, bird's eye view. Intricate mechanical wheel interlocking symbolically with classical Roman urban street grids and aqueduct networks. Charcoal blacks, faded ochres, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 22,
+    "script": "peradaban yang mengatur dunia, hancur oleh ambisinya",
+    "visual": "2D illustrated, dramatic medium shot. A haughty Roman imperial bust made of cracked marble staring sternly into a dark storm. Faded ochres, charcoal black clouds, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 23,
+    "script": "sendiri, namun cetak birunya menolak untuk mati.",
+    "visual": "2D illustrated, low angle shot. An unyielding stone arch standing proud amid dry desert dust, warm sunbeam cutting through the center. Sun-bleached whites, muted olive greens, gritty aged parchment.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 24,
+    "script": "Cerita ini bermula pada tahun 753 Sebelum",
+    "visual": "2D illustrated, atmospheric title card visual. A weathered stone stele emerging from river mist, bearing carved flowing wavy linear grooves resembling archaic dates without readable numbers. Gritty texture, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 25,
+    "script": "Masehi. Kata legenda, kota Roma didirikan oleh",
+    "visual": "2D illustrated, wide shot. Wild grassy banks of the Tiber River under an amber sunrise, distant rocky knolls rising from morning fog. Faded ochres, muted olive greens, gritty texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 26,
+    "script": "dua anak kembar bernama Romulus dan Remus yang",
+    "visual": "2D illustrated, low angle medium shot. Two stylized toddler figures wrapped in raw linen crawling on dry earth beside a dark river cavern. Charcoal blacks, sun-bleached whites, gritty dust texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 27,
+    "script": "dibesarkan oleh seekor serigala betina.",
+    "visual": "2D illustrated, medium profile shot. The iconic stylized bronze she-wolf statue silhouette standing protective over the twin infants under a gnarled fig tree. Charcoal black, faded ochre, aged metal texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 28,
+    "script": "Tentu saja, itu cuma cerita rakyat.",
+    "visual": "2D illustrated, close-up shot. An aged storyteller's weathered wrinkled hands gesturing over an ember campfire, sparks flying into twilight. Charcoal blacks, warm faded ochre, gritty parchment texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 29,
+    "script": "Tidak ada yang tahu persis bagaimana hari pertama",
+    "visual": "2D illustrated, wide hazy landscape. Dense morning mist drifting over rolling hills and thick oak groves by the river bend. Charcoal blacks, faded sun-bleached whites, gritty atmospheric texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 30,
+    "script": "kota itu berdiri. Mungkin karena persatuan desa-desa",
+    "visual": "2D illustrated, medium wide shot. Several humble hill-settlements of wooden huts connected by dusty footpaths across rolling valleys. Muted olive greens, faded ochres, gritty dust texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 31,
+    "script": "petani lokal, mungkin karena kebutuhan menjaga perlintasan sungai.",
+    "visual": "2D illustrated, medium shot. Simple wooden ferry barge moored at the narrowest section of a rushing muddy river crossing, watchtowers on either bank. Faded ochres, charcoal blacks, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 32,
+    "script": "Yang kita tahu, Roma tumbuh di bawah kekuasaan",
+    "visual": "2D illustrated, wide shot. A growing town enclosed by dry-stone earthen ramparts, timber thatched roofs multiplying on the hillsides. Sun-bleached whites, faded ochre, gritty parchment texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 33,
+    "script": "tujuh raja secara bergantian.",
+    "visual": "2D illustrated, composition of seven stylized royal silhouettes wearing bronze crowns and woolen mantles standing side by side in profile. Charcoal blacks, faded ochres, weathered fresco texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 34,
+    "script": "Tapi raja terakhir mereka, Tarquin si Sombong, memerintah",
+    "visual": "2D illustrated, medium close-up shot. A tyrannical ruler in ornate dark purple robes and bronze crown, looking down with cruel haughty eyes from a high stone dais. Charcoal blacks, faded ochre, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 35,
+    "script": "dengan kejam dan memicu kemarahan warga.",
+    "visual": "2D illustrated, dynamic wide shot. Angry silhouettes of townspeople holding flaming torches and wooden staves gathering outside the palisade gate. High contrast charcoal blacks, burning ochre tones, gritty dust.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 36,
+    "script": "Pada tahun 509 Sebelum Masehi, bangsa Romawi",
+    "visual": "2D illustrated, wide dramatic shot. Heavy timber city gates swinging wide open; the tyrant king fleeing on a chariot into the dark stormy wilderness. Charcoal blacks, faded ochres, gritty parchment texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 37,
+    "script": "mengusir raja itu dan bersumpah tidak akan pernah",
+    "visual": "2D illustrated, low angle medium shot. Group of Roman citizens raising right fists toward an altar of uncut stone, swearing a sacred pact under open skies. Sun-bleached whites, charcoal blacks, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 38,
+    "script": "lagi tunduk pada satu orang penguasa.",
+    "visual": "2D illustrated, close-up shot. A shattered gold and bronze crown trampled into muddy gravel by coarse leather sandals. Palette of weathered bronze, faded ochre, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 39,
+    "script": "Mereka menyebut sistem baru ini res publica. Artinya,",
+    "visual": "2D illustrated, frontal medium shot. Large carved stone lintel displaying carved stylized flowing wavy linear lines representing the motto, no readable Latin letters. Sun-bleached whites, stone dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 40,
+    "script": "urusan milik bersama atau pemerintahan republik.",
+    "visual": "2D illustrated, wide shot of [SETTING_ROMAN_FORUM_SENATE]. Early unpaved Forum open square, citizens mingling, discussing in civic gathering under bright sunlight. Faded ochre, muted olive green, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 41,
+    "script": "Supaya tidak ada orang yang bisa menjadi diktator,",
+    "visual": "2D illustrated, symbolic diagrammatic composition. Three balanced wooden balance scales hanging from a stone arch over a civic square. Faded ochres, charcoal blacks, gritty parchment texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 42,
+    "script": "mereka merancang mekanisme kekuasaan yang saling mengunci.",
+    "visual": "2D illustrated, close-up diagram. Heavy iron interlocking gears crafted with classical craftsmanship, frozen in dynamic equilibrium. Gritty iron and stone texture, charcoal blacks, muted ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 43,
+    "script": "Sistem ini ibarat sebuah gerobak kayu yang ditarik",
+    "visual": "2D illustrated, metaphoric medium shot. A sturdy rustic wooden cart loaded with stones on a rugged dirt road. Faded ochres, sun-bleached whites, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 44,
+    "script": "oleh tiga orang dari tiga arah berbeda,",
+    "visual": "2D illustrated, wide dynamic composition. Three distinct figures in classical tunics pulling heavy hemp ropes attached to the cart from three equal angles. Charcoal blacks, faded ochre, gritty texture.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 45,
+    "script": "sehingga tidak ada satu pihak pun yang bisa membawa",
+    "visual": "2D illustrated, close-up on taut hemp ropes vibrating under tension against wooden pegs and wheel hubs. Gritty fibrous texture, faded ochres, charcoal shadows.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 46,
+    "script": "lari gerobak itu ke jurang.",
+    "visual": "2D illustrated, wide shot. The wooden cart firmly halted just yards before a steep jagged canyon cliff edge under stormy skies. Charcoal blacks, sun-bleached whites, gritty parchment texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 47,
+    "script": "Di posisi depan ada dua orang pemimpin bernama konsul",
+    "visual": "2D illustrated, medium shot of two [CONSUL_FIGURE]. Two consuls standing side by side on curule ivory chairs, clad in white togas with faded purple borders, holding short ivory batons. Faded ochres, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 48,
+    "script": "yang dipilih setiap satu tahun sekali untuk memimpin tentara.",
+    "visual": "2D illustrated, wide military shot. The two consuls mounted on horses raising bronze gladius swords before ordered lines of early Roman hoplites. Muted olive greens, charcoal blacks, gritty dust.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 49,
+    "script": "Di samping ada Senat, yaitu dewan tetua kaum",
+    "visual": "2D illustrated, wide interior shot of [SETTING_ROMAN_FORUM_SENATE]. Tiered semicircular stone benches filled with elderly [SENATOR_ELDER] figures listening intensely. Sun-bleached whites, charcoal blacks, gritty texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 50,
+    "script": "bangsawan kaya yang mengurus kas negara dan hubungan luar negeri.",
+    "visual": "2D illustrated, medium close-up shot. Hands of [SENATOR_ELDER] inspecting clay tribute jars and unrolling parchment treaties covered in flowing wavy linear lines. Faded ochre, charcoal ink, aged parchment texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 51,
+    "script": "Di sisi lain ada majelis rakyat, tempat warga biasa",
+    "visual": "2D illustrated, wide shot. Bustling open-air assembly of hundreds of common citizens in unbleached wool tunics gathered on the steps of the Forum. Faded ochres, muted olive greens, gritty dust texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 52,
+    "script": "memberikan suara untuk menyetujui perang atau memilih pejabat.",
+    "visual": "2D illustrated, close-up shot. Rough tanned hands dropping wooden voting tokens into a clay wicker voting urn (cista). Gritty ceramic and wood texture, faded ochre, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 53,
+    "script": "Tapi sistem ini awalnya sangat timpang.",
+    "visual": "2D illustrated, conceptual split screen. On the left a luxurious peristyle courtyard with fruit; on the right a crowded mud alley of plebeian hovels. Sun-bleached whites versus dark charcoal blacks, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 54,
+    "script": "Kaum bangsawan kaya menguasai pengadilan,",
+    "visual": "2D illustrated, medium shot. Aristocratic magistrates sitting elevated on ornate stone podiums, turning away from pleading commoners below. Faded ochres, charcoal blacks, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 55,
+    "script": "sementara rakyat jelata dipaksa pergi berperang",
+    "visual": "2D illustrated, wide shot. Common peasant soldiers in simple tunics marching away in rain toward distant hills with iron spears. Muted olive greens, charcoal blacks, gritty atmospheric texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 56,
+    "script": "dan pulang dalam keadaan tanah mereka disita rentenir.",
+    "visual": "2D illustrated, poignant medium shot. A weary soldier returning to find his wooden cottage boarded up and boundary stones stamped with creditor markings. Faded ochres, dusty charcoal shadows.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 57,
+    "script": "Rakyat biasa tidak tinggal diam.",
+    "visual": "2D illustrated, dramatic wide shot. Plebeians gathering in solemn unity, turning their backs on the city walls of Rome. High contrast charcoal blacks, faded ochres, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 58,
+    "script": "Mereka melakukan aksi mogok massal, keluar dari kota,",
+    "visual": "2D illustrated, wide landscape shot. Long unbroken columns of civilian men, women, and children marching out of Rome toward the Sacred Mount (Mons Sacer). Sun-bleached whites, muted olive greens.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 59,
+    "script": "dan menolak bertempur jika hak mereka tidak dipenuhi.",
+    "visual": "2D illustrated, medium shot. Common soldiers laying down their bronze shields and spears in a massive heap on the green hill slopes, folding their arms. Muted olive green, faded ochres, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 60,
+    "script": "Puncaknya terjadi pada tahun 287 Sebelum Masehi",
+    "visual": "2D illustrated, medium shot of [SETTING_ROMAN_FORUM_SENATE]. A crowded assembly hall packed to the rafters with citizens as a bronze tablet is triumphantly hoisted. Faded ochres, charcoal blacks.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 61,
+    "script": "lewat sebuah aturan bernama Lex Hortensia.",
+    "visual": "2D illustrated, close-up shot. A massive bronze legislative plate engraved with dense rows of flowing wavy linear lines without actual text. Weathered bronze patina, sun-bleached white highlights.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 62,
+    "script": "Sejak saat itu, keputusan majelis rakyat jelata sah",
+    "visual": "2D illustrated, wide angle shot. Plebeian tribune standing at the rostra podium holding up the law before cheering thousands in the Forum. Faded ochre, muted olive green, gritty parchment texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 63,
+    "script": "mengikat semua orang, termasuk para bangsawan paling kaya.",
+    "visual": "2D illustrated, medium shot. Proud patricians in togas bowing their heads respectfully beside common farmers in simple tunics before the civic altar. Sun-bleached whites, charcoal blacks, gritty stone.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 64,
+    "script": "Roma pun bersatu dan siap menatap dunia luar.",
+    "visual": "2D illustrated, epic wide shot. The unified city of Rome perched on its seven hills, looking southward across fertile Italian plains toward the glistening sea. Faded ochres, muted olive green sky.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 65,
+    "script": "Lalu datanglah ujian terberat mereka dari seberang lautan.",
+    "visual": "2D illustrated, cinematic wide sea view. Heavy storm clouds gathering over the Mediterranean Sea, silhouetted war galleys with purple sails approaching. Charcoal blacks, muted olive green waters.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 66,
+    "script": "Kartago, penguasa dagang terbesar di Afrika Utara,",
+    "visual": "2D illustrated, majestic wide view. The circular military harbor of Carthage with grand colonnaded dry docks and stone palaces under a blazing desert sun. Faded ochres, sun-bleached whites, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 67,
+    "script": "bentrok dengan Roma dalam tiga babak perang panjang",
+    "visual": "2D illustrated, symbolic composition. Two bronze heraldic helmets—one Roman Montefortino, one Punic crested helmet—clashing amid sparks of dust. Charcoal blacks, weathered bronze ochre.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 68,
+    "script": "yang kita kenal sebagai Perang Funisia.",
+    "visual": "2D illustrated, wide battle panorama. Colliding naval quinqueremes locked together by boarding bridges (corvus) over foaming ocean swells. Muted olive green, sun-bleached white foam, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 69,
+    "script": "Pada tahun 218 Sebelum Masehi, jenderal legendaris",
+    "visual": "2D illustrated, dramatic low angle medium shot of [HANNIBAL_GENERAL]. Hannibal in scale armor and olive mantle looking down over snowy jagged mountain peaks. Faded ochres, charcoal blacks, gritty snow texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 70,
+    "script": "Hannibal melintasi pegunungan Alpen bersalju",
+    "visual": "2D illustrated, epic wide shot. A long serpentine military column trekking along narrow rocky mountain ledges covered in heavy snowdrifts. Sun-bleached whites, charcoal blacks, gritty texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 71,
+    "script": "bersama gajah-gajah perangnya",
+    "visual": "2D illustrated, dramatic medium shot. Massive African war elephants draped in leather blankets trudging through deep Alpine blizzards. Gritty snow texture, charcoal blacks, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 72,
+    "script": "dan menghabisi pasukan Romawi berkali-kali di tanah Italia.",
+    "visual": "2D illustrated, wide battlefield aftermath shot. The blood-soaked plain of Cannae strewn with abandoned shields, broken spears, and fallen helmets under a somber grey sky. Faded ochre, charcoal blacks.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 73,
+    "script": "Siapa pun akan menyerah jika kehilangan ratusan ribu",
+    "visual": "2D illustrated, close-up interior shot of [SETTING_ROMAN_FORUM_SENATE]. Grieving Roman women and grim senators listening to casualty reports written on scrolls with wavy linear lines. Charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 74,
+    "script": "prajurit dalam hitungan tahun.",
+    "visual": "2D illustrated, symbolic shot. Endlessly receding rows of empty crested bronze helmets resting on spears in misty burial fields. Muted olive greens, faded ochres, gritty parchment texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 75,
+    "script": "Tapi bangsa Romawi punya satu sifat keras kepala",
+    "visual": "2D illustrated, medium close-up shot. Stern profile of a Roman magistrate with clenched jaw, refusing to accept an envoy's olive branch. Faded ochres, charcoal blacks, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 76,
+    "script": "yang luar biasa: mereka menolak berunding saat kalah.",
+    "visual": "2D illustrated, wide shot. Carthaginian envoys offering terms on parchment at the Senate doorway, turned away by resolute senators standing in unison. Sun-bleached whites, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 77,
+    "script": "Setiap kali tentara mereka dihancurkan,",
+    "visual": "2D illustrated, wide shot. Burning military camp ruins clearing to reveal new recruitment trenches being dug in fertile central Italy. Faded ochres, muted olive greens, gritty dust.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 78,
+    "script": "mereka memanggil ribuan petani baru untuk kembali berbaris.",
+    "visual": "2D illustrated, wide shot. Young farmboys trading their scythes for pilum spears and lining up in newly formed legionary cohorts. Muted olive greens, faded ochres, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 79,
+    "script": "Pada tahun 146 Sebelum Masehi, Kartago akhirnya rata",
+    "visual": "2D illustrated, wide catastrophic shot. The citadel of Carthage engulfed in towering black smoke and crumbling stone masonry collapsing into embers. Charcoal blacks, glowing ochre embers, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 80,
+    "script": "dengan tanah. Roma resmi menjadi penguasa tunggal laut tengah.",
+    "visual": "2D illustrated, triumphant wide shot. Roman fleet sailing past ruined promontories of North Africa, triumphant soldiers hoisting standards. Sun-bleached whites, muted olive green waters.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 81,
+    "script": "Kemenangan besar ini membawa kekayaan luar biasa,",
+    "visual": "2D illustrated, close-up shot. Cascading piles of silver drachmas, golden chalices, and ornate bronze trophies dumped into the public treasury. Faded ochre, gleaming sun-bleached whites, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 82,
+    "script": "tapi juga membawa racun yang mematikan.",
+    "visual": "2D illustrated, symbolic medium shot. A luxurious golden Roman banquet table with an overturned goblet dripping dark fluid onto cracked marble. Charcoal blacks, faded ochres, gritty stone texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 83,
+    "script": "Tanah-tanah rampasan perang diborong oleh para elit",
+    "visual": "2D illustrated, wide shot. Expansive agricultural estate (latifundium) with stone boundary walls stretching over hills under golden afternoon light. Muted olive greens, faded ochres.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 84,
+    "script": "kaya untuk dijadikan ladang raksasa yang digarap oleh budak.",
+    "visual": "2D illustrated, medium wide shot. Chains of silhouetted enslaved laborers tilling olive groves under the watchful eye of mounted overseers. Charcoal blacks, dusty faded ochres, gritty parchment texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 85,
+    "script": "Petani biasa bangkrut, kehilangan mata pencaharian,",
+    "visual": "2D illustrated, medium shot. A displaced Italian peasant family holding small bundles of clothes, walking away from their abandoned overgrown farm. Muted olive greens, faded ochres, dusty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 86,
+    "script": "dan membanjiri kota Roma sebagai pengangguran lapar.",
+    "visual": "2D illustrated, wide street scene. Packed, narrow cobblestone alleys of Rome's Subura slums crowded with thousands of desperate urban poor sitting on doorsteps. Charcoal blacks, sun-bleached whites.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 87,
+    "script": "Di sinilah ceritanya berubah. Dulu, prajurit Romawi",
+    "visual": "2D illustrated, split composition. On one side a proud republican farmer-soldier beside his plow; on the other an impoverished urban vagrant staring into space. Faded ochre, muted olive green, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 88,
+    "script": "adalah petani yang memiliki tanah dan membiayai pedangnya sendiri.",
+    "visual": "2D illustrated, medium close-up shot. Traditional Roman yeoman polishing his own bronze breastplate and gladius in a sunlit farmhouse courtyard. Sun-bleached whites, faded ochres, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 89,
+    "script": "Sekitar tahun 107 Sebelum Masehi, seorang jenderal",
+    "visual": "2D illustrated, low angle medium shot of [MARIUS_GENERAL]. Gaius Marius in rugged dark iron muscle armor looking down at recruitment tables with calculating eyes. Charcoal blacks, faded ochre, gritty iron texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 90,
+    "script": "bernama Marius mulai merekrut warga miskin",
+    "visual": "2D illustrated, medium shot. Barefoot Roman citizens from the slums lining up at an open-air enlistment booth in the Campus Martius. Charcoal blacks, sun-bleached whites, gritty dust texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 91,
+    "script": "yang tidak punya tanah ke dalam pasukannya.",
+    "visual": "2D illustrated, close-up shot. An armorer issuing standardized factory-made iron chainmail and a gladius to a penniless recruit. Gritty iron texture, charcoal blacks, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 92,
+    "script": "Banyak orang mengira Marius seorang diri mengubah",
+    "visual": "2D illustrated, dramatic symbolic shot. Marius holding up an eagle standard (aquila) before thousands of uniform soldiers under gathering storm clouds. Charcoal blacks, weathered bronze.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 93,
+    "script": "tentara petani menjadi tentara bayaran lewat satu gebrakan cepat.",
+    "visual": "2D illustrated, dynamic graphic visual. A crumbling sundial being struck by an iron spear shaft, stone fragments flying. Gritty stone texture, sun-bleached whites, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 94,
+    "script": "Tapi catatan sejarah modern membuktikan hal yang berbeda:",
+    "visual": "2D illustrated, macro shot. Hands unrolling ancient military rolls covered in flowing wavy linear lines and tally marks without readable text. Aged parchment texture, faded ochres, charcoal ink.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 95,
+    "script": "perubahan itu sebenarnya berjalan lambat selama puluhan",
+    "visual": "2D illustrated, wide landscape timelapse impression. Endless legions marching across seasons—from summer dust to winter sleet—gradually shifting from militia to professional troops. Muted olive green, charcoal blacks.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 96,
+    "script": "tahun akibat kebutuhan perang yang tiada henti.",
+    "visual": "2D illustrated, wide shot. Burning frontiers in Numidia and the Rhine border where Roman encampments grow into permanent fortified stone bastions. Faded ochres, charcoal smoke, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 97,
+    "script": "Akibatnya tetap sama dan sangat berbahaya.",
+    "visual": "2D illustrated, low angle shot of [ROMAN_LEGIONARY]. Roman soldiers standing in tight formation, their eyes fixed solely on their commander's tent rather than the Senate house. Charcoal blacks, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 98,
+    "script": "Prajurit miskin ini tidak lagi punya ladang untuk pulang.",
+    "visual": "2D illustrated, poignant medium shot. A veteran legionary sitting by a military campfire, gazing at a barren handful of dry soil slipping through his fingers. Faded ochres, charcoal blacks, gritty dust texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 99,
+    "script": "Mereka menggantungkan seluruh masa depan pensiun mereka",
+    "visual": "2D illustrated, medium close-up shot. Soldiers surrounding their general's platform, cheering enthusiastically as coin purses are distributed. Sun-bleached whites, faded ochre, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 100,
+    "script": "pada sang jenderal, bukan lagi pada negara.",
+    "visual": "2D illustrated, symbolic shot. Legionary standards (signa) bowing toward an imposing military general while the distant Senate building sits dark and neglected. Charcoal blacks, weathered bronze ochre.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 101,
+    "script": "Ketika seorang jenderal menjanjikan tanah dan rampasan perang,",
+    "visual": "2D illustrated, wide landscape view. An expansive surveyed parcel of provincial farmland divided by boundary pegs, promised to veteran cohorts. Muted olive greens, faded ochres, gritty texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 102,
+    "script": "prajurit akan mematuhi jenderal itu meski diperintahkan",
+    "visual": "2D illustrated, medium low-angle shot. Rows of armored Roman legionaries gripping their shields, marching steadily with grim determination through rain. Charcoal blacks, muted olive greens, gritty iron.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 103,
+    "script": "menyerang kota Roma sendiri. Tentara negara perlahan",
+    "visual": "2D illustrated, dramatic wide shot. Roman soldiers with red shields advancing menacingly up the stone ramparts of the Servian Wall of Rome. High contrast charcoal blacks, faded ochre.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 104,
+    "script": "berubah menjadi tentara pribadi.",
+    "visual": "2D illustrated, symbolic close-up. An eagle standard adorned with personal initials and warlord banners waving over the rooftops of Rome. Weathered bronze, charcoal blacks, gritty aged parchment.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 105,
+    "script": "Dan itu belum yang terburuk. Pada tahun 91",
+    "visual": "2D illustrated, dramatic map view of the Italian peninsula. Firebrands erupting across central and southern Italy, signaling rebellion from Etruria to Samnium. Faded ochres, charcoal blacks, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 106,
+    "script": "Sebelum Masehi, kota-kota sekutu di semenanjung Italia",
+    "visual": "2D illustrated, wide shot. Italian hill-fortresses of Corfinium and Asculum reinforcing stone gates and hoisting rebel silver bull standards. Muted olive green, sun-bleached whites, gritty stone texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 107,
+    "script": "yang selama ratusan tahun ikut berdarah-darah membela Roma",
+    "visual": "2D illustrated, medium shot. Italian allied auxiliary warriors standing shoulder-to-shoulder with Romans in previous wars, now standing separated by a deep ravine. Charcoal blacks, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 108,
+    "script": "akhirnya memberontak. Mereka menuntut hak yang sama:",
+    "visual": "2D illustrated, low angle shot. Italian chieftains swearing allegiance over a sacrifice, demanding Roman citizenship rings. Weathered bronze, sun-bleached whites, gritty parchment texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 109,
+    "script": "kewarganegaraan penuh atau kemerdekaan.",
+    "visual": "2D illustrated, close-up shot. A carved Italian rebel coin showing the Italian bull goring the Roman she-wolf, with flowing wavy lines instead of text. Gritty antique silver texture, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 110,
+    "script": "Perang saudara brutal ini memaksa Roma mengalah",
+    "visual": "2D illustrated, wide battle aftermath shot. Smoldering ruins of Italian farmsteads and besieged town bastions during the Social War. Charcoal blacks, faded ochres, gritty dust texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 111,
+    "script": "dan memberikan status warga negara kepada hampir seluruh sekutu",
+    "visual": "2D illustrated, medium shot of [SETTING_ROMAN_FORUM_SENATE]. Roman magistrates unfurling broad scroll rolls containing wavy linear lines granting civic franchise to Italian towns. Sun-bleached whites, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 112,
+    "script": "di Italia selatan. Warga bertambah banyak, tapi ketegangan",
+    "visual": "2D illustrated, wide shot. Millions of newly enrolled Italian voters arriving at the gates of Rome, met by suspicious gazes from the traditional urban patricians. Faded ochre, muted olive greens.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 113,
+    "script": "politik justru makin membara.",
+    "visual": "2D illustrated, atmospheric street shot. Heated shouting matches and scuffles breaking out on the steps of the Forum between opposing faction gangs. Charcoal blacks, faded ochre, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 114,
+    "script": "Para panglima perang mulai berebut kendali.",
+    "visual": "2D illustrated, dramatic medium shot. Rival Roman generals in ornate cloaks glaring at each other across an open military council table. Sun-bleached whites, charcoal blacks, weathered bronze.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 115,
+    "script": "Sulla memimpin pasukannya merebut Roma, disusul pertarungan",
+    "visual": "2D illustrated, wide street combat shot. General Sulla's helmeted veterans marching through the Porta Collina into the streets of Rome with drawn swords. Charcoal blacks, dusty faded ochres.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 116,
+    "script": "sengit antara jenderal-jenderal ambisius.",
+    "visual": "2D illustrated, symbolic montage. Clashing bronze banners, burning villas, and proscription notice boards displaying flowing wavy lines without text. High contrast charcoal blacks, ochre red.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 117,
+    "script": "Hingga pada tahun 49 Sebelum Masehi,",
+    "visual": "2D illustrated, nocturnal wide shot. A misty, moonlit riverbank of the shallow Rubicon stream in northern Italy under a pale sky. Charcoal blacks, muted olive green waters, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 118,
+    "script": "Julius Caesar membawa legiunnya menyeberangi sungai kecil Rubicon.",
+    "visual": "2D illustrated, low angle medium shot of [JULIUS_CAESAR]. Caesar on his warhorse leading [ROMAN_LEGIONARY] troops splashing through the shallow waters of the river. Faded ochres, charcoal blacks, sun-bleached spray.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 119,
+    "script": "Itu adalah batas wilayah terlarang bagi seorang komandan bersenjata.",
+    "visual": "2D illustrated, close-up shot. A carved boundary boundary stone (cippus) on the riverbank bearing carved flowing wavy linear strokes without letters. Gritty stone texture, mossy muted olive green.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 120,
+    "script": "Langkah itu menyulut perang saudara berikutnya.",
+    "visual": "2D illustrated, wide battlefield panorama. Roman legions fighting Roman legions under scorching Mediterranean suns from Spain to Greece. Charcoal blacks, dusty faded ochres, gritty texture.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 121,
+    "script": "Caesar keluar sebagai pemenang tunggal",
+    "visual": "2D illustrated, medium shot of [JULIUS_CAESAR]. Caesar standing victorious in the Senate chamber, draped in purple robes, surrounded by subdued senators. Sun-bleached whites, rich faded purple, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 122,
+    "script": "dan diangkat menjadi diktator seumur hidup pada tahun",
+    "visual": "2D illustrated, close-up shot. A golden laurel wreath resting on a marble podium beside a scroll filled with flowing wavy lines. Gritty marble and gold texture, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 123,
+    "script": "44 Sebelum Masehi. Para senator yang takut republik",
+    "visual": "2D illustrated, wide interior shot of [SETTING_ROMAN_FORUM_SENATE]. Senators gathered in the shadows of the Curia of Pompey, whispering in dark clusters behind marble colonnades. Charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 124,
+    "script": "akan lenyap menikam Caesar di ruang dewan pada",
+    "visual": "2D illustrated, dramatic shadow silhouette shot. Daggers raised high by cloaked senators in the Senate chamber, striking Caesar's falling silhouette beside the base of a marble statue. Charcoal blacks, deep ochre shadows.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 125,
+    "script": "tanggal 15 Maret. Tapi membunuh sang diktator",
+    "visual": "2D illustrated, close-up shot. Caesar's blood-stained purple toga lying crumpled on the cold marble floor steps among discarded bronze daggers. Charcoal blacks, faded red, gritty marble texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 126,
+    "script": "ternyata tidak menyelamatkan republik. Kematian Caesar justru",
+    "visual": "2D illustrated, wide exterior shot. Chaos erupting in the Forum; a massive funeral pyre burning Caesar's bier as mobs throw furniture into the blaze. Charcoal blacks, bright ochre flames, gritty smoke.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 127,
+    "script": "memicu perang saudara baru yang lebih berdarah.",
+    "visual": "2D illustrated, epic naval battle shot. The naval clash at Actium: burning warships sinking into foaming green waters beneath dense smoke plumes. Muted olive green, charcoal blacks, sun-bleached white waves.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 128,
+    "script": "Kita sekarang tiba di titik balik terbesar sekitar tahun",
+    "visual": "2D illustrated, atmospheric wide shot. Sun rising over the smoke-cleared Roman Forum, revealing new monumental marble porticoes under construction. Faded ochres, sun-bleached whites, gritty dust.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 129,
+    "script": "27 Sebelum Masehi. Republik tua yang berusia lima",
+    "visual": "2D illustrated, symbolic shot. The ancient wooden republican rostra podium weathering under rain, slowly replaced by smooth white marble slabs. Sun-bleached whites, faded ochres, gritty stone.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 130,
+    "script": "ratus tahun resmi berakhir. Seluruh dunia Mediterania",
+    "visual": "2D illustrated, wide map composition. The complete coastline of the Mediterranean Sea united under a uniform ochre tone, framed by laurel branches. Muted olive green, faded ochres, parchment texture.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 131,
+    "script": "kini berada di bawah genggaman satu anak muda:",
+    "visual": "2D illustrated, low angle medium shot of [AUGUSTUS_OCTAVIAN]. Octavian standing majestic in his white-and-gold cuirass, gazing calmly at Rome from the Palatine Hill. Sun-bleached whites, faded ochre, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 132,
+    "script": "Oktavianus, anak angkat Caesar. Oktavianus belajar dari nasib",
+    "visual": "2D illustrated, medium close-up shot of [AUGUSTUS_OCTAVIAN]. Octavian contemplating a marble portrait bust of the deceased Caesar in his private study. Charcoal blacks, sun-bleached whites, gritty marble texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 133,
+    "script": "tragis ayahnya. Dia tidak pernah menyebut dirinya raja",
+    "visual": "2D illustrated, close-up shot. A royal crown pushed aside into shadows while Octavian chooses a simple civic crown of oak leaves (corona civica). Faded ochres, muted olive green, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 134,
+    "script": "atau diktator. Dia memilih gelar sederhana, princeps.",
+    "visual": "2D illustrated, medium shot of [AUGUSTUS_OCTAVIAN]. Augustus walking humbly among ordinary citizens in a plain unbleached wool toga, greeted with deep respect. Sun-bleached whites, faded ochres, gritty dust.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 135,
+    "script": "Artinya, warga negara nomor satu. Senat memberinya nama",
+    "visual": "2D illustrated, wide interior shot of [SETTING_ROMAN_FORUM_SENATE]. Senators standing up to acclaim Augustus, presenting him with a golden honorific shield (clipeus virtutis) inscribed with wavy linear lines. Sun-bleached whites, gold ochre.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 136,
+    "script": "kehormatan Augustus. Sistem ini tampak seperti republik lama,",
+    "visual": "2D illustrated, wide angle view. The Roman Senate meeting smoothly, magistrates holding elections as usual, but imperial guards standing quietly in the peristyle background. Faded ochre, sun-bleached whites.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 137,
+    "script": "namun seluruh kendali militer dan hukum mutlak berada di tangannya.",
+    "visual": "2D illustrated, close-up on Augustus's hand resting firmly over a bundle of consul fasces and an iron legionary sword hilt simultaneously. Weathered iron, sun-bleached whites, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 138,
+    "script": "Augustus paham bahwa kekuasaannya hanya akan bertahan jika",
+    "visual": "2D illustrated, wide shot. Thousands of veteran legionaries camped outside Rome, waiting anxiously for land or silver coins. Charcoal blacks, faded ochres, gritty dust texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 139,
+    "script": "tentara tidak lagi memberontak. Maka, dia menciptakan",
+    "visual": "2D illustrated, low angle shot of [AUGUSTUS_OCTAVIAN]. Augustus reviewing financial scrolls in the Temple of Saturn with treasury clerks. Faded ochres, sun-bleached whites, aged parchment.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 140,
+    "script": "mekanisme baru bernama kas militer atau aerarium militare",
+    "visual": "2D illustrated, medium shot of [OBJECT_AERARIUM_COIN_CHEST]. A massive iron-bound oak chest standing on stone pillars in the temple vault, brimming with silver denarii. Gritty iron, weathered oak, faded ochre.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 141,
+    "script": "pada tahun 6 Masehi. Mekanismenya sederhana: negara memungut",
+    "visual": "2D illustrated, medium shot. Roman tax officials recording inheritance transfers on wax tablets covered in fine wavy lines without real letters. Sun-bleached whites, faded ochres, charcoal blacks.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 142,
+    "script": "pajak warisan lima persen dan pajak penjualan barang lelang",
+    "visual": "2D illustrated, busy auction market scene. An auctioneer selling livestock and goods, an official collecting a portion of bronze coins into a tax coffer. Faded ochres, muted olive greens, gritty dust.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 143,
+    "script": "satu persen, khusus untuk membiayai uang pensiun tunai",
+    "visual": "2D illustrated, close-up shot. An aged veteran legionary receiving a standardized leather pouch of silver coins directly from imperial paymasters. Weathered hands, antique silver patina, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 144,
+    "script": "bagi prajurit yang telah bertugas belasan tahun.",
+    "visual": "2D illustrated, wide peaceful shot. Retired Roman veterans working their own small vineyards and olive orchards peacefully in colonies across the provinces. Muted olive green, faded ochres, sun-bleached whites.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 145,
+    "script": "Dengan begitu, prajurit tidak perlu lagi berharap pada",
+    "visual": "2D illustrated, medium shot. Soldiers turning away from ambitious warlords, looking directly to the official imperial insignia stamped on their pay vouchers. Charcoal blacks, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 146,
+    "script": "belas kasihan jenderal mereka untuk mendapatkan tanah rampasan.",
+    "visual": "2D illustrated, symbolic composition. A sword crossed over a golden coin pouch, balanced evenly upon an imperial stone pedestal. Gritty stone texture, sun-bleached whites, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 147,
+    "script": "Kesetiaan militer berhasil dikunci langsung ke tangan kaisar.",
+    "visual": "2D illustrated, dramatic wide shot. Entire legions saluting Augustus's statue with raised swords on the Rhine frontier under crisp clear skies. Sun-bleached whites, muted olive green, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 148,
+    "script": "Langkah ini melahirkan era kestabilan selama dua abad",
+    "visual": "2D illustrated, sweeping aerial vista. Rolling Roman provinces bathed in warm golden daylight, bustling market towns and safe highways stretching to the horizon. Faded ochres, muted olive greens.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 149,
+    "script": "yang disebut Pax Romana, atau Perdamaian Romawi.",
+    "visual": "2D illustrated, medium shot. A mother and child walking safely along a stone-paved Roman road past peaceful grain fields. Sun-bleached whites, muted olive greens, faded ochres, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 150,
+    "script": "Perdagangan berkembang pesat dari gurun Suriah sampai perbukitan",
+    "visual": "2D illustrated, wide landscape view. Camel caravans traversing stony Syrian desert roads, seamlessly meeting Roman stone bridges and paved causeways. Faded ochres, warm sand tones, gritty texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 151,
+    "script": "basah di Inggris. Mereka menyatukan dunia luas ini",
+    "visual": "2D illustrated, wide shot. Roman stone watchtowers overlooking the rolling green, misty moorlands of northern Britain under rain. Muted olive greens, charcoal blacks, gritty stone texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 152,
+    "script": "bukan hanya dengan senjata, melainkan dengan batu dan semen.",
+    "visual": "2D illustrated, close-up shot. Masons laying precision-cut square basalt paving stones and mortar into a deep roadway foundation. Gritty stone, charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 153,
+    "script": "Mekanisme pembangunan mereka sangat cemerlang. Para insinyur Romawi",
+    "visual": "2D illustrated, medium shot. Roman architects consulting rolled architectural drawings covered in wavy geometric curves and lines without readable writing. Aged parchment, faded ochres, charcoal ink.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 154,
+    "script": "mencampurkan abu gunung berapi dari kawasan Teluk Napoli",
+    "visual": "2D illustrated, wide landscape view. Dark, mineral-rich volcanic ash beds near Mount Vesuvius with steam vents, workers shoveling pozzolana into wooden carts. Charcoal blacks, dusty faded ochres.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 155,
+    "script": "dengan kapur tohor dan pecahan batu. Campuran yang",
+    "visual": "2D illustrated, close-up process shot. Hot mixing: quicklime reacting with water, volcanic ash, and tuff rubble in a wooden mortar trough with rising steam. Gritty lime and stone texture, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 156,
+    "script": "mereka sebut beton hidrolik ini punya sifat ajaib:",
+    "visual": "2D illustrated, medium shot of [OBJECT_ROMAN_CONCRETE_BLOCK]. Cross-section of hardened Roman concrete revealing lime clasts and crystalline mineral veins. Gritty textures, faded ochres, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 157,
+    "script": "alih-alih rusak tergerus air, beton ini justru makin",
+    "visual": "2D illustrated, close-up shot. Seawater washing relentlessly over a Roman harbor breakwater pier, the concrete surface encrusted and solidifying. Muted olive green water, weathered stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 158,
+    "script": "mengeras ketika terendam air laut dan sanggup menutup",
+    "visual": "2D illustrated, macro close-up. Microscopic style 2D illustration showing white mineral crystals growing across a fissure in submerged concrete, sealing the crack. Sun-bleached whites, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 159,
+    "script": "retakannya sendiri. Lewat beton inilah mereka membangun lebih",
+    "visual": "2D illustrated, epic wide shot. A colossal double-tiered aqueduct bridge striding boldly across a deep wooded mountain valley. Sun-bleached whites, muted olive green, gritty stone texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 160,
+    "script": "dari delapan puluh ribu kilometer jalan beraspal batu,",
+    "visual": "2D illustrated, low angle perspective shot. A straight, seamless stone-paved Roman highway vanishing into the distant horizon across rolling hills. Gritty basalt stones, faded ochres, charcoal shadows.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 161,
+    "script": "saluran air akuaduk megah yang menembus bukit,",
+    "visual": "2D illustrated, medium shot. Clear mountain spring water rushing swiftly through the smooth, covered concrete channel atop an aqueduct arcade. Sun-bleached whites, muted olive greens, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 162,
+    "script": "serta kubah beton raksasa kuil Pantheon yang masih",
+    "visual": "2D illustrated, wide interior shot of [SETTING_PANTHEON_DOME]. Looking up at the massive coffered dome of the Pantheon, sunlight pouring through the open oculus. Sun-bleached whites, charcoal shadows, gritty concrete.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 163,
+    "script": "kokoh berdiri hingga detik ini.",
+    "visual": "2D illustrated, grand low angle view of the Pantheon's exterior portico pillars standing unyielding against modern urban skies. Sun-bleached whites, faded ochre, gritty stone texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 164,
+    "script": "Tapi tidak semua orang ikut menikmati kemakmuran ini.",
+    "visual": "2D illustrated, stark contrast shot. Gilded banqueting halls of the elite set against the dark, suffocating stone quarries worked by chained convicts. Charcoal blacks, faded ochres, gritty dust.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 165,
+    "script": "Kemegahan kota Roma ditopang oleh jutaan budak",
+    "visual": "2D illustrated, poignant medium shot. Thousands of enslaved men and women turning heavy stone grain mills and lifting ashlar blocks with wooden cranes. Charcoal blacks, dusty faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 166,
+    "script": "belian dan pemerasan pajak provinsi yang tanpa ampun.",
+    "visual": "2D illustrated, wide shot. Provincial tax collectors in Judea and Gaul confiscating grain sacks and livestock from impoverished farmers outside mud huts. Faded ochre, muted olive green, gritty texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 167,
+    "script": "Pemberontakan di daerah jajahan ditumpas dengan sangat kejam.",
+    "visual": "2D illustrated, grim wide landscape. Rows of execution crosses standing starkly silhouetted against a dark, stormy sky along a conquered frontier road. Charcoal blacks, ominous ochre glow, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 168,
+    "script": "Hukum pun makin berat sebelah: bangsawan kaya hanya",
+    "visual": "2D illustrated, medium interior shot. An elite patrician nonchalantly paying a small leather purse of coins at a court registry desk. Sun-bleached whites, faded ochres, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 169,
+    "script": "membayar denda, sementara rakyat jelata bisa dihukum cambuk",
+    "visual": "2D illustrated, harsh medium shot. A poor plebeian tied to a wooden pillar in a prison courtyard, facing a lictor's rod, shadows stretching long. Charcoal blacks, faded ochre, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 170,
+    "script": "untuk kesalahan yang sama.",
+    "visual": "2D illustrated, symbolic close-up. Scales of justice visibly tilted, with a pile of heavy gold on one side easily outweighing a commoner's clay bowl. Gritty bronze texture, charcoal blacks, sun-bleached whites.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 171,
+    "script": "Pada tahun 212 Masehi, Kaisar Caracalla mengeluarkan",
+    "visual": "2D illustrated, low angle medium shot. Emperor Caracalla in ornate gilded armor standing before a monumental stone inscription tablet, looking cynical. Sun-bleached whites, faded ochres, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 172,
+    "script": "maklumat penting. Semua orang merdeka di seluruh kekaisaran",
+    "visual": "2D illustrated, wide panoramic shot. Millions of varied provincial inhabitants—Gallic, Egyptian, Syrian, Greek—raising hands in astonishment in public squares. Faded ochres, muted olive green, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 173,
+    "script": "resmi dijadikan warga negara Romawi. Tindakan ini tampak",
+    "visual": "2D illustrated, close-up shot. An imperial edict scroll on parchment displaying wavy linear lines and an imperial red wax seal without readable text. Aged parchment, faded ochre, charcoal ink.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 174,
+    "script": "mulia, tapi tujuannya sangat praktis: memperluas tarikan",
+    "visual": "2D illustrated, medium shot. Provincial crowds lined up before newly established imperial taxation booths to pay inheritance and luxury levies. Charcoal blacks, sun-bleached whites, gritty dust.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 175,
+    "script": "pajak dan mengisi kas negara yang mulai kempis.",
+    "visual": "2D illustrated, close-up shot. An iron treasury chest nearly empty, showing scraped wooden bottoms before new coins trickle in. Gritty iron and wood texture, faded ochres, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 176,
+    "script": "Kekaisaran sudah terlalu tambun untuk diatur dari satu",
+    "visual": "2D illustrated, symbolic aerial view. A massive stone map of the empire showing distant frontiers under barbarian incursions while the single throne in Rome sits overwhelmed. Charcoal blacks, faded ochres.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 177,
+    "script": "meja. Antara tahun 235 sampai 284 Masehi,",
+    "visual": "2D illustrated, ominous title visual. A bronze Roman military helmet pierced by a spearhead, lying discarded in muddy river reeds. Charcoal blacks, muted olive greens, gritty texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 178,
+    "script": "Roma dilanda Krisis Abad Ketiga. Terjadi puluhan",
+    "visual": "2D illustrated, dynamic montage. Fast succession of shadowy soldier-emperors being proclaimed by their troops and subsequently assassinated in quick succession. Charcoal blacks, blood-ochre tones.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 179,
+    "script": "kudeta militer kilat, wabah penyakit menyapu kota-kota,",
+    "visual": "2D illustrated, desolate wide shot. Empty, shuttered city streets during a plague epidemic, smoke from fumigation fires rising into a dull grey sky. Charcoal blacks, sun-bleached whites, gritty dust.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 180,
+    "script": "dan uang koin perak mereka terus dicetak dengan",
+    "visual": "2D illustrated, close-up shot. Imperial mint workers hammering out debased coins; molten metal glowing dull bronze rather than pure silver. Gritty metal texture, glowing ochres, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 181,
+    "script": "kadar logam yang makin tipis hingga kehilangan nilainya.",
+    "visual": "2D illustrated, macro shot. A debased silver denarius showing copper core showing through worn silvery plating, bearing a stylized portrait with wavy linear rim strokes. Gritty coin texture, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 182,
+    "script": "Kaisar Diocletian yang naik takhta pada tahun 284",
+    "visual": "2D illustrated, low angle medium shot of [DIOCLETIAN_EMPEROR]. Diocletian in heavy brocaded mantle and pearl diadem, gazing ruthlessly ahead from an elevated stone throne. Charcoal blacks, faded ochres, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 183,
+    "script": "Masehi memutuskan untuk membongkar total sistem lama. Dia",
+    "visual": "2D illustrated, symbolic medium shot. Diocletian's hand sweeping away traditional republican scroll documents and replacing them with rigid bureaucratic seals. Gritty parchment, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 184,
+    "script": "meninggalkan gelar warga biasa dan menuntut disembah layaknya",
+    "visual": "2D illustrated, wide court interior shot. Senators and generals prostrating themselves flat on mosaic floors (proskynesis) before the veiled imperial dais. Sun-bleached whites, charcoal blacks, faded ochres.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 185,
+    "script": "raja mutlak. Karena wilayah kekaisaran mustahil dijaga",
+    "visual": "2D illustrated, strategic map shot. A colossal marble slab carved with the Roman world, being split right down the center by an iron chisel. Charcoal blacks, sun-bleached whites, gritty stone.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 186,
+    "script": "satu orang, dia membagi kepemimpinan menjadi dua bagian:",
+    "visual": "2D illustrated, medium shot of the Tetrarchy sculpture. Four co-rulers in porphyry stone embraced in pairs, gripping sword hilts in unyielding unity. Dark porphyry red-ochre, charcoal blacks, gritty stone texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 187,
+    "script": "wilayah Barat yang berbahasa Latin dan wilayah Timur yang",
+    "visual": "2D illustrated, split screen map. Left side shows Latin-speaking western provinces shaded in muted olive green; right side shows Greek-speaking eastern provinces in faded ochre, separated by the Adriatic Sea. Gritty parchment.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 188,
+    "script": "berbahasa Yunani. Pemisahan ini makin tegas saat Kaisar",
+    "visual": "2D illustrated, low angle shot of Emperor Constantine looking across the waters of the Bosphorus strait toward Asia. Sun-bleached whites, muted olive green waters, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 189,
+    "script": "Konstantinus memindahkan pusat pemerintahan ke kota baru di timur,",
+    "visual": "2D illustrated, wide construction shot of [SETTING_CONSTANTINOPLE_WALLS]. Masons and soldiers building massive fortified ramparts and palaces of New Rome along the shore. Faded ochres, sun-bleached whites, gritty dust.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 190,
+    "script": "Konstantinopel, pada tahun 330 Masehi. Wilayah Timur sangat",
+    "visual": "2D illustrated, majestic wide view. Golden maritime harbor of the Golden Horn filled with bustling merchant dromons and towering domed churches. Sun-bleached whites, rich faded ochres, muted olive green.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 191,
+    "script": "makmur, punya jalur dagang ramai, dan kas negara",
+    "visual": "2D illustrated, close-up shot. Solid gold solidus coins pouring endlessly into velvet-lined treasury vaults in Constantinople. Gleaming sun-bleached whites, warm gold ochres, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 192,
+    "script": "melimpah. Sebaliknya, wilayah Barat miskin, terbebani biaya",
+    "visual": "2D illustrated, bleak wide landscape. Western Roman provincial garrison in Gaul shivering in decaying timber forts under barren winter trees. Charcoal blacks, faded ochres, gritty snow texture.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 193,
+    "script": "tentara, dan terus dihantam gelombang migrasi suku-suku",
+    "visual": "2D illustrated, dramatic wide shot. Massive migrating war-bands—men, carts, cattle, and spear-carrying warriors—crossing the frozen Rhine river on foot. Charcoal blacks, sun-bleached whites, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 194,
+    "script": "Jermanik yang menyeberangi perbatasan. Satu per satu",
+    "visual": "2D illustrated, map animation impression. Western frontier outposts going dark one by one across Britain, Gaul, and Spain, symbolized by crumbling stone frontier stones. Charcoal blacks, faded ochre.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 195,
+    "script": "provinsi barat lepas kendali. Hingga pada tahun 476",
+    "visual": "2D illustrated, somber interior shot of the imperial palace in Ravenna. The lonely young emperor Romulus Augustulus sitting small on an oversized imperial throne. Sun-bleached whites, charcoal blacks.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 196,
+    "script": "Masehi, seorang komandan prajurit bernama Odoaker mencopot",
+    "visual": "2D illustrated, medium shot. Germanic general Odoaker standing tall in armor, calmly taking the purple cloak and diadem from the weeping boy emperor. Charcoal blacks, faded ochres, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 197,
+    "script": "kaisar belia di barat, Romulus Augustulus. Odoaker tidak",
+    "visual": "2D illustrated, close-up shot. The imperial crown and purple robe neatly folded and sealed inside a cedar wooden trunk bound for the East. Gritty wood texture, faded ochres, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 198,
+    "script": "mengangkat kaisar baru di Italia; dia mengirimkan mahkota",
+    "visual": "2D illustrated, wide shot. An envoy ship sailing across the Ionian sea carrying the western imperial regalia back toward Constantinople. Muted olive green waters, sun-bleached whites, charcoal blacks.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 199,
+    "script": "dan jubah kekaisaran kembali ke Konstantinopel. Kerajaan-kerajaan baru",
+    "visual": "2D illustrated, wide map visual of Western Europe. Germanic kingdoms (Franks, Visigoths, Ostrogoths) carving out regional territories across the ruins of western provinces. Faded ochres, muted olive greens.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 200,
+    "script": "bermunculan di atas tanah bekas Romawi Barat. Orang",
+    "visual": "2D illustrated, medium shot. A barbarian king in iron mail sitting on a re-used Roman curule chair, surrounded by warrior retainers. Charcoal blacks, faded ochres, gritty aged parchment texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 201,
+    "script": "sering mengira sejarah Romawi tamat di tahun 476",
+    "visual": "2D illustrated, symbolic shot. A classical stone calendar tablet abruptly breaking at the carved wavy line representing 476, dust billowing. Sun-bleached whites, charcoal blacks, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 202,
+    "script": "itu. Padahal, saudara kembar mereka di timur, yang",
+    "visual": "2D illustrated, wide majestic shot of Constantinople's Hagia Sophia dome gleaming under an amber morning sun above deep blue waters. Sun-bleached whites, rich gold ochre, muted olive green.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 203,
+    "script": "kelak sering kita sebut Kekaisaran Bizantium, masih terus",
+    "visual": "2D illustrated, medium shot of Byzantine cataphract cavalry in lamellar armor riding proudly with purple banners displaying the double-headed eagle silhouette. Charcoal blacks, faded ochre, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 204,
+    "script": "bertahan, berperang, dan mengibarkan panji-panji Romawi selama",
+    "visual": "2D illustrated, low angle shot. Byzantine garrison holding the towering sea walls against Arab and Persian siege fleets over sparkling waters. Charcoal blacks, sun-bleached whites, muted olive green.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 205,
+    "script": "hampir seribu tahun berikutnya. Mereka menyusun ulang undang-undang",
+    "visual": "2D illustrated, medium interior shot of Emperor Justinian surrounded by legal scholars and jurist Tribonian compiling the Corpus Juris Civilis. Sun-bleached whites, faded ochres, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 206,
+    "script": "klasik lewat kitab hukum Kaisar Yustinianus dan menata",
+    "visual": "2D illustrated, close-up shot. Thick codex of legal statutes open, filled with exquisite rows of flowing wavy linear lines without actual text, bound in embossed leather. Aged parchment, charcoal ink.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 207,
+    "script": "tentaranya menjadi wilayah pertahanan petani mandiri. Napas panjang",
+    "visual": "2D illustrated, wide shot of an Anatolian theme district. Farmer-soldiers cultivating hillside wheat fields with swords strapped to their plows, ready for battle. Muted olive green, faded ochres, gritty dust.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 208,
+    "script": "itu baru benar-benar terhenti pada tanggal 29 Mei",
+    "visual": "2D illustrated, dramatic wide shot of [SETTING_CONSTANTINOPLE_WALLS] at dusk. Massive Ottoman siege cannons firing billowing clouds of smoke and fire against the ancient brick bastions. Charcoal blacks, fiery ochre glow.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 209,
+    "script": "1453, ketika meriam pasukan Turki Usmani berhasil menjebol",
+    "visual": "2D illustrated, dynamic close-up. Great granite cannonball smashing through the outer curtain of the Theodosian Wall, stones tumbling in slow motion. Gritty stone fragments, charcoal smoke, sun-bleached whites.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 210,
+    "script": "dinding kokoh Konstantinopel. Kekaisaran politik Romawi akhirnya resmi",
+    "visual": "2D illustrated, wide tragic shot. Soldiers in silhouettes clashing desperately on top of breached battlements as dust and smoke blot out the setting sun. High contrast charcoal blacks, deep faded ochres.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 211,
+    "script": "padam selamanya.",
+    "visual": "2D illustrated, haunting close-up. An extinguished bronze lamp smoking faintly on a cracked marble parapet overlooking the darkened Bosphorus. Charcoal blacks, muted olive green waters, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 212,
+    "script": "Lalu, kalau barat sudah hancur di masa kuno",
+    "visual": "2D illustrated, wide transition shot. Overgrown, crumbling Roman ruins in the West being blanketed by seasonal rain and weeds. Muted olive greens, charcoal blacks, gritty stone texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 213,
+    "script": "dan timur sudah ditaklukkan oleh bangsa Turki,",
+    "visual": "2D illustrated, wide architectural shot. Ottoman minarets rising around the Hagia Sophia against a pale amber sunset sky. Faded ochre, sun-bleached whites, charcoal blacks.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 214,
+    "script": "dari mana sebenarnya asal kota Roma yang kita lihat",
+    "visual": "2D illustrated, wide perspective shot. A bird's eye view looking down over the Tiber River bend where modern paved avenues intertwine with ancient stone foundations. Charcoal blacks, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 215,
+    "script": "hari ini?",
+    "visual": "2D illustrated, eye-level medium shot. A contemporary wrought-iron streetlamp framing the weathered arches of the Roman Forum in the background. Sun-bleached whites, charcoal blacks, gritty dust.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 216,
+    "script": "Jawabannya ada pada pergeseran kekuasaan di semenanjung",
+    "visual": "2D illustrated, stylized historical map of the Italian boot with changing political boundaries shifting across centuries. Muted olive green, faded ochres, aged parchment texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 217,
+    "script": "Italia. Ketika kekaisaran barat runtuh di tahun 476,",
+    "visual": "2D illustrated, bleak wide shot of the abandoned Roman Forum. Cattle grazing on overgrown grass among half-buried classical marble columns. Faded ochres, muted olive greens, gritty stone texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 218,
+    "script": "kota Roma tidak langsung lenyap dari bumi, tapi kota",
+    "visual": "2D illustrated, medium shot. Decaying brick insulae tenements with collapsed timber roofs along empty cobblestone alleys. Charcoal blacks, faded ochres, gritty dust texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 219,
+    "script": "ini hancur, telantar, dan jumlah penduduknya merosot",
+    "visual": "2D illustrated, poignant wide landscape. Massive circular perimeter of the ancient Aurelian Walls enclosing vast empty fields and scattered hamlets where once a million lived. Sun-bleached whites, charcoal blacks.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 220,
+    "script": "tajam dari sejuta jiwa menjadi puluhan ribu orang",
+    "visual": "2D illustrated, close-up symbolic shot. An empty stone fountain dry and cracked, with just a single trickle of spring water collected by a solitary child with an earthenware jug. Gritty stone, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 221,
+    "script": "saja di antara puing-puing bangunan tua. Di tengah",
+    "visual": "2D illustrated, medium shot. Small clusters of impoverished medieval citizens huddled around a hearth fire inside the cavernous arched ruins of an ancient bathhouse. Charcoal blacks, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 222,
+    "script": "kekacauan itu, tidak ada lagi kaisar atau tentara",
+    "visual": "2D illustrated, symbolic shot. An overturned, rusted legionary iron helmet lying half-buried under thorny weeds outside the breached city gates. Muted olive greens, charcoal blacks, gritty iron texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 223,
+    "script": "kekaisaran yang melindungi warga dari serbuan suku-suku",
+    "visual": "2D illustrated, wide shot. Armed Lombards and Germanic horsemen riding through the countryside along ruined aqueducts, scouring for grain. Charcoal blacks, faded ochres, gritty dust.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 224,
+    "script": "baru. Satu-satunya lembaga yang masih berdiri kokoh dan",
+    "visual": "2D illustrated, low angle shot of the facade of the ancient Basilica of Saint John Lateran standing illuminated by warm torches. Sun-bleached whites, faded ochres, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 225,
+    "script": "punya wibawa administratif hanyalah Gereja, yang dipimpin oleh",
+    "visual": "2D illustrated, medium interior shot of [POPE_BISHOP_OF_ROME]. The Bishop of Rome in plain wool pallium and cowl directing deacon clerks distributing grain sacks to the needy. Sun-bleached whites, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 226,
+    "script": "Uskup Roma atau yang kita kenal sebagai Paus.",
+    "visual": "2D illustrated, close-up shot of [POPE_BISHOP_OF_ROME]. A venerable Pope with weathered, resolute features, holding a wooden shepherd's crook before an open gospel book with wavy lines. Charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 227,
+    "script": "Para Paus terpaksa mengambil alih peran pemerintah sipil:",
+    "visual": "2D illustrated, wide shot. Papal bailiffs and monastic clerks overseeing the repair of the Aqua Virgo aqueduct and cleaning civic drainage ditches. Faded ochre, muted olive greens, gritty dust.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 228,
+    "script": "mereka mengatur pembagian gandum, memperbaiki saluran air,",
+    "visual": "2D illustrated, medium shot. Long lines of poor citizens receiving wooden bread tokens from clerics before a restored stone granary. Faded ochres, charcoal blacks, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 229,
+    "script": "memungut pajak lokal, dan berunding dengan para penyerbu.",
+    "visual": "2D illustrated, dramatic medium shot. Pope Gregory the Great meeting Lombard war-chiefs on the steps of Saint Peter's, presenting ransom treaties with wavy lines to prevent pillage. Charcoal blacks, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 230,
+    "script": "Puncaknya pada abad ke-8, penguasa Frank bernama",
+    "visual": "2D illustrated, medium shot. King Pippin the Short in Frankish chainmail and braided beard, holding a sealed parchment deed alongside papal legates in a stone cathedral. Faded ochres, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 231,
+    "script": "Pippin menyerahkan wilayah kekuasaan nyata di Italia tengah",
+    "visual": "2D illustrated, close-up shot. An illuminated parchment charter depicting the Donation of Pippin, covered in delicate flowing wavy linear strokes without readable text. Aged parchment, charcoal ink, faded red wax.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 232,
+    "script": "kepada Paus. Sejak saat itu, Paus resmi menjadi",
+    "visual": "2D illustrated, low angle shot of [POPE_BISHOP_OF_ROME]. The Pope crowned with a tall papal tiara, holding both a pastoral cross and a sovereign scepter in the Lateran Palace. Sun-bleached whites, rich ochre gold.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 233,
+    "script": "penguasa politik sekuler atas sebuah negara bernama Negara",
+    "visual": "2D illustrated, wide map shot. The Papal States (Status Pontificius) stretching diagonally across central Italy from Rome to Ravenna, shaded in warm ochre wash. Muted olive green, faded ochres.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 234,
+    "script": "Kepausan, dengan kota Roma sebagai ibu kotanya.",
+    "visual": "2D illustrated, grand wide shot. Rome during the Renaissance: domes and church bell towers rising gracefully alongside the ancient Colosseum ruins. Sun-bleached whites, faded ochres, muted olive greens.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 235,
+    "script": "Selama lebih dari seribu tahun berikutnya, semenanjung Italia",
+    "visual": "2D illustrated, dynamic map perspective. Italy divided into a colorful mosaic of fractured territories—Florence, Venice, Milan, Naples, and the Papal States. Faded ochres, muted olive greens, aged parchment.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 236,
+    "script": "tidak pernah menjadi satu negara, melainkan terpecah-pecah menjadi",
+    "visual": "2D illustrated, wide city view. Fortified medieval towers and battlements rising within competing Italian city-republics across rugged Apennine ridges. Charcoal blacks, sun-bleached whites, gritty stone.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 237,
+    "script": "kerajaan kecil dan kota dagang yang saling bersaing,",
+    "visual": "2D illustrated, medium shot. Venetian galleys trading in harbors while Florentine bankers examine ledgers covered in wavy linear figures. Faded ochres, charcoal blacks, gritty texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 238,
+    "script": "sementara kota Roma tetap berada di bawah kendali mutlak",
+    "visual": "2D illustrated, wide shot. The monumental Castel Sant'Angelo fortress with papal crossed-keys banners fluttering proudly over the Tiber stone bridge. Sun-bleached whites, faded ochre, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 239,
+    "script": "tahta kepausan. Keadaan ini bertahan sampai abad ke-19,",
+    "visual": "2D illustrated, atmospheric street visual. 19th-century Swiss Guards in striped doublets standing watch beside ancient Roman stone arches under autumn foliage. Muted olive greens, charcoal blacks, sun-bleached whites.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 240,
+    "script": "ketika bangsa Italia bangkit untuk menyatukan seluruh semenanjung",
+    "visual": "2D illustrated, wide historical shot. The Risorgimento movement: Italian volunteers in red shirts led by Giuseppe Garibaldi rallying on a green hilltop with tricolor banners. Muted olive green, faded red-ochre, gritty dust.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 241,
+    "script": "menjadi satu negara modern. Pada tahun 1870,",
+    "visual": "2D illustrated, dramatic wide shot of the Aurelian Walls at Porta Pia. Italian national artillery batteries firing toward the stone brick fortifications, smoke billowing into the sky. Charcoal blacks, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 242,
+    "script": "pasukan nasional Italia berhasil mendobrak gerbang Roma dan",
+    "visual": "2D illustrated, dynamic medium shot. Bersaglieri soldiers with feather-crested helmets charging triumphantly through a breach in the brick wall into the city. Charcoal blacks, sun-bleached whites, gritty dust texture.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 243,
+    "script": "mengakhiri kekuasaan politik Paus yang sudah berjalan seribu",
+    "visual": "2D illustrated, symbolic interior shot. The keys of secular temporal authority being solemnly surrendered on a velvet table inside the Quirinal Palace. Faded ochres, charcoal blacks, gritty texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 244,
+    "script": "tahun. Roma kemudian dinobatkan menjadi ibu kota resmi",
+    "visual": "2D illustrated, wide monumental shot. The massive white marble Altare della Patria (Vittoriano) monument under construction towering over the ancient Roman Forum ruins. Sun-bleached whites, faded ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 245,
+    "script": "negara Italia yang baru bersatu. Kekuasaan wilayah Paus",
+    "visual": "2D illustrated, medium shot. Pope Leo XIII looking out from the high windows of the Apostolic Palace over the gardens, in voluntary isolation as a \"Prisoner in the Vatican\". Sun-bleached whites, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 246,
+    "script": "menciut drastis, hingga akhirnya ditetapkan batas wilayah tetap",
+    "visual": "2D illustrated, close-up shot. Surveyors unrolling the 1929 Lateran Treaty boundary map covered in flowing wavy linear labels and official red wax stamps. Aged parchment, charcoal ink, faded ochre.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 247,
+    "script": "pada tahun 1929: sebuah negara kota mandiri seluas",
+    "visual": "2D illustrated, high aerial view of [SETTING_VATICAN_ST_PETER]. The iconic circular colonnaded Saint Peter's Square and Basilica completely encircled by its ancient defensive walls. Sun-bleached whites, faded ochre.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 248,
+    "script": "beberapa blok jalan di tengah kota Roma yang kita",
+    "visual": "2D illustrated, close-up border view. A simple painted white travertine line on the asphalt paving separating the Italian Republic from Vatican City territory. Sun-bleached whites, charcoal black asphalt.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 249,
+    "script": "kenal sebagai Vatikan. Dari rantai sejarah inilah kota",
+    "visual": "2D illustrated, wide cityscape shot. Contemporary Rome stretching outwards, where ancient stone aqueduct arches stand nestled beside modern electric train tracks. Faded ochres, muted olive greens, charcoal blacks.",
+    "animation": "Soft pan right"
+  },
+  {
+    "id": 250,
+    "script": "Roma hari ini berdiri: sebuah ibu kota negara republik",
+    "visual": "2D illustrated, medium shot. The Italian Parliament Palazzo Montecitorio with modern diplomatic flags, built directly atop ancient Roman foundations. Sun-bleached whites, charcoal blacks, gritty stone texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 251,
+    "script": "modern, yang di jantungnya masih menampung pusat rohani",
+    "visual": "2D illustrated, wide sunset shot. Sun dipping behind Saint Peter's dome, casting a warm golden glow across the domes, tiled roofs, and bell towers of Rome. Faded ochres, rich charcoal shadows.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 252,
+    "script": "tertua di dunia. Kekaisarannya memang telah terkubur belasan",
+    "visual": "2D illustrated, medium shot of [SETTING_COLOSSEUM_RUINS]. Weeds and wild caper flowers growing gracefully from the deep crevices of the Colosseum's weathered arches. Muted olive green, sun-bleached whites, faded ochres.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 253,
+    "script": "abad yang lalu, tetapi cetak birunya tidak pernah",
+    "visual": "2D illustrated, symbolic architectural drawing. Blue-charcoal wash diagram showing Roman architectural arch and pillar geometry framing modern city skylines. Gritty aged parchment texture, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 254,
+    "script": "berhenti mengatur napas hidup kita hari ini. Setiap kali",
+    "visual": "2D illustrated, wide shot. An assembly of modern international delegates in business suits seated in a circular tiered auditorium reminiscent of the Roman Senate. Sun-bleached whites, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 255,
+    "script": "sebuah negara modern menyebut dirinya republik dan mendudukkan wakil",
+    "visual": "2D illustrated, medium shot. A modern legislative chamber with a prominent podium flanked by stylized republican symbols and eagle motifs. Sun-bleached whites, charcoal blacks, gritty texture.",
+    "animation": "Soft pan left"
+  },
+  {
+    "id": 256,
+    "script": "rakyatnya di dewan bernama Senat, mereka sedang memakai",
+    "visual": "2D illustrated, close-up shot. An embossed metal plaque on a legislative bench bearing wavy linear script in place of letters, echoing ancient civic dignity. Weathered bronze, sun-bleached whites.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 257,
+    "script": "model yang dirancang di atas bukit Tiber. Setiap",
+    "visual": "2D illustrated, evocative wide view. The Seven Hills of Rome silhouetted at dusk, long shadows stretching symbolically outward across the modern globe. Charcoal blacks, faded ochres, gritty dust texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 258,
+    "script": "kali hakim di pengadilan memutuskan perkara berdasarkan kitab undang-undang",
+    "visual": "2D illustrated, medium shot. A contemporary judge's polished gavel resting beside an ancient open legal codex filled with flowing wavy linear lines. Gritty dark wood and aged parchment texture, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 259,
+    "script": "tertulis, mereka sedang mengutip logika hukum perdata yang",
+    "visual": "2D illustrated, close-up shot. Two hands—one in modern cuff, one in ancient woolen toga sleeve—jointly holding an open civil law volume with wavy linear text. Sun-bleached whites, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 260,
+    "script": "dibukukan oleh Roma. Setiap kali ratusan juta manusia",
+    "visual": "2D illustrated, stylized artistic map of the world. Continental trade and migration routes glowing gently across Europe and the Americas in warm ochre light. Faded ochres, muted olive greens, aged parchment.",
+    "animation": "Soft pan across"
+  },
+  {
+    "id": 261,
+    "script": "di dunia bertutur dalam bahasa Spanyol, Prancis, Portugis,",
+    "visual": "2D illustrated, medium shot of diverse everyday modern people (a Parisian student, a Madrid merchant, a Lisbon fisher) chatting comfortably in public squares. Charcoal blacks, sun-bleached whites, faded ochres.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 262,
+    "script": "atau Italia, mereka sedang merawat dialek bahasa Latin",
+    "visual": "2D illustrated, close-up shot. Whispering lips transforming into flowing wavy linear script lines that drift like autumn leaves through the air. Faded ochres, charcoal blacks, gritty parchment texture.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 263,
+    "script": "yang dulu dibawa oleh para prajurit legiun. Bahkan",
+    "visual": "2D illustrated, medium shot of [ROMAN_LEGIONARY]. Roman soldiers marching in formation along a provincial road, their footsteps leaving trails of wavy script across the dust. Charcoal blacks, muted olive greens.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 264,
+    "script": "nama bulan Juli dan Agustus di kalender dinding kita",
+    "visual": "2D illustrated, close-up shot. A modern wall calendar flipping in the breeze, the header sections featuring artistic carved profiles of Caesar and Augustus with wavy linear names without text. Sun-bleached whites, faded ochre.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 265,
+    "script": "adalah prasasti abadi bagi nama para kaisar mereka.",
+    "visual": "2D illustrated, low angle shot. Two monumental stone statues of Julius Caesar and Augustus standing stoic against a deep starry evening sky. Sun-bleached whites, charcoal blacks, gritty stone texture.",
+    "animation": "Slow zoom-out"
+  },
+  {
+    "id": 266,
+    "script": "Roma membuktikan bahwa pedang dan benteng baja mungkin",
+    "visual": "2D illustrated, poignant close-up. An ancient iron sword blade broken in two, rusted and overgrown with wild flowering vines in a stone crevice. Gritty iron rust, muted olive greens, charcoal blacks.",
+    "animation": "Gentle parallax"
+  },
+  {
+    "id": 267,
+    "script": "bisa hancur oleh waktu, tetapi aturan hukum dan",
+    "visual": "2D illustrated, medium shot. An unbroken, solid Roman concrete foundation arch standing firm, while a fallen iron gate lies buried in dust beneath it. Sun-bleached whites, faded ochres, charcoal blacks.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 268,
+    "script": "tata kelola yang dicetak di atas batu akan terus",
+    "visual": "2D illustrated, low angle wide shot. A monumental inscribed travertine wall covered in deep carved flowing wavy linear grooves, glowing brightly under an eternal morning sun. Sun-bleached whites, warm golden ochres.",
+    "animation": "Slow push-in"
+  },
+  {
+    "id": 269,
+    "script": "hidup selama peradaban manusia masih bernapas.",
+    "visual": "2D illustrated, grand finale wide shot. The city of Rome seen from the Janiculum Hill at sunrise: the Tiber River flowing peacefully between the modern cityscape, ancient ruins, and the Vatican dome under golden clouds. Sun-bleached whites, faded ochres, muted olive greens, charcoal blacks. Gritty aged parchment texture.",
+    "animation": "Slow zoom-out"
+  }
+]
