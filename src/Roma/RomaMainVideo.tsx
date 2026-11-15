@@ -8,7 +8,7 @@ import type {VideoProps} from '../types';
 
 const ROMA_CONFIG: DocumentaryHeaderConfig = {
   headerTitle: 'SEJARAH ROMA',
-  channelName: 'SEJARAONE',
+  channelName: 'ZEELACUNA',
 };
 
 // Transisi wipe / slide halus hanya di pergantian babak besar, selain itu dominan fade tenang

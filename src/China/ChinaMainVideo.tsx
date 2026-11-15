@@ -8,7 +8,7 @@ import type {VideoProps} from '../types';
 
 const CHINA_CONFIG: DocumentaryHeaderConfig = {
   headerTitle: 'SEJARAH CHINA',
-  channelName: 'SEJARAONE',
+  channelName: 'ZEELACUNA',
 };
 
 // Transisi wipe/slide hanya di pergantian babak dinasti besar, selain itu dominan fade tenang
