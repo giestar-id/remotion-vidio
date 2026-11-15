@@ -11,12 +11,14 @@ node_modules/
 __pycache__/
 *.pyc
 
-# Cache & file internal Remotion / agent / notebook
+# Cache & file internal Remotion / agent / notebook / IDE
 .remotion/
 .codex/
 dist/
 build/
 .ipynb_checkpoints/
+.vscode/
+.idea/
 
 # Bahan mentah lokal (audio & visual sumber sebelum disinkronkan ke public/)
 assets/
@@ -31,11 +33,16 @@ Thumbs.db
 desktop.ini
 ~$*
 *.tmp
+*.bak
+*.swp
 
 # Proyek arsip di public/ (proyek non-aktif)
 public/sejarah-1/
+public/sejarah-2/
 public/stickman/
 public/stickman2/
+public/yunani/
+public/piramida/
 
 # File scratch/analisis sementara di scripts/ (hanya mempertahankan colab_render.py)
 scripts/*.json

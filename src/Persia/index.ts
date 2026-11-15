@@ -1,0 +1,1 @@
+export {PersiaDocu} from './PersiaMainVideo';
