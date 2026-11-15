@@ -253,23 +253,25 @@ export const DocumentaryDecorations: React.FC<{config: DocumentaryHeaderConfig}>
         </div>
       </div>
 
-      {/* POJOK KANAN ATAS: Nama channel dengan style tipografi arsip bersih */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 44,
-          right: 52,
-          fontFamily: SANS_HEADER_FONT,
-          fontSize: 15,
-          fontWeight: 600,
-          letterSpacing: 4.5,
-          color: 'rgba(244, 231, 207, 0.84)',
-          textShadow: '0 2px 8px rgba(10, 8, 5, 0.88)',
-          opacity: headerOpacity,
-        }}
-      >
-        {config.channelName}
-      </div>
+      {/* POJOK KANAN ATAS: Nama channel dengan style tipografi arsip bersih (hanya jika ada) */}
+      {config.channelName ? (
+        <div
+          style={{
+            position: 'absolute',
+            top: 44,
+            right: 52,
+            fontFamily: SANS_HEADER_FONT,
+            fontSize: 15,
+            fontWeight: 600,
+            letterSpacing: 4.5,
+            color: 'rgba(244, 231, 207, 0.84)',
+            textShadow: '0 2px 8px rgba(10, 8, 5, 0.88)',
+            opacity: headerOpacity,
+          }}
+        >
+          {config.channelName}
+        </div>
+      ) : null}
     </AbsoluteFill>
   );
 };
@@ -279,6 +281,7 @@ export const DocumentaryDecorations: React.FC<{config: DocumentaryHeaderConfig}>
  */
 export const EraLowerThirds: React.FC<{markers: EraMarker[]}> = ({markers}) => {
   const {fps} = useVideoConfig();
+  if (!markers || markers.length === 0) return null;
 
   return (
     <>

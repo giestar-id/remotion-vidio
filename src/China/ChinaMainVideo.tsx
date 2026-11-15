@@ -7,8 +7,8 @@ import {
 import type {VideoProps} from '../types';
 
 const CHINA_CONFIG: DocumentaryHeaderConfig = {
-  headerTitle: 'SEJARAH TEMBOK BESAR CHINA',
-  channelName: 'SEJARAH CINA',
+  headerTitle: 'SEJARAH CHINA',
+  channelName: 'SEJARAONE',
 };
 
 // Transisi wipe/slide hanya di pergantian babak dinasti besar, selain itu dominan fade tenang

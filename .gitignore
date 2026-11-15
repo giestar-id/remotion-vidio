@@ -1,5 +1,9 @@
 # Hasil render video lokal
 out/
+*.mp4
+*.webm
+*.avi
+*.mkv
 
 # Dependensi Node & Python virtual environment
 node_modules/
@@ -7,13 +11,14 @@ node_modules/
 __pycache__/
 *.pyc
 
-# Cache & file internal Remotion / agent
+# Cache & file internal Remotion / agent / notebook
 .remotion/
 .codex/
 dist/
 build/
+.ipynb_checkpoints/
 
-# Bahan mentah (audio & visual sumber sebelum disinkronkan ke public/)
+# Bahan mentah lokal (audio & visual sumber sebelum disinkronkan ke public/)
 assets/
 
 # Log & file sementara OS / editor
@@ -27,12 +32,12 @@ desktop.ini
 ~$*
 *.tmp
 
-# Proyek arsip di public/
+# Proyek arsip di public/ (proyek non-aktif)
 public/sejarah-1/
 public/stickman/
 public/stickman2/
 
-# File scratch/analisis sementara di scripts/
+# File scratch/analisis sementara di scripts/ (hanya mempertahankan colab_render.py)
 scripts/*.json
 scripts/*.txt
 scripts/*.wav
