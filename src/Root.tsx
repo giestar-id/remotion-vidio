@@ -7,6 +7,7 @@ import { SejarahDocu } from './Sejarah';
 import { YunaniDocu } from './Yunani';
 import { SejarahIslamDocu } from './SejarahIslam';
 import { ChinaDocu } from './China';
+import { PiramidaMainVideo } from './StickmanPiramida';
 
 export const FPS = 30;
 
@@ -140,6 +141,23 @@ export const Root: React.FC = () => {
         defaultProps={
           {
             proyek: 'china',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="PiramidaStickman"
+        component={PiramidaMainVideo}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 500}
+        defaultProps={
+          {
+            proyek: 'piramida',
             timeline: null,
             captions: [],
           } satisfies VideoProps

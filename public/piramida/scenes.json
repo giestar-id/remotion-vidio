@@ -1,0 +1,757 @@
+[
+  {
+    "id": 1,
+    "script": "Tahun dua ribu lima ratus enam puluh sebelum Masehi.",
+    "visual": "[SETTING_WADI_EL_JARF] [Wide Establishing Shot] [MOOD: WONDER] Foreground: Dark rocky cliff silhouette and desert scrub. Midground: High windswept desert cliff overlooking the Red Sea coastline at dawn. Background: Vast open ocean under deep twilight fading to gold, stars vanishing. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 2,
+    "script": "Di tepi tebing Wadi al-Jarf, seorang mandor",
+    "visual": "[CHARACTER_MERER] [SETTING_WADI_EL_JARF] [Medium Shot] [MOOD: WONDER] Foreground: Stone cave portal on the right. Midground: Stickman Merer seated cross-legged on a woven reed mat beside a low cedar folding table, watching the dawn. Background: Canvas tents and coastal desert cliffs in early morning mist. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 3,
+    "script": "bernama Merer duduk mencatat deretan tinta di atas",
+    "visual": "[CHARACTER_MERER] [OBJECT_PAPYRUS_ROLL] [Close-Up Shot] [MOOD: WONDER] Foreground: Edge of cedar desk and ink pots. Midground: Stickman Merer leaning over with focused dot eyes, drawing crisp ink grids onto an unrolled papyrus scroll with a reed stylus. Background: Shaded limestone cave interior with stacked ceramic jars. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 4,
+    "script": "gulungan papirus. Di tangannya ada catatan harian resmi.",
+    "visual": "[OBJECT_PAPYRUS_ROLL] [PATTERN INTERRUPT: Extreme Close-Up Shot] [MOOD: GLORY] Foreground: Wooden inkwell with black and red wells. Midground: Crisp fibrous papyrus showing neat vertical accounting registers with red heading marks and black line entries, glowing in warm gold #F2C76B. Background: Defocused warm wood table surface. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 5,
+    "script": "Isinya bukan mantra sihir, bukan pula bantuan dari",
+    "visual": "[SETTING_WADI_EL_JARF] [Medium Shot] [MOOD: CONFLICT] Foreground: Coils of heavy nautical rigging and storage amphorae. Midground: Two generic stickman scribes checking tall clay jars and wooden crates under a sunshade canopy. Background: Limestone cliffs under harsh white sun. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 6,
+    "script": "makhluk asing. Ini adalah jadwal kerja dua ratus",
+    "visual": "[CHARACTER_MERER] [CHARACTER_WORKER] [SETTING_WADI_EL_JARF] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Stickman Merer standing on a limestone ledge on the right, gesturing forward. Midground: Disciplined ranks of stickman sailors standing in formation holding wooden oars. Background: Moored wooden transport boats in turquoise Red Sea water. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 7,
+    "script": "orang anak buahnya. Pertanyaannya: bagaimana mungkin",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Establishing Shot] [MOOD: WONDER] Foreground: Surveyor stakes with taut string lines. Midground: Massive stepped limestone base of the Great Pyramid rising partially completed. Background: Vast open desert horizon under warm golden amber sky #E0894A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 8,
+    "script": "orang-orang dari zaman perunggu ini menyusun dua juta",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [PATTERN INTERRUPT: Sudden Wide Shot] [MOOD: GLORY] Foreground: Wooden scaffolding corner framing the shot. Midground: Countless tiny stickman workers swarming organized along ramps, maneuvering massive yellow-gold limestone blocks. Background: Enormous pyramid face receding into high desert haze. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 9,
+    "script": "balok batu raksasa? Tanpa roda. Tanpa katrol",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Medium Shot] [MOOD: CONFLICT] Foreground: Scattered stone chips and dry earth. Midground: Colossal 2.5-ton limestone block resting on a heavy cedar wood sledge runner with thick ropes, completely devoid of wheels or iron pulleys. Background: Dusty quarry cut under harsh sun. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 10,
+    "script": "besi. Tanpa mesin modern. Banyak orang mengira piramida",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Medium-Wide Shot] [MOOD: CONFLICT] Foreground: Barren desert dune ridge. Midground: A stickman worker looking up at a gigantic stone block with comically exaggerated wide eyes and scratching his head in bewilderment. Background: Swirling storm gray dust #5A5F66 over the plateau. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 11,
+    "script": "dibangun dengan tenaga jutaan budak yang dicambuk tanpa",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Medium Shot] [MOOD: DECLINE] Foreground: Broken stone rubble and shadowy ropes. Midground: Conceptual silhouettes of slumped stickman figures trudging through thick blowing dust under an oppressive dark overcast sky in soot gray #3A3D40. Background: Misty pyramid silhouettes. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 12,
+    "script": "henti. Tapi catatan tertua yang pernah ditemukan di",
+    "visual": "[OBJECT_PAPYRUS_ROLL] [Close-Up Shot] [MOOD: GLORY] Foreground: Oil lamp with a warm glowing flame #E0894A on the left. Midground: Ancient Papyrus of Merer resting open, its neat red and black grid registers illuminated by warm golden radiance #D9A441. Background: Dark textured stone wall of an archive vault. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 13,
+    "script": "bumi justru membongkar cerita yang sangat berbeda. Dan",
+    "visual": "[CHARACTER_MERER] [SETTING_WADI_EL_JARF] [Medium Shot] [MOOD: GLORY] Foreground: Wooden desk with copper weights. Midground: Stickman Merer standing confident with hand on hip, holding his papyrus roll triumphantly under bright morning sun. Background: Calm sparkling sea and organized harbor. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 14,
+    "script": "jawabannya ternyata bukan satu hal gaib, melainkan serangkaian",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Shot] [MOOD: WONDER] Foreground: Smooth limestone ledge. Midground: The grand plateau bathed in calm morning light, workers organizing measuring ropes across the site. Background: Soft golden horizon. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 15,
+    "script": "solusi cerdas yang mengandalkan alam dan keteraturan.",
+    "visual": "[SETTING_NILE_PORT] [Wide Establishing Shot] [MOOD: GLORY] Foreground: Lotus blooms and stone quay edge. Midground: Clean canal system flowing smoothly toward the pyramid base, barges sailing gracefully in clockwork rhythm. Background: Great Pyramid under azure sky #3E7CB1. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 16,
+    "script": "Di masa Raja Khufu, Mesir bukanlah negeri yang",
+    "visual": "[MAP_NILE_CORRIDOR] [High-Angle Map Shot] [MOOD: GLORY] Foreground: Ornate papyrus parchment border. Midground: Broad sweeping map of ancient Egypt, green Nile ribbon winding through golden desert sands with golden glow routes. Background: Distant Mediterranean sea line. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 17,
+    "script": "mengandalkan keajaiban. Mereka mengandalkan satu hal: sistem",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Wide Shot] [MOOD: GLORY] Foreground: Mudbrick archway on the right. Midground: Orderly avenue with stickman clerks carrying clipboards and measuring rods walking in methodical synchronization. Background: Clean rows of state granaries under bright azure sky #3E7CB1. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 18,
+    "script": "pengaturan kerja yang sangat rapi. Pekerjaan Merer sangat",
+    "visual": "[CHARACTER_MERER] [OBJECT_PAPYRUS_ROLL] [Close-Up Shot] [MOOD: GLORY] Foreground: Scribe table with reed pens. Midground: Stickman Merer stamping an official clay seal onto a document, eyebrows determined and focused. Background: Sunny window overlooking the bustling harbor. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 19,
+    "script": "jelas. Dia memimpin tim pengangkut batu kapur putih",
+    "visual": "[CHARACTER_MERER] [CHARACTER_WORKER] [OBJECT_CARGO_BARGE] [Medium Shot] [MOOD: GLORY] Foreground: Wooden boat bow with carved lotus tip. Midground: Stickman Merer standing at the bow pointing forward with outstretched arm while four stickman rowers pull oars in unison. Background: Sparkling river waters and distant palm groves. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 20,
+    "script": "dari tambang Tura menuju tempat proyek di Giza.",
+    "visual": "[MAP_NILE_CORRIDOR] [PATTERN INTERRUPT: High-Angle Map Graphic] [MOOD: GLORY] Foreground: Parchment compass icon. Midground: Illuminated golden line tracing from the white cliff pictogram of Tura on the east bank, crossing the blue Nile directly to Giza in the west. Background: Desert margins. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 21,
+    "script": "Jaraknya belasan kilometer. Setiap balok batu punya berat",
+    "visual": "[OBJECT_CARGO_BARGE] [Medium Shot] [MOOD: GLORY] Foreground: River reeds on the bank. Midground: Heavy acacia wood barge loaded with gleaming rectangular white limestone blocks gliding low in the water. Background: Nile riverbank with date palms under azure sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 22,
+    "script": "dua sampai tiga ton. Bagaimana cara mereka memindahkannya?",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [PATTERN INTERRUPT: Exaggerated Stickman Reaction] [MOOD: CONFLICT] Foreground: Immense 3-ton limestone block dominating the center frame. Midground: Stickman worker leaning backward pulling rope, eyes bulging comically, tongue sticking out in extreme cartoonish strain. Background: Dry dusty quarry wall. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 23,
+    "script": "Di sinilah akal cerdik pertama bangsa Mesir bekerja.",
+    "visual": "[CHARACTER_MERER] [SETTING_NILE_PORT] [Medium Shot] [MOOD: GLORY] Foreground: Stone mooring bollard. Midground: Stickman Merer tapping his forehead with his stylus, smiling knowingly with raised eyebrow, pointing at the canal water. Background: Harbor basin with arriving boats. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 24,
+    "script": "Mereka sama sekali tidak menyeret batu-batu raksasa ini",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Shot] [MOOD: CONFLICT] Foreground: Cracked dry clay and jagged boulders. Midground: Harsh desert wasteland with jagged rocks under a blazing bleached sun, heat ripples rising. Background: Far distant hazy horizon. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 25,
+    "script": "melintasi daratan kering yang berbatu. Merer justru memanfaatkan",
+    "visual": "[CHARACTER_MERER] [SETTING_NILE_PORT] [Medium Shot] [MOOD: GLORY] Foreground: Reeds swaying gently. Midground: Stickman Merer standing by the riverbank, looking out across the flowing Nile with hands on hips. Background: Wide Nile river glistening in morning light. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 26,
+    "script": "aliran air utama negeri mereka: Sungai Nil. Pada",
+    "visual": "[SETTING_NILE_PORT] [Wide Establishing Shot] [MOOD: GLORY] Foreground: Flowering lotus plants and tall papyrus stalks. Midground: The grand Nile river swelling with rich blue-green water, morning sun reflecting across the ripples. Background: Green fields stretching toward the distant Giza cliffs. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 27,
+    "script": "musim banjir tahunan, air sungai meluap tinggi. Para",
+    "visual": "[SETTING_NILE_PORT] [Wide Shot] [MOOD: GLORY] Foreground: Submerged river steps with rising water line. Midground: Swelling river floodwaters gently rising around the bases of palm trees on the bank. Background: Floodplain under azure sky #3E7CB1. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 28,
+    "script": "pekerja menggali saluran air buatan yang terhubung langsung",
+    "visual": "[CHARACTER_WORKER] [SETTING_NILE_PORT] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Measuring poles and stakes. Midground: Teams of stickman workers digging a deep channel with wooden hoes, tossing dirt in wicker baskets in perfect rhythm. Background: Earthen dyke holding back floodwaters. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 29,
+    "script": "ke sungai. Perahu-perahu kayu sarat muatan bisa berlayar",
+    "visual": "[MAP_NILE_CORRIDOR] [High-Angle Map Shot] [MOOD: GLORY] Foreground: Map border. Midground: Illuminated blue canal waterways spreading out like glowing veins from the Nile directly to the base of the Giza plateau. Background: Parchment landscape. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 30,
+    "script": "membawa sekitar tiga puluh balok sekaligus. Kapal itu",
+    "visual": "[OBJECT_CARGO_BARGE] [Medium Shot] [MOOD: GLORY] Foreground: Deck railing and rope coils. Midground: Deck of the barge neatly packed with thirty glistening white dressed limestone blocks, lashed securely with thick hemp cordage. Background: Calm canal water reflecting the sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 31,
+    "script": "meluncur tenang di atas permukaan air. Merer mencatat,",
+    "visual": "[CHARACTER_MERER] [OBJECT_CARGO_BARGE] [Medium Shot] [MOOD: GLORY] Foreground: Carved prow lotus ornament. Midground: Stickman Merer standing at the bow, looking ahead with hand shading his dot eyes, holding his scroll. Background: Wide canal shimmering under golden noon sun. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 32,
+    "script": "perjalanan bolak-balik dari tambang ke Giza hanya",
+    "visual": "[MAP_NILE_CORRIDOR] [High-Angle Map Shot] [MOOD: GLORY] Foreground: Stylized cycle circle glyph in gold #D9A441. Midground: Looping golden route between Tura and Giza showing four glowing segment markers. Background: Parchment background. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 33,
+    "script": "butuh waktu empat hari. Air sungai itu mengalir",
+    "visual": "[SETTING_NILE_PORT] [Wide Establishing Shot] [MOOD: GLORY] Foreground: Massive limestone wharf corner on the right. Midground: Wide stone-lined harbor basin filled with swirling Nile water. Background: The colossal Great Pyramid looming directly above the harbor against the blue sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 34,
+    "script": "masuk ke sebuah pelabuhan buatan bernama Ro-She Khufu.",
+    "visual": "[SETTING_NILE_PORT] [Wide Shot] [MOOD: GLORY] Foreground: Mooring bollards and timber skids. Midground: Bustling harbor of Ro-She Khufu with stickman stevedores securing boats to stone wharves. Background: Broad stone causeway climbing toward the plateau. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 35,
+    "script": "Pelabuhan ini terletak tepat di kaki kawasan Giza.",
+    "visual": "[SETTING_NILE_PORT] [Low-Angle Wide Shot] [MOOD: GLORY] Foreground: Water's edge lapping on stone steps. Midground: Boats docked at the immediate base of the rocky Giza cliff. Background: The Great Pyramid rising huge right above the dockside. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 36,
+    "script": "Artinya, aliran air mengantar batu-batu berat itu",
+    "visual": "[OBJECT_CARGO_BARGE] [SETTING_NILE_PORT] [Medium Shot] [MOOD: GLORY] Foreground: Wooden gangplank. Midground: A limestone block on a wooden sledge being slid gently off the barge deck onto the stone quay. Background: Workers cheering on the dock. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 37,
+    "script": "sedekat mungkin ke tempat pembangunan. Mengapungkan batu di",
+    "visual": "[OBJECT_CARGO_BARGE] [Side Profile Diagrammatic Shot] [MOOD: GLORY] Foreground: Clear canal water ripples. Midground: Cutaway diagram of the buoyant wooden hull effortlessly supporting the heavy stone block, upward blue buoyant force arrows glowing. Background: Distant reeds. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 38,
+    "script": "atas air jauh lebih gampang daripada menyeretnya di",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [Medium-Wide Shot] [MOOD: CONFLICT] Foreground: Dry cracked soil on the left third; smooth water on the right two-thirds. Midground: Left shows a stickman exhausted trying to drag a sledge on dry dirt; right shows stickman happily paddling a boat with one finger. Background: Desert horizon. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 39,
+    "script": "darat. Logikanya mirip seperti kamu mengapungkan batang kayu",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: GLORY] Foreground: Pond water lilies. Midground: A stickman child lightly nudging a heavy floating cedar log across a clear garden pond with one finger. Background: Garden palm trees. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 40,
+    "script": "di kolam: airlah yang menahan bobot beratnya. Tapi",
+    "visual": "[SETTING_NILE_PORT] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Water swirling at the dock edge. Midground: The white stone block resting on the stone quay at the water's edge. Background: The steep, dry rocky cliff of Giza rising ahead. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 41,
+    "script": "perahu hanya mengantar batu sampai ke pinggir dermaga.",
+    "visual": "[OBJECT_CARGO_BARGE] [SETTING_NILE_PORT] [Medium Shot] [MOOD: GLORY] Foreground: Thick mooring rope tied in a clean knot around a timber bollard. Midground: Empty cargo barge settled against the dock fender. Background: Staging yard where dry dirt paths begin. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 42,
+    "script": "Begitu perahu bersandar, tantangan berikutnya baru dimulai. Balok",
+    "visual": "[SETTING_GIZA_RAMP] [Low-Angle Wide Shot] [MOOD: CONFLICT] Foreground: Base of a steep packed-earth ramp. Midground: The ramp ascending sharply up toward the plateau crest. Background: Blazing white sky and massive pyramid facade. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 43,
+    "script": "batu harus dinaikkan ke atas tanah berpasir. Tanpa",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Shot] [MOOD: CONFLICT] Foreground: Wind-carved sand ridge. Midground: Immense sweeping desert dunes meeting the limestone plateau, zero cranes, zero engines. Background: Pyramid silhouette under blazing sun. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 44,
+    "script": "mesin derek, bagaimana manusia menarik beban seberat mobil",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [Medium Shot] [MOOD: CONFLICT] Foreground: Taut ropes vibrating. Midground: Four stickman workers leaning hard forward, mitten hands gripping ropes, pulling a 3-ton block on a wooden sledge across deep sand. Background: Heat shimmer in bronze #A67C3D. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 45,
+    "script": "kecil di atas hamparan pasir gurun? Di sinilah",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Close-Up Shot] [MOOD: GLORY] Foreground: Curved front tip of the wooden sledge runner. Midground: Golden sand grains in front of the wood runner glowing in warm amber #F2C76B. Background: Softly blurred desert sand. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 46,
+    "script": "rahasia kedua mereka terungkap. Banyak orang mengira pasir",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Low-Angle Close-Up Shot] [MOOD: CONFLICT] Foreground: Loose golden sand grains sliding. Midground: Sledge runner digging straight into dry powdery sand, building a thick mound in front. Background: Harsh sunlit ground. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 47,
+    "script": "kering adalah tempat yang licin untuk menggeser barang.",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Side Profile Diagrammatic Shot] [MOOD: CONFLICT] Foreground: Cross-section sand level. Midground: Graphic cutaway: runner nose acting like a plow digging deep into dry sand berm, red friction resistance arrows flashing. Background: Muted gray tones. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 48,
+    "script": "Kenyataannya justru terbalik. Ketika kamu menarik kereta luncur",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [Medium Shot] [MOOD: CONFLICT] Foreground: Taut rope in sand. Midground: Stickman workers falling backwards onto their rear ends as the sledge stops dead in the sand mound. Background: Hot desert hills. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 49,
+    "script": "kayu di atas pasir yang kering kerontang, moncong",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [PATTERN INTERRUPT: Extreme Close-Up Shot] [MOOD: CONFLICT] Foreground: Curved wood grain tip. Midground: Extreme close-up of dry sand avalanching into a mini-dune right against the curved cedar prow. Background: Blur of rust dust #8E2F2A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 50,
+    "script": "kayu di bagian depan akan langsung menusuk ke dalam",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Low-Angle Shot] [MOOD: CONFLICT] Foreground: Sand crust cracking. Midground: Heavy wooden runner sunk deep into powdery sand below surface level. Background: Flat desert expanse. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 51,
+    "script": "tanah. Pasir terdorong maju, menumpuk, dan membentuk",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Medium Close-Up Shot] [MOOD: CONFLICT] Foreground: Huge thick sand berm blocking the front. Midground: The cedar sledge trapped at a standstill. Background: Quarry walls. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 52,
+    "script": "gundukan tebal tepat di depan kereta. Akibatnya, kereta",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [Medium Shot] [MOOD: CONFLICT] Foreground: Slack rope on dirt. Midground: Two stickman workers standing beside the jammed sledge, one shrugging with hands up, one scratching head, looking at the stuck runner. Background: Desert plateau. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 53,
+    "script": "itu akan macet total. Lalu apa yang mereka",
+    "visual": "[CHARACTER_WORKER] [Medium Shot] [MOOD: CONFLICT] Foreground: Stone edge. Midground: Three stickman workers sitting on the sand with slumped postures, staring down at their hands in comic frustration. Background: Sun beating down. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 54,
+    "script": "lakukan? Di dinding makam seorang tokoh bernama Djehutihotep,",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: WONDER] Foreground: Stone tomb portal frame. Midground: Interior of an ancient rock-cut tomb at Deir el-Bersha, warm flickering torchlight illuminating painted stone reliefs. Background: Deep tomb shadows in navy #0E1A33. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 55,
+    "script": "ada gambar kuno yang menunjukkan caranya. Di depan",
+    "visual": "[LEGACY] [Medium Close-Up Shot] [MOOD: GLORY] Foreground: Carved border frieze. Midground: Painted wall relief from Djehutihotep's tomb depicting rows of haulers pulling a colossal statue on a wooden sledge. Background: Ochre limestone wall. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 56,
+    "script": "kereta luncur batu raksasa, tampak seorang pekerja berdiri",
+    "visual": "[LEGACY] [Close-Up Shot] [MOOD: GLORY] Foreground: Front runner in the wall relief. Midground: Painted figure standing right at the front of the sledge holding an earthenware jug, highlighted with a gentle golden circular spotlight #F2C76B. Background: Painted tomb wall. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 57,
+    "script": "sambil menuangkan air dari kendi ke atas pasir.",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [Dynamic Medium Shot] [MOOD: GLORY] Foreground: Crisp water droplets splashing down in stylized comic style. Midground: A stickman worker perched gracefully on the sledge front, pouring water from a clay jug directly onto the sand ahead of the runner. Background: Sunlit sand track. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 58,
+    "script": "Dulu, para ahli sempat menduga orang itu sedang",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: WONDER] Foreground: Open vintage archaeological sketchbook with pencil drawings of incense smoke. Midground: Victorian sketch of the water pourer labeled with a big question mark. Background: Quiet dim library study. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 59,
+    "script": "melakukan upacara adat. Namun pada tahun dua ribu",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: LEGACY] Foreground: Laboratory glass beakers and rheometer stand. Midground: Modern physics lab setup with a sand tray and pulling sensors under clean blue LED studio lighting #2A5C8A. Background: Chalkboard filled with physics force equations. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 60,
+    "script": "empat belas, para ahli fisika menguji hal ini",
+    "visual": "[LEGACY] [PATTERN INTERRUPT: Laboratory Close-Up] [MOOD: LEGACY] Foreground: Miniature brass sledge model. Midground: Precision mechanical arm pulling the sledge across a tray of controlled damp sand, zero berm forming. Background: Digital oscilloscope waveform glow in cool blue #2A5C8A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 61,
+    "script": "di ruangan laboratorium. Hasilnya mengejutkan. Menambahkan sedikit air—sekitar",
+    "visual": "[Macro Diagrammatic Shot] [MOOD: GLORY] Foreground: Stylized water droplet penetrating between grains. Midground: Sand grains bonding together under a golden capillary lattice glow #F2C76B. Background: Dark warm gradient. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 62,
+    "script": "dua sampai lima persen saja—ternyata membuat butiran pasir",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Close-Up Shot] [MOOD: GLORY] Foreground: Wood runner edge. Midground: Damp compacted sand surface under the runner behaving like a solid stiff road, zero indentation. Background: Sunlit desert morning. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 63,
+    "script": "saling mengikat rapat. Pasir tidak lagi menumpuk di",
+    "visual": "[Macro Conceptual Shot] [Close-Up Diagram] [MOOD: WONDER] Foreground: Stylized 2D circular sand grains with bold ink outlines. Midground: Crescent-shaped liquid capillary bridges glowing in azure #3E7CB1 locking the sand grains together into a rigid honeycomb structure. Background: Navy background #0E1A33. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 64,
+    "script": "depan kereta. Tenaga yang dibutuhkan para pekerja untuk",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Low-Angle Shot] [MOOD: GLORY] Foreground: Flat dark-brown wet sand track. Midground: Sledge runner gliding forward with perfectly flat sand ahead, zero berm. Background: Marching stickman legs. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 65,
+    "script": "menarik beban pun langsung terpangkas hingga separuhnya. Gampangnya,",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [PATTERN INTERRUPT: Joyful Pulling Shot] [MOOD: GLORY] Foreground: Taut rope. Midground: Small team of stickman workers pulling upright with cheerful smiles, marching effortlessly along the wet track. Background: Pyramid base under warm sun. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 66,
+    "script": "bayangkan kamu membuat istana pasir di tepi pantai.",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: GLORY] Foreground: Wooden toy shovel in sand. Midground: A crisp, perfect sandcastle with sharp towers standing tall and solid on damp beach sand. Background: Sparkling blue ocean waves under sunny sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 67,
+    "script": "Pasir yang basah terasa padat dan kuat menahan",
+    "visual": "[LEGACY] [Close-Up Shot] [MOOD: GLORY] Foreground: Stylized stickman bare foot stepping firmly onto dark damp beach sand. Midground: Damp sand bearing the weight with crisp edges and zero sinking. Background: Shallow sparkling ocean water. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 68,
+    "script": "injakan kakimu, sedangkan pasir kering membuat kakimu langsung",
+    "visual": "[Split Visual / Close-Up Shot] [MOOD: CONFLICT] Foreground: Left shows stickman foot sinking deep into powdery dry sand with dust puff; right shows stickman foot stepping solid on damp firm sand. Midground: Clean split screen line down the center. Background: Beach/desert gradient. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 69,
+    "script": "terperosok ke dalam. Cara sederhana ini memangkas beban",
+    "visual": "[CHARACTER_WORKER] [OBJECT_WOODEN_SLEDGE] [Wide Shot] [MOOD: GLORY] Foreground: Glistening wet track marks leading from foreground to midground. Midground: A modest team of just twenty stickmen easily pulling the gigantic block along the prepared moist ramp. Background: Great Pyramid tiers under golden sky. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 70,
+    "script": "kerja mereka secara luar biasa. Namun, menarik batu di",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Shot] [MOOD: CONFLICT] Foreground: End of the flat road at the plateau cliff edge. Midground: The abrupt vertical rock face of the Giza plateau rising like a fortress. Background: Storm gray sky #5A5F66 over the rising pyramid. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 71,
+    "script": "tanah datar belum menyelesaikan masalah terbesar. Bangunan Piramida",
+    "visual": "[SETTING_GIZA_RAMP] [Extreme Low-Angle Shot] [MOOD: WONDER] Foreground: Bedrock boulders. Midground: Tier after tier of megalithic yellow limestone blocks soaring up into the clouds in extreme forced perspective. Background: Golden sunset apex cutting into the upper sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 72,
+    "script": "Agung berdiri menjulang setinggi lebih dari seratus tiga",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Silhouette Shot] [MOOD: WONDER] Foreground: Distant ridge with tiny palm silhouettes. Midground: Immense silhouette of the Great Pyramid filling the central frame, dwarfing the tiny landscape below. Background: Twilight sky with evening star glowing in gold #F3E9B5. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 73,
+    "script": "puluh meter. Bagaimana balok-balok batu itu diangkat",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Medium Shot] [MOOD: CONFLICT] Foreground: Edge of a high stone course. Midground: A stickman worker looking down from a high ledge, shaking knees with comical cartoon dizzy eyes, looking at the tiny ground below. Background: Vast desert far below. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 74,
+    "script": "naik semakin tinggi ke atas? Mari kita berhenti sejenak.",
+    "visual": "[OBJECT_PAPYRUS_ROLL] [Close-Up Shot] [MOOD: WONDER] Foreground: Blank aged papyrus sheet. Midground: Hand holding a reed pen hovering above the completely blank scroll, motionless and questioning. Background: Dim candlelit room in slate #3B4A63. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 75,
+    "script": "Sampai saat ini, catatan sejarah memang tidak menjelaskan",
+    "visual": "[SETTING_GIZA_RAMP] [Architectural Isometric Shot] [MOOD: WONDER] Foreground: Draftsman's set-square. Midground: Geometric wireframe outlines in gold #D9A441 comparing two competing ramp theories over a 3D pyramid model. Background: Soft evening plateau haze. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 76,
+    "script": "secara tertulis bentuk tanjakan yang dipakai di Giza.",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Conceptual Shot] [MOOD: CONFLICT] Foreground: Survey sticks. Midground: Massive straight earthen ramp stretching for an impossible mile out into the desert. Background: Desert hills under overcast sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 77,
+    "script": "Sebagian peneliti memperkirakan tanjakan lurus panjang, sementara",
+    "visual": "[SETTING_GIZA_RAMP] [High-Angle Bird's Eye Shot] [MOOD: GLORY] Foreground: Corner parapet. Midground: An integrated spiraling ramp wrapped snugly around the four corners of the rising stepped pyramid. Background: Ground-level workshops. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 78,
+    "script": "yang lain menduga tanjakan melingkar di sekeliling",
+    "visual": "[SETTING_GIZA_RAMP] [PATTERN INTERRUPT: Sudden Corner Close-Up] [MOOD: GLORY] Foreground: Thick stone block corner. Midground: Detailed junction where the ramp turns 90 degrees around the pyramid corner with wooden pivot posts. Background: Distant ground. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 79,
+    "script": "dinding piramida. Namun, bukti peninggalan paling nyata dari",
+    "visual": "[SETTING_HATNUB_QUARRY] [Wide Establishing Shot] [MOOD: GLORY] Foreground: Natural rock canyon arch framing the shot. Midground: Deep open-air quarry trench of Hatnub cut into cream-colored limestone rock #EADFC8. Background: Amber desert sky #D9A441. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 80,
+    "script": "masa Raja Khufu ditemukan di sebuah tambang batu",
+    "visual": "[SETTING_HATNUB_QUARRY] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Carved royal cartouche of Khufu in the quarry wall. Midground: The central ramp pathway dropping sharply into the deep alabaster pit, flanked by stone stairs. Background: Deep quarry floor. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 81,
+    "script": "pualam bernama Hatnub. Di Hatnub, para ahli menemukan",
+    "visual": "[SETTING_HATNUB_QUARRY] [Low-Angle Shot] [MOOD: GLORY] Foreground: Smooth central stone slipway. Midground: Symmetrical staircases carved directly into the rock on both left and right sides. Background: Vertical limestone quarry walls rising into bright sun. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 82,
+    "script": "sisa jalan tanjakan kuno yang sangat curam. Di",
+    "visual": "[SETTING_HATNUB_QUARRY] [Side Cross-Section Shot] [MOOD: CONFLICT] Foreground: Angle indicator graphic marking a steep 20-degree incline. Midground: Dramatic steepness of the ramp climbing out of the deep quarry pit. Background: Bleached rock walls in ochre #C8963E and rust #8E2F2A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 83,
+    "script": "kedua sisi tanjakan batu itu, ada deretan lubang",
+    "visual": "[SETTING_HATNUB_QUARRY] [PATTERN INTERRUPT: Extreme Close-Up Posthole] [MOOD: GLORY] Foreground: Deep circular rock-cut posthole in crisp focus. Midground: Heavy cylindrical cedar timber post anchored firmly into the carved bedrock socket. Background: Series of postholes continuing along the stone staircase. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 84,
+    "script": "tiang kayu berukuran besar. Para pekerja mengikatkan tali",
+    "visual": "[CHARACTER_WORKER] [SETTING_HATNUB_QUARRY] [Medium Shot] [MOOD: GLORY] Foreground: Pair of vertical timber posts. Midground: Stickman workers standing on the stone staircases, looping thick ropes around the timber bollards. Background: Sunlit quarry trench. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 85,
+    "script": "ke kereta luncur, lalu melilitkan tali tersebut ke",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [SETTING_HATNUB_QUARRY] [Medium Close-Up Shot] [MOOD: GLORY] Foreground: Rope knot cinched on the sledge runner. Midground: Rope running uphill, looping around the stout wooden bollard post, and turning 180 degrees back downward into haulers' hands. Background: Quarry stairs. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 86,
+    "script": "tiang-tiang kayu penahan di samping tanjakan. Fungsi tiang",
+    "visual": "[SETTING_HATNUB_QUARRY] [Top-Down Diagrammatic Shot] [MOOD: GLORY] Foreground: Diagram arrows in gold #D9A441. Midground: Aerial view: sledge in the center moving upward, while stickman workers on both side stairs pull downward using the posts as pulleys. Background: Stone quarry floor. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 87,
+    "script": "kayu ini bekerja mirip seperti pasak penambat tali",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: GLORY] Foreground: Heavy cast-iron harbor bollard with ship rope. Midground: Ancient timber post and modern dock bollard side-by-side in conceptual harmony. Background: Harbor water in azure #3E7CB1. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 88,
+    "script": "kapal di dermaga. Tali yang melilit kayu menahan",
+    "visual": "[SETTING_HATNUB_QUARRY] [Close-Up Shot] [MOOD: CONFLICT] Foreground: Rope biting hard into the cedar post. Midground: The wooden post flexing slightly, holding the 3-ton load firmly without slipping. Background: Dusty quarry air. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 89,
+    "script": "beban batu agar tidak merosot jatuh ke bawah.",
+    "visual": "[CHARACTER_WORKER] [SETTING_HATNUB_QUARRY] [Medium Shot] [MOOD: GLORY] Foreground: Solid stone step. Midground: Stickman haulers leaning downhill, using their own body weight to pull ropes downward with solid leverage. Background: Steep quarry canyon walls. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 90,
+    "script": "Berkat tiang ini, para pekerja bisa menarik tali",
+    "visual": "[CHARACTER_WORKER] [SETTING_HATNUB_QUARRY] [PATTERN INTERRUPT: Low-Angle Feet Action] [MOOD: GLORY] Foreground: Stickman feet planted firmly against carved stone stair risers. Midground: Stickman haulers pulling in steady unison, dot eyes determined, no slips. Background: Blue sky above the quarry rim. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 91,
+    "script": "bersama-sama sambil melangkah turun dengan pijakan kaki yang",
+    "visual": "[SETTING_HATNUB_QUARRY] [High-Angle Wide Shot] [MOOD: GLORY] Foreground: Top bollard posts. Midground: Full comprehensive view of the Hatnub ramp in action: sledge ascending smoothly between the two flanking staircases. Background: Deep quarry canyon in terracotta #B5573A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 92,
+    "script": "kokoh pada tangga samping. Peninggalan di Hatnub membuktikan",
+    "visual": "[SETTING_GIZA_RAMP] [Architectural Medium Shot] [MOOD: GLORY] Foreground: Plumb-line and wooden level on dressed stone. Midground: Stickman architect sighting along the ramp edge, nodding approvingly. Background: Mathematically crisp pyramid corner rising straight into the sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 93,
+    "script": "bahwa para pembangun di zaman itu sudah menguasai",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Shot] [MOOD: WONDER] Foreground: Stone corner in deep shadow. Midground: Construction plateau during a quiet rest pause, sledges and ropes sitting neatly. Background: Sunset sky painted in dusky twilight and glowing amber #E0894A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 94,
+    "script": "cara membagi beban berat dengan sangat pintar. Tapi",
+    "visual": "[Close-Up Shot] [MOOD: WONDER] Foreground: Round black dolerite stone hammer ball and copper chisel on wood shavings. Midground: Braided hemp ropes coiled on stone. Background: Dark limestone interior with oil lamp glow. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 95,
+    "script": "ini belum faktor penentu yang paling utama. Mesin",
+    "visual": "[CHARACTER_WORKER] [Heroic Medium Shot] [MOOD: GLORY] Foreground: Sunlit stone wall edge. Midground: Three stickman builders standing tall and proud with arms crossed or resting on hips, looking heroically toward the horizon. Background: Golden morning sky radiating light. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 96,
+    "script": "terhebat yang dimiliki bangsa Mesir kuno bukanlah kayu",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Silhouette Shot] [MOOD: CONFLICT] Foreground: Craggy rock shelf in shadow. Midground: Conceptual image of dark dust storm clouds and stylized heavy chains crumbling to dust. Background: Golden dawn breaking through the center. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 97,
+    "script": "ataupun tali temali. Mesin terbaik mereka adalah manusia",
+    "visual": "[LEGACY] [Medium Shot] [MOOD: DECLINE] Foreground: 19th-century book illustration border. Midground: Sepia-toned monochrome etching of miserable stickmen in chains dissolving into fog #A8ADA6. Background: Muted ash gray #6E7378. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 98,
+    "script": "itu sendiri. Dan di sinilah mitos terbesar dalam",
+    "visual": "[SETTING_GIZA_RAMP] [PATTERN INTERRUPT: Dramatic Color Reveal] [MOOD: GLORY] Foreground: Broken gray rock dissolving away. Midground: Sunburst exploding over the workers' town, vibrant ochre and terracotta colors popping into view. Background: Golden pyramid tiers. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 99,
+    "script": "sejarah runtuh sepenuhnya. Selama ratusan tahun, banyak orang",
+    "visual": "[SETTING_GIZA_RAMP] [Medium Shot] [MOOD: DECLINE] Foreground: Broken clay pot in gray dust. Midground: Single discarded stickman mallet sitting under an overcast sky in soot tones #3A3D40. Background: Misty pyramid base. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 100,
+    "script": "membayangkan piramida dibangun oleh ribuan budak tawanan yang",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Wide Establishing Shot] [MOOD: GLORY] Foreground: Excavation trench survey grids and string pegs. Midground: The vast excavated city layout of Heit el-Ghurab emerging from the sand. Background: The colossal limestone Wall of the Crow under clear skies. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 101,
+    "script": "kurus kering dan kelaparan. Bukti dari dalam tanah",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Medium-Wide Shot] [MOOD: GLORY] Foreground: 10-meter-high cyclopean stone masonry of the Wall of the Crow. Midground: The monumental ancient corbelled arch gate leading through the stone wall. Background: Organized residential quarters of the city. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 102,
+    "script": "membuktikan sebaliknya. Tepat di sebelah selatan dinding batu",
+    "visual": "[LEGACY] [SETTING_HEIT_EL_GHURAB] [Medium Shot] [MOOD: GLORY] Foreground: Surveyor tripod and drafting pad. Midground: A stickman archaeologist in khaki vest brushing sand from ancient red mudbrick floors with a fine hand brush. Background: Preserved gallery walls. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 103,
+    "script": "besar yang disebut Tembok Gagak, seorang peneliti bernama",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [PATTERN INTERRUPT: Sudden Wide Bird's-Eye Shot] [MOOD: GLORY] Foreground: Rooftop parapets. Midground: Sprawling orthogonal city grid of Heit el-Ghurab, showing symmetrical barrack galleries, wide streets, and bakery courtyards. Background: Nile floodplain in the distance. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 104,
+    "script": "Mark Lehner menemukan sisa kota pemukiman para pekerja",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Medium Shot] [MOOD: GLORY] Foreground: Whitewashed courtyard wall with ceramic water amphora. Midground: Spacious, clean residential gallery barracks with raised sleeping platforms and high ceilings. Background: Sunny street with stickmen chatting. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 105,
+    "script": "bernama Heit el-Ghurab. Kota ini bukanlah penjara",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Stacks of conical earthenware bread pots (bedja). Midground: Massive state bakery courtyard with dozens of circular clay ovens glowing with hot coals in ember #E0894A. Background: Busy stickman bakers tending bread pots. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 106,
+    "script": "kumuh. Tempat ini adalah pemukiman tertata rapi yang",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Medium Shot] [MOOD: GLORY] Foreground: Large fermentation vats sealed with clay stoppers. Midground: Ancient Egyptian brewery where stickman workers strain malted emmer mash through woven cloth into jars. Background: Cool shaded mudbrick storerooms. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 107,
+    "script": "sangat luas. Di sana, para ahli menemukan puluhan",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Close-Up Shot] [MOOD: GLORY] Foreground: Sorting sieve tray. Midground: Massive dense layer of butchered animal bones—cattle ribs and sheep joints—piled neatly in an archaeological deposit. Background: Trench wall in warm clay #8B6B4F. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 108,
+    "script": "tempat pembakaran roti, tempat pengolahan minuman, serta tumpukan",
+    "visual": "[LEGACY] [PATTERN INTERRUPT: Lab Bone Analysis Close-Up] [MOOD: GLORY] Foreground: Precision calipers and bone identification manuals. Midground: Stickman zooarchaeologist with magnifying glass measuring a large prime cattle jawbone. Background: Lab shelves lined with numbered bone boxes. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 109,
+    "script": "tulang sisa makanan dalam jumlah luar biasa banyak. Seorang",
+    "visual": "[Graphic Diagrammatic Shot] [MOOD: GLORY] Foreground: Papyrus parchment texture. Midground: Stylized 2D graphic counter multiplying cattle, sheep, and bread loaf icons across the screen, glowing in gold #D9A441. Background: Dark warm parchment background. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 110,
+    "script": "ahli tulang hewan bernama Richard Redding meneliti lebih dari",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Wide Shot] [MOOD: GLORY] Foreground: Wooden corral fence. Midground: Herds of prime cattle and sheep being guided into the royal butchery enclosures by stickman drovers. Background: Floodplain under azure sky #3E7CB1. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 111,
+    "script": "seratus ribu pecahan tulang di tempat itu. Datanya",
+    "visual": "[CHARACTER_WORKER] [SETTING_HEIT_EL_GHURAB] [PATTERN INTERRUPT: Joyful Stickman Banquet] [MOOD: GLORY] Foreground: Steaming platters of roast meat cuts, roasted garlic, and bread. Midground: Stickman workers sitting happily around a feast, one chewing on a big roast bone with huge happy curved eyes, another chugging beer. Background: Warm dining hall with oil lamps. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 112,
+    "script": "sangat terang. Setiap hari, ribuan kilogram daging diolah",
+    "visual": "[MAP_NILE_CORRIDOR] [High-Angle Map Shot] [MOOD: GLORY] Foreground: Grain border. Midground: Animated golden arrows carrying cattle pictograms flowing southward from the lush green Nile Delta straight into Giza. Background: Parchment map. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 113,
+    "script": "untuk makanan para pekerja. Mereka menyantap daging sapi",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Sacks of grain and baskets of dried beans. Midground: Massive mudbrick Royal Administrative Building at Heit el-Ghurab with domed grain silos and clerks distributing rations. Background: Sunny sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 114,
+    "script": "muda, domba, dan kambing yang didatangkan langsung dari",
+    "visual": "[OBJECT_PAPYRUS_ROLL] [Close-Up Shot] [MOOD: GLORY] Foreground: Royal cartouche seal impression. Midground: Papyrus ration ledger showing neat tallies of bread, beer, and beef with red checkmarks. Background: Scribe desk. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 115,
+    "script": "peternakan subur di wilayah utara. Pasokan makanan kaya",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Wide Shot] [MOOD: GLORY] Foreground: Stone marker. Midground: Work crews assembled in neat military-style blocks across the terrace, carrying distinct animal-totem standard poles. Background: Rising pyramid courses. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 116,
+    "script": "protein ini disiapkan langsung oleh lumbung resmi pemerintah.",
+    "visual": "[Close-Up Shot] [MOOD: GLORY] Foreground: Dressed stone face. Midground: Red ochre graffiti painted with bold brushstrokes on the hidden interior face of a limestone casing block. Background: Sunny limestone texture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 117,
+    "script": "Bahkan catatan pengawas menunjukkan para pekerja dibagi ke dalam",
+    "visual": "[CHARACTER_WORKER] [Medium Shot] [MOOD: GLORY] Foreground: Clay paint pot with red ochre. Midground: A stickman painter standing back from the stone block, brush in hand, with a proud smiling curve mouth, giving a thumbs-up. Background: Comrades cheering. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 118,
+    "script": "regu-regu teratur yang disebut phyle. Kelompok kerja ini",
+    "visual": "[Close-Up Shot] [MOOD: GLORY] Foreground: Stone edge. Midground: Red ochre cartouche glyph of King Khufu enclosed in stylized knotwork on the limestone block. Background: Sunny sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 119,
+    "script": "menorehkan nama tim mereka sendiri pada dinding batu",
+    "visual": "[CHARACTER_WORKER] [SETTING_HEIT_EL_GHURAB] [PATTERN INTERRUPT: Cheerful Toast] [MOOD: GLORY] Foreground: Beer jars on low table. Midground: Group of stickman workers toasting earthenware cups, laughing happily with big open mouths in an open courtyard. Background: Terracotta town walls under sunset. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 120,
+    "script": "dengan rasa bangga. Ada regu yang menamai diri",
+    "visual": "[CHARACTER_WORKER] [SETTING_NILE_PORT] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Boat landing ramp. Midground: Healthy stickman farmers stepping off river boats, greeted respectfully with smiles by royal scribes with registration papyri. Background: Sunlit pyramid in distance. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 121,
+    "script": "mereka Teman Khufu. Ada pula yang menamai kelompoknya",
+    "visual": "[SETTING_NILE_PORT] [Wide Panoramic Shot] [MOOD: WONDER] Foreground: Palm fronds. Midground: Entire Nile valley submerged under tranquil, glass-like floodwaters reflecting a pink and golden dawn sky. Background: Island farm villages on high mounds. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 122,
+    "script": "Pemabuk Menkaure. Mereka bukanlah kelompok orang tertindas. Mereka",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Wide Heroic Shot] [MOOD: GLORY] Foreground: Stone causeway flags. Midground: Throngs of energetic stickman workers marching up the grand causeway toward the towering pyramid under radiant sunbeams. Background: Golden pyramid summit glowing against deep azure. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 123,
+    "script": "adalah warga yang datang bekerja secara bergiliran saat",
+    "visual": "[SETTING_NILE_PORT] [Medium Shot] [MOOD: GLORY] Foreground: River reeds. Midground: Farmers happily putting away farming tools and boarding boats headed toward the capital. Background: Rising river under golden morning sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 124,
+    "script": "lahan pertanian mereka sedang terendam banjir luapan sungai.",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Medium Shot] [MOOD: CONFLICT] Foreground: Fallen wooden roller. Midground: A stickman worker slipped onto the ground holding his arm; two fellow stickmen immediately rush forward to support him with concerned expressions. Background: Stone blocks under storm gray clouds #5A5F66. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 125,
+    "script": "Lalu, apa yang terjadi jika ada pekerja yang",
+    "visual": "[SETTING_GIZA_RAMP] [Medium Shot] [MOOD: DECLINE] Foreground: Broken rope in gray sand. Midground: Cold visual metaphor of abandonment in ash gray #6E7378 and fog #A8ADA6, dissolving into mist. Background: Overcast sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 126,
+    "script": "celaka saat bertugas? Jika mereka budak yang tidak",
+    "visual": "[SETTING_GIZA_RAMP] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Stone mastaba tombs. Midground: The organized builders' cemetery on the slope south of the Great Pyramid, glowing under warm golden sunlight. Background: Pyramid base. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 127,
+    "script": "dihargai, mereka tentu akan dibuang begitu saja. Tapi",
+    "visual": "[LEGACY] [Close-Up Shot] [MOOD: LEGACY] Foreground: Magnifying glass and calipers. Midground: Forensic scientist examining an ancient skeleton on a velvet tray with delicate tweezers under cool blue light #2A5C8A. Background: Lab drawers. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 128,
+    "script": "kuburan para pekerja di dekat piramida bercerita lain.",
+    "visual": "[LEGACY] [PATTERN INTERRUPT: Extreme Close-Up Healed Bone] [MOOD: LEGACY] Foreground: Medical grid lines. Midground: Ancient forearm bone with a completely smoothed, perfectly healed fracture callus glowing in soft gold #F2C76B. Background: Dark stone background. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 129,
+    "script": "Pemeriksaan pada kerangka tulang para pekerja menunjukkan tanda-tanda",
+    "visual": "[Medium Shot] [MOOD: GLORY] Foreground: Linen rolls and wooden splints. Midground: A stickman doctor in clean white kilt carefully wrapping linen bandages around an injured stickman's arm bound with neat wooden splints. Background: Warm shaded medical tent. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 130,
+    "script": "perawatan medis yang sangat maju. Ditemukan tulang lengan",
+    "visual": "[LEGACY] [Close-Up Shot] [MOOD: LEGACY] Foreground: Magnifying ring. Midground: Skeletal arm bone showing an ancient surgical amputation with beautifully rounded, fully healed cortical bone closure. Background: Blue lab background. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 131,
+    "script": "patah yang dibidai dengan kayu hingga tersambung dan",
+    "visual": "[Medium Shot] [MOOD: GLORY] Foreground: Herbal jars with honey ointment. Midground: Stickman doctor checking the resting amputee worker who sits up comfortably on a woven bed, smiling with gratitude. Background: Sunny clinic window. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 132,
+    "script": "sembuh dengan baik. Ada pula pekerja yang tangannya",
+    "visual": "[LEGACY] [Macro Shot] [MOOD: LEGACY] Foreground: Clean bone surface. Midground: Detailed macro view of smooth bone remodel, zero infection marks, glowing with healthy golden rim light #F2C76B. Background: Dark slate background. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 133,
+    "script": "terpaksa diamputasi akibat kecelakaan kerja berat. Bekas pemotongan",
+    "visual": "[CHARACTER_WORKER] [SETTING_HEIT_EL_GHURAB] [Medium Shot] [MOOD: GLORY] Foreground: Vine trellis shade. Midground: The one-armed stickman worker, now an older veteran, happily sitting in the town square sharing stories with younger stickman apprentices. Background: Mudbrick town under golden sunset. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 134,
+    "script": "tulang itu tampak rapi dan sembuh total tanpa",
+    "visual": "[SETTING_HEIT_EL_GHURAB] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Clay bowl of figs and jug of beer on an outdoor table. Midground: Workers and families eating bread together in a warm courtyard, laughing. Background: Golden pyramid peak framed between houses. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 135,
+    "script": "infeksi. Artinya, pria itu tetap dirawat, diberi makan,",
+    "visual": "[Medium Shot] [MOOD: GLORY] Foreground: Palace lotus column on the left; clinic tent on the right. Midground: Identical medicinal jars and treatments administered to a noble stickman in gold collar on the left and a worker stickman on the right. Background: Warm golden glow. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 136,
+    "script": "dan terus hidup normal bertahun-tahun setelah kejadian tersebut.",
+    "visual": "[SETTING_GIZA_RAMP] [Medium Shot] [MOOD: WONDER] Foreground: Stone offering slab. Midground: A solemn, dignified stickman funeral procession carrying a wooden coffin into a vaulted brick mastaba. Background: Sunset sky over Giza in navy #0E1A33 and ember #E0894A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 137,
+    "script": "Perawatan kesehatan yang mereka nikmati setara dengan fasilitas",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Heroic Shot] [MOOD: WONDER] Foreground: Small worker mastaba tombs. Midground: Worker cemetery on the ridge. Background: The Great Pyramid rising behind the tombs under a majestic starry night sky. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 138,
+    "script": "untuk para pembesar istana. Saat meninggal dunia, mereka",
+    "visual": "[Medium Close-Up Shot] [MOOD: WONDER] Foreground: Ceramic plate with round loaves of bread and two sealed beer jars placed neatly in a tomb niche. Midground: Soft oil lamp flame illuminating the mudbrick burial vault. Background: Carved false-door stele. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 139,
+    "script": "dimakamkan dengan layak di samping piramida yang mereka",
+    "visual": "[Close-Up Shot] [MOOD: WONDER] Foreground: Carved relief border. Midground: Carved stone stele of the deceased stickman seated proudly before an offering table with loaves of bread, lit with warm golden light. Background: Tomb shadow. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 140,
+    "script": "dirikan, lengkap dengan bekal kendi minuman dan periuk",
+    "visual": "[SETTING_GIZA_RAMP] [PATTERN INTERRUPT: Grand Plateau Panorama] [MOOD: GLORY] Foreground: Bedrock plateau with surveyor flags. Midground: Sweeping panoramic view of the three Giza pyramids rising golden and complete under high midday sun. Background: Nile river valley and crystal azure sky #3E7CB1. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 141,
+    "script": "makanan. Sekarang kita tahu jawabannya. Piramida Giza tidak",
+    "visual": "[Conceptual Wide Shot] [MOOD: GLORY] Foreground: Copper chisel, stone hammer, and unrolled papyrus scroll resting on stone. Midground: Golden radiant sunbeams breaking through dispersing dark clouds, revealing honest human tools. Background: Pyramid tiers. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 142,
+    "script": "dibangun dengan keajaiban mistis ataupun cambuk penindasan. Bangunan",
+    "visual": "[SETTING_NILE_PORT] [Wide Shot] [MOOD: GLORY] Foreground: Water lilies on ripples. Midground: The swelling golden waters of the Nile flood flowing into the canal basin, carrying stone barges. Background: Gleaming white limestone pyramids under golden sun. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 143,
+    "script": "megah itu berdiri berkat naiknya air Sungai Nil,",
+    "visual": "[OBJECT_WOODEN_SLEDGE] [Close-Up Shot] [MOOD: GLORY] Foreground: Dark wet sand track with water drops glinting. Midground: Sledge runner gliding effortlessly across the moist track with water droplets splashing softly, no berm. Background: Marching stickman feet. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 144,
+    "script": "hamparan pasir basah yang melicinkan jalan, serta puluhan",
+    "visual": "[CHARACTER_WORKER] [SETTING_GIZA_RAMP] [Medium-Wide Shot] [MOOD: GLORY] Foreground: Baskets of bread and water amphorae. Midground: Cheerful stickman builder teams working together, smiling, lifting ropes with camaraderie. Background: Sunbeams bursting through clouds over the pyramid. Generic Egyptian stickman worker has round cream head #FFF0DB, dot eyes, thin limbs, plain tan loincloth #C2A687, carrying wooden mallet, exhibiting expressive exaggerated body posture. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 145,
+    "script": "ribu tenaga manusia yang diatur, dirawat, dan diberi",
+    "visual": "[SETTING_GIZA_RAMP] [Medium Shot] [MOOD: LEGACY] Foreground: Modern visitor silhouette on the plateau trail. Midground: The monumental lower blocks of the Great Pyramid rising towering into the sky. Background: Vast open sky in cool blue #2A5C8A and gold #F2C76B. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 146,
+    "script": "makan dengan sangat layak oleh negaranya. Saat kamu",
+    "visual": "[SETTING_GIZA_RAMP] [Low-Angle Wide Shot] [MOOD: LEGACY] Foreground: Weathered limestone bedrock. Midground: Stepped corner of the Great Pyramid cutting into the sky. Background: Desert sky with a single falcon soaring high above the apex. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 147,
+    "script": "memandang puncak Piramida Agung hari ini, kamu tidak",
+    "visual": "[CHARACTER_MERER] [CHARACTER_WORKER] [Medium Heroic Shot] [MOOD: GLORY] Foreground: Papyrus scroll held in Merer’s mitten hand. Midground: Luminous golden silhouettes of Stickman Merer and his builder comrades standing proud shoulder-to-shoulder with smiling faces. Background: Golden pyramid wall glowing warmly. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 148,
+    "script": "sedang melihat tumpukan batu hasil penderitaan manusia. Kamu",
+    "visual": "[SETTING_GIZA_RAMP] [Extreme Wide Shot] [MOOD: GLORY] Foreground: Desert cliff edge. Midground: Complete panoramic view of the Great Pyramid standing proud beside the Sphinx and causeways under a setting golden sun. Background: Distant Nile ribbon glowing. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 149,
+    "script": "sedang memandang bukti nyata tentang apa yang sanggup",
+    "visual": "[CHARACTER_MERER] [CHARACTER_WORKER] [PATTERN INTERRUPT: Dynamic Triumph Medium Shot] [MOOD: GLORY] Foreground: Ropes and measuring tools on stone. Midground: Merer and diverse stickman builders raising their arms together in triumphant celebration with joyful open mouths. Background: Radiant sunbeams bursting behind the pyramid peak. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 150,
+    "script": "dicapai oleh kerja sama manusia biasa, ketika mereka",
+    "visual": "[SETTING_GIZA_RAMP] [Wide Majestic Shot] [MOOD: GLORY] Foreground: Flat dressed limestone terrace. Midground: Workers and boats standing harmoniously before the finished golden pyramid glowing in dusk light. Background: Sunset sky in soft gold #F2C76B and cool blue #2A5C8A. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  },
+  {
+    "id": 151,
+    "script": "ditopang oleh pengaturan kerja yang luar biasa rapi.",
+    "visual": "[CHARACTER_MERER] [SETTING_WADI_EL_JARF] [OBJECT_PAPYRUS_ROLL] [Finale Loop-Back Shot] [MOOD: GLORY] Foreground: Stickman Merer seated on the cliff of Wadi al-Jarf, holding his reed stylus, looking directly toward the camera with a knowing smile. Midground: Golden papyrus roll resting across his lap with grid lines subtly dissolving into the lines of the Great Pyramid on the horizon. Background: Sunset over the Red Sea fading into a peaceful dusk, looping back to the opening hook question. Stickman Merer has round cream head #FFF0DB, dot eyes, thin limbs, pleated white linen kilt #FAF6EE, green collar, arched eyebrows, holding reed pen and papyrus. STYLE LOCK: \"Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.\""
+  }
+]

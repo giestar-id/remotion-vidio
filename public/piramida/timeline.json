@@ -1,0 +1,912 @@
+{
+  "audio": "piramida/piramida.wav",
+  "audioDurationMs": 500000,
+  "scenes": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3380,
+      "image": "piramida/scene-1.jpg"
+    },
+    {
+      "id": 2,
+      "startMs": 3380,
+      "endMs": 5320,
+      "image": "piramida/scene-2.jpg"
+    },
+    {
+      "id": 3,
+      "startMs": 5320,
+      "endMs": 9200,
+      "image": "piramida/scene-3.jpg"
+    },
+    {
+      "id": 4,
+      "startMs": 9200,
+      "endMs": 13720,
+      "image": "piramida/scene-4.jpg"
+    },
+    {
+      "id": 5,
+      "startMs": 13720,
+      "endMs": 16200,
+      "image": "piramida/scene-5.jpg"
+    },
+    {
+      "id": 6,
+      "startMs": 16200,
+      "endMs": 22220,
+      "image": "piramida/scene-6.jpg"
+    },
+    {
+      "id": 7,
+      "startMs": 22220,
+      "endMs": 23620,
+      "image": "piramida/scene-7.jpg"
+    },
+    {
+      "id": 8,
+      "startMs": 23620,
+      "endMs": 27320,
+      "image": "piramida/scene-8.jpg"
+    },
+    {
+      "id": 9,
+      "startMs": 27320,
+      "endMs": 28720,
+      "image": "piramida/scene-9.jpg"
+    },
+    {
+      "id": 10,
+      "startMs": 28720,
+      "endMs": 32710,
+      "image": "piramida/scene-10.jpg"
+    },
+    {
+      "id": 11,
+      "startMs": 32710,
+      "endMs": 35250,
+      "image": "piramida/scene-11.jpg"
+    },
+    {
+      "id": 12,
+      "startMs": 35250,
+      "endMs": 38770,
+      "image": "piramida/scene-12.jpg"
+    },
+    {
+      "id": 13,
+      "startMs": 38770,
+      "endMs": 41870,
+      "image": "piramida/scene-13.jpg"
+    },
+    {
+      "id": 14,
+      "startMs": 41870,
+      "endMs": 45030,
+      "image": "piramida/scene-14.jpg"
+    },
+    {
+      "id": 15,
+      "startMs": 45030,
+      "endMs": 48960,
+      "image": "piramida/scene-15.jpg"
+    },
+    {
+      "id": 16,
+      "startMs": 48960,
+      "endMs": 51340,
+      "image": "piramida/scene-16.jpg"
+    },
+    {
+      "id": 17,
+      "startMs": 51340,
+      "endMs": 55180,
+      "image": "piramida/scene-17.jpg"
+    },
+    {
+      "id": 18,
+      "startMs": 55180,
+      "endMs": 58740,
+      "image": "piramida/scene-18.jpg"
+    },
+    {
+      "id": 19,
+      "startMs": 58740,
+      "endMs": 62080,
+      "image": "piramida/scene-19.jpg"
+    },
+    {
+      "id": 20,
+      "startMs": 62080,
+      "endMs": 65020,
+      "image": "piramida/scene-20.jpg"
+    },
+    {
+      "id": 21,
+      "startMs": 65020,
+      "endMs": 67920,
+      "image": "piramida/scene-21.jpg"
+    },
+    {
+      "id": 22,
+      "startMs": 67920,
+      "endMs": 71320,
+      "image": "piramida/scene-22.jpg"
+    },
+    {
+      "id": 23,
+      "startMs": 71320,
+      "endMs": 74560,
+      "image": "piramida/scene-23.jpg"
+    },
+    {
+      "id": 24,
+      "startMs": 74560,
+      "endMs": 76960,
+      "image": "piramida/scene-24.jpg"
+    },
+    {
+      "id": 25,
+      "startMs": 76960,
+      "endMs": 81040,
+      "image": "piramida/scene-25.jpg"
+    },
+    {
+      "id": 26,
+      "startMs": 81040,
+      "endMs": 84720,
+      "image": "piramida/scene-26.jpg"
+    },
+    {
+      "id": 27,
+      "startMs": 84720,
+      "endMs": 87680,
+      "image": "piramida/scene-27.jpg"
+    },
+    {
+      "id": 28,
+      "startMs": 87680,
+      "endMs": 89080,
+      "image": "piramida/scene-28.jpg"
+    },
+    {
+      "id": 29,
+      "startMs": 89080,
+      "endMs": 94140,
+      "image": "piramida/scene-29.jpg"
+    },
+    {
+      "id": 30,
+      "startMs": 94140,
+      "endMs": 97280,
+      "image": "piramida/scene-30.jpg"
+    },
+    {
+      "id": 31,
+      "startMs": 97280,
+      "endMs": 100300,
+      "image": "piramida/scene-31.jpg"
+    },
+    {
+      "id": 32,
+      "startMs": 100300,
+      "endMs": 102760,
+      "image": "piramida/scene-32.jpg"
+    },
+    {
+      "id": 33,
+      "startMs": 102760,
+      "endMs": 105660,
+      "image": "piramida/scene-33.jpg"
+    },
+    {
+      "id": 34,
+      "startMs": 105660,
+      "endMs": 107060,
+      "image": "piramida/scene-34.jpg"
+    },
+    {
+      "id": 35,
+      "startMs": 107060,
+      "endMs": 111560,
+      "image": "piramida/scene-35.jpg"
+    },
+    {
+      "id": 36,
+      "startMs": 111560,
+      "endMs": 115320,
+      "image": "piramida/scene-36.jpg"
+    },
+    {
+      "id": 37,
+      "startMs": 115320,
+      "endMs": 118860,
+      "image": "piramida/scene-37.jpg"
+    },
+    {
+      "id": 38,
+      "startMs": 118860,
+      "endMs": 121260,
+      "image": "piramida/scene-38.jpg"
+    },
+    {
+      "id": 39,
+      "startMs": 121260,
+      "endMs": 124560,
+      "image": "piramida/scene-39.jpg"
+    },
+    {
+      "id": 40,
+      "startMs": 124560,
+      "endMs": 128180,
+      "image": "piramida/scene-40.jpg"
+    },
+    {
+      "id": 41,
+      "startMs": 128180,
+      "endMs": 130805,
+      "image": "piramida/scene-41.jpg"
+    },
+    {
+      "id": 42,
+      "startMs": 130805,
+      "endMs": 134720,
+      "image": "piramida/scene-42.jpg"
+    },
+    {
+      "id": 43,
+      "startMs": 134720,
+      "endMs": 137740,
+      "image": "piramida/scene-43.jpg"
+    },
+    {
+      "id": 44,
+      "startMs": 137740,
+      "endMs": 140840,
+      "image": "piramida/scene-44.jpg"
+    },
+    {
+      "id": 45,
+      "startMs": 140840,
+      "endMs": 144270,
+      "image": "piramida/scene-45.jpg"
+    },
+    {
+      "id": 46,
+      "startMs": 144270,
+      "endMs": 147650,
+      "image": "piramida/scene-46.jpg"
+    },
+    {
+      "id": 47,
+      "startMs": 147650,
+      "endMs": 150270,
+      "image": "piramida/scene-47.jpg"
+    },
+    {
+      "id": 48,
+      "startMs": 150270,
+      "endMs": 153770,
+      "image": "piramida/scene-48.jpg"
+    },
+    {
+      "id": 49,
+      "startMs": 153770,
+      "endMs": 155170,
+      "image": "piramida/scene-49.jpg"
+    },
+    {
+      "id": 50,
+      "startMs": 155170,
+      "endMs": 158770,
+      "image": "piramida/scene-50.jpg"
+    },
+    {
+      "id": 51,
+      "startMs": 158770,
+      "endMs": 162310,
+      "image": "piramida/scene-51.jpg"
+    },
+    {
+      "id": 52,
+      "startMs": 162310,
+      "endMs": 165410,
+      "image": "piramida/scene-52.jpg"
+    },
+    {
+      "id": 53,
+      "startMs": 165410,
+      "endMs": 168150,
+      "image": "piramida/scene-53.jpg"
+    },
+    {
+      "id": 54,
+      "startMs": 168150,
+      "endMs": 172230,
+      "image": "piramida/scene-54.jpg"
+    },
+    {
+      "id": 55,
+      "startMs": 172230,
+      "endMs": 175010,
+      "image": "piramida/scene-55.jpg"
+    },
+    {
+      "id": 56,
+      "startMs": 175010,
+      "endMs": 178230,
+      "image": "piramida/scene-56.jpg"
+    },
+    {
+      "id": 57,
+      "startMs": 178230,
+      "endMs": 181190,
+      "image": "piramida/scene-57.jpg"
+    },
+    {
+      "id": 58,
+      "startMs": 181190,
+      "endMs": 183490,
+      "image": "piramida/scene-58.jpg"
+    },
+    {
+      "id": 59,
+      "startMs": 183490,
+      "endMs": 186246,
+      "image": "piramida/scene-59.jpg"
+    },
+    {
+      "id": 60,
+      "startMs": 186246,
+      "endMs": 188530,
+      "image": "piramida/scene-60.jpg"
+    },
+    {
+      "id": 61,
+      "startMs": 188530,
+      "endMs": 193710,
+      "image": "piramida/scene-61.jpg"
+    },
+    {
+      "id": 62,
+      "startMs": 193710,
+      "endMs": 197010,
+      "image": "piramida/scene-62.jpg"
+    },
+    {
+      "id": 63,
+      "startMs": 197010,
+      "endMs": 199750,
+      "image": "piramida/scene-63.jpg"
+    },
+    {
+      "id": 64,
+      "startMs": 199750,
+      "endMs": 202610,
+      "image": "piramida/scene-64.jpg"
+    },
+    {
+      "id": 65,
+      "startMs": 202610,
+      "endMs": 206350,
+      "image": "piramida/scene-65.jpg"
+    },
+    {
+      "id": 66,
+      "startMs": 206350,
+      "endMs": 207970,
+      "image": "piramida/scene-66.jpg"
+    },
+    {
+      "id": 67,
+      "startMs": 207970,
+      "endMs": 211910,
+      "image": "piramida/scene-67.jpg"
+    },
+    {
+      "id": 68,
+      "startMs": 211910,
+      "endMs": 215230,
+      "image": "piramida/scene-68.jpg"
+    },
+    {
+      "id": 69,
+      "startMs": 215230,
+      "endMs": 218590,
+      "image": "piramida/scene-69.jpg"
+    },
+    {
+      "id": 70,
+      "startMs": 218590,
+      "endMs": 222480,
+      "image": "piramida/scene-70.jpg"
+    },
+    {
+      "id": 71,
+      "startMs": 222480,
+      "endMs": 225900,
+      "image": "piramida/scene-71.jpg"
+    },
+    {
+      "id": 72,
+      "startMs": 225900,
+      "endMs": 228478,
+      "image": "piramida/scene-72.jpg"
+    },
+    {
+      "id": 73,
+      "startMs": 228478,
+      "endMs": 231940,
+      "image": "piramida/scene-73.jpg"
+    },
+    {
+      "id": 74,
+      "startMs": 231940,
+      "endMs": 236120,
+      "image": "piramida/scene-74.jpg"
+    },
+    {
+      "id": 75,
+      "startMs": 236120,
+      "endMs": 239220,
+      "image": "piramida/scene-75.jpg"
+    },
+    {
+      "id": 76,
+      "startMs": 239220,
+      "endMs": 242560,
+      "image": "piramida/scene-76.jpg"
+    },
+    {
+      "id": 77,
+      "startMs": 242560,
+      "endMs": 246400,
+      "image": "piramida/scene-77.jpg"
+    },
+    {
+      "id": 78,
+      "startMs": 246400,
+      "endMs": 248800,
+      "image": "piramida/scene-78.jpg"
+    },
+    {
+      "id": 79,
+      "startMs": 248800,
+      "endMs": 253200,
+      "image": "piramida/scene-79.jpg"
+    },
+    {
+      "id": 80,
+      "startMs": 253200,
+      "endMs": 256040,
+      "image": "piramida/scene-80.jpg"
+    },
+    {
+      "id": 81,
+      "startMs": 256040,
+      "endMs": 259820,
+      "image": "piramida/scene-81.jpg"
+    },
+    {
+      "id": 82,
+      "startMs": 259820,
+      "endMs": 262860,
+      "image": "piramida/scene-82.jpg"
+    },
+    {
+      "id": 83,
+      "startMs": 262860,
+      "endMs": 265380,
+      "image": "piramida/scene-83.jpg"
+    },
+    {
+      "id": 84,
+      "startMs": 265380,
+      "endMs": 267660,
+      "image": "piramida/scene-84.jpg"
+    },
+    {
+      "id": 85,
+      "startMs": 267660,
+      "endMs": 271960,
+      "image": "piramida/scene-85.jpg"
+    },
+    {
+      "id": 86,
+      "startMs": 271960,
+      "endMs": 273360,
+      "image": "piramida/scene-86.jpg"
+    },
+    {
+      "id": 87,
+      "startMs": 273360,
+      "endMs": 278460,
+      "image": "piramida/scene-87.jpg"
+    },
+    {
+      "id": 88,
+      "startMs": 278460,
+      "endMs": 281660,
+      "image": "piramida/scene-88.jpg"
+    },
+    {
+      "id": 89,
+      "startMs": 281660,
+      "endMs": 284790,
+      "image": "piramida/scene-89.jpg"
+    },
+    {
+      "id": 90,
+      "startMs": 284790,
+      "endMs": 287750,
+      "image": "piramida/scene-90.jpg"
+    },
+    {
+      "id": 91,
+      "startMs": 287750,
+      "endMs": 290990,
+      "image": "piramida/scene-91.jpg"
+    },
+    {
+      "id": 92,
+      "startMs": 290990,
+      "endMs": 294490,
+      "image": "piramida/scene-92.jpg"
+    },
+    {
+      "id": 93,
+      "startMs": 294490,
+      "endMs": 297370,
+      "image": "piramida/scene-93.jpg"
+    },
+    {
+      "id": 94,
+      "startMs": 297370,
+      "endMs": 300430,
+      "image": "piramida/scene-94.jpg"
+    },
+    {
+      "id": 95,
+      "startMs": 300430,
+      "endMs": 303710,
+      "image": "piramida/scene-95.jpg"
+    },
+    {
+      "id": 96,
+      "startMs": 303710,
+      "endMs": 307010,
+      "image": "piramida/scene-96.jpg"
+    },
+    {
+      "id": 97,
+      "startMs": 307010,
+      "endMs": 310930,
+      "image": "piramida/scene-97.jpg"
+    },
+    {
+      "id": 98,
+      "startMs": 310930,
+      "endMs": 314130,
+      "image": "piramida/scene-98.jpg"
+    },
+    {
+      "id": 99,
+      "startMs": 314130,
+      "endMs": 318350,
+      "image": "piramida/scene-99.jpg"
+    },
+    {
+      "id": 100,
+      "startMs": 318350,
+      "endMs": 321530,
+      "image": "piramida/scene-100.jpg"
+    },
+    {
+      "id": 101,
+      "startMs": 321530,
+      "endMs": 324670,
+      "image": "piramida/scene-101.jpg"
+    },
+    {
+      "id": 102,
+      "startMs": 324670,
+      "endMs": 328150,
+      "image": "piramida/scene-102.jpg"
+    },
+    {
+      "id": 103,
+      "startMs": 328150,
+      "endMs": 331210,
+      "image": "piramida/scene-103.jpg"
+    },
+    {
+      "id": 104,
+      "startMs": 331210,
+      "endMs": 334390,
+      "image": "piramida/scene-104.jpg"
+    },
+    {
+      "id": 105,
+      "startMs": 334390,
+      "endMs": 337530,
+      "image": "piramida/scene-105.jpg"
+    },
+    {
+      "id": 106,
+      "startMs": 337530,
+      "endMs": 341050,
+      "image": "piramida/scene-106.jpg"
+    },
+    {
+      "id": 107,
+      "startMs": 341050,
+      "endMs": 345010,
+      "image": "piramida/scene-107.jpg"
+    },
+    {
+      "id": 108,
+      "startMs": 345010,
+      "endMs": 348950,
+      "image": "piramida/scene-108.jpg"
+    },
+    {
+      "id": 109,
+      "startMs": 348950,
+      "endMs": 352830,
+      "image": "piramida/scene-109.jpg"
+    },
+    {
+      "id": 110,
+      "startMs": 352830,
+      "endMs": 356150,
+      "image": "piramida/scene-110.jpg"
+    },
+    {
+      "id": 111,
+      "startMs": 356150,
+      "endMs": 359350,
+      "image": "piramida/scene-111.jpg"
+    },
+    {
+      "id": 112,
+      "startMs": 359350,
+      "endMs": 363170,
+      "image": "piramida/scene-112.jpg"
+    },
+    {
+      "id": 113,
+      "startMs": 363170,
+      "endMs": 366510,
+      "image": "piramida/scene-113.jpg"
+    },
+    {
+      "id": 114,
+      "startMs": 366510,
+      "endMs": 370350,
+      "image": "piramida/scene-114.jpg"
+    },
+    {
+      "id": 115,
+      "startMs": 370350,
+      "endMs": 374110,
+      "image": "piramida/scene-115.jpg"
+    },
+    {
+      "id": 116,
+      "startMs": 374110,
+      "endMs": 378410,
+      "image": "piramida/scene-116.jpg"
+    },
+    {
+      "id": 117,
+      "startMs": 378410,
+      "endMs": 382170,
+      "image": "piramida/scene-117.jpg"
+    },
+    {
+      "id": 118,
+      "startMs": 382170,
+      "endMs": 386010,
+      "image": "piramida/scene-118.jpg"
+    },
+    {
+      "id": 119,
+      "startMs": 386010,
+      "endMs": 388450,
+      "image": "piramida/scene-119.jpg"
+    },
+    {
+      "id": 120,
+      "startMs": 388450,
+      "endMs": 391190,
+      "image": "piramida/scene-120.jpg"
+    },
+    {
+      "id": 121,
+      "startMs": 391190,
+      "endMs": 394390,
+      "image": "piramida/scene-121.jpg"
+    },
+    {
+      "id": 122,
+      "startMs": 394390,
+      "endMs": 399120,
+      "image": "piramida/scene-122.jpg"
+    },
+    {
+      "id": 123,
+      "startMs": 399120,
+      "endMs": 402400,
+      "image": "piramida/scene-123.jpg"
+    },
+    {
+      "id": 124,
+      "startMs": 402400,
+      "endMs": 405820,
+      "image": "piramida/scene-124.jpg"
+    },
+    {
+      "id": 125,
+      "startMs": 405820,
+      "endMs": 408380,
+      "image": "piramida/scene-125.jpg"
+    },
+    {
+      "id": 126,
+      "startMs": 408380,
+      "endMs": 411540,
+      "image": "piramida/scene-126.jpg"
+    },
+    {
+      "id": 127,
+      "startMs": 411540,
+      "endMs": 415960,
+      "image": "piramida/scene-127.jpg"
+    },
+    {
+      "id": 128,
+      "startMs": 415960,
+      "endMs": 419400,
+      "image": "piramida/scene-128.jpg"
+    },
+    {
+      "id": 129,
+      "startMs": 419400,
+      "endMs": 422800,
+      "image": "piramida/scene-129.jpg"
+    },
+    {
+      "id": 130,
+      "startMs": 422800,
+      "endMs": 426400,
+      "image": "piramida/scene-130.jpg"
+    },
+    {
+      "id": 131,
+      "startMs": 426400,
+      "endMs": 428960,
+      "image": "piramida/scene-131.jpg"
+    },
+    {
+      "id": 132,
+      "startMs": 428960,
+      "endMs": 431920,
+      "image": "piramida/scene-132.jpg"
+    },
+    {
+      "id": 133,
+      "startMs": 431920,
+      "endMs": 435940,
+      "image": "piramida/scene-133.jpg"
+    },
+    {
+      "id": 134,
+      "startMs": 435940,
+      "endMs": 438520,
+      "image": "piramida/scene-134.jpg"
+    },
+    {
+      "id": 135,
+      "startMs": 438520,
+      "endMs": 442560,
+      "image": "piramida/scene-135.jpg"
+    },
+    {
+      "id": 136,
+      "startMs": 442560,
+      "endMs": 447120,
+      "image": "piramida/scene-136.jpg"
+    },
+    {
+      "id": 137,
+      "startMs": 447120,
+      "endMs": 450300,
+      "image": "piramida/scene-137.jpg"
+    },
+    {
+      "id": 138,
+      "startMs": 450300,
+      "endMs": 454160,
+      "image": "piramida/scene-138.jpg"
+    },
+    {
+      "id": 139,
+      "startMs": 454160,
+      "endMs": 456960,
+      "image": "piramida/scene-139.jpg"
+    },
+    {
+      "id": 140,
+      "startMs": 456960,
+      "endMs": 460420,
+      "image": "piramida/scene-140.jpg"
+    },
+    {
+      "id": 141,
+      "startMs": 460420,
+      "endMs": 466000,
+      "image": "piramida/scene-141.jpg"
+    },
+    {
+      "id": 142,
+      "startMs": 466000,
+      "endMs": 470360,
+      "image": "piramida/scene-142.jpg"
+    },
+    {
+      "id": 143,
+      "startMs": 470360,
+      "endMs": 473760,
+      "image": "piramida/scene-143.jpg"
+    },
+    {
+      "id": 144,
+      "startMs": 473760,
+      "endMs": 477220,
+      "image": "piramida/scene-144.jpg"
+    },
+    {
+      "id": 145,
+      "startMs": 477220,
+      "endMs": 481068,
+      "image": "piramida/scene-145.jpg"
+    },
+    {
+      "id": 146,
+      "startMs": 481068,
+      "endMs": 484500,
+      "image": "piramida/scene-146.jpg"
+    },
+    {
+      "id": 147,
+      "startMs": 484500,
+      "endMs": 487400,
+      "image": "piramida/scene-147.jpg"
+    },
+    {
+      "id": 148,
+      "startMs": 487400,
+      "endMs": 488800,
+      "image": "piramida/scene-148.jpg"
+    },
+    {
+      "id": 149,
+      "startMs": 488800,
+      "endMs": 493760,
+      "image": "piramida/scene-149.jpg"
+    },
+    {
+      "id": 150,
+      "startMs": 493760,
+      "endMs": 496720,
+      "image": "piramida/scene-150.jpg"
+    },
+    {
+      "id": 151,
+      "startMs": 496720,
+      "endMs": 500000,
+      "image": "piramida/scene-151.jpg"
+    }
+  ]
+}
