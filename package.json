@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render MainVideo out/video.mp4"
+    "build": "remotion render MainVideo out/video.mp4",
+    "render:orang-indo": "remotion render OrangIndoPertama out/orang_indo_pertama_full.mp4",
+    "render:majapahit": "remotion render SejarahMajapahit out/sejarah_majapahit_full.mp4",
+    "render:duo": "remotion render OrangIndoPertama out/orang_indo_pertama_full.mp4 && remotion render SejarahMajapahit out/sejarah_majapahit_full.mp4"
   },
   "dependencies": {
     "@remotion/captions": "4.0.539",

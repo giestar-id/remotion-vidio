@@ -5,6 +5,8 @@ import sys
 import wave
 import contextlib
 import numpy as np
+
+os.environ["HF_HOME"] = os.environ.get("HF_HOME", r"D:\hf-models")
 from faster_whisper import WhisperModel
 
 def load_audio_16k(audio_path):
@@ -40,6 +42,7 @@ def main():
     parser.add_argument("--audio", required=True, help="Path to input audio file")
     parser.add_argument("--out", default="public/stickman/captions.whisper.json", help="Path to output captions JSON")
     parser.add_argument("--model", default="base", help="Whisper model size (base, small, medium)")
+    parser.add_argument("--download_root", default=r"D:\hf-models", help="Directory where model is stored")
     parser.add_argument("--language", default="id", help="Audio language code (e.g. id)")
     parser.add_argument("--device", default="cpu", help="Device to use (cpu or cuda)")
     parser.add_argument("--compute_type", default="int8", help="Compute type (int8, float16, float32)")
@@ -55,8 +58,8 @@ def main():
     duration_ms = int(round(duration_sec * 1000))
     print(f"Audio loaded: {duration_sec:.2f}s ({duration_ms} ms)")
 
-    print(f"Loading Whisper model '{args.model}' ({args.device}, {args.compute_type})...")
-    model = WhisperModel(args.model, device=args.device, compute_type=args.compute_type)
+    print(f"Loading Whisper model '{args.model}' from '{args.download_root}' ({args.device}, {args.compute_type})...")
+    model = WhisperModel(args.model, device=args.device, compute_type=args.compute_type, download_root=args.download_root)
     
     print(f"Transcribing (language: {args.language})...")
     segments, info = model.transcribe(

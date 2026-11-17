@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "script": "Bulan Oktober tahun 1891, seorang dokter asal Belanda berdiri di",
+    "visual": "[CHARACTER_DUBOIS] [SETTING_TRINIL_RIVERBANK] [Wide shot] [WONDER] In 1891 Trinil, character CHARACTER_DUBOIS stands on the muddy riverbank of SETTING_TRINIL_RIVERBANK on frame left holding his magnifying glass, looking down at excavation trenches by the brown river as morning fog drifts, foreground framed by leafy bamboo branches. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide shot of riverbank. Slow push-in toward CHARACTER_DUBOIS as morning mist drifts across the brown river. Dubois lowers his magnifying glass slightly and holds."
+  },
+  {
+    "id": 2,
+    "script": "tepi Sungai Bengawan Solo di Desa Trinil, Jawa Timur.",
+    "visual": "[CHARACTER_DUBOIS] [CHARACTER_WORKER] [OBJECT_BONE_SPADE] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] On the riverbank of SETTING_TRINIL_RIVERBANK, character CHARACTER_DUBOIS watches on frame right with hand on chin while character CHARACTER_WORKER in center digs into the exposed brown silt layer using OBJECT_BONE_SPADE, foreground framed by wicker dirt baskets. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow horizontal pan right as CHARACTER_WORKER drives the shovel into the sediment with a small stickman bounce; CHARACTER_DUBOIS nods once, holding the pose."
+  },
+  {
+    "id": 3,
+    "script": "Namanya Eugène Dubois. Di tengah tanah basah dan terik",
+    "visual": "[CHARACTER_DUBOIS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] Under the glaring tropical sun on SETTING_TRINIL_RIVERBANK, character CHARACTER_DUBOIS stands on frame left, wiping his brow with one hand while holding his cork helmet, bamboo trench shoring framing the midground, sunlight gleaming through towering teak trees. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow zoom-out revealing the heat shimmer in the air and sunlight flickering through teak leaves. Dubois places his helmet back onto his head and holds."
+  },
+  {
+    "id": 4,
+    "script": "matahari, para pekerjanya mengangkat sepotong tulang membatu",
+    "visual": "[CHARACTER_WORKER] [OBJECT_TRINIL_SKULLCAP] [SETTING_TRINIL_RIVERBANK] [Medium shot] [WONDER] Inside the muddy excavation pit of SETTING_TRINIL_RIVERBANK, two generic stickmen laborers on frame left and right lift OBJECT_TRINIL_SKULLCAP out of the wet gravel layer with wide open mouths and raised arms, water dripping from the dark stone fossil. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot inside the pit. Slow upward pedestal move as the workers carefully raise the fossil out of the trench bed, mud droplets falling, holding on their astonished faces."
+  },
+  {
+    "id": 5,
+    "script": "dari kedalaman tanah. Bentuknya melengkung tebal, mirip kera",
+    "visual": "[OBJECT_TRINIL_SKULLCAP] [Extreme close-up] [WONDER] Extreme close-up pattern interrupt focusing on OBJECT_TRINIL_SKULLCAP resting on the mitten hands of a stickman, showing the thick mineralized stony brow-ridge and low cranial curve in warm earth tones, background completely blurred into soft brown river silt. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on macro view of the fossil. Subtle push-in with a warm amber rim-light shimmering across the dark mineral ridge, hands tilting slightly to catch the light, held final frame."
+  },
+  {
+    "id": 6,
+    "script": "besar. Tapi setahun kemudian, sekitar 12 meter dari",
+    "visual": "[CHARACTER_DUBOIS] [SETTING_TRINIL_RIVERBANK] [Wide shot] [DECLINE] Wide landscape of SETTING_TRINIL_RIVERBANK under overcast rainy skies, character CHARACTER_DUBOIS stands solitary on frame left staring across a twelve-meter gap of muddy river trenches toward an empty flagged wooden marker on frame right. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide shot. Slow pan right across the rainy muddy excavation trenches from Dubois to the wooden marker on the opposite bank, rain ripples expanding on puddles, held frame."
+  },
+  {
+    "id": 7,
+    "script": "titik yang sama, mereka menemukan tulang paha kiri yang",
+    "visual": "[CHARACTER_WORKER] [OBJECT_TRINIL_FEMUR] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] At the newly dug trench on SETTING_TRINIL_RIVERBANK, character CHARACTER_WORKER on frame right kneels in the silt, gently brushing dirt away from the long straight shaft of OBJECT_TRINIL_FEMUR resting horizontally in the sandstone bed, wooden trowel beside him. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow push-in toward the worker's hands as his mitten brush sweeps fine sand off the fossil, revealing its pristine shaft, ending on held profile."
+  },
+  {
+    "id": 8,
+    "script": "lurus. Pemilik tulang itu berjalan tegak, sama seperti kita",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] Silhouette-style depiction along the primeval riverbank of SETTING_TRINIL_RIVERBANK, character CHARACTER_ERECTUS walks fully upright with confident bipedal strides toward frame right, sun rays piercing dramatic golden clouds in background. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on profile view. Parallax slide right as CHARACTER_ERECTUS takes two steady steps forward in full bipedal gait against the golden sunrise, ending on a dignified held stance."
+  },
+  {
+    "id": 9,
+    "script": "hari ini. Dubois yakin dia sudah menemukan manusia purba",
+    "visual": "[CHARACTER_DUBOIS] [OBJECT_TRINIL_SKULLCAP] [OBJECT_TRINIL_FEMUR] [SETTING_TRINIL_RIVERBANK] [Close-up] [GLORY] Pattern interrupt close-up of character CHARACTER_DUBOIS on frame left with arched proud eyebrows, holding OBJECT_TRINIL_SKULLCAP in one hand and OBJECT_TRINIL_FEMUR in the other, bathed in golden afternoon sunlight filtering through bamboo leaves. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of Dubois. Subtle slow push-in as Dubois brings both fossils together in front of his chest, golden sunbeam flaring slightly across his spectacles, held frame."
+  },
+  {
+    "id": 10,
+    "script": "tertua di kepulauan ini. Tapi siapa sebenarnya sosok paling",
+    "visual": "[SETTING_TRINIL_RIVERBANK] [Wide shot] [WONDER] Vast panoramic wide shot of the prehistoric Bengawan Solo river winding through mist-covered ancient Java valley, giant Stegodon herd visible in distant haze on frame left, river glittering under mysterious twilight sky, no human in sight. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide landscape. Slow backward zoom-out elevating the camera angle as twilight settles and gentle river ripples shimmer under purple-blue evening clouds, held view."
+  },
+  {
+    "id": 11,
+    "script": "awal yang menginjakkan kaki di nusantara? Jawabannya ternyata",
+    "visual": "[MAP_SUNDA_CONTINENT] [High-angle map] [WONDER] High-angle curved map view of MAP_SUNDA_CONTINENT on aged parchment, showing the vast continent of Sundaland, golden glowing paths branching from mainland Asia down into the landmasses of Sumatra, Java, and Borneo across green plains. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on full map view. Smooth downward push-in as soft golden light lines trace migration paths southward across the parchment terrain, pulsing gently at landing points, held frame."
+  },
+  {
+    "id": 12,
+    "script": "bukan satu kelompok saja, melainkan tiga babak kedatangan yang",
+    "visual": "[CHARACTER_ERECTUS] [CHARACTER_FLORESIENSIS] [CHARACTER_SAPIENS] [Medium shot] [LEGACY] Split three-figure lineup in artistic shadow, character CHARACTER_ERECTUS on frame left holding shark tooth, character CHARACTER_FLORESIENSIS in center standing 2 heads tall, character CHARACTER_SAPIENS on frame right holding blowpipe, each on distinct stone pedestals under cool blue light. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on three-figure composition. Sequential soft light beam reveals each character from left to right: first Erectus, then Floresiensis, then Sapiens, holding on all three figures."
+  },
+  {
+    "id": 13,
+    "script": "berbeda dan masing-masing membawa cara hidup yang unik.",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] Prehistoric camp beside the river on SETTING_TRINIL_RIVERBANK, character CHARACTER_ERECTUS on frame left showing a carved bivalve shell to a generic stickman child, background showing smoke rising from a safe distant brush fire under warm ochre skies. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow pan right as distant smoke drifts across the sky; CHARACTER_ERECTUS raises the shell gently toward the child, ending on held friendly interaction."
+  },
+  {
+    "id": 14,
+    "script": "Untuk memahami ceritanya, kita perlu melihat kepulauan ini di",
+    "visual": "[MAP_SUNDA_CONTINENT] [High-angle map] [WONDER] High-angle map view of MAP_SUNDA_CONTINENT showing ocean waters receding, turning the shallow seabed between Sumatra, Java, and Borneo into a vast expanse of lush green river valley plain in warm terracotta tones. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on watery map. Smooth animated transition as ocean waters recede into dark trenches, exposing dry land bridges with soft green terrain tinting, held final frame."
+  },
+  {
+    "id": 15,
+    "script": "masa lalu. Waktu itu, Laut Jawa dan Selat Malaka",
+    "visual": "[MAP_SUNDA_CONTINENT] [Medium map shot] [WONDER] Pattern interrupt close-up on the Sunda Shelf of MAP_SUNDA_CONTINENT, showing wide grassy savannas where modern sea routes usually sit, generic stickman hunting party walking across the continuous dry ground, river pictograms winding peacefully. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of the dry land bridge. Slow horizontal tracking shot across the grassy plain following the tiny walking stickmen figures until they pause, held frame."
+  },
+  {
+    "id": 16,
+    "script": "belum ada. Yang ada hanyalah daratan luas yang menyambung",
+    "visual": "[MAP_SUNDA_CONTINENT] [Wide shot] [GLORY] Epic wide landscape vista looking across the dry Pleistocene Sundaland savanna, towering volcanic peaks in far distance, open grassland stretching to horizon, giant deer antlers framing foreground frame left. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide landscape. Slow upward camera tilt from grassy foreground to majestic snow-capped and volcanic mountains under golden sunlight, clouds drifting softly."
+  },
+  {
+    "id": 17,
+    "script": "langsung dengan benua Asia. Di daratan inilah berbagai satwa",
+    "visual": "[SETTING_TRINIL_RIVERBANK] [Wide shot] [WONDER] Prehistoric river valley panorama on SETTING_TRINIL_RIVERBANK, a herd of ancient Stegodon elephants and Axis deer walking along the wide sandy riverbank, birds flying across ochre afternoon sky, lush jungle along borders. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide valley. Parallax pan left as animal silhouettes migrate steadily along the water's edge, birds fluttering overhead across the warm horizon, held scenic frame."
+  },
+  {
+    "id": 18,
+    "script": "dan manusia purba berjalan kaki melintasi wilayah yang kelak",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] On a rocky ridge overlooking SETTING_TRINIL_RIVERBANK, character CHARACTER_ERECTUS on frame left stands tall with stick weapon resting on shoulder, leading three generic stickman family members walking along the grassy trail toward frame right. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow push-in on CHARACTER_ERECTUS as he points forward with his mitten hand; the family members walk past him toward the sunlit valley, held frame."
+  },
+  {
+    "id": 19,
+    "script": "menjadi Sumatra, Jawa, dan Kalimantan. Sosok pertama yang mendiami",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] Riverbank camp on SETTING_TRINIL_RIVERBANK, character CHARACTER_ERECTUS stands proudly in center midground under a sprawling banyan tree, looking toward the horizon while holding a carved wooden staff, volcanic mountain glowing in golden distance. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow zoom-in on CHARACTER_ERECTUS standing firm as banyan leaves rustle in the breeze, golden sunflare reflecting off his brow-ridge, held heroic posture."
+  },
+  {
+    "id": 20,
+    "script": "daratan itu adalah manusia Jawa. Awalnya, banyak yang mengira",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Close-up] [CONFLICT] Pattern interrupt close-up of character CHARACTER_ERECTUS on frame left with an exaggerated bewildered expression, big arched eyebrows and tilted head, surrounded by crude broken river cobblestones on the ground in dusty gray tones. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up. Subtle quick head-turn by CHARACTER_ERECTUS as he scratches his round cream head in comical confusion, blinking twice, then holding the puzzled gaze."
+  },
+  {
+    "id": 21,
+    "script": "mereka hanya makhluk sederhana yang hidup dari berburu dan memecah",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [CONFLICT] By a volcanic boulder on SETTING_TRINIL_RIVERBANK, character CHARACTER_ERECTUS on frame right rhythmically bangs two heavy river stones together with raised arms, stone chips scattering into the air against a dusty gray landscape. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Quick downward arm strike hammering the stones together with flying dust particles, followed by an immediate freeze and slow camera drift, held frame."
+  },
+  {
+    "id": 22,
+    "script": "batu. Tapi pandangan itu berubah ketika peneliti memeriksa kembali",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [SETTING_MODERN_LAB] [Medium shot] [LEGACY] Inside SETTING_MODERN_LAB, character CHARACTER_RESEARCHER_FEMALE on frame right leans over a specimen tray of fossilized river shells under bright cool LED lamps, holding her digital caliper with focused posture. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow push-in toward the scientist as she adjusts the caliper jaws around a shell, her glasses reflecting the crisp white lamplight, held focus."
+  },
+  {
+    "id": 23,
+    "script": "koleksi cangkang kerang sungai yang ditemukan di Trinil.",
+    "visual": "[OBJECT_PSEUDODON_SHELL] [SETTING_MODERN_LAB] [Close-up] [LEGACY] On the velvet-lined lab tray of SETTING_MODERN_LAB, several specimens of OBJECT_PSEUDODON_SHELL lie neatly arranged next to steel measurement scales, cool blue and slate shadows framing the weathered shell surfaces. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of specimen shells. Slow horizontal pan across the row of fossils, overhead spotlight gliding across the mineralized shell contours, held final frame."
+  },
+  {
+    "id": 24,
+    "script": "Pada salah satu cangkang berusia sekitar 500 ribu",
+    "visual": "[OBJECT_PSEUDODON_SHELL] [Close-up] [WONDER] Pattern interrupt macro close-up of the outer convex surface of OBJECT_PSEUDODON_SHELL, revealing crisp, intentional geometric zigzag line grooves cut into the shell surface, glowing with a soft celestial star glow #F3E9B5 against deep slate background. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on macro view. Gentle slow push-in as a delicate golden line of light traces along the zigzag groove contours from top to bottom, illuminating the engraving, held frame."
+  },
+  {
+    "id": 25,
+    "script": "tahun, ada pola garis zigzag halus yang dibuat secara sengaja",
+    "visual": "[CHARACTER_ERECTUS] [OBJECT_PSEUDODON_SHELL] [OBJECT_SHARK_TOOTH] [SETTING_TRINIL_RIVERBANK] [Close-up] [GLORY] Over-the-shoulder close-up of character CHARACTER_ERECTUS on frame left, holding OBJECT_SHARK_TOOTH in his mitten hand and carefully etching a clean geometric zigzag line onto OBJECT_PSEUDODON_SHELL under warm riverbank sunlight. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of carving action. Slow deliberate downward drag of the shark tooth tip carving the zigzag turn, tiny shell powder curling away, held steady hand pose."
+  },
+  {
+    "id": 26,
+    "script": "memakai benda runcing seperti gigi hiu. Selain itu, banyak",
+    "visual": "[OBJECT_SHARK_TOOTH] [OBJECT_PSEUDODON_SHELL] [Extreme close-up] [WONDER] Extreme close-up of the sharp triangular serrated tip of OBJECT_SHARK_TOOTH pressed firmly against the brown edge of OBJECT_PSEUDODON_SHELL, pinpoint glint of light flashing at the exact point of contact. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on extreme macro. Subtle rotation of the tooth tip back and forth against the shell surface, creating a tiny clean indentation, star-burst sparkle flare, held frame."
+  },
+  {
+    "id": 27,
+    "script": "cangkang kerang hidup yang dilubangi tepat di titik otot",
+    "visual": "[OBJECT_PSEUDODON_SHELL] [Close-up] [WONDER] Detailed anatomical diagram style on a bivalve shell showing a smooth circular puncture hole exactly 6 mm wide at the anterior adductor muscle scar location, soft amber highlight glowing around the hole, dark slate background. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on shell exterior. Soft circular light pulse illuminates the precise puncture hole, camera gently tilting to show both outer entry and inner muscle surface, held frame."
+  },
+  {
+    "id": 28,
+    "script": "penutupnya. Begitu titik otot ini ditusuk, cangkang akan",
+    "visual": "[CHARACTER_ERECTUS] [OBJECT_PSEUDODON_SHELL] [OBJECT_SHARK_TOOTH] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] Beside the river on SETTING_TRINIL_RIVERBANK, character CHARACTER_ERECTUS on frame left twists OBJECT_SHARK_TOOTH into the shell margin; the bivalve halves pop open naturally without cracking, revealing succulent meat inside. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Quick twist of Erectus's hand followed by the shell halves smoothly swinging open with a soft click effect, Erectus smiling with raised brow, held frame."
+  },
+  {
+    "id": 29,
+    "script": "langsung terbuka tanpa harus dipecahkan, sehingga dagingnya utuh",
+    "visual": "[CHARACTER_ERECTUS] [OBJECT_PSEUDODON_SHELL] [SETTING_TRINIL_RIVERBANK] [Close-up] [GLORY] Pattern interrupt close-up of character CHARACTER_ERECTUS smiling cheerfully with open mouth, holding the opened intact shell containing fresh mollusk meat toward the viewer, warm sunlight sparkling on river water behind him. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up. Slow push-in on Erectus's happy facial expression, steam or moisture shimmer rising from the fresh shellfish, held final satisfied expression."
+  },
+  {
+    "id": 30,
+    "script": "dan mudah dimakan. Cara ini menunjukkan bahwa manusia purba",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [GLORY] Along the tranquil riverbank of SETTING_TRINIL_RIVERBANK, three generic stickmen sit peacefully around a low stone hearth eating freshwater mussels together, character CHARACTER_ERECTUS standing watchfully on frame right in warm afternoon light. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow zoom-out revealing the cohesive group sharing food peacefully, soft woodsmoke curling upward into golden treetops, held tranquil scene."
+  },
+  {
+    "id": 31,
+    "script": "di Jawa sudah memahami betul anatomi mangsa dan lingkungan",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_TRINIL_RIVERBANK] [Medium shot] [LEGACY] Character CHARACTER_ERECTUS stands on frame left on a high river cliff, observing the complex ecosystem below: jumping river fish, nesting wetland birds, and grazing deer herds, arms crossed thoughtfully under a clear amber sky. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Parallax drift right showing the layered wildlife and flowing river while Erectus remains still, nodding his round head once in understanding, held frame."
+  },
+  {
+    "id": 32,
+    "script": "mereka. Tapi cerita ini baru separuh jalan. Bila rombongan",
+    "visual": "[CHARACTER_ERECTUS] [MAP_WALLACEA_BARRIER] [Wide shot] [WONDER] Wide scenic cliff view looking eastward from Bali toward the turbulent sea, character CHARACTER_ERECTUS stands small on frame left looking out at an endless oceanic horizon under stormy purple clouds. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide cliff landscape. Slow push-in past Erectus toward the dark surging sea waves crashing against the rocky base below, wind whipping grass, held frame."
+  },
+  {
+    "id": 33,
+    "script": "purba itu terus berjalan ke arah timur, langkah mereka",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_WALLACEA_STRAIT] [Medium shot] [CONFLICT] On the rugged basalt ledge of SETTING_WALLACEA_STRAIT, character CHARACTER_ERECTUS on frame left reaches the sheer cliff edge and halts abruptly, feet skidding slightly on loose gravel as waves crash violently below. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Erectus takes one sudden forward step, halts quickly at the cliff precipice, raising mitten arms for balance, sea spray bursting up, held freeze."
+  },
+  {
+    "id": 34,
+    "script": "akan tertahan di perairan antara Bali dan Lombok atau",
+    "visual": "[MAP_WALLACEA_BARRIER] [High-angle map] [CONFLICT] Pattern interrupt high-angle cartographic view of MAP_WALLACEA_BARRIER, dramatic visual metaphor of the land road abruptly cracking and ending at a steep undersea abyss separating Bali from Lombok under stormy sea-mist. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on map view. Smooth downward push-in as deep blue water surges through the narrow strait between island pictograms, glowing barrier lines pulsing red, held view."
+  },
+  {
+    "id": 35,
+    "script": "selat di sekitar Kalimantan dan Sulawesi. Di sana ada",
+    "visual": "[MAP_WALLACEA_BARRIER] [Medium map shot] [CONFLICT] Map view of MAP_WALLACEA_BARRIER focused on the Makassar Strait, showing deep swirling oceanic whirlpools in dark navy #0E1A33 cutting off the eastern route, rugged island pictograms standing isolated in the distance. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on map view. Slow pan northward along the deep ocean trench as stylized oceanic current arrows swirl gracefully across the water surface, held frame."
+  },
+  {
+    "id": 36,
+    "script": "palung laut dalam yang tidak pernah mengering, bahkan ketika",
+    "visual": "[SETTING_WALLACEA_STRAIT] [Wide shot] [CONFLICT] Dramatic cross-section landscape of SETTING_WALLACEA_STRAIT, showing towering ice sheets in far northern skies, yet the central oceanic trench remains filled with churning, violent, fathomless dark blue waters. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on cross-section view. Slow upward pedestal move showing the unfathomable depth of the sea chasm while dark clouds roll across the turbulent sky, held frame."
+  },
+  {
+    "id": 37,
+    "script": "zaman es menurunkan muka air laut dunia. Mamalia besar",
+    "visual": "[SETTING_WALLACEA_STRAIT] [Medium shot] [DECLINE] On the dry western coast of SETTING_WALLACEA_STRAIT, a prehistoric rhinoceros and giant tiger stand at the water's edge on frame left, unable to swim, turning back toward the savanna in desaturated ash and fog colors. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Animals slowly turn their heads away from the vast sea toward the land, waves washing over gravel beach, held despondent mood."
+  },
+  {
+    "id": 38,
+    "script": "dari Asia daratan tidak bisa menyeberang ke timur.",
+    "visual": "[MAP_WALLACEA_BARRIER] [High-angle map] [DECLINE] Cartographic view of MAP_WALLACEA_BARRIER showing Asian animal pictograms (elephants, tigers) crowding along the Sunda shelf border, barred by a glowing barrier rift from the empty Wallacea islands to the east. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on cartographic overview. Camera tracks left-to-right showing the abrupt border line where animal pictograms stop completely at the edge of the blue sea channel, held frame."
+  },
+  {
+    "id": 39,
+    "script": "Secara logika, manusia purba semestinya juga tidak bisa",
+    "visual": "[CHARACTER_ERECTUS] [SETTING_WALLACEA_STRAIT] [Close-up] [CONFLICT] Pattern interrupt close-up of character CHARACTER_ERECTUS standing on frame left with slumped posture, staring out at the roaring sea waves with wide helpless dot eyes, sea spray misting against his face. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of Erectus. Slow push-in as his shoulders slump slightly lower and wind blows his deer-pelt sash, waves rumbling softly, held melancholic expression."
+  },
+  {
+    "id": 40,
+    "script": "lewat. Banyak orang menduga kepulauan di timur waktu",
+    "visual": "[SETTING_WALLACEA_STRAIT] [Wide shot] [WONDER] Vast, lonely shot of the empty mountainous island of Flores across the blue expanse, jagged peaks rising through silent mist, completely still and seemingly untouched by human presence. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide landscape. Slow atmospheric drift toward the misty island mountains, white seabirds gliding silently across the tranquil frame, held peaceful vista."
+  },
+  {
+    "id": 41,
+    "script": "itu masih kosong. Tapi bukti dari dalam tanah berkata",
+    "visual": "[SETTING_LIANG_BUA_CAVE] [Wide shot] [WONDER] Inside the immense limestone arch of SETTING_LIANG_BUA_CAVE, dramatic shafts of sunlight beam through cave mouth dust onto a six-meter-deep archaeological excavation pit in the cave floor, stalactites framing top border. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide shot of cave interior. Slow downward crane shot from stalactite ceiling descending into the deep illuminated excavation trench, dust motes dancing, held view."
+  },
+  {
+    "id": 42,
+    "script": "lain. Pada September 2003, tim peneliti gabungan Indonesia",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [SETTING_LIANG_BUA_CAVE] [Medium shot] [GLORY] At the bottom of the deep step-trench in SETTING_LIANG_BUA_CAVE, character CHARACTER_RESEARCHER_FEMALE and a generic Indonesian archaeologist on frame right work meticulously with brushes along a dark sediment layer. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot inside the pit. Subtle horizontal pan as the brushes clear away loose cave dirt, lantern light flickering warmly against the stone wall, held frame."
+  },
+  {
+    "id": 43,
+    "script": "dan Australia menggali sebuah gua kapur bernama Liang Bua",
+    "visual": "[SETTING_LIANG_BUA_CAVE] [Wide shot] [WONDER] Grand exterior and interior blend of SETTING_LIANG_BUA_CAVE, tropical ferns and vines hanging over the limestone entrance, archaeological ladders and equipment neatly organized along the cave floor. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide cavern entrance. Slow zoom-in through hanging green vines into the sunlit excavation floor, tropical breeze swaying foliage gently, held frame."
+  },
+  {
+    "id": 44,
+    "script": "di Pulau Flores. Di kedalaman enam meter, mereka menemukan",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [OBJECT_FLORES_SKULL] [SETTING_LIANG_BUA_CAVE] [Medium shot] [WONDER] Pattern interrupt inside the six-meter trench of SETTING_LIANG_BUA_CAVE, character CHARACTER_RESEARCHER_FEMALE gasps with open mouth and raised mitten hands as her brush exposes the delicate, tiny forehead of OBJECT_FLORES_SKULL in the clay. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Quick gasp reaction: the scientist freezes, lowers her brush slowly, and leans closer to inspect the tiny exposed skull, held suspenseful frame."
+  },
+  {
+    "id": 45,
+    "script": "kerangka manusia dewasa berumur sekitar 30 tahun. Sosok",
+    "visual": "[OBJECT_FLORES_SKULL] [Extreme close-up] [WONDER] Extreme close-up of OBJECT_FLORES_SKULL partially embedded in the damp cave clay, showing tiny chinless jaw and miniature eye sockets glowing with soft amber subterranean light. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on extreme macro shot. Gentle slow pan across the tiny worn dental arch and brow, lantern gleam shifting across the stony surface, held dramatic focus."
+  },
+  {
+    "id": 46,
+    "script": "ini sangat mungil, tingginya hanya sekitar satu meter,",
+    "visual": "[CHARACTER_FLORESIENSIS] [CHARACTER_DUBOIS] [Medium shot] [WONDER] Side-by-side scale comparison in neutral studio lighting, character CHARACTER_FLORESIENSIS standing exactly 1.06 meters (2 heads tall) on frame left, looking up at a standard 3-heads-tall stickman on frame right who gazes down in sheer amazement. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on scale comparison. Subtle zoom-out showing the dramatic height difference; CHARACTER_FLORESIENSIS gives a small friendly bounce on long flat feet, held frame."
+  },
+  {
+    "id": 47,
+    "script": "beratnya kira-kira 25 kilogram, dan ukuran otaknya sebanding",
+    "visual": "[CHARACTER_FLORESIENSIS] [Close-up] [WONDER] Pattern interrupt close-up of character CHARACTER_FLORESIENSIS on frame left holding an orange-sized miniature brain model in one hand and a chalcedony flake in the other, smiling gently with big curious dot eyes. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up. Slow push-in as CHARACTER_FLORESIENSIS tilts their head with curiosity, a soft star-glow sparkling on the chalcedony stone, held charming pose."
+  },
+  {
+    "id": 48,
+    "script": "dengan kera. Mereka hidup di antara gajah kerdil",
+    "visual": "[CHARACTER_FLORESIENSIS] [SETTING_LIANG_BUA_CAVE] [Medium shot] [GLORY] Outside the cave entrance of SETTING_LIANG_BUA_CAVE, character CHARACTER_FLORESIENSIS stands playfully on frame left next to a miniature dwarf Stegodon elephant that reaches only up to chest height, surrounded by tropical ferns. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. The tiny Stegodon flaps its small ears gently while CHARACTER_FLORESIENSIS rests a mitten hand on its back, warm sunlight dappling, held frame."
+  },
+  {
+    "id": 49,
+    "script": "seukuran sapi dan burung bangau purba yang tinggi.",
+    "visual": "[CHARACTER_FLORESIENSIS] [SETTING_MATA_MENGE] [Wide shot] [WONDER] Across the open savannah of SETTING_MATA_MENGE, a gigantic 1.8-meter-tall Marabou stork towers on frame right with massive beak, while character CHARACTER_FLORESIENSIS walks carefully past on frame left in knee-high golden grass. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide savannah vista. Parallax pan right showing the giant stork standing motionless like a sentinel while the little stickman scampers safely through the grass, held frame."
+  },
+  {
+    "id": 50,
+    "script": "Awalnya, ada dugaan bahwa individu ini manusia modern yang",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [SETTING_MODERN_LAB] [Medium shot] [DECLINE] Inside SETTING_MODERN_LAB, character CHARACTER_RESEARCHER_FEMALE debates with another stickman scientist on frame left, pointing with skepticism at medical charts of human bone disorders in desaturated ash tones. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Two scientists wave mitten hands in lively academic debate, one shaking head, then freezing as the camera drifts slightly closer, held dialogue."
+  },
+  {
+    "id": 51,
+    "script": "terkena kelainan pertumbuhan. Tapi temuan fosil lain di",
+    "visual": "[SETTING_MATA_MENGE] [Wide shot] [GLORY] Pattern interrupt wide shot of the sun-drenched badlands of SETTING_MATA_MENGE, 74 km east, where an open-air excavation pit cuts into ancient volcanic sandstone under bright blue skies, active volcano smoking on horizon. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide badlands view. Slow crane down toward the geological excavation trenches, volcanic smoke curling lazily across the distant mountain ridge, held frame."
+  },
+  {
+    "id": 52,
+    "script": "lembah sebelah timurnya menunjukkan tulang lengan serupa sudah ada",
+    "visual": "[SETTING_MATA_MENGE] [Close-up] [GLORY] In the sandstone layer of SETTING_MATA_MENGE, a miniature adult humerus arm bone (SOA-MM9) lies embedded next to fossil teeth, measuring calipers resting alongside in warm golden ochre light. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of fossil bed. Slow push-in revealing the remarkably slender, tiny arm bone preserved in sandstone, golden sunbeam illuminating the texture, held frame."
+  },
+  {
+    "id": 53,
+    "script": "di pulau itu sejak 700 ribu tahun lalu.",
+    "visual": "[SETTING_MATA_MENGE] [Wide shot] [WONDER] Deep-time panoramic landscape of the ancient So'a Basin 700,000 years ago, small stickman ancestors running across savannah riverbanks alongside tiny elephants under immense ancient skies. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on epic ancient valley. Slow backward zoom-out elevating into the clouds, small dust clouds kicked up by running herds, held grand prehistoric vista."
+  },
+  {
+    "id": 54,
+    "script": "Tubuh mereka menyusut secara bertahap karena terisolasi di",
+    "visual": "[CHARACTER_FLORESIENSIS] [SETTING_WALLACEA_STRAIT] [Medium shot] [DECLINE] On a lonely coastal headland, character CHARACTER_FLORESIENSIS sits on a rock on frame left looking out across the barrier sea that surrounds the island, stunted thorny shrubs framing the desaturated scene. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Slow push-in on the solitary figure sitting quietly, coastal sea breeze blowing fine spray across the cliff edge, held contemplative frame."
+  },
+  {
+    "id": 55,
+    "script": "pulau kecil dengan sumber makanan terbatas. Tubuh yang lebih",
+    "visual": "[CHARACTER_FLORESIENSIS] [SETTING_MATA_MENGE] [Close-up] [WONDER] Pattern interrupt close-up of character CHARACTER_FLORESIENSIS on frame left nibbling a wild tuber contentedly, glowing with a soft metabolic ember aura #E0894A to symbolize energy efficiency. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up. Character takes a bite, eyes blinking cheerfully, while a soft warm amber glow pulses gently around their small stick silhouette, held cozy frame."
+  },
+  {
+    "id": 56,
+    "script": "kecil membutuhkan energi lebih sedikit, sebuah penyesuaian tubuh yang",
+    "visual": "[CHARACTER_FLORESIENSIS] [SETTING_MATA_MENGE] [Medium shot] [GLORY] Adaptability visual: character CHARACTER_FLORESIENSIS scampers effortlessly through a narrow cave crevice on frame right where giant predators cannot enter, reaching safety under warm shelter. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Quick agile slide into the rocky shelter, turning around to wave a mitten hand happily from behind stone pillars, held secure pose."
+  },
+  {
+    "id": 57,
+    "script": "alami di tempat terpencil. Sampai di sini, kita",
+    "visual": "[SETTING_WALLACEA_STRAIT] [Wide shot] [WONDER] High aerial view of Flores Island floating like an isolated green jewel in a deep navy ocean #0E1A33, white surf ringing its rugged coral cliffs under sweeping cumulus clouds. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on high aerial view. Slow orbital camera drift around the island contour as ocean swells pulse rhythmically along the beaches, held majestic perspective."
+  },
+  {
+    "id": 58,
+    "script": "melihat dua babak lama: manusia Jawa di barat dan",
+    "visual": "[CHARACTER_ERECTUS] [CHARACTER_FLORESIENSIS] [Medium shot] [LEGACY] Split screen composition: on frame left under golden sunlight sits character CHARACTER_ERECTUS with carved shells in Java; on frame right under cool moonlight stands character CHARACTER_FLORESIENSIS in Flores. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on split composition. A soft vertical divider line dissolves as both characters turn their heads slightly toward the center, holding their distinctive cultural poses."
+  },
+  {
+    "id": 59,
+    "script": "manusia kerdil di Flores. Lalu, kapan giliran kelompok",
+    "visual": "[MAP_MARITIME_MIGRATION] [High-angle map] [WONDER] High-angle map of MAP_MARITIME_MIGRATION on dark parchment, the western and eastern archipelagos glowing with soft mystery while glowing question marks pulse gently over the western sea approaches. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on map view. Smooth downward push-in as sea channels glimmer in deep blue, soft warm beacons fading in and out across the straits, held anticipatory frame."
+  },
+  {
+    "id": 60,
+    "script": "manusia modern seperti kita tiba? Sekitar 65 ribu",
+    "visual": "[CHARACTER_SAPIENS] [MAP_MARITIME_MIGRATION] [Medium shot] [WONDER] Pattern interrupt dramatic shot of character CHARACTER_SAPIENS on frame left silhouetted against a giant glowing crescent moon and star-filled night sky, carrying seafaring paddle and pigment bag. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on silhouette. Slow push-in as starlight reflects in Sapiens's dot eyes; they raise their wooden paddle in a resolute gesture, held striking silhouette."
+  },
+  {
+    "id": 61,
+    "script": "tahun lalu, babak ketiga dimulai. Rombongan manusia modern",
+    "visual": "[CHARACTER_SAPIENS] [SETTING_WALLACEA_STRAIT] [Wide shot] [GLORY] At dawn along a tropical coast, a flotilla of sturdy bamboo ocean rafts carrying generic stickman families glides forward across turquoise sea waters, led by character CHARACTER_SAPIENS. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide ocean view. Parallax forward tracking shot as the bamboo rafts cut through the gentle waves, morning sun rising behind distant island silhouettes, held frame."
+  },
+  {
+    "id": 62,
+    "script": "akhirnya masuk dari barat. Berbeda dengan kelompok terdahulu",
+    "visual": "[MAP_MARITIME_MIGRATION] [High-angle map] [GLORY] Map view of MAP_MARITIME_MIGRATION, bold golden glowing lines #F2C76B sweep decisively across the sea barriers from Sunda eastward, connecting islands with continuous shining routes. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on map view. Golden light paths branch swiftly eastward across the straits, illuminating island landing pictograms in sequence, held vibrant map."
+  },
+  {
+    "id": 63,
+    "script": "yang hanya memanfaatkan jembatan darat atau terbawa arus",
+    "visual": "[SETTING_WALLACEA_STRAIT] [Medium shot] [CONFLICT] Stormy sea channel of SETTING_WALLACEA_STRAIT, an ancient driftwood log floats helplessly across violent waves on frame left, illustrating passive drifting versus intentional maritime navigation. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot of drifting log. Waves toss the log violently, camera panning right toward calmer waters where an engineered bamboo raft enters frame, held contrast."
+  },
+  {
+    "id": 64,
+    "script": "air, kelompok ini sudah menguasai cara merakit kayu",
+    "visual": "[CHARACTER_SAPIENS] [SETTING_WALLACEA_STRAIT] [Medium shot] [GLORY] On a sandy beach, character CHARACTER_SAPIENS on frame left tightly binds thick bamboo poles with braided rattan ropes to construct an ocean raft, showing expert knotting craftsmanship. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Sapiens pulls a rattan cord tight with a determined stickman pull, raft flexing sturdily on the sand, held craftsmanship moment."
+  },
+  {
+    "id": 65,
+    "script": "dan mengarungi perairan terbuka. Mereka berhasil menyeberangi palung",
+    "visual": "[CHARACTER_SAPIENS] [SETTING_WALLACEA_STRAIT] [Wide shot] [WONDER] Pattern interrupt wide shot from behind the raft: character CHARACTER_SAPIENS paddles steadily forward into open ocean swells under a spectacular starry night sky, Southern Cross stars glowing above. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start over-the-shoulder wide shot. Slow rhythmic dip of paddles into bioluminescent glowing ocean water, stars twinkling steadily overhead, held wondrous night voyage."
+  },
+  {
+    "id": 66,
+    "script": "laut dalam dan menyebar ke pulau-pulau di sebelah",
+    "visual": "[MAP_MARITIME_MIGRATION] [High-angle map] [GLORY] High-angle map view of MAP_MARITIME_MIGRATION, glowing campfire pictograms light up across Sulawesi, Flores, and Maluku, connecting the archipelago in a radiant network of human presence. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on archipelago overview. Soft chain reaction of golden light beacons igniting across the island chain from west to east, glowing warmly, held map view."
+  },
+  {
+    "id": 67,
+    "script": "timur. Jejak paling tua dari kelompok ini ditemukan",
+    "visual": "[SETTING_MAROS_CAVE] [Wide shot] [WONDER] Towering karst limestone tower hills of Maros rising vertically above emerald rice swamps, morning mist swirling around deep dark cave mouths perched high up cliff faces. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide karst landscape. Slow vertical crane move up the sheer limestone cliff face toward the hidden cave entrance of Leang Karampuang, held breathtaking view."
+  },
+  {
+    "id": 68,
+    "script": "di gua-gua karst daerah Maros, Sulawesi Selatan. Di",
+    "visual": "[SETTING_MAROS_CAVE] [Medium shot] [WONDER] Inside the entrance of SETTING_MAROS_CAVE, warm golden morning light cuts through karst archways onto dramatic stalactites and undulating cave walls, ferns framing the foreground. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium cavern shot. Slow forward tracking shot passing beneath ancient stalactites into the quiet, sacred interior gallery, dust motes drifting, held frame."
+  },
+  {
+    "id": 69,
+    "script": "dinding gua Leang Karampuang, para ahli menemukan lukisan",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [OBJECT_PIG_PANEL] [SETTING_MAROS_CAVE] [Close-up] [GLORY] Inside SETTING_MAROS_CAVE, character CHARACTER_RESEARCHER_FEMALE on frame right gently aims a portable laser scanner at the dark red pigment of OBJECT_PIG_PANEL on the limestone wall. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of wall. A soft harmless red laser line sweeps smoothly across the ancient painting, researcher watching intently, held focused frame."
+  },
+  {
+    "id": 70,
+    "script": "batu berwarna merah gelap. Gambar itu memperlihatkan tiga",
+    "visual": "[OBJECT_PIG_PANEL] [Medium shot] [WONDER] Pattern interrupt full view of OBJECT_PIG_PANEL: ancient cave art panel in deep mulberry red #781F26 on cream limestone showing three stylized stickman-like figures interacting dramatically with a large warty pig. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on full mural view. Slow push-in on the painted narrative figures as warm flickering torchlight washes across the limestone texture, held vivid mural view."
+  },
+  {
+    "id": 71,
+    "script": "sosok manusia yang sedang berhadapan dengan seekor babi",
+    "visual": "[OBJECT_PIG_PANEL] [Close-up] [WONDER] Close-up crop of OBJECT_PIG_PANEL highlighting the plump body of the painted wild pig, rendered with fine ochre line details and warty snout features in prehistoric red pigment. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of pig painting. Slow horizontal pan across the painted pig from curled tail to snout, soft mineral crystalline sparkle on the limestone, held frame."
+  },
+  {
+    "id": 72,
+    "script": "hutan. Satu sosok tampak berdiri di depan moncong babi",
+    "visual": "[OBJECT_PIG_PANEL] [Close-up] [GLORY] Close-up crop of OBJECT_PIG_PANEL focusing on the painted human figure standing boldly right in front of the pig's snout, holding an extended slender staff, dynamic narrative tension. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on human figure painting. Gentle slow push-in emphasizing the dynamic stance of the painted hunter and staff, soft warm glow illuminating the red pigment, held frame."
+  },
+  {
+    "id": 73,
+    "script": "sambil membawa tongkat. Pengujian pada lapisan batu kapur",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [SETTING_MODERN_LAB] [Close-up] [LEGACY] In SETTING_MODERN_LAB, character CHARACTER_RESEARCHER_FEMALE inspects microscopic calcium carbonate speleothem layers under a high-precision mass spectrometer, digital screen glowing soft blue. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on lab screen and scientist. Slow push-in as calibration graphics align on the blue monitor screen, researcher nodding in scientific discovery, held frame."
+  },
+  {
+    "id": 74,
+    "script": "yang menutup lukisan itu menunjukkan usia setidaknya 51",
+    "visual": "[OBJECT_PIG_PANEL] [Extreme close-up] [WONDER] Pattern interrupt extreme close-up cross-section of the rock wall, showing the dark red paint layer sealed underneath microscopic translucent calcite crystals that sparkle like stars. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on crystal micro-layer. Shimmering light glides through the translucent mineral layer revealing the vibrant undisturbed red pigment locked beneath, held stunning macro."
+  },
+  {
+    "id": 75,
+    "script": "ribu 200 tahun. Temuan ini membuktikan bahwa sejak",
+    "visual": "[CHARACTER_SAPIENS] [OBJECT_PIG_PANEL] [SETTING_MAROS_CAVE] [Medium shot] [GLORY] 51,200 years ago in SETTING_MAROS_CAVE, character CHARACTER_SAPIENS stands on frame left holding a burning torch, proudly admiring the newly completed wall painting on frame right, babirusa necklace catching firelight. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Sapiens lowers the torch slightly, looking at their artwork with a subtle smile, warm torch embers floating gently upward, held reverent scene."
+  },
+  {
+    "id": 76,
+    "script": "puluhan ribu tahun lalu, manusia modern awal di nusantara",
+    "visual": "[CHARACTER_SAPIENS] [OBJECT_BABIRUSA_NECKLACE] [SETTING_MAROS_CAVE] [Close-up] [GLORY] Close-up of character CHARACTER_SAPIENS on frame left, wearing OBJECT_BABIRUSA_NECKLACE, dot eyes glowing with intelligence and emotion, firelight reflecting in warm gold tones against dark cave stone. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of Sapiens. Slow zoom-in on the expressive stickman face, torchlight dancing softly across the smooth cream skin and bone necklace, held profound gaze."
+  },
+  {
+    "id": 77,
+    "script": "sudah memiliki kemampuan berpikir rumit dan menuangkan kisah",
+    "visual": "[CHARACTER_SAPIENS] [OBJECT_PIG_PANEL] [SETTING_MAROS_CAVE] [Medium shot] [GLORY] Inside SETTING_MAROS_CAVE, character CHARACTER_SAPIENS uses a hollow bone tube to blow red pigment spray around a mitten hand pressed to the limestone wall, creating an iconic hand stencil. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Sapiens blows a gentle puff of red ochre mist through the bone tube; hand pulls away from the wall to reveal a perfect stencil silhouette, held frame."
+  },
+  {
+    "id": 78,
+    "script": "kehidupan mereka ke dinding batu. Lalu apa yang terjadi",
+    "visual": "[OBJECT_PIG_PANEL] [SETTING_MAROS_CAVE] [Wide shot] [WONDER] High wide shot of the vast subterranean karst gallery in SETTING_MAROS_CAVE, ancient painted walls illuminated by scattered torches, shadows stretching across millennia. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide gallery. Slow pullback through a natural stalactite archway as torch flames slowly diminish into mysterious ambient darkness, held poetic frame."
+  },
+  {
+    "id": 79,
+    "script": "pada para penghuni kepulauan yang lama? Lapisan tanah",
+    "visual": "[SETTING_LIANG_BUA_CAVE] [Close-up] [DECLINE] Pattern interrupt close-up of a geological soil trench profile in SETTING_LIANG_BUA_CAVE, clearly showing distinct stratigraphy layers: dense volcanic ash and silt bands in desaturated moss-gray and soot #3A3D40. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on vertical sediment cross-section. Slow downward tilt following the dark volcanic ash boundary line between ancient and modern geological strata, held geological focus."
+  },
+  {
+    "id": 80,
+    "script": "di Flores memperlihatkan bahwa jejak manusia kerdil dan",
+    "visual": "[CHARACTER_FLORESIENSIS] [SETTING_LIANG_BUA_CAVE] [Medium shot] [DECLINE] In the fading twilight of SETTING_LIANG_BUA_CAVE, character CHARACTER_FLORESIENSIS walks slowly away from the cave mouth toward deep shadows on frame right, silhouette gradually dissolving into evening mist. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. The small figure walks slowly into the shadowy recesses of the cave, fading gently into soft desaturated fog, held quiet disappearance."
+  },
+  {
+    "id": 81,
+    "script": "gajah purba berhenti sekitar 50 ribu tahun lalu.",
+    "visual": "[SETTING_LIANG_BUA_CAVE] [Wide shot] [DECLINE] Desolate wide shot outside Liang Bua cave 50,000 years ago under overcast gray skies, abandoned dwarf Stegodon tracks in drying mud, autumn leaves blowing across empty stone ledges. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on empty landscape. Slow horizontal pan across abandoned animal tracks as gray fog rolls over the barren limestone ridges, wind rustling dead grass, held stillness."
+  },
+  {
+    "id": 82,
+    "script": "Pada lapisan waktu yang sama, bekas perapian manusia",
+    "visual": "[CHARACTER_SAPIENS] [SETTING_LIANG_BUA_CAVE] [Medium shot] [WONDER] Inside the upper cave terrace of SETTING_LIANG_BUA_CAVE, character CHARACTER_SAPIENS sits on frame left stoking a glowing hearth fire, bright golden-orange embers #E0894A illuminating the cave roof. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot of hearth. Sparks and warm embers rise from the crackling hearth fire, Sapiens blowing softly on coals, firelight dancing on stone walls, held frame."
+  },
+  {
+    "id": 83,
+    "script": "modern mulai terlihat di lantai gua. Apakah mereka tersisih",
+    "visual": "[CHARACTER_FLORESIENSIS] [CHARACTER_SAPIENS] [Wide shot] [CONFLICT] Symbolic wide visual metaphor: across an open misty Flores valley, a solitary small silhouette of character CHARACTER_FLORESIENSIS on frame left and character CHARACTER_SAPIENS on frame right stand on separate ridges under divided skies. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide divided valley. Slow push-in along the misty divide as wind sweeps grass in opposite directions, figures standing motionless like statues, held dramatic standoff."
+  },
+  {
+    "id": 84,
+    "script": "karena persaingan mencari makan, perubahan cuaca, atau letusan",
+    "visual": "[SETTING_MATA_MENGE] [Wide shot] [CONFLICT] Dramatic wide apocalyptic shot of a volcanic eruption in ancient Flores, towering ash clouds billowing into storm skies, lightning flashing within smoke plumes, fiery embers raining on plains. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide volcanic panorama. Slow upward camera tilt as massive gray-black ash clouds billow upward, red lightning bolts crackling inside the cloud column, held powerful spectacle."
+  },
+  {
+    "id": 85,
+    "script": "gunung berapi, catatan tanah belum bisa menjawabnya secara",
+    "visual": "[CHARACTER_RESEARCHER_FEMALE] [SETTING_LIANG_BUA_CAVE] [Close-up] [DECLINE] Pattern interrupt close-up of character CHARACTER_RESEARCHER_FEMALE on frame left, holding an open geological field notebook, tapping her pencil against her chin with thoughtful, questioning eyebrows. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on close-up of researcher. Scientist tilts head in contemplative scientific curiosity, blinking once, then gazes up toward the ancient cave ceiling, held mystery."
+  },
+  {
+    "id": 86,
+    "script": "pasti. Yang jelas, sejak saat itu, hanya manusia",
+    "visual": "[CHARACTER_SAPIENS] [SETTING_WALLACEA_STRAIT] [Wide shot] [GLORY] Golden sunrise over an Indonesian archipelago, character CHARACTER_SAPIENS stands atop a grassy coastal promontory on frame left, watching several generic stickman settlements thrive along the bay. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide coastal sunrise. Slow tracking pan right across the flourishing coastal settlement, smoke rising peacefully from thatched shelters into gold skies, held bright vista."
+  },
+  {
+    "id": 87,
+    "script": "modern yang terus bertahan dan beranak pinak di",
+    "visual": "[CHARACTER_SAPIENS] [SETTING_WALLACEA_STRAIT] [Medium shot] [GLORY] On a blooming coastal hill, three generic stickman children run laughing together with outstretched mitten arms, character CHARACTER_SAPIENS watching over them lovingly under warm sunbeams. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium shot. Children hop joyfully in a circle while Sapiens nods with an open warm smile, wildflowers swaying in the breeze, held heartwarming family moment."
+  },
+  {
+    "id": 88,
+    "script": "seluruh kepulauan. Kini, fosil tengkorak yang dulu",
+    "visual": "[OBJECT_REPATRIATION_CASE] [OBJECT_TRINIL_SKULLCAP] [SETTING_JAKARTA_MUSEUM] [Medium shot] [LEGACY] Inside the serene hall of SETTING_JAKARTA_MUSEUM, OBJECT_TRINIL_SKULLCAP rests proudly inside OBJECT_REPATRIATION_CASE on a dark walnut pedestal under a soft focused ceiling spotlight. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium museum shot. Slow smooth push-in toward the glass vitrine, overhead museum spotlight glinting crisply off the polished brass display corners, held dignified frame."
+  },
+  {
+    "id": 89,
+    "script": "diangkat Dubois dari tepian Bengawan Solo telah kembali",
+    "visual": "[CHARACTER_DUBOIS] [CHARACTER_WORKER] [OBJECT_REPATRIATION_CASE] [Medium shot] [LEGACY] Pattern interrupt reflective composition: in front of the modern museum display case, translucent memory silhouettes of CHARACTER_DUBOIS and CHARACTER_WORKER stand side by side, admiring the returned fossil. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on museum display. Soft ethereal glow outlines the translucent figures of Dubois and the Javanese worker as they nod in mutual respect, fading smoothly into held frame."
+  },
+  {
+    "id": 90,
+    "script": "ke Indonesia sebagai pengingat sejarah yang panjang. Pencarian",
+    "visual": "[SETTING_JAKARTA_MUSEUM] [Wide shot] [LEGACY] Wide hall shot of the National Museum, diverse modern stickman visitors (school children, families) gathered peacefully around the hominin display exhibits in deep cool blue and gold lighting. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide gallery hall. Slow upward pedestal move showing visitors admiring the historical exhibits under grand gallery architecture, held respectful panorama."
+  },
+  {
+    "id": 91,
+    "script": "orang pertama di tanah ini menunjukkan bahwa kepulauan",
+    "visual": "[MAP_MARITIME_MIGRATION] [High-angle map] [GLORY] Grand high-angle map view of the complete Indonesian archipelago, vibrant emerald islands surrounded by turquoise and deep sapphire seas, golden route lines shimmering like veins of light. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide map view. Slow gentle push-in as soft sunlight breaks across the entire island chain, shimmering light rippling across the surrounding seas, held glorious overview."
+  },
+  {
+    "id": 92,
+    "script": "nusantara bukan sekadar tempat singgah, melainkan panggung",
+    "visual": "[CHARACTER_ERECTUS] [CHARACTER_FLORESIENSIS] [CHARACTER_SAPIENS] [Wide shot] [LEGACY] Heroic tripartite composition: majestic split landscape showcasing Bengawan Solo on left, Flores cave in center, and Maros karst on right, with all three hominin stickman figures standing in their homelands. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide three-part landscape. Slow backward zoom-out unifying the three historical settings into one seamless panorama, clouds drifting across the shared sky, held epic frame."
+  },
+  {
+    "id": 93,
+    "script": "tempat berbagai jenis manusia pernah hidup, menyesuaikan diri",
+    "visual": "[CHARACTER_ERECTUS] [CHARACTER_FLORESIENSIS] [CHARACTER_SAPIENS] [Medium shot] [GLORY] Close unity shot: character CHARACTER_ERECTUS with shell tool, character CHARACTER_FLORESIENSIS with stone flake, and character CHARACTER_SAPIENS with pigment pouch standing shoulder-to-shoulder, gazing toward the future. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on medium three-character shot. Warm golden sunrise beam washes across all three stickman faces simultaneously, each giving a subtle confident head nod, held inspiring tableau."
+  },
+  {
+    "id": 94,
+    "script": "dengan alam, dan meninggalkan jejak mereka di bawah",
+    "visual": "[SETTING_TRINIL_RIVERBANK] [SETTING_LIANG_BUA_CAVE] [Close-up] [WONDER] Pattern interrupt split close-up: on frame left, the 500,000-year-old geometric zigzag shell in soft river mud; on frame right, the 700,000-year-old miniature fossil arm bone resting in sandstone. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on macro split shot. Warm soft light glides across both ancient subterranean treasures, dust motes settling peacefully, held contemplative reverence."
+  },
+  {
+    "id": 95,
+    "script": "tanah dan di dinding gua.",
+    "visual": "[OBJECT_PIG_PANEL] [SETTING_MAROS_CAVE] [Wide shot] [WONDER] Final cinematic loop-back wide shot inside SETTING_MAROS_CAVE, the 51,200-year-old red ochre painting of people and the wild pig glowing warmly on the limestone wall as torchlight slowly softens into eternal starlight. STYLE LOCK: Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Start on wide view of cave mural. Slow smooth push-in toward the painted figures as torchlight dims into a timeless celestial star-glow, holding on the enduring red painting for a full 4-second final fre"
+  }
+]

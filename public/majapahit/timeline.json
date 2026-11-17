@@ -1,0 +1,1487 @@
+{
+  "proyek": "majapahit",
+  "audio": "majapahit/audio.wav",
+  "audioDurationMs": 631720,
+  "scenes": [
+    {
+      "id": 1,
+      "image": "majapahit/scene-1.jpg",
+      "startMs": 0,
+      "endMs": 3520,
+      "durationMs": 3520,
+      "script": "",
+      "visual": "Wide angle map view of scattered archipelago islands across dark ocean. 2D illustrated look, palette of faded ochres, charcoal blacks, muted olive greens, sun-bleached whites, gritty aged parchment texture, no readable text.",
+      "animation": "Slow zoom-out across the scattered islands."
+    },
+    {
+      "id": 2,
+      "image": "majapahit/scene-2.jpg",
+      "startMs": 3520,
+      "endMs": 6020,
+      "durationMs": 2500,
+      "script": "",
+      "visual": "Medium shot of two stylized tribal kings with bronze daggers confronting each other over a carved border stone. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture, no text.",
+      "animation": "Gentle parallax between the two opposing leaders."
+    },
+    {
+      "id": 3,
+      "image": "majapahit/scene-3.jpg",
+      "startMs": 6020,
+      "endMs": 10500,
+      "durationMs": 4480,
+      "script": "",
+      "visual": "High angle wide shot of vast rolling sea waves separating distant island headlands under a dusty sky. 2D illustrated look, faded ochres, charcoal blacks, muted olive, gritty ocean texture.",
+      "animation": "Soft pan from left shore across choppy waters to the right."
+    },
+    {
+      "id": 4,
+      "image": "majapahit/scene-4.jpg",
+      "startMs": 10500,
+      "endMs": 15100,
+      "durationMs": 4600,
+      "script": "",
+      "visual": "Low angle view of dense riverbank jungle foliage along [DELTA SUNGAI BRANTAS], morning river mist. 2D illustrated look, faded ochres, charcoal blacks, muted olive greens, gritty parchment texture.",
+      "animation": "Slow push-in toward the dense river bend foliage."
+    },
+    {
+      "id": 5,
+      "image": "majapahit/scene-5.jpg",
+      "startMs": 15100,
+      "endMs": 19150,
+      "durationMs": 4050,
+      "script": "",
+      "visual": "Profile silhouette of [RADEN WIJAYA] with traditional noble topknot looking resolutely into the distance. 2D illustrated look, faded ochres, charcoal blacks, muted olive, gritty weathered texture.",
+      "animation": "Slow push-in on the determined facial profile of RADEN WIJAYA."
+    },
+    {
+      "id": 6,
+      "image": "majapahit/scene-6.jpg",
+      "startMs": 19150,
+      "endMs": 21930,
+      "durationMs": 2780,
+      "script": "",
+      "visual": "Dynamic wide shot of a massive [KAPAL JUNG MAJAPAHIT] slicing through coastal sea waves with billowing sails. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture.",
+      "animation": "Gentle parallax as the massive wooden ship glides forward."
+    },
+    {
+      "id": 7,
+      "image": "majapahit/scene-7.jpg",
+      "startMs": 21930,
+      "endMs": 24900,
+      "durationMs": 2970,
+      "script": "",
+      "visual": "Close-up of an ornate royal crown resting crookedly on a cracked stone throne, shadow figures clashing behind. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow zoom-out from the cracked throne dais."
+    },
+    {
+      "id": 8,
+      "image": "majapahit/scene-8.jpg",
+      "startMs": 24900,
+      "endMs": 31720,
+      "durationMs": 6820,
+      "script": "",
+      "visual": "Montage composition of an ancient brick gateway transitioning into the stylized silhouette of [GARUDA PANCASILA] holding banner with wavy lines. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture, no text.",
+      "animation": "Slow push-in on the central heraldic emblem."
+    },
+    {
+      "id": 9,
+      "image": "majapahit/scene-9.jpg",
+      "startMs": 31720,
+      "endMs": 36575,
+      "durationMs": 4855,
+      "script": "",
+      "visual": "Weathered stone bas-relief carving of the radiant Surya Majapahit sunburst motif centered on ancient brick. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture, no readable text.",
+      "animation": "Slow push-in toward the center of the carved sunburst."
+    },
+    {
+      "id": 10,
+      "image": "majapahit/scene-10.jpg",
+      "startMs": 36575,
+      "endMs": 41970,
+      "durationMs": 5395,
+      "script": "",
+      "visual": "Imperial throne room in Khanbaliq: [KUBLAI KHAN] seated on carved wooden chair, handing decree to an envoy. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no text.",
+      "animation": "Slow push-in on KUBLAI KHAN's stern expression."
+    },
+    {
+      "id": 11,
+      "image": "majapahit/scene-11.jpg",
+      "startMs": 41970,
+      "endMs": 44800,
+      "durationMs": 2830,
+      "script": "",
+      "visual": "Medium shot of [MENG QI] in scholar robes boarding a wooden ship at harbor, clutching rolled scroll with wavy lines. 2D illustrated look, faded ochres, charcoal, muted olive, gritty paper texture, no readable text.",
+      "animation": "Soft pan from ship rigging down to MENG QI."
+    },
+    {
+      "id": 12,
+      "image": "majapahit/scene-12.jpg",
+      "startMs": 44800,
+      "endMs": 50120,
+      "durationMs": 5320,
+      "script": "",
+      "visual": "Singhasari court: [MENG QI] kneeling and presenting an opened scroll covered in flowing parallel wavy linear lines to the throne. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture, no letters.",
+      "animation": "Gentle parallax between envoy and stone pillars."
+    },
+    {
+      "id": 13,
+      "image": "majapahit/scene-13.jpg",
+      "startMs": 50120,
+      "endMs": 51950,
+      "durationMs": 1830,
+      "script": "",
+      "visual": "Close-up of King [KERTANEGARA] in golden crown striking the throne armrest in fury, knocking the scroll away. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in on KERTANEGARA's enraged eyes."
+    },
+    {
+      "id": 14,
+      "image": "majapahit/scene-14.jpg",
+      "startMs": 51950,
+      "endMs": 57610,
+      "durationMs": 5660,
+      "script": "",
+      "visual": "High-contrast shadow composition: silhouette of royal executioner holding glowing hot iron near kneeling [MENG QI]. 2D illustrated look, faded ochres, charcoal blacks, muted olive, gritty drama texture.",
+      "animation": "Slow zoom-out from the hot iron to the darkened hall."
+    },
+    {
+      "id": 15,
+      "image": "majapahit/scene-15.jpg",
+      "startMs": 57610,
+      "endMs": 59850,
+      "durationMs": 2240,
+      "script": "",
+      "visual": "Khanbaliq palace: [KUBLAI KHAN] slamming his fist on council table, scattering scrolls covered with wavy lines. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture, no text.",
+      "animation": "Slow push-in on KUBLAI KHAN's clenched fists."
+    },
+    {
+      "id": 16,
+      "image": "majapahit/scene-16.jpg",
+      "startMs": 59850,
+      "endMs": 64135,
+      "durationMs": 4285,
+      "script": "",
+      "visual": "Harbor of Quanzhou: dozens of [KAPAL PERANG MONGOL] with ribbed sails preparing to depart, soldiers loading catapults. 2D illustrated look, faded ochres, charcoal, muted olive, gritty shipyard texture.",
+      "animation": "Slow pan across the Yuan naval invasion fleet."
+    },
+    {
+      "id": 17,
+      "image": "majapahit/scene-17.jpg",
+      "startMs": 64135,
+      "endMs": 66360,
+      "durationMs": 2225,
+      "script": "",
+      "visual": "Wide seascape of Yuan invasion ships navigating rough open waves under a dark brooding sky. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture.",
+      "animation": "Gentle parallax between rolling waves and ship hulls."
+    },
+    {
+      "id": 18,
+      "image": "majapahit/scene-18.jpg",
+      "startMs": 66360,
+      "endMs": 68370,
+      "durationMs": 2010,
+      "script": "",
+      "visual": "Singhasari royal palace exterior at dusk: dark smoke pluming from split brick gates, torches flaring. 2D illustrated look, faded ochres, charcoal blacks, muted olive, gritty dust texture.",
+      "animation": "Slow push-in toward the smoke rising over temple gates."
+    },
+    {
+      "id": 19,
+      "image": "majapahit/scene-19.jpg",
+      "startMs": 68370,
+      "endMs": 75000,
+      "durationMs": 6630,
+      "script": "",
+      "visual": "Medium shot of [JAYAKATWANG] in Kediri crown leading spear-bearing cavalry storming Singhasari courtyard. 2D illustrated look, faded ochres, charcoal, muted olive, gritty dust texture.",
+      "animation": "Soft pan tracking JAYAKATWANG's charging troops."
+    },
+    {
+      "id": 20,
+      "image": "majapahit/scene-20.jpg",
+      "startMs": 75000,
+      "endMs": 79070,
+      "durationMs": 4070,
+      "script": "",
+      "visual": "Interior throne hall: fallen body of King [KERTANEGARA] beside shattered throne, golden crown resting on stone floor. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone floor texture.",
+      "animation": "Slow zoom-out from the fallen crown on stone floor."
+    },
+    {
+      "id": 21,
+      "image": "majapahit/scene-21.jpg",
+      "startMs": 79070,
+      "endMs": 84570,
+      "durationMs": 5500,
+      "script": "",
+      "visual": "Battlefield exterior: [RADEN WIJAYA] parrying enemy spears with glowing bronze keris, surrounded by Kediri warriors. 2D illustrated look, faded ochres, charcoal, muted olive, gritty action texture.",
+      "animation": "Gentle parallax between WIJAYA and attacking spearmen."
+    },
+    {
+      "id": 22,
+      "image": "majapahit/scene-22.jpg",
+      "startMs": 84570,
+      "endMs": 88870,
+      "durationMs": 4300,
+      "script": "",
+      "visual": "Wide shot of muddy trail: [RADEN WIJAYA] and his five loyal companions trekking through tall savanna grass under rain. 2D illustrated look, faded ochres, charcoal, muted olive, gritty rain texture.",
+      "animation": "Soft pan tracking the small exhausted group moving left."
+    },
+    {
+      "id": 23,
+      "image": "majapahit/scene-23.jpg",
+      "startMs": 88870,
+      "endMs": 93030,
+      "durationMs": 4160,
+      "script": "",
+      "visual": "Village huts in Kudadu: village elder Rama Kudadu sheltering [RADEN WIJAYA] behind bamboo thatch while guards pass. 2D illustrated look, faded ochres, charcoal, muted olive, gritty thatched texture.",
+      "animation": "Slow push-in on Rama Kudadu offering comfort to WIJAYA."
+    },
+    {
+      "id": 24,
+      "image": "majapahit/scene-24.jpg",
+      "startMs": 93030,
+      "endMs": 99000,
+      "durationMs": 5970,
+      "script": "",
+      "visual": "Night sea crossing: small wooden outrigger canoe carrying [RADEN WIJAYA] across Madura strait under moonlit clouds. 2D illustrated look, faded ochres, charcoal, muted olive, gritty water texture.",
+      "animation": "Gentle parallax between rocking canoe and distant hills."
+    },
+    {
+      "id": 25,
+      "image": "majapahit/scene-25.jpg",
+      "startMs": 99000,
+      "endMs": 103294,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Council pavilion in [PULAU MADURA SUMENEP]: [ARYA WIRARAJA] in deep whispered discussion with [RADEN WIJAYA] over a parchment map with wavy lines. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no text.",
+      "animation": "Slow push-in on WIRARAJA gesturing on map."
+    },
+    {
+      "id": 26,
+      "image": "majapahit/scene-26.jpg",
+      "startMs": 103294,
+      "endMs": 107830,
+      "durationMs": 4536,
+      "script": "",
+      "visual": "Close-up of [ARYA WIRARAJA] leaning forward, tapping a bamboo cylinder etched with wavy grooves. 2D illustrated look, faded ochres, charcoal, muted olive, gritty wood texture, no readable text.",
+      "animation": "Slow push-in on WIRARAJA's calculating eyes."
+    },
+    {
+      "id": 27,
+      "image": "majapahit/scene-27.jpg",
+      "startMs": 107830,
+      "endMs": 110440,
+      "durationMs": 2610,
+      "script": "",
+      "visual": "Kediri audience hall: [RADEN WIJAYA] kneeling in feigned submission before enthroned [JAYAKATWANG], making sembah salute. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow zoom-out showing WIJAYA kneeling in royal hall."
+    },
+    {
+      "id": 28,
+      "image": "majapahit/scene-28.jpg",
+      "startMs": 110440,
+      "endMs": 116178,
+      "durationMs": 5738,
+      "script": "",
+      "visual": "Medium shot of [JAYAKATWANG] gesturing condescendingly with raised palm to grant royal pardon from high seat. 2D illustrated look, faded ochres, charcoal, muted olive, gritty court texture.",
+      "animation": "Slow push-in on JAYAKATWANG's smug expression."
+    },
+    {
+      "id": 29,
+      "image": "majapahit/scene-29.jpg",
+      "startMs": 116178,
+      "endMs": 120030,
+      "durationMs": 3852,
+      "script": "",
+      "visual": "Dense wild trees in [HUTAN TARIK]: workers with axes chopping thick timber along muddy banks of [DELTA SUNGAI BRANTAS]. 2D illustrated look, faded ochres, charcoal, muted olive, gritty woodchips texture.",
+      "animation": "Soft pan from falling tree across muddy riverbank."
+    },
+    {
+      "id": 30,
+      "image": "majapahit/scene-30.jpg",
+      "startMs": 120030,
+      "endMs": 124435,
+      "durationMs": 4405,
+      "script": "",
+      "visual": "Close-up of a worker's weathered hands splitting open a wild green [BUAH MAJA], tasting pulp and recoiling in bitterness. 2D illustrated look, faded ochres, charcoal, muted olive, gritty organic texture.",
+      "animation": "Slow push-in on the bitter fruit in rough hands."
+    },
+    {
+      "id": 31,
+      "image": "majapahit/scene-31.jpg",
+      "startMs": 124435,
+      "endMs": 129890,
+      "durationMs": 5455,
+      "script": "",
+      "visual": "Wooden village entrance marker post carved with wavy decorative vines, [RADEN WIJAYA] standing beside it. 2D illustrated look, faded ochres, charcoal, muted olive, gritty wood texture, no readable text.",
+      "animation": "Slow zoom-out from the carved post to the huts."
+    },
+    {
+      "id": 32,
+      "image": "majapahit/scene-32.jpg",
+      "startMs": 129890,
+      "endMs": 133356,
+      "durationMs": 3466,
+      "script": "",
+      "visual": "River landing: cargo barges arriving from Madura unloading bundles of timber, grain sacks, and forged iron. 2D illustrated look, faded ochres, charcoal, muted olive, gritty river mud texture.",
+      "animation": "Soft pan following laborers carrying supply baskets."
+    },
+    {
+      "id": 33,
+      "image": "majapahit/scene-33.jpg",
+      "startMs": 133356,
+      "endMs": 137550,
+      "durationMs": 4194,
+      "script": "",
+      "visual": "Perimeter of Majapahit: villagers erecting defensive wooden palisades and sharpening bamboo stakes in forest. 2D illustrated look, faded ochres, charcoal, muted olive, gritty fortification texture.",
+      "animation": "Slow push-in on blacksmith hammering keris blade on anvil."
+    },
+    {
+      "id": 34,
+      "image": "majapahit/scene-34.jpg",
+      "startMs": 137550,
+      "endMs": 141945,
+      "durationMs": 4395,
+      "script": "",
+      "visual": "Coastal lookout post at Tuban: Javanese scout watching northern sea horizon through bamboo tube as sails emerge. 2D illustrated look, faded ochres, charcoal, muted olive, gritty coastal texture.",
+      "animation": "Slow push-in toward scout's alert posture."
+    },
+    {
+      "id": 35,
+      "image": "majapahit/scene-35.jpg",
+      "startMs": 141945,
+      "endMs": 146239,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Wide panoramic view of [PANTAI TUBAN & LAUT JAWA]: hundreds of Yuan invasion ships dropping anchor off sandy beach. 2D illustrated look, faded ochres, charcoal, muted olive, gritty beach texture.",
+      "animation": "Slow pan across the sea armada landing on coast."
+    },
+    {
+      "id": 36,
+      "image": "majapahit/scene-36.jpg",
+      "startMs": 146239,
+      "endMs": 150534,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "River mouth at Kali Mas: armored Mongol cavalry and Chinese crossbowmen disembarking from heavy flat-bottomed craft. 2D illustrated look, faded ochres, charcoal, muted olive, gritty armor texture.",
+      "animation": "Gentle parallax between horsemen and landing ships."
+    },
+    {
+      "id": 37,
+      "image": "majapahit/scene-37.jpg",
+      "startMs": 150534,
+      "endMs": 155865,
+      "durationMs": 5331,
+      "script": "",
+      "visual": "Mongol military tent: General Shi-Bi reviewing troop rosters covered in flowing wavy linear script. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture, no text.",
+      "animation": "Slow push-in on General Shi-Bi's armored shoulders."
+    },
+    {
+      "id": 38,
+      "image": "majapahit/scene-38.jpg",
+      "startMs": 155865,
+      "endMs": 159123,
+      "durationMs": 3258,
+      "script": "",
+      "visual": "Officers' table: Mongol commanders studying miniature wooden palace model of Singhasari with confused expressions. 2D illustrated look, faded ochres, charcoal, muted olive, gritty tent texture.",
+      "animation": "Slow zoom-out from the miniature palace to the officers."
+    },
+    {
+      "id": 39,
+      "image": "majapahit/scene-39.jpg",
+      "startMs": 159123,
+      "endMs": 164440,
+      "durationMs": 5317,
+      "script": "",
+      "visual": "Tent meeting: [RADEN WIJAYA]'s emissary bowing before seated Yuan commanders Ike Mese and Gao Xing. 2D illustrated look, faded ochres, charcoal, muted olive, gritty fabric texture.",
+      "animation": "Gentle parallax between envoy and Yuan commanders."
+    },
+    {
+      "id": 40,
+      "image": "majapahit/scene-40.jpg",
+      "startMs": 164440,
+      "endMs": 167712,
+      "durationMs": 3272,
+      "script": "",
+      "visual": "Close-up of opened map scroll showing river route to Daha illustrated with wavy river strokes and mountain icons. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no readable text.",
+      "animation": "Slow push-in along the drawn river path to Daha."
+    },
+    {
+      "id": 41,
+      "image": "majapahit/scene-41.jpg",
+      "startMs": 167712,
+      "endMs": 170755,
+      "durationMs": 3043,
+      "script": "",
+      "visual": "Yuan general nodding and clasping hands with Javanese envoy; cut to war drums sounding along river. 2D illustrated look, faded ochres, charcoal, muted olive, gritty camp texture.",
+      "animation": "Slow push-in on hands clasping in military alliance."
+    },
+    {
+      "id": 42,
+      "image": "majapahit/scene-42.jpg",
+      "startMs": 170755,
+      "endMs": 176980,
+      "durationMs": 6225,
+      "script": "",
+      "visual": "River naval battle on [DELTA SUNGAI BRANTAS]: Yuan river boats trading fire arrows with demon-prowed Kediri vessels. 2D illustrated look, faded ochres, charcoal, muted olive, gritty water texture.",
+      "animation": "Soft pan following burning arrows flying over water."
+    },
+    {
+      "id": 43,
+      "image": "majapahit/scene-43.jpg",
+      "startMs": 176980,
+      "endMs": 180595,
+      "durationMs": 3615,
+      "script": "",
+      "visual": "Combined charge: Mongol horse archers charging riverbank alongside [RADEN WIJAYA]'s spear infantry. 2D illustrated look, faded ochres, charcoal, muted olive, gritty dust texture.",
+      "animation": "Gentle parallax between galloping cavalry and running foot troops."
+    },
+    {
+      "id": 44,
+      "image": "majapahit/scene-44.jpg",
+      "startMs": 180595,
+      "endMs": 184360,
+      "durationMs": 3765,
+      "script": "",
+      "visual": "Gates of [KERATON KEDIRI DAHA] breached, Kediri flags falling, [JAYAKATWANG] handing over his dagger to Yuan captors. 2D illustrated look, faded ochres, charcoal, muted olive, gritty rubble texture.",
+      "animation": "Slow zoom-out from broken gates to burning courtyard."
+    },
+    {
+      "id": 45,
+      "image": "majapahit/scene-45.jpg",
+      "startMs": 184360,
+      "endMs": 188695,
+      "durationMs": 4335,
+      "script": "",
+      "visual": "Victory camp at Daha: Yuan soldiers piling bronze treasure chests, drinking palm wine in celebration. 2D illustrated look, faded ochres, charcoal, muted olive, gritty celebration texture.",
+      "animation": "Soft pan across celebrating soldiers and stacked loot."
+    },
+    {
+      "id": 46,
+      "image": "majapahit/scene-46.jpg",
+      "startMs": 188695,
+      "endMs": 193478,
+      "durationMs": 4783,
+      "script": "",
+      "visual": "General Shi-Bi confronting [RADEN WIJAYA], gesturing demandingly for promised royal princesses and tribute rolls. 2D illustrated look, faded ochres, charcoal, muted olive, gritty armor texture.",
+      "animation": "Slow push-in on Shi-Bi's demanding gesture."
+    },
+    {
+      "id": 47,
+      "image": "majapahit/scene-47.jpg",
+      "startMs": 193478,
+      "endMs": 197230,
+      "durationMs": 3752,
+      "script": "",
+      "visual": "Close-up of [RADEN WIJAYA]'s calm composed face, bowing politely while his gaze remains razor sharp. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in on WIJAYA's focused eyes."
+    },
+    {
+      "id": 48,
+      "image": "majapahit/scene-48.jpg",
+      "startMs": 197230,
+      "endMs": 202067,
+      "durationMs": 4837,
+      "script": "",
+      "visual": "Wide shot of [RADEN WIJAYA] addressing Mongol council, pointing back toward the eastern forest road. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture.",
+      "animation": "Gentle parallax between WIJAYA's arm and listening officers."
+    },
+    {
+      "id": 49,
+      "image": "majapahit/scene-49.jpg",
+      "startMs": 202067,
+      "endMs": 206362,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Trail column: [RADEN WIJAYA] walking calmly ahead, accompanied by Mongol cavalry escort entering the forest. 2D illustrated look, faded ochres, charcoal, muted olive, gritty road dust texture.",
+      "animation": "Soft pan tracking the procession into jungle path."
+    },
+    {
+      "id": 50,
+      "image": "majapahit/scene-50.jpg",
+      "startMs": 206362,
+      "endMs": 210656,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Close-up of Yuan escorts riding casually, bows unstrung and helmets removed in tropical midday heat. 2D illustrated look, faded ochres, charcoal, muted olive, gritty texture.",
+      "animation": "Slow zoom-out showing escort's loose march formation."
+    },
+    {
+      "id": 51,
+      "image": "majapahit/scene-51.jpg",
+      "startMs": 210656,
+      "endMs": 214760,
+      "durationMs": 4104,
+      "script": "",
+      "visual": "Dense canopy of [HUTAN TARIK]: Majapahit warriors hidden high in banyan branches watching the trail below. 2D illustrated look, faded ochres, charcoal, muted olive, gritty foliage texture.",
+      "animation": "Slow push-in on hidden warrior drawing arrow in shadows."
+    },
+    {
+      "id": 52,
+      "image": "majapahit/scene-52.jpg",
+      "startMs": 214760,
+      "endMs": 217990,
+      "durationMs": 3230,
+      "script": "",
+      "visual": "Jungle ambush: Majapahit spearmen bursting from roadside bamboo thickets, encircling the caught Mongol guards. 2D illustrated look, faded ochres, charcoal, muted olive, gritty action texture.",
+      "animation": "Gentle parallax between foreground leaves and ambush."
+    },
+    {
+      "id": 53,
+      "image": "majapahit/scene-53.jpg",
+      "startMs": 217990,
+      "endMs": 223090,
+      "durationMs": 5100,
+      "script": "",
+      "visual": "Fast march at dusk: [RADEN WIJAYA] raising his keris, leading full column of warriors back toward Daha. 2D illustrated look, faded ochres, charcoal, muted olive, gritty sunset texture.",
+      "animation": "Soft pan tracking running rows of torch-bearing warriors."
+    },
+    {
+      "id": 54,
+      "image": "majapahit/scene-54.jpg",
+      "startMs": 223090,
+      "endMs": 228860,
+      "durationMs": 5770,
+      "script": "",
+      "visual": "Surprise night attack on main Yuan camp: tents blazing, unsuspecting Yuan soldiers scrambling in darkness. 2D illustrated look, faded ochres, charcoal blacks, muted olive, gritty fire texture.",
+      "animation": "Slow push-in on blazing camp tents in the night."
+    },
+    {
+      "id": 55,
+      "image": "majapahit/scene-55.jpg",
+      "startMs": 228860,
+      "endMs": 231910,
+      "durationMs": 3050,
+      "script": "",
+      "visual": "Disorganized retreat: Yuan soldiers fleeing in panic through riverbanks toward coastal boats pursued by spearmen. 2D illustrated look, faded ochres, charcoal, muted olive, gritty mud texture.",
+      "animation": "Gentle parallax between fleeing soldiers and pursuers."
+    },
+    {
+      "id": 56,
+      "image": "majapahit/scene-56.jpg",
+      "startMs": 231910,
+      "endMs": 236840,
+      "durationMs": 4930,
+      "script": "",
+      "visual": "Windy coast at Tuban: palm trees bending under fierce coastal winds, dark monsoon clouds gathering above surf. 2D illustrated look, faded ochres, charcoal, muted olive, gritty sand texture.",
+      "animation": "Soft pan from windblown trees across crashing waves."
+    },
+    {
+      "id": 57,
+      "image": "majapahit/scene-57.jpg",
+      "startMs": 236840,
+      "endMs": 240718,
+      "durationMs": 3878,
+      "script": "",
+      "visual": "Stranded Yuan supply boats tilted in low tide mud, crewmen frantically trying to push hulls into deep water. 2D illustrated look, faded ochres, charcoal, muted olive, gritty maritime mud texture.",
+      "animation": "Slow push-in on crew straining against heavy boat hull."
+    },
+    {
+      "id": 58,
+      "image": "majapahit/scene-58.jpg",
+      "startMs": 240718,
+      "endMs": 245012,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Ship deck: General Gao Xing urgently shouting orders to cut mooring lines under incoming squall. 2D illustrated look, faded ochres, charcoal, muted olive, gritty deck texture.",
+      "animation": "Gentle parallax between commander and sailors pulling ropes."
+    },
+    {
+      "id": 59,
+      "image": "majapahit/scene-59.jpg",
+      "startMs": 245012,
+      "endMs": 249307,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Wide sea shot: fleet of [KAPAL PERANG MONGOL] sailing away into stormy northern horizon, shrinking in distance. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture.",
+      "animation": "Slow zoom-out from shore as ships fade on horizon."
+    },
+    {
+      "id": 60,
+      "image": "majapahit/scene-60.jpg",
+      "startMs": 249307,
+      "endMs": 252470,
+      "durationMs": 3163,
+      "script": "",
+      "visual": "High rocky headland: [RADEN WIJAYA] standing triumphant overlooking the empty open sea, sarong fluttering in breeze. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in toward the noble silhouette of RADEN WIJAYA."
+    },
+    {
+      "id": 61,
+      "image": "majapahit/scene-61.jpg",
+      "startMs": 252470,
+      "endMs": 257895,
+      "durationMs": 5425,
+      "script": "",
+      "visual": "Grand coronation at [KERATON TROWULAN]: priests pouring holy water from conch over kneeling [RADEN WIJAYA]. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in on RADEN WIJAYA receiving holy anointment."
+    },
+    {
+      "id": 62,
+      "image": "majapahit/scene-62.jpg",
+      "startMs": 257895,
+      "endMs": 263340,
+      "durationMs": 5445,
+      "script": "",
+      "visual": "High angle shot of royal court: nobles in rows performing sembah homage before enthroned [RADEN WIJAYA]. 2D illustrated look, faded ochres, charcoal, muted olive, gritty brick court texture.",
+      "animation": "Slow zoom-out revealing ranks of kneeling courtiers."
+    },
+    {
+      "id": 63,
+      "image": "majapahit/scene-63.jpg",
+      "startMs": 263340,
+      "endMs": 266230,
+      "durationMs": 2890,
+      "script": "",
+      "visual": "Royal dais: [RADEN WIJAYA] seated beside four noble sisters, featuring graceful [GAYATRI] adorned with jasmine. 2D illustrated look, faded ochres, charcoal, muted olive, gritty silk texture.",
+      "animation": "Gentle parallax between floral offerings and royal women."
+    },
+    {
+      "id": 64,
+      "image": "majapahit/scene-64.jpg",
+      "startMs": 266230,
+      "endMs": 270940,
+      "durationMs": 4710,
+      "script": "",
+      "visual": "Medium shot of [GAYATRI] observing council proceedings from behind a carved wooden lattice screen. 2D illustrated look, faded ochres, charcoal, muted olive, gritty wood lattice texture.",
+      "animation": "Slow push-in on GAYATRI's thoughtful observant face."
+    },
+    {
+      "id": 65,
+      "image": "majapahit/scene-65.jpg",
+      "startMs": 270940,
+      "endMs": 275073,
+      "durationMs": 4133,
+      "script": "",
+      "visual": "Coronation hall: youthful [JAYANAGARA] taking throne steps looking nervous, holding royal keris awkwardly. 2D illustrated look, faded ochres, charcoal, muted olive, gritty hall texture.",
+      "animation": "Slow push-in on young JAYANAGARA's uncertain face."
+    },
+    {
+      "id": 66,
+      "image": "majapahit/scene-66.jpg",
+      "startMs": 275073,
+      "endMs": 279368,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Dark palace colonnade: conspirators gathered in shadows of brick pillars whispering and touching dagger hilts. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Soft pan across the shadowy figures of mutineers."
+    },
+    {
+      "id": 67,
+      "image": "majapahit/scene-67.jpg",
+      "startMs": 279368,
+      "endMs": 282815,
+      "durationMs": 3447,
+      "script": "",
+      "visual": "Palace courtyards in chaos: armed mutineers carrying flaming torches storming open-air brick pavilions. 2D illustrated look, faded ochres, charcoal, muted olive, gritty smoke texture.",
+      "animation": "Gentle parallax as rebels rush past carved pillars."
+    },
+    {
+      "id": 68,
+      "image": "majapahit/scene-68.jpg",
+      "startMs": 282815,
+      "endMs": 287957,
+      "durationMs": 5142,
+      "script": "",
+      "visual": "Throne hall occupied: rebellious [RA KUTI] standing arrogantly atop throne dais holding drawn bronze dagger. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in on RA KUTI raising blade in defiance."
+    },
+    {
+      "id": 69,
+      "image": "majapahit/scene-69.jpg",
+      "startMs": 287957,
+      "endMs": 292251,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Night forest trail: [JAYANAGARA] in traveler's disguise being guided swiftly through dense trees by armored guards. 2D illustrated look, faded ochres, charcoal, muted olive, gritty forest texture.",
+      "animation": "Soft pan tracking the urgent nighttime royal escort."
+    },
+    {
+      "id": 70,
+      "image": "majapahit/scene-70.jpg",
+      "startMs": 292251,
+      "endMs": 295495,
+      "durationMs": 3244,
+      "script": "",
+      "visual": "Rearguard defense: disciplined Bhayangkara royal guards forming tight shield wall in narrow gorge against arrows. 2D illustrated look, faded ochres, charcoal, muted olive, gritty rock texture.",
+      "animation": "Gentle parallax as bronze shields lock together."
+    },
+    {
+      "id": 71,
+      "image": "majapahit/scene-71.jpg",
+      "startMs": 295495,
+      "endMs": 299880,
+      "durationMs": 4385,
+      "script": "",
+      "visual": "Heroic low angle: young [GAJAH MADA] standing resolute with folded arms, square jaw, broad keris at hip. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in on GAJAH MADA's unwavering face."
+    },
+    {
+      "id": 72,
+      "image": "majapahit/scene-72.jpg",
+      "startMs": 299880,
+      "endMs": 304980,
+      "durationMs": 5100,
+      "script": "",
+      "visual": "Safehouse in Badender village: [GAJAH MADA] drawing tactical assault paths in dirt floor with knife tip. 2D illustrated look, faded ochres, charcoal, muted olive, gritty earthen texture.",
+      "animation": "Slow push-in on the knife tracing plans in the dirt."
+    },
+    {
+      "id": 73,
+      "image": "majapahit/scene-73.jpg",
+      "startMs": 304980,
+      "endMs": 309429,
+      "durationMs": 4449,
+      "script": "",
+      "visual": "Dawn assault: [GAJAH MADA] leaping forward in palace courtyard, disarming [RA KUTI] and leading loyal counter-attack. 2D illustrated look, faded ochres, charcoal, muted olive, gritty battle dust texture.",
+      "animation": "Gentle parallax between clashing blades and throne dais."
+    },
+    {
+      "id": 74,
+      "image": "majapahit/scene-74.jpg",
+      "startMs": 309429,
+      "endMs": 313724,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Audience chamber: [GAJAH MADA] receiving seal of military authority, bowing respectfully before royal ministers. 2D illustrated look, faded ochres, charcoal, muted olive, gritty court texture.",
+      "animation": "Slow zoom-out from GAJAH MADA to the bowed ministers."
+    },
+    {
+      "id": 75,
+      "image": "majapahit/scene-75.jpg",
+      "startMs": 313724,
+      "endMs": 318220,
+      "durationMs": 4496,
+      "script": "",
+      "visual": "Empty throne draped in ceremonial white cloth; ministers and royal priests standing in solemn consultation. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone hall texture.",
+      "animation": "Slow push-in toward the vacant draped throne."
+    },
+    {
+      "id": 76,
+      "image": "majapahit/scene-76.jpg",
+      "startMs": 318220,
+      "endMs": 323600,
+      "durationMs": 5380,
+      "script": "",
+      "visual": "Enthronement: Queen [TRIBHUWANA WIJAYATUNGGADEWI] holding golden sceptre, wearing magnificent layered royal regalia. 2D illustrated look, faded ochres, charcoal, muted olive, gritty court texture.",
+      "animation": "Slow push-in on Queen TRIBHUWANA's majestic presence."
+    },
+    {
+      "id": 77,
+      "image": "majapahit/scene-77.jpg",
+      "startMs": 323600,
+      "endMs": 326420,
+      "durationMs": 2820,
+      "script": "",
+      "visual": "Formal investiture: Queen [TRIBHUWANA WIJAYATUNGGADEWI] bestowing ceremonial golden keris upon kneeling [GAJAH MADA]. 2D illustrated look, faded ochres, charcoal, muted olive, gritty silk texture.",
+      "animation": "Gentle parallax as the ceremonial dagger is presented."
+    },
+    {
+      "id": 78,
+      "image": "majapahit/scene-78.jpg",
+      "startMs": 326420,
+      "endMs": 329650,
+      "durationMs": 3230,
+      "script": "",
+      "visual": "Close-up of prime minister's seal stamped onto palm leaf manuscript covered with flowing wavy linear script. 2D illustrated look, faded ochres, charcoal, muted olive, gritty lontar texture, no readable text.",
+      "animation": "Slow push-in on the seal impression on palm leaf."
+    },
+    {
+      "id": 79,
+      "image": "majapahit/scene-79.jpg",
+      "startMs": 329650,
+      "endMs": 335196,
+      "durationMs": 5546,
+      "script": "",
+      "visual": "Grand court courtyard: [GAJAH MADA] standing atop elevated brick dais before assembly of listening nobles. 2D illustrated look, faded ochres, charcoal, muted olive, gritty brick courtyard texture.",
+      "animation": "Slow zoom-out from GAJAH MADA to the entire court."
+    },
+    {
+      "id": 80,
+      "image": "majapahit/scene-80.jpg",
+      "startMs": 335196,
+      "endMs": 339490,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Dramatic close-up: [GAJAH MADA] raising open palm to the sky, eyes blazing with the sacred Sumpah Palapa vow. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture.",
+      "animation": "Slow push-in on GAJAH MADA's face and raised hand."
+    },
+    {
+      "id": 81,
+      "image": "majapahit/scene-81.jpg",
+      "startMs": 339490,
+      "endMs": 343000,
+      "durationMs": 3510,
+      "script": "",
+      "visual": "Feast tables left untouched: bronze platters of spices and delicacies sitting neglected beside an ascetic mat. 2D illustrated look, faded ochres, charcoal, muted olive, gritty still life texture.",
+      "animation": "Soft pan from feast delicacies to the empty ascetic seat."
+    },
+    {
+      "id": 82,
+      "image": "majapahit/scene-82.jpg",
+      "startMs": 343000,
+      "endMs": 349450,
+      "durationMs": 6450,
+      "script": "",
+      "visual": "Stylized archipelago map: glowing trade lines radiating outward from Java across Sumatra, Borneo, and Bali with wavy labels. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no readable text.",
+      "animation": "Slow zoom-out showing lines spreading across islands."
+    },
+    {
+      "id": 83,
+      "image": "majapahit/scene-83.jpg",
+      "startMs": 349450,
+      "endMs": 352070,
+      "durationMs": 2620,
+      "script": "",
+      "visual": "Coastal shipyard: rows of shipwrights hewing timber and pitching hulls under the hot sun. 2D illustrated look, faded ochres, charcoal, muted olive, gritty woodchips texture.",
+      "animation": "Slow push-in on a carpenter hammering a wooden peg into ship."
+    },
+    {
+      "id": 84,
+      "image": "majapahit/scene-84.jpg",
+      "startMs": 352070,
+      "endMs": 356668,
+      "durationMs": 4598,
+      "script": "",
+      "visual": "Wide shot of imperial fleet of [KAPAL JUNG MAJAPAHIT] sailing in formation across open water under striped pennants. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture.",
+      "animation": "Slow pan across the majestic armada setting sail."
+    },
+    {
+      "id": 85,
+      "image": "majapahit/scene-85.jpg",
+      "startMs": 356668,
+      "endMs": 360963,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Montage of coastal landings: Majapahit ships anchored off varied island beaches, envoys disembarking with peaceful banners. 2D illustrated look, faded ochres, charcoal, muted olive, gritty beach texture.",
+      "animation": "Gentle parallax between shoreline and landing boats."
+    },
+    {
+      "id": 86,
+      "image": "majapahit/scene-86.jpg",
+      "startMs": 360963,
+      "endMs": 365257,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "High quarterdeck: Admiral [MPU NALA] in dark headband holding brass navigational compass towards coastal headland. 2D illustrated look, faded ochres, charcoal, muted olive, gritty deck texture.",
+      "animation": "Slow push-in on MPU NALA observing sea horizon."
+    },
+    {
+      "id": 87,
+      "image": "majapahit/scene-87.jpg",
+      "startMs": 365257,
+      "endMs": 369055,
+      "durationMs": 3798,
+      "script": "",
+      "visual": "Side profile of enormous multi-deck [KAPAL JUNG MAJAPAHIT] with woven sails gliding past small fishing canoes. 2D illustrated look, faded ochres, charcoal, muted olive, gritty wood texture.",
+      "animation": "Gentle parallax as the giant vessel cuts through water."
+    },
+    {
+      "id": 88,
+      "image": "majapahit/scene-88.jpg",
+      "startMs": 369055,
+      "endMs": 373846,
+      "durationMs": 4791,
+      "script": "",
+      "visual": "Busy regional port: merchants from different islands exchanging cloves, nutmeg, and pottery on wooden wharves. 2D illustrated look, faded ochres, charcoal, muted olive, gritty trade dock texture.",
+      "animation": "Soft pan across goods being weighed on balance scales."
+    },
+    {
+      "id": 89,
+      "image": "majapahit/scene-89.jpg",
+      "startMs": 373846,
+      "endMs": 379180,
+      "durationMs": 5334,
+      "script": "",
+      "visual": "High bird's eye view: maritime shipping lanes marked by multiple sailing prahus crisscrossing calm island sea. 2D illustrated look, faded ochres, charcoal, muted olive, gritty antique map texture.",
+      "animation": "Slow zoom-out showing maritime network across islands."
+    },
+    {
+      "id": 90,
+      "image": "majapahit/scene-90.jpg",
+      "startMs": 379180,
+      "endMs": 382435,
+      "durationMs": 3255,
+      "script": "",
+      "visual": "Young prince [HAYAM WURUK] standing in royal garden pavilion at sunrise, looking out toward temple spires. 2D illustrated look, faded ochres, charcoal, muted olive, gritty brick garden texture.",
+      "animation": "Slow push-in on young HAYAM WURUK's serene profile."
+    },
+    {
+      "id": 91,
+      "image": "majapahit/scene-91.jpg",
+      "startMs": 382435,
+      "endMs": 387090,
+      "durationMs": 4655,
+      "script": "",
+      "visual": "Enthronement of King [HAYAM WURUK] crowned with elaborate lotus diadem, seated gracefully on high stone throne. 2D illustrated look, faded ochres, charcoal, muted olive, gritty gold and stone texture.",
+      "animation": "Slow zoom-out from royal crown to the enthroned king."
+    },
+    {
+      "id": 92,
+      "image": "majapahit/scene-92.jpg",
+      "startMs": 387090,
+      "endMs": 392050,
+      "durationMs": 4960,
+      "script": "",
+      "visual": "Two-shot composition: King [HAYAM WURUK] seated serene in white silk, while [GAJAH MADA] stands alert at his side. 2D illustrated look, faded ochres, charcoal, muted olive, gritty court texture.",
+      "animation": "Gentle parallax between the king and prime minister."
+    },
+    {
+      "id": 93,
+      "image": "majapahit/scene-93.jpg",
+      "startMs": 392050,
+      "endMs": 395900,
+      "durationMs": 3850,
+      "script": "",
+      "visual": "Prosperous court: foreign ambassadors presenting gifts of porcelain, silk, and gems before the royal pavilion. 2D illustrated look, faded ochres, charcoal, muted olive, gritty courtyard texture.",
+      "animation": "Soft pan across tribute gifts laid out on fine mats."
+    },
+    {
+      "id": 94,
+      "image": "majapahit/scene-94.jpg",
+      "startMs": 395900,
+      "endMs": 398410,
+      "durationMs": 2510,
+      "script": "",
+      "visual": "Sweeping vista of [KERATON TROWULAN]: red-brick avenues, walled compounds (kuwu), split gates, distant volcano mist. 2D illustrated look, faded ochres, charcoal, muted olive, gritty terracotta texture.",
+      "animation": "Slow pan across the red-brick imperial cityscape."
+    },
+    {
+      "id": 95,
+      "image": "majapahit/scene-95.jpg",
+      "startMs": 398410,
+      "endMs": 403520,
+      "durationMs": 5110,
+      "script": "",
+      "visual": "Grand Segaran Reservoir: wide stone-banked water reservoir reflecting sky, brick canals channeling water through city. 2D illustrated look, faded ochres, charcoal, muted olive, gritty water and brick texture.",
+      "animation": "Slow push-in toward the calm water of Segaran basin."
+    },
+    {
+      "id": 96,
+      "image": "majapahit/scene-96.jpg",
+      "startMs": 403520,
+      "endMs": 408230,
+      "durationMs": 4710,
+      "script": "",
+      "visual": "Close-up of market trade: merchant fingers counting round bronze [KOIN GOBOG] with center square holes and wavy reliefs. 2D illustrated look, faded ochres, charcoal, muted olive, gritty bronze texture, no readable text.",
+      "animation": "Slow push-in on bronze coins in weathered hands."
+    },
+    {
+      "id": 97,
+      "image": "majapahit/scene-97.jpg",
+      "startMs": 408230,
+      "endMs": 412496,
+      "durationMs": 4266,
+      "script": "",
+      "visual": "Diagrammatic art: concentric glowing rings radiating from Trowulan palace representing the Mandala realm structure. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no text.",
+      "animation": "Slow zoom-out revealing the concentric mandala rings."
+    },
+    {
+      "id": 98,
+      "image": "majapahit/scene-98.jpg",
+      "startMs": 412496,
+      "endMs": 416791,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Inner zone landscape: lush Brantas river valley dotted with terraced green rice fields and brick temples. 2D illustrated look, faded ochres, charcoal, muted olive, gritty agrarian texture.",
+      "animation": "Soft pan along terraced rice paddies and canals."
+    },
+    {
+      "id": 99,
+      "image": "majapahit/scene-99.jpg",
+      "startMs": 416791,
+      "endMs": 421540,
+      "durationMs": 4749,
+      "script": "",
+      "visual": "Outer zone court: regional chieftain in Kalimantan seated in his timber hall, receiving Majapahit royal letter with respect. 2D illustrated look, faded ochres, charcoal, muted olive, gritty timber texture, no text.",
+      "animation": "Gentle parallax between local chief and royal envoy."
+    },
+    {
+      "id": 100,
+      "image": "majapahit/scene-100.jpg",
+      "startMs": 421540,
+      "endMs": 425380,
+      "durationMs": 3840,
+      "script": "",
+      "visual": "Coastal dock: regional tribute ship unloading sacks of spices and sandalwood logs into royal warehouse. 2D illustrated look, faded ochres, charcoal, muted olive, gritty dock texture.",
+      "animation": "Soft pan across trade crates being cataloged."
+    },
+    {
+      "id": 101,
+      "image": "majapahit/scene-101.jpg",
+      "startMs": 425380,
+      "endMs": 428570,
+      "durationMs": 3190,
+      "script": "",
+      "visual": "Palace pavilion: foreign diplomats from Siam and Champa in distinctive court silks exchanging diplomatic greetings. 2D illustrated look, faded ochres, charcoal, muted olive, gritty pavilion texture.",
+      "animation": "Gentle parallax between foreign envoys bowing mutually."
+    },
+    {
+      "id": 102,
+      "image": "majapahit/scene-102.jpg",
+      "startMs": 428570,
+      "endMs": 433969,
+      "durationMs": 5399,
+      "script": "",
+      "visual": "Twin royal treaty scrolls tied with gold ribbons, bearing twin wax seals and filled with parallel wavy linear script. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no readable text.",
+      "animation": "Slow push-in on the pressed seals on the treaty scroll."
+    },
+    {
+      "id": 103,
+      "image": "majapahit/scene-103.jpg",
+      "startMs": 433969,
+      "endMs": 437390,
+      "durationMs": 3421,
+      "script": "",
+      "visual": "Royal council of judges (Sang Pragwiwaka) seated in open hall examining a thick legal manuscript of Kutaramanawa. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone chamber texture, no readable text.",
+      "animation": "Slow zoom-out from judges to the legal court."
+    },
+    {
+      "id": 104,
+      "image": "majapahit/scene-104.jpg",
+      "startMs": 437390,
+      "endMs": 442558,
+      "durationMs": 5168,
+      "script": "",
+      "visual": "Close-up of copper inscription plate [PRASASTI BATU / TEMBAGA] etched with flowing parallel wavy linear grooves. 2D illustrated look, faded ochres, charcoal, muted olive, gritty copper patina texture, no readable text.",
+      "animation": "Slow push-in across the etched wavy grooves."
+    },
+    {
+      "id": 105,
+      "image": "majapahit/scene-105.jpg",
+      "startMs": 442558,
+      "endMs": 447000,
+      "durationMs": 4442,
+      "script": "",
+      "visual": "Temple courtyard: shared sanctuary with a stone Shiva linga on left and a seated Buddha statue on right on one altar. 2D illustrated look, faded ochres, charcoal, muted olive, gritty volcanic stone texture.",
+      "animation": "Slow push-in between the two sacred stone statues."
+    },
+    {
+      "id": 106,
+      "image": "majapahit/scene-106.jpg",
+      "startMs": 447000,
+      "endMs": 451147,
+      "durationMs": 4147,
+      "script": "",
+      "visual": "Two royal high priests (Dharmadyaksa) walking side by side through temple gateway in peaceful spiritual conversation. 2D illustrated look, faded ochres, charcoal, muted olive, gritty temple path texture.",
+      "animation": "Soft pan tracking the two priests walking in robes."
+    },
+    {
+      "id": 107,
+      "image": "majapahit/scene-107.jpg",
+      "startMs": 451147,
+      "endMs": 454040,
+      "durationMs": 2893,
+      "script": "",
+      "visual": "Community festival in Trowulan: diverse citizens gathering under a sacred banyan tree sharing communal feast. 2D illustrated look, faded ochres, charcoal, muted olive, gritty festive texture.",
+      "animation": "Gentle parallax between feast baskets and stylized crowd."
+    },
+    {
+      "id": 108,
+      "image": "majapahit/scene-108.jpg",
+      "startMs": 454040,
+      "endMs": 458930,
+      "durationMs": 4890,
+      "script": "",
+      "visual": "Coastal port promenade: Arab and Chinese merchants conversing peacefully beside Javanese dockworkers near prahus. 2D illustrated look, faded ochres, charcoal, muted olive, gritty waterfront texture.",
+      "animation": "Soft pan across the bustling cosmopolitan harbor."
+    },
+    {
+      "id": 109,
+      "image": "majapahit/scene-109.jpg",
+      "startMs": 458930,
+      "endMs": 463870,
+      "durationMs": 4940,
+      "script": "",
+      "visual": "Ominous dark storm clouds rolling over the red-brick split gates of [KERATON TROWULAN], long dark shadows. 2D illustrated look, faded ochres, charcoal blacks, muted olive, gritty brick texture.",
+      "animation": "Slow push-in toward the looming storm clouds."
+    },
+    {
+      "id": 110,
+      "image": "majapahit/scene-110.jpg",
+      "startMs": 463870,
+      "endMs": 469560,
+      "durationMs": 5690,
+      "script": "",
+      "visual": "Wide shot of [LAPANGAN BUBAT]: vibrant royal encampment of Kerajaan Sunda with ornate silk tents and royal carriages. 2D illustrated look, faded ochres, charcoal, muted olive, gritty field texture.",
+      "animation": "Slow pan across the colorful Sundanese royal tents."
+    },
+    {
+      "id": 111,
+      "image": "majapahit/scene-111.jpg",
+      "startMs": 469560,
+      "endMs": 472619,
+      "durationMs": 3059,
+      "script": "",
+      "visual": "Royal carriage window: beautiful [DYAH PITALOKA CITRA RASHMI] with jasmine crown gazing out with joyful anticipation. 2D illustrated look, faded ochres, charcoal, muted olive, gritty silk texture.",
+      "animation": "Slow push-in on Princess DYAH PITALOKA's face."
+    },
+    {
+      "id": 112,
+      "image": "majapahit/scene-112.jpg",
+      "startMs": 472619,
+      "endMs": 476913,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Negotiation tent: [GAJAH MADA] standing firm and unyielding with folded arms, confronting indignant Sundanese ministers. 2D illustrated look, faded ochres, charcoal, muted olive, gritty canvas texture.",
+      "animation": "Gentle parallax between GAJAH MADA and Sunda nobles."
+    },
+    {
+      "id": 113,
+      "image": "majapahit/scene-113.jpg",
+      "startMs": 476913,
+      "endMs": 481970,
+      "durationMs": 5057,
+      "script": "",
+      "visual": "Close-up of Sundanese royal parchment missive rejected and pushed back across table, hands reaching for keris hilts. 2D illustrated look, faded ochres, charcoal, muted olive, gritty wood texture, no text.",
+      "animation": "Slow push-in on Sundanese hand gripping keris hilt."
+    },
+    {
+      "id": 114,
+      "image": "majapahit/scene-114.jpg",
+      "startMs": 481970,
+      "endMs": 485315,
+      "durationMs": 3345,
+      "script": "",
+      "visual": "Battle tragedy at [LAPANGAN BUBAT]: clash of shields, Sundanese royal guards making desperate final stand around carriages. 2D illustrated look, faded ochres, charcoal, muted olive, gritty battle dust texture.",
+      "animation": "Soft pan across the desperate defensive shield circle."
+    },
+    {
+      "id": 115,
+      "image": "majapahit/scene-115.jpg",
+      "startMs": 485315,
+      "endMs": 489797,
+      "durationMs": 4482,
+      "script": "",
+      "visual": "Somber interior tent: scattered white jasmine petals lying beside a fallen bronze hair ornament and sheathed dagger. 2D illustrated look, faded ochres, charcoal, muted olive, gritty solemn texture.",
+      "animation": "Slow zoom-out from the white flowers on silk carpet."
+    },
+    {
+      "id": 116,
+      "image": "majapahit/scene-116.jpg",
+      "startMs": 489797,
+      "endMs": 494091,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Palace corridor: King [HAYAM WURUK] turning away in grief, while [GAJAH MADA] stands in deep shadow with bowed head. 2D illustrated look, faded ochres, charcoal, muted olive, gritty corridor texture.",
+      "animation": "Gentle parallax showing emotional rift between the two."
+    },
+    {
+      "id": 117,
+      "image": "majapahit/scene-117.jpg",
+      "startMs": 494091,
+      "endMs": 498386,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Twin memorial shrines: two stone candi monuments standing silent amidst falling dry autumn leaves at sunset. 2D illustrated look, faded ochres, charcoal, muted olive, gritty weathered stone texture.",
+      "animation": "Slow zoom-out from the two solitary stone shrines."
+    },
+    {
+      "id": 118,
+      "image": "majapahit/scene-118.jpg",
+      "startMs": 498386,
+      "endMs": 502680,
+      "durationMs": 4294,
+      "script": "",
+      "visual": "Symbolic crack splitting through an ancient stone carving of Surya Majapahit, dust crumbling from fissure. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone texture, no text.",
+      "animation": "Slow push-in on the widening fracture in the seal."
+    },
+    {
+      "id": 119,
+      "image": "majapahit/scene-119.jpg",
+      "startMs": 502680,
+      "endMs": 506975,
+      "durationMs": 4295,
+      "script": "",
+      "visual": "Royal council chamber: rival factions shouting and gesturing aggressively around an empty throne dais. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone court texture.",
+      "animation": "Gentle parallax between the two opposing noble factions."
+    },
+    {
+      "id": 120,
+      "image": "majapahit/scene-120.jpg",
+      "startMs": 506975,
+      "endMs": 511400,
+      "durationMs": 4425,
+      "script": "",
+      "visual": "Western court at Trowulan: King [WIKRAMAWARDHANA] pacing anxiously between brick pillars, looking exhausted. 2D illustrated look, faded ochres, charcoal, muted olive, gritty brick texture.",
+      "animation": "Slow push-in on WIKRAMAWARDHANA's troubled brow."
+    },
+    {
+      "id": 121,
+      "image": "majapahit/scene-121.jpg",
+      "startMs": 511400,
+      "endMs": 516760,
+      "durationMs": 5360,
+      "script": "",
+      "visual": "Eastern court at Blambangan: defiant [BHRE WIRABHUMI] reviewing rows of armed eastern warriors at seaside fort. 2D illustrated look, faded ochres, charcoal, muted olive, gritty fortress texture.",
+      "animation": "Soft pan along ranks of eastern provincial warriors."
+    },
+    {
+      "id": 122,
+      "image": "majapahit/scene-122.jpg",
+      "startMs": 516760,
+      "endMs": 520780,
+      "durationMs": 4020,
+      "script": "",
+      "visual": "Civil war outbreak: opposing columns of Javanese warriors carrying identical red-and-white banners clashing in fields. 2D illustrated look, faded ochres, charcoal, muted olive, gritty battle mud texture.",
+      "animation": "Gentle parallax between clashing spear tips and banners."
+    },
+    {
+      "id": 123,
+      "image": "majapahit/scene-123.jpg",
+      "startMs": 520780,
+      "endMs": 524820,
+      "durationMs": 4040,
+      "script": "",
+      "visual": "Ruined countryside: scorched rice paddies, broken wooden carts, and abandoned villages during Perang Paregreg. 2D illustrated look, faded ochres, charcoal, muted olive, gritty ash texture.",
+      "animation": "Slow pan across the desolate, smoking rural landscape."
+    },
+    {
+      "id": 124,
+      "image": "majapahit/scene-124.jpg",
+      "startMs": 524820,
+      "endMs": 528447,
+      "durationMs": 3627,
+      "script": "",
+      "visual": "Symbolic metaphor: an ancient banyan tree rotting from within, its hollow trunk cracked while branches lose leaves. 2D illustrated look, faded ochres, charcoal, muted olive, gritty tree bark texture.",
+      "animation": "Slow zoom-out from decaying trunk to dying canopy."
+    },
+    {
+      "id": 125,
+      "image": "majapahit/scene-125.jpg",
+      "startMs": 528447,
+      "endMs": 533460,
+      "durationMs": 5013,
+      "script": "",
+      "visual": "Hollow victory: [WIKRAMAWARDHANA] standing weary amidst ruined throne hall littered with broken masonry. 2D illustrated look, faded ochres, charcoal, muted olive, gritty rubble texture.",
+      "animation": "Slow push-in on WIKRAMAWARDHANA's despondent gaze."
+    },
+    {
+      "id": 126,
+      "image": "majapahit/scene-126.jpg",
+      "startMs": 533460,
+      "endMs": 537036,
+      "durationMs": 3576,
+      "script": "",
+      "visual": "Treasury vault: empty stone chests, royal weighmasters handing gold bullion to stern Ming dynasty maritime envoys. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone vault texture.",
+      "animation": "Soft pan from empty vaults to chests being carried away."
+    },
+    {
+      "id": 127,
+      "image": "majapahit/scene-127.jpg",
+      "startMs": 537036,
+      "endMs": 540650,
+      "durationMs": 3614,
+      "script": "",
+      "visual": "Derelict harbor: rotting hull of a [KAPAL JUNG MAJAPAHIT] abandoned in coastal mud, shredded sails flapping in wind. 2D illustrated look, faded ochres, charcoal, muted olive, gritty dockyard rot texture.",
+      "animation": "Slow push-in on the decayed hull and broken rudder."
+    },
+    {
+      "id": 128,
+      "image": "majapahit/scene-128.jpg",
+      "startMs": 540650,
+      "endMs": 545070,
+      "durationMs": 4420,
+      "script": "",
+      "visual": "Outer island headland: regional chieftain hauling down Majapahit banner and raising his own independent sovereign flag. 2D illustrated look, faded ochres, charcoal, muted olive, gritty coastal sand texture.",
+      "animation": "Slow zoom-out showing the newly independent island fort."
+    },
+    {
+      "id": 129,
+      "image": "majapahit/scene-129.jpg",
+      "startMs": 545070,
+      "endMs": 549490,
+      "durationMs": 4420,
+      "script": "",
+      "visual": "Trade map perspective: glowing maritime arrows shifting away from Java Sea toward the narrow Malacca Strait. 2D illustrated look, faded ochres, charcoal, muted olive, gritty antique map texture, no text.",
+      "animation": "Slow push-in along the busy trade path of Malacca."
+    },
+    {
+      "id": 130,
+      "image": "majapahit/scene-130.jpg",
+      "startMs": 549490,
+      "endMs": 555670,
+      "durationMs": 6180,
+      "script": "",
+      "visual": "Port of Malacca: bustling international quays loaded with foreign merchant ships, spice sacks, and stone forts. 2D illustrated look, faded ochres, charcoal, muted olive, gritty bustling harbor texture.",
+      "animation": "Soft pan across the crowded docks of Malacca."
+    },
+    {
+      "id": 131,
+      "image": "majapahit/scene-131.jpg",
+      "startMs": 555670,
+      "endMs": 558508,
+      "durationMs": 2838,
+      "script": "",
+      "visual": "Coastal port of Demak: wooden mosque with distinctive tiered roofs standing peacefully beside harbor canal. 2D illustrated look, faded ochres, charcoal, muted olive, gritty architectural texture.",
+      "animation": "Slow push-in toward the tiered roof of Demak mosque."
+    },
+    {
+      "id": 132,
+      "image": "majapahit/scene-132.jpg",
+      "startMs": 558508,
+      "endMs": 563895,
+      "durationMs": 5387,
+      "script": "",
+      "visual": "Royal hall in Demak: [RADEN PATAH] in green-white turban and white robe presiding over council of coastal merchants. 2D illustrated look, faded ochres, charcoal, muted olive, gritty wooden hall texture.",
+      "animation": "Gentle parallax between RADEN PATAH and seated council."
+    },
+    {
+      "id": 133,
+      "image": "majapahit/scene-133.jpg",
+      "startMs": 563895,
+      "endMs": 567097,
+      "durationMs": 3202,
+      "script": "",
+      "visual": "Transition of power: disciplined Demak troops bearing green banners marching through countryside past quiet shrines. 2D illustrated look, faded ochres, charcoal, muted olive, gritty road dust texture.",
+      "animation": "Soft pan tracking the steady march of Demak ranks."
+    },
+    {
+      "id": 134,
+      "image": "majapahit/scene-134.jpg",
+      "startMs": 567097,
+      "endMs": 570950,
+      "durationMs": 3853,
+      "script": "",
+      "visual": "Abandoned Trowulan gate overgrown with thick moss and vines, marked by silent sun shadows (Sirna Ilang Kertaning Bhumi). 2D illustrated look, faded ochres, charcoal, muted olive, gritty overgrown brick texture, no text.",
+      "animation": "Slow push-in on moss-covered split brick gate."
+    },
+    {
+      "id": 135,
+      "image": "majapahit/scene-135.jpg",
+      "startMs": 570950,
+      "endMs": 575686,
+      "durationMs": 4736,
+      "script": "",
+      "visual": "Last stand at Daha: remaining Hindu-Javanese courtiers and garrison defending inland fortress under siege in 1527. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone fortress texture.",
+      "animation": "Gentle parallax between crumbling rampart and siege lines."
+    },
+    {
+      "id": 136,
+      "image": "majapahit/scene-136.jpg",
+      "startMs": 575686,
+      "endMs": 579380,
+      "durationMs": 3694,
+      "script": "",
+      "visual": "Final capitulation at Daha: old royal standards lowered solemnly on the palace courtyard, ending the ancient dynasty. 2D illustrated look, faded ochres, charcoal, muted olive, gritty courtyard texture.",
+      "animation": "Slow zoom-out from lowered banner on stone floor."
+    },
+    {
+      "id": 137,
+      "image": "majapahit/scene-137.jpg",
+      "startMs": 579380,
+      "endMs": 583755,
+      "durationMs": 4375,
+      "script": "",
+      "visual": "Fleet of outrigger boats carrying priests, artists, and lontar manuscripts across Bali strait toward Mount Agung. 2D illustrated look, faded ochres, charcoal, muted olive, gritty water and mountain texture.",
+      "animation": "Soft pan following boats sailing toward Bali's peaks."
+    },
+    {
+      "id": 138,
+      "image": "majapahit/scene-138.jpg",
+      "startMs": 583755,
+      "endMs": 588570,
+      "durationMs": 4815,
+      "script": "",
+      "visual": "Modern landscape at Trowulan: solitary Bajang Ratu brick gateway standing quietly amidst lush green rice fields. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone and grass texture.",
+      "animation": "Slow push-in across rice paddies toward brick gate."
+    },
+    {
+      "id": 139,
+      "image": "majapahit/scene-139.jpg",
+      "startMs": 588570,
+      "endMs": 591710,
+      "durationMs": 3140,
+      "script": "",
+      "visual": "Ancient temple bas-relief carving of hands holding a radiant blooming lotus, caught in warm morning light. 2D illustrated look, faded ochres, charcoal, muted olive, gritty carved stone texture.",
+      "animation": "Slow push-in on the glowing carved lotus flower."
+    },
+    {
+      "id": 140,
+      "image": "majapahit/scene-140.jpg",
+      "startMs": 591710,
+      "endMs": 595870,
+      "durationMs": 4160,
+      "script": "",
+      "visual": "Historical room 1945: stylized founding fathers gathered around conference table studying archipelago maps and texts. 2D illustrated look, faded ochres, charcoal, muted olive, gritty historical paper texture, no identifiable real faces.",
+      "animation": "Gentle parallax between figures over map table."
+    },
+    {
+      "id": 141,
+      "image": "majapahit/scene-141.jpg",
+      "startMs": 595870,
+      "endMs": 601600,
+      "durationMs": 5730,
+      "script": "",
+      "visual": "Conceptual montage: ancient lontar palm leaf with wavy lines blending into the parchment of the 1945 Constitution. 2D illustrated look, faded ochres, charcoal, muted olive, gritty parchment texture, no readable text.",
+      "animation": "Slow push-in as ancient wavy lines dissolve into scroll."
+    },
+    {
+      "id": 142,
+      "image": "majapahit/scene-142.jpg",
+      "startMs": 601600,
+      "endMs": 605700,
+      "durationMs": 4100,
+      "script": "",
+      "visual": "Modern panorama of Indonesian archipelago: thousands of islands connected by golden sea lanes under morning sun. 2D illustrated look, faded ochres, charcoal, muted olive, gritty cartographic texture, no labels.",
+      "animation": "Slow zoom-out revealing the complete unified island chain."
+    },
+    {
+      "id": 143,
+      "image": "majapahit/scene-143.jpg",
+      "startMs": 605700,
+      "endMs": 610390,
+      "durationMs": 4690,
+      "script": "",
+      "visual": "Communications satellite (Satelit Palapa) orbiting above Earth's curve, [BENDERA GULA KELAPA] red-and-white pennant flowing beneath. 2D illustrated look, faded ochres, charcoal, muted olive, gritty space texture, no logos.",
+      "animation": "Gentle parallax between satellite and curved horizon."
+    },
+    {
+      "id": 144,
+      "image": "majapahit/scene-144.jpg",
+      "startMs": 610390,
+      "endMs": 614337,
+      "durationMs": 3947,
+      "script": "",
+      "visual": "Ascetic poet [MPU TANTULAR] sitting beneath a shady tree carving sacred verse onto palm leaf with iron stylus. 2D illustrated look, faded ochres, charcoal, muted olive, gritty palm leaf texture, wavy lines on leaf.",
+      "animation": "Slow push-in on MPU TANTULAR's focused hand with stylus."
+    },
+    {
+      "id": 145,
+      "image": "majapahit/scene-145.jpg",
+      "startMs": 614337,
+      "endMs": 618930,
+      "durationMs": 4593,
+      "script": "",
+      "visual": "Majestic emblem of [GARUDA PANCASILA]: golden mythical bird clutching white banner filled with flowing wavy lines. 2D illustrated look, faded ochres, charcoal, muted olive, gritty heraldic stone texture, no readable letters.",
+      "animation": "Slow push-in toward the white banner in golden talons."
+    },
+    {
+      "id": 146,
+      "image": "majapahit/scene-146.jpg",
+      "startMs": 618930,
+      "endMs": 622080,
+      "durationMs": 3150,
+      "script": "",
+      "visual": "Montage of stylized Indonesian cultural figures from Sumatra to Papua standing shoulder-to-shoulder in unity. 2D illustrated look, faded ochres, charcoal, muted olive, gritty mural texture.",
+      "animation": "Soft pan across the diverse row of stylized cultural figures."
+    },
+    {
+      "id": 147,
+      "image": "majapahit/scene-147.jpg",
+      "startMs": 622080,
+      "endMs": 627220,
+      "durationMs": 5140,
+      "script": "",
+      "visual": "Scenic wide shot of tropical sea strait: modern vessel and traditional wooden outrigger crossing paths peacefully at dawn. 2D illustrated look, faded ochres, charcoal, muted olive, gritty sea and sky texture.",
+      "animation": "Gentle parallax between traditional boat and horizon."
+    },
+    {
+      "id": 148,
+      "image": "majapahit/scene-148.jpg",
+      "startMs": 627220,
+      "endMs": 631720,
+      "durationMs": 4500,
+      "script": "",
+      "visual": "Epic finale: silhouette of ancient brick candi bentar gateway on sandy shore, Surya Majapahit sun rising over calm sea. 2D illustrated look, faded ochres, charcoal, muted olive, gritty stone and light texture, no readable text.",
+      "animation": "Slow zoom-out as the radiant sunrise illuminates the water."
+    }
+  ]
+}

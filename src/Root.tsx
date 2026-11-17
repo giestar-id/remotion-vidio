@@ -10,6 +10,8 @@ import { ChinaDocu } from './China';
 import { PiramidaMainVideo } from './StickmanPiramida';
 import { RomaDocu } from './Roma';
 import { PersiaDocu } from './Persia';
+import { OrangIndoMainVideo } from './StickmanOrangIndo';
+import { MajapahitDocu } from './Majapahit';
 
 export const FPS = 30;
 
@@ -194,6 +196,40 @@ export const Root: React.FC = () => {
         defaultProps={
           {
             proyek: 'persia',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="OrangIndoPertama"
+        component={OrangIndoMainVideo}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 308}
+        defaultProps={
+          {
+            proyek: 'orang-indo-pertama',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="SejarahMajapahit"
+        component={MajapahitDocu}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 632}
+        defaultProps={
+          {
+            proyek: 'majapahit',
             timeline: null,
             captions: [],
           } satisfies VideoProps

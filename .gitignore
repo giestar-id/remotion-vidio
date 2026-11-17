@@ -8,8 +8,15 @@ out/
 # Dependensi Node & Python virtual environment
 node_modules/
 .venv/
+env/
+venv/
 __pycache__/
 *.pyc
+*.pyd
+
+# Cache Model AI & Download Hugging Face
+hf-models/
+.cache/
 
 # Cache & file internal Remotion / agent / notebook / IDE
 .remotion/
@@ -43,8 +50,11 @@ public/stickman/
 public/stickman2/
 public/yunani/
 public/piramida/
+public/china/
+public/roma/
+public/persia/
 
-# File scratch/analisis sementara di scripts/ (hanya mempertahankan colab_render.py)
+# File scratch/analisis sementara di scripts/ (hanya mempertahankan skrip utama)
 scripts/*.json
 scripts/*.txt
 scripts/*.wav
@@ -52,3 +62,4 @@ scripts/*.py
 scripts/*.js
 scripts/*.mjs
 !scripts/colab_render.py
+!scripts/transcribe_python.py
