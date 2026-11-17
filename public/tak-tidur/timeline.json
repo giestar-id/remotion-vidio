@@ -1,0 +1,778 @@
+{
+  "title": "Eksperimen Tidak Tidur Randy Gardner 1964",
+  "audio": "tak-tidur/audio.wav",
+  "audioDurationMs": 378120,
+  "totalScenes": 110,
+  "scenes": [
+    {
+      "id": 1,
+      "image": "tak-tidur/scene-1.jpg",
+      "startMs": 0,
+      "endMs": 5760,
+      "durationMs": 5760
+    },
+    {
+      "id": 2,
+      "image": "tak-tidur/scene-2.jpg",
+      "startMs": 5760,
+      "endMs": 11600,
+      "durationMs": 5840
+    },
+    {
+      "id": 3,
+      "image": "tak-tidur/scene-3.jpg",
+      "startMs": 11600,
+      "endMs": 13550,
+      "durationMs": 1950
+    },
+    {
+      "id": 4,
+      "image": "tak-tidur/scene-4.jpg",
+      "startMs": 13550,
+      "endMs": 17380,
+      "durationMs": 3830
+    },
+    {
+      "id": 5,
+      "image": "tak-tidur/scene-5.jpg",
+      "startMs": 17380,
+      "endMs": 21420,
+      "durationMs": 4040
+    },
+    {
+      "id": 6,
+      "image": "tak-tidur/scene-6.jpg",
+      "startMs": 21420,
+      "endMs": 25480,
+      "durationMs": 4060
+    },
+    {
+      "id": 7,
+      "image": "tak-tidur/scene-7.jpg",
+      "startMs": 25480,
+      "endMs": 29520,
+      "durationMs": 4040
+    },
+    {
+      "id": 8,
+      "image": "tak-tidur/scene-8.jpg",
+      "startMs": 29520,
+      "endMs": 32620,
+      "durationMs": 3100
+    },
+    {
+      "id": 9,
+      "image": "tak-tidur/scene-9.jpg",
+      "startMs": 32620,
+      "endMs": 36180,
+      "durationMs": 3560
+    },
+    {
+      "id": 10,
+      "image": "tak-tidur/scene-10.jpg",
+      "startMs": 36180,
+      "endMs": 40880,
+      "durationMs": 4700
+    },
+    {
+      "id": 11,
+      "image": "tak-tidur/scene-11.jpg",
+      "startMs": 40880,
+      "endMs": 43950,
+      "durationMs": 3070
+    },
+    {
+      "id": 12,
+      "image": "tak-tidur/scene-12.jpg",
+      "startMs": 43950,
+      "endMs": 47620,
+      "durationMs": 3670
+    },
+    {
+      "id": 13,
+      "image": "tak-tidur/scene-13.jpg",
+      "startMs": 47620,
+      "endMs": 51760,
+      "durationMs": 4140
+    },
+    {
+      "id": 14,
+      "image": "tak-tidur/scene-14.jpg",
+      "startMs": 51760,
+      "endMs": 56080,
+      "durationMs": 4320
+    },
+    {
+      "id": 15,
+      "image": "tak-tidur/scene-15.jpg",
+      "startMs": 56080,
+      "endMs": 60380,
+      "durationMs": 4300
+    },
+    {
+      "id": 16,
+      "image": "tak-tidur/scene-16.jpg",
+      "startMs": 60380,
+      "endMs": 63800,
+      "durationMs": 3420
+    },
+    {
+      "id": 17,
+      "image": "tak-tidur/scene-17.jpg",
+      "startMs": 63800,
+      "endMs": 67080,
+      "durationMs": 3280
+    },
+    {
+      "id": 18,
+      "image": "tak-tidur/scene-18.jpg",
+      "startMs": 67080,
+      "endMs": 70660,
+      "durationMs": 3580
+    },
+    {
+      "id": 19,
+      "image": "tak-tidur/scene-19.jpg",
+      "startMs": 70660,
+      "endMs": 74500,
+      "durationMs": 3840
+    },
+    {
+      "id": 20,
+      "image": "tak-tidur/scene-20.jpg",
+      "startMs": 74500,
+      "endMs": 77940,
+      "durationMs": 3440
+    },
+    {
+      "id": 21,
+      "image": "tak-tidur/scene-21.jpg",
+      "startMs": 77940,
+      "endMs": 81880,
+      "durationMs": 3940
+    },
+    {
+      "id": 22,
+      "image": "tak-tidur/scene-22.jpg",
+      "startMs": 81880,
+      "endMs": 85540,
+      "durationMs": 3660
+    },
+    {
+      "id": 23,
+      "image": "tak-tidur/scene-23.jpg",
+      "startMs": 85540,
+      "endMs": 89280,
+      "durationMs": 3740
+    },
+    {
+      "id": 24,
+      "image": "tak-tidur/scene-24.jpg",
+      "startMs": 89280,
+      "endMs": 93030,
+      "durationMs": 3750
+    },
+    {
+      "id": 25,
+      "image": "tak-tidur/scene-25.jpg",
+      "startMs": 93030,
+      "endMs": 96380,
+      "durationMs": 3350
+    },
+    {
+      "id": 26,
+      "image": "tak-tidur/scene-26.jpg",
+      "startMs": 96380,
+      "endMs": 100270,
+      "durationMs": 3890
+    },
+    {
+      "id": 27,
+      "image": "tak-tidur/scene-27.jpg",
+      "startMs": 100270,
+      "endMs": 103450,
+      "durationMs": 3180
+    },
+    {
+      "id": 28,
+      "image": "tak-tidur/scene-28.jpg",
+      "startMs": 103450,
+      "endMs": 107100,
+      "durationMs": 3650
+    },
+    {
+      "id": 29,
+      "image": "tak-tidur/scene-29.jpg",
+      "startMs": 107100,
+      "endMs": 110430,
+      "durationMs": 3330
+    },
+    {
+      "id": 30,
+      "image": "tak-tidur/scene-30.jpg",
+      "startMs": 110430,
+      "endMs": 113930,
+      "durationMs": 3500
+    },
+    {
+      "id": 31,
+      "image": "tak-tidur/scene-31.jpg",
+      "startMs": 113930,
+      "endMs": 117390,
+      "durationMs": 3460
+    },
+    {
+      "id": 32,
+      "image": "tak-tidur/scene-32.jpg",
+      "startMs": 117390,
+      "endMs": 120970,
+      "durationMs": 3580
+    },
+    {
+      "id": 33,
+      "image": "tak-tidur/scene-33.jpg",
+      "startMs": 120970,
+      "endMs": 124890,
+      "durationMs": 3920
+    },
+    {
+      "id": 34,
+      "image": "tak-tidur/scene-34.jpg",
+      "startMs": 124890,
+      "endMs": 127950,
+      "durationMs": 3060
+    },
+    {
+      "id": 35,
+      "image": "tak-tidur/scene-35.jpg",
+      "startMs": 127950,
+      "endMs": 131950,
+      "durationMs": 4000
+    },
+    {
+      "id": 36,
+      "image": "tak-tidur/scene-36.jpg",
+      "startMs": 131950,
+      "endMs": 135110,
+      "durationMs": 3160
+    },
+    {
+      "id": 37,
+      "image": "tak-tidur/scene-37.jpg",
+      "startMs": 135110,
+      "endMs": 138830,
+      "durationMs": 3720
+    },
+    {
+      "id": 38,
+      "image": "tak-tidur/scene-38.jpg",
+      "startMs": 138830,
+      "endMs": 141970,
+      "durationMs": 3140
+    },
+    {
+      "id": 39,
+      "image": "tak-tidur/scene-39.jpg",
+      "startMs": 141970,
+      "endMs": 145850,
+      "durationMs": 3880
+    },
+    {
+      "id": 40,
+      "image": "tak-tidur/scene-40.jpg",
+      "startMs": 145850,
+      "endMs": 148490,
+      "durationMs": 2640
+    },
+    {
+      "id": 41,
+      "image": "tak-tidur/scene-41.jpg",
+      "startMs": 148490,
+      "endMs": 152350,
+      "durationMs": 3860
+    },
+    {
+      "id": 42,
+      "image": "tak-tidur/scene-42.jpg",
+      "startMs": 152350,
+      "endMs": 154950,
+      "durationMs": 2600
+    },
+    {
+      "id": 43,
+      "image": "tak-tidur/scene-43.jpg",
+      "startMs": 154950,
+      "endMs": 157850,
+      "durationMs": 2900
+    },
+    {
+      "id": 44,
+      "image": "tak-tidur/scene-44.jpg",
+      "startMs": 157850,
+      "endMs": 161970,
+      "durationMs": 4120
+    },
+    {
+      "id": 45,
+      "image": "tak-tidur/scene-45.jpg",
+      "startMs": 161970,
+      "endMs": 164830,
+      "durationMs": 2860
+    },
+    {
+      "id": 46,
+      "image": "tak-tidur/scene-46.jpg",
+      "startMs": 164830,
+      "endMs": 168650,
+      "durationMs": 3820
+    },
+    {
+      "id": 47,
+      "image": "tak-tidur/scene-47.jpg",
+      "startMs": 168650,
+      "endMs": 171310,
+      "durationMs": 2660
+    },
+    {
+      "id": 48,
+      "image": "tak-tidur/scene-48.jpg",
+      "startMs": 171310,
+      "endMs": 173540,
+      "durationMs": 2230
+    },
+    {
+      "id": 49,
+      "image": "tak-tidur/scene-49.jpg",
+      "startMs": 173540,
+      "endMs": 176790,
+      "durationMs": 3250
+    },
+    {
+      "id": 50,
+      "image": "tak-tidur/scene-50.jpg",
+      "startMs": 176790,
+      "endMs": 179790,
+      "durationMs": 3000
+    },
+    {
+      "id": 51,
+      "image": "tak-tidur/scene-51.jpg",
+      "startMs": 179790,
+      "endMs": 183150,
+      "durationMs": 3360
+    },
+    {
+      "id": 52,
+      "image": "tak-tidur/scene-52.jpg",
+      "startMs": 183150,
+      "endMs": 186910,
+      "durationMs": 3760
+    },
+    {
+      "id": 53,
+      "image": "tak-tidur/scene-53.jpg",
+      "startMs": 186910,
+      "endMs": 190210,
+      "durationMs": 3300
+    },
+    {
+      "id": 54,
+      "image": "tak-tidur/scene-54.jpg",
+      "startMs": 190210,
+      "endMs": 193170,
+      "durationMs": 2960
+    },
+    {
+      "id": 55,
+      "image": "tak-tidur/scene-55.jpg",
+      "startMs": 193170,
+      "endMs": 196030,
+      "durationMs": 2860
+    },
+    {
+      "id": 56,
+      "image": "tak-tidur/scene-56.jpg",
+      "startMs": 196030,
+      "endMs": 199640,
+      "durationMs": 3610
+    },
+    {
+      "id": 57,
+      "image": "tak-tidur/scene-57.jpg",
+      "startMs": 199640,
+      "endMs": 203060,
+      "durationMs": 3420
+    },
+    {
+      "id": 58,
+      "image": "tak-tidur/scene-58.jpg",
+      "startMs": 203060,
+      "endMs": 206400,
+      "durationMs": 3340
+    },
+    {
+      "id": 59,
+      "image": "tak-tidur/scene-59.jpg",
+      "startMs": 206400,
+      "endMs": 209140,
+      "durationMs": 2740
+    },
+    {
+      "id": 60,
+      "image": "tak-tidur/scene-60.jpg",
+      "startMs": 209140,
+      "endMs": 212740,
+      "durationMs": 3600
+    },
+    {
+      "id": 61,
+      "image": "tak-tidur/scene-61.jpg",
+      "startMs": 212740,
+      "endMs": 215120,
+      "durationMs": 2380
+    },
+    {
+      "id": 62,
+      "image": "tak-tidur/scene-62.jpg",
+      "startMs": 215120,
+      "endMs": 218820,
+      "durationMs": 3700
+    },
+    {
+      "id": 63,
+      "image": "tak-tidur/scene-63.jpg",
+      "startMs": 218820,
+      "endMs": 222380,
+      "durationMs": 3560
+    },
+    {
+      "id": 64,
+      "image": "tak-tidur/scene-64.jpg",
+      "startMs": 222380,
+      "endMs": 226000,
+      "durationMs": 3620
+    },
+    {
+      "id": 65,
+      "image": "tak-tidur/scene-65.jpg",
+      "startMs": 226000,
+      "endMs": 229200,
+      "durationMs": 3200
+    },
+    {
+      "id": 66,
+      "image": "tak-tidur/scene-66.jpg",
+      "startMs": 229200,
+      "endMs": 232260,
+      "durationMs": 3060
+    },
+    {
+      "id": 67,
+      "image": "tak-tidur/scene-67.jpg",
+      "startMs": 232260,
+      "endMs": 235600,
+      "durationMs": 3340
+    },
+    {
+      "id": 68,
+      "image": "tak-tidur/scene-68.jpg",
+      "startMs": 235600,
+      "endMs": 239100,
+      "durationMs": 3500
+    },
+    {
+      "id": 69,
+      "image": "tak-tidur/scene-69.jpg",
+      "startMs": 239100,
+      "endMs": 242670,
+      "durationMs": 3570
+    },
+    {
+      "id": 70,
+      "image": "tak-tidur/scene-70.jpg",
+      "startMs": 242670,
+      "endMs": 245780,
+      "durationMs": 3110
+    },
+    {
+      "id": 71,
+      "image": "tak-tidur/scene-71.jpg",
+      "startMs": 245780,
+      "endMs": 249380,
+      "durationMs": 3600
+    },
+    {
+      "id": 72,
+      "image": "tak-tidur/scene-72.jpg",
+      "startMs": 249380,
+      "endMs": 252580,
+      "durationMs": 3200
+    },
+    {
+      "id": 73,
+      "image": "tak-tidur/scene-73.jpg",
+      "startMs": 252580,
+      "endMs": 254380,
+      "durationMs": 1800
+    },
+    {
+      "id": 74,
+      "image": "tak-tidur/scene-74.jpg",
+      "startMs": 254380,
+      "endMs": 257680,
+      "durationMs": 3300
+    },
+    {
+      "id": 75,
+      "image": "tak-tidur/scene-75.jpg",
+      "startMs": 257680,
+      "endMs": 261080,
+      "durationMs": 3400
+    },
+    {
+      "id": 76,
+      "image": "tak-tidur/scene-76.jpg",
+      "startMs": 261080,
+      "endMs": 264480,
+      "durationMs": 3400
+    },
+    {
+      "id": 77,
+      "image": "tak-tidur/scene-77.jpg",
+      "startMs": 264480,
+      "endMs": 267640,
+      "durationMs": 3160
+    },
+    {
+      "id": 78,
+      "image": "tak-tidur/scene-78.jpg",
+      "startMs": 267640,
+      "endMs": 270780,
+      "durationMs": 3140
+    },
+    {
+      "id": 79,
+      "image": "tak-tidur/scene-79.jpg",
+      "startMs": 270780,
+      "endMs": 274320,
+      "durationMs": 3540
+    },
+    {
+      "id": 80,
+      "image": "tak-tidur/scene-80.jpg",
+      "startMs": 274320,
+      "endMs": 277400,
+      "durationMs": 3080
+    },
+    {
+      "id": 81,
+      "image": "tak-tidur/scene-81.jpg",
+      "startMs": 277400,
+      "endMs": 280980,
+      "durationMs": 3580
+    },
+    {
+      "id": 82,
+      "image": "tak-tidur/scene-82.jpg",
+      "startMs": 280980,
+      "endMs": 284940,
+      "durationMs": 3960
+    },
+    {
+      "id": 83,
+      "image": "tak-tidur/scene-83.jpg",
+      "startMs": 284940,
+      "endMs": 288620,
+      "durationMs": 3680
+    },
+    {
+      "id": 84,
+      "image": "tak-tidur/scene-84.jpg",
+      "startMs": 288620,
+      "endMs": 291340,
+      "durationMs": 2720
+    },
+    {
+      "id": 85,
+      "image": "tak-tidur/scene-85.jpg",
+      "startMs": 291340,
+      "endMs": 294920,
+      "durationMs": 3580
+    },
+    {
+      "id": 86,
+      "image": "tak-tidur/scene-86.jpg",
+      "startMs": 294920,
+      "endMs": 298420,
+      "durationMs": 3500
+    },
+    {
+      "id": 87,
+      "image": "tak-tidur/scene-87.jpg",
+      "startMs": 298420,
+      "endMs": 301140,
+      "durationMs": 2720
+    },
+    {
+      "id": 88,
+      "image": "tak-tidur/scene-88.jpg",
+      "startMs": 301140,
+      "endMs": 304200,
+      "durationMs": 3060
+    },
+    {
+      "id": 89,
+      "image": "tak-tidur/scene-89.jpg",
+      "startMs": 304200,
+      "endMs": 307920,
+      "durationMs": 3720
+    },
+    {
+      "id": 90,
+      "image": "tak-tidur/scene-90.jpg",
+      "startMs": 307920,
+      "endMs": 311040,
+      "durationMs": 3120
+    },
+    {
+      "id": 91,
+      "image": "tak-tidur/scene-91.jpg",
+      "startMs": 311040,
+      "endMs": 314600,
+      "durationMs": 3560
+    },
+    {
+      "id": 92,
+      "image": "tak-tidur/scene-92.jpg",
+      "startMs": 314600,
+      "endMs": 318450,
+      "durationMs": 3850
+    },
+    {
+      "id": 93,
+      "image": "tak-tidur/scene-93.jpg",
+      "startMs": 318450,
+      "endMs": 322210,
+      "durationMs": 3760
+    },
+    {
+      "id": 94,
+      "image": "tak-tidur/scene-94.jpg",
+      "startMs": 322210,
+      "endMs": 325930,
+      "durationMs": 3720
+    },
+    {
+      "id": 95,
+      "image": "tak-tidur/scene-95.jpg",
+      "startMs": 325930,
+      "endMs": 329610,
+      "durationMs": 3680
+    },
+    {
+      "id": 96,
+      "image": "tak-tidur/scene-96.jpg",
+      "startMs": 329610,
+      "endMs": 332470,
+      "durationMs": 2860
+    },
+    {
+      "id": 97,
+      "image": "tak-tidur/scene-97.jpg",
+      "startMs": 332470,
+      "endMs": 336030,
+      "durationMs": 3560
+    },
+    {
+      "id": 98,
+      "image": "tak-tidur/scene-98.jpg",
+      "startMs": 336030,
+      "endMs": 338530,
+      "durationMs": 2500
+    },
+    {
+      "id": 99,
+      "image": "tak-tidur/scene-99.jpg",
+      "startMs": 338530,
+      "endMs": 342360,
+      "durationMs": 3830
+    },
+    {
+      "id": 100,
+      "image": "tak-tidur/scene-100.jpg",
+      "startMs": 342360,
+      "endMs": 345470,
+      "durationMs": 3110
+    },
+    {
+      "id": 101,
+      "image": "tak-tidur/scene-101.jpg",
+      "startMs": 345470,
+      "endMs": 348830,
+      "durationMs": 3360
+    },
+    {
+      "id": 102,
+      "image": "tak-tidur/scene-102.jpg",
+      "startMs": 348830,
+      "endMs": 353070,
+      "durationMs": 4240
+    },
+    {
+      "id": 103,
+      "image": "tak-tidur/scene-103.jpg",
+      "startMs": 353070,
+      "endMs": 356530,
+      "durationMs": 3460
+    },
+    {
+      "id": 104,
+      "image": "tak-tidur/scene-104.jpg",
+      "startMs": 356530,
+      "endMs": 359590,
+      "durationMs": 3060
+    },
+    {
+      "id": 105,
+      "image": "tak-tidur/scene-105.jpg",
+      "startMs": 359590,
+      "endMs": 363310,
+      "durationMs": 3720
+    },
+    {
+      "id": 106,
+      "image": "tak-tidur/scene-106.jpg",
+      "startMs": 363310,
+      "endMs": 366750,
+      "durationMs": 3440
+    },
+    {
+      "id": 107,
+      "image": "tak-tidur/scene-107.jpg",
+      "startMs": 366750,
+      "endMs": 369770,
+      "durationMs": 3020
+    },
+    {
+      "id": 108,
+      "image": "tak-tidur/scene-108.jpg",
+      "startMs": 369770,
+      "endMs": 372320,
+      "durationMs": 2550
+    },
+    {
+      "id": 109,
+      "image": "tak-tidur/scene-109.jpg",
+      "startMs": 372320,
+      "endMs": 374120,
+      "durationMs": 1800
+    },
+    {
+      "id": 110,
+      "image": "tak-tidur/scene-110.jpg",
+      "startMs": 374120,
+      "endMs": 378120,
+      "durationMs": 4000
+    }
+  ]
+}

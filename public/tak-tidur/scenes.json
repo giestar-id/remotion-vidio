@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "script": "Pada suatu pagi di bulan Januari tahun 1964 di kota San Diego,",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [WONDER] San Diego residential living room morning light through window, morning mist, vintage mid-century furniture, warm sunbeams cutting across wooden floorboards, soft quiet atmosphere. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in towards the central window as morning dust motes drift gently through the sunbeam; holds on empty quiet room."
+  },
+  {
+    "id": 2,
+    "script": "seorang remaja tujuh belas tahun bernama Randy Gardner berdiri di depan",
+    "visual": "[CHARACTER_RANDY, OBJECT_PINBALL_MACHINE, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_RANDY standing on the right third next to OBJECT_PINBALL_MACHINE, looking downward with slumped shoulders, hands resting on the side cabinet. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Gentle horizontal tracking shot from left to right, subtle idle sway of the slouched stickman figure; holds on character."
+  },
+  {
+    "id": 3,
+    "script": "papan permainan bola pantul dengan mata merah menyala.",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] Extreme pattern interrupt close-up of CHARACTER_RANDY's round stickman head, pronounced crimson concentric circles around black dot eyes, trembling thin mouth, dark messy hair hanging over forehead. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow dramatic zoom-in into the dot eyes, slight pulsating red glow around the eyes; holds on tired facial expression."
+  },
+  {
+    "id": 4,
+    "script": "Dia sudah terjaga selama ratusan jam demi sebuah proyek pameran",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [wide shot] [WONDER] CHARACTER_RANDY pacing on the left third of the living room, poster boards on easels with science fair diagrams in background, daylight fading into dusk. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Parallax pan across the room from left to right as the stickman takes a heavy, slow step forward; holds on pacing figure."
+  },
+  {
+    "id": 5,
+    "script": "sains sekolah, tanpa seteguk kopi pun, sambil diawasi oleh",
+    "visual": "[CHARACTER_DEMENT, OBJECT_EEG_CLIPBOARD, SETTING_SAN_DIEGO_ROOM] [medium shot] [WONDER] CHARACTER_DEMENT sitting on a wooden chair on the left third holding OBJECT_EEG_CLIPBOARD, pencil in hand, watching intently over his spectacles. A 1964 clinical researcher stickman wearing round spectacles, receding dark-gray hair, a white lab coat over slate vest, holding a wooden clipboard firmly. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Subtle slow zoom-out revealing the researcher taking notes, small pencil twitch animation; holds on observing researcher."
+  },
+  {
+    "id": 6,
+    "script": "peneliti tidur dari universitas ternama bernama Dokter William Dement.",
+    "visual": "[CHARACTER_RANDY, CHARACTER_DEMENT, SETTING_SAN_DIEGO_ROOM] [wide shot] [LEGACY] Pattern interrupt wide shot: CHARACTER_RANDY sitting across from CHARACTER_DEMENT, mid-century room stretching between them, soft amber evening lamp lit. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in centering between the two seated figures, lamp light casting long painted shadows across the floorboards."
+  },
+  {
+    "id": 7,
+    "script": "Tapi apa yang sebenarnya terjadi pada tubuh dan pikiran kita jika",
+    "visual": "[CHARACTER_RANDY] [medium shot] [CONFLICT] CHARACTER_RANDY seated in profile against a dark shadowy wall, one mitten hand clutching his head in confusion, dot eyes wide open. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow upward pedestal camera move, subtle head tremor on the stickman figure; holds on the stressed posture."
+  },
+  {
+    "id": 8,
+    "script": "kita memaksa diri untuk tidak tidur sama sekali selama satu",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [DECLINE] Surreal neural canyon at night, dark purple cerebral canyons, pulsing blue synaptic lights dimming along giant towering nerve branches. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Smooth camera glide forward through the branching canyon, bioluminescent ground nodes pulsing gently; holds on vista."
+  },
+  {
+    "id": 9,
+    "script": "minggu penuh, dan jawabannya ternyata bukan sekadar rasa kantuk",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [CONFLICT] A lone stickman silhouette standing tiny on a ledge overlooking a crumbling bridge between brain hemispheres, dark mist rising. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Parallax pan from foreground rock to reveal the crumbling stone pathway, mist swirling below; holds on distant silhouette."
+  },
+  {
+    "id": 10,
+    "script": "biasa, melainkan runtuhnya pertahanan tubuh lapis demi lapis yang",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] Pattern interrupt: extreme close-up of stickman chest and throat, stylized glowing red ribs and racing heart emblem softly pulsing under sweater. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fast subtle zoom-in on the pulsating heart emblem, rapid rhythmic red flicker; holds on chest detail."
+  },
+  {
+    "id": 11,
+    "script": "hampir membuat otak kehilangan kendali atas kenyataan.",
+    "visual": "[CHARACTER_RANDY, SETTING_URBAN_STREET] [wide shot] [DECLINE] CHARACTER_RANDY standing in the center of a hazy street, the background buildings slightly tilting and melting in watercolor distortions. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow rotation tilt of camera, background haze swirling gently while the stickman remains frozen in shock; holds on frame."
+  },
+  {
+    "id": 12,
+    "script": "Tidur sebenarnya bukanlah sakelar mati sederhana seperti saat kamu",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [WONDER] Wall with a vintage ceramic toggle light switch in the center, amber lamp glow illuminating a cream textured plaster wall. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in towards the toggle switch, lamp light flickering once softly; holds on the switch fixture."
+  },
+  {
+    "id": 13,
+    "script": "mematikan lampu kamar, melainkan jadwal pembersihan menyeluruh yang wajib",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [GLORY] Stylized microscopic canal in the brain, glowing translucent turquoise fluids streaming through orderly cellular streets, washing clean. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fluid rushing motion from left to right along the canal bed, shimmering blue sparkles carried downstream; holds on clear stream."
+  },
+  {
+    "id": 14,
+    "script": "dijalankan oleh seluruh organ kita. Setiap detik kamu berpikir,",
+    "visual": "[CHARACTER_RANDY] [medium shot] [WONDER] Stickman sitting thoughtfully at a desk, a subtle glowing golden aura branching outward from the head like delicate tree roots. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Gentle expansion of the golden head aura, soft glowing particles drifting upward like sparks; holds on thinking pose."
+  },
+  {
+    "id": 15,
+    "script": "bernapas, dan melangkah, miliaran sel otak membakar energi dan",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [close-up] [CONFLICT] Pattern interrupt: macro close-up of a glowing neural node consuming tiny golden embers and releasing tiny dark gray soot particles. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow zoom-in as golden embers extinguish and gray smoke puffs curl upward slowly; holds on smoldering node."
+  },
+  {
+    "id": 16,
+    "script": "meninggalkan sisa kotoran kimia yang harus disapu bersih saat",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [DECLINE] Dry cracked canal bed where dark brownish-gray sediment piles up between stagnant neural roots, lack of fluid flow. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow pan across the dry canal, tiny dust particles tumbling across the arid mud; holds on accumulation of sediment."
+  },
+  {
+    "id": 17,
+    "script": "malam tiba. Begitu kamu melewati batas dua puluh empat",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [WONDER] Window showing the transition from sunset orange to deep star-speckled night, clock on the wall ticking silently. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Time-lapse sky shift from orange amber to deep navy blue outside the windowpane; holds on midnight exterior."
+  },
+  {
+    "id": 18,
+    "script": "jam pertama tanpa tidur, gangguan awal mulai mengetuk pintu",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_RANDY leaning against the doorframe, rubbing one eye with a mitten hand, yawning with wide oval open mouth. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow zoom-in on the stickman yawning, shoulders dropping heavily; holds on slouched posture against doorway."
+  },
+  {
+    "id": 19,
+    "script": "secara perlahan. Otakmu mulai bekerja persis seperti mesin mobil",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Visual metaphor: a vintage mechanical iron automobile engine sitting on the floorboards, dark soot venting from valves. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Rhythmic metallic vibration of engine pistons, dark exhaust smoke puffing out in rhythm; holds on rattling iron machine."
+  },
+  {
+    "id": 20,
+    "script": "tua yang terus digas kencang tanpa henti, sehingga menghasilkan",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [close-up] [CONFLICT] Pattern interrupt: tight close-up of iron gears grinding together with hot orange friction sparks spraying softly sideways. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow motion spark shower drifting across the dark frame, iron surface heating to dull red; holds on glowing metal."
+  },
+  {
+    "id": 21,
+    "script": "jelaga dan kerak panas yang mengotori saluran oli. Waktu",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [DECLINE] Neural conduits clogged with dark sticky blackish-amber tar substance, blocking the normal faint blue transmission pulses. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow downward tilt following the dripping black sludge coating the neural surface; holds on clogged channel."
+  },
+  {
+    "id": 22,
+    "script": "reaksimu melambat drastis, suasana hatimu mulai gampang tersulut",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_RANDY attempting to catch a falling wooden ruler from a table, hands reacting far too late as the ruler hits the floor. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow motion drop of the ruler, stickman mitten hands snapping together with a delayed jerk; holds on dropped ruler."
+  },
+  {
+    "id": 23,
+    "script": "emosi, dan tekanan darahmu merangkak naik karena jantung dipaksa",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] CHARACTER_RANDY face showing crooked angry eyebrow marks, mouth jagged line, veins lightly penciled on forehead temple. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fast subtle zoom into the furrowed brow, pulsating red blush across cheek area; holds on agitated expression."
+  },
+  {
+    "id": 24,
+    "script": "bekerja lembur tanpa jeda istirahat. Tapi ini belum yang",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [CONFLICT] Silhouette of CHARACTER_RANDY pacing under a swinging bare lightbulb that casts erratic sweeping pendulum shadows. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Gentle swing of the overhead light source, shadows sweeping back and forth across the hardwood; holds on dark room."
+  },
+  {
+    "id": 25,
+    "script": "terburuk, karena ketika kamu memasuki hari kedua di kisaran",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] Pattern interrupt: large analog wall clock, hour and minute hands spinning rapidly across a painted aged dial face. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Rapid rotation blur of clock hands, settling suddenly to a dead stop with a metallic click; holds on frozen clock."
+  },
+  {
+    "id": 26,
+    "script": "empat puluh delapan jam, otak mulai melancarkan strategi bertahan",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [WONDER] Towering brain archways at twilight, sections of the neural city lights flickering out sequentially like neighborhood power cuts. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Sequential dimming of distant bridge lights from left to right, sinking the left side into deep shadow; holds on dark towers."
+  },
+  {
+    "id": 27,
+    "script": "hidup yang sangat licik. Otakmu mulai mencuri waktu",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] CHARACTER_RANDY walking forward, suddenly freezing mid-step, one foot hovering above the floorboard in suspended animation. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Complete freeze of character motion while background dust continues falling gently; holds on surreal suspended step."
+  },
+  {
+    "id": 28,
+    "script": "istirahat lewat serangan tidur kilat selama beberapa detik saja,",
+    "visual": "[CHARACTER_RANDY] [close-up] [WONDER] Extreme close-up of stickman face: eyes wide open and staring blankly forward into space without blinking. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in on the unblinking dot eyes, a faint dreamlike violet cloud drifting across the eye reflection; holds on blank stare."
+  },
+  {
+    "id": 29,
+    "script": "di mana sekelompok sel saraf mendadak padam total meskipun",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [CONFLICT] A cluster of neural tree synapses abruptly losing their glow, plunging a specific hill into complete pitch blackness. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Sudden instant blackout of the central node with faint purple smoke dissipating outward; holds on dead cluster."
+  },
+  {
+    "id": 30,
+    "script": "kedua kelopak matamu masih terbuka lebar. Kamu mungkin merasa",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] Pattern interrupt: split visual showing stickman standing upright on right, while his faint ethereal shadow on left is slumped asleep in a chair. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow zoom-in on the sleeping shadow, faint vapor breathing effect on the wall; holds on dual figure composition."
+  },
+  {
+    "id": 31,
+    "script": "dirimu masih terjaga, padahal sebagian jaringan otak depanmu sudah",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [DECLINE] The front fortress gate of the cerebral architecture shut tight, covered in cold blue frost, while the rear gates remain lit. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in toward the icy closed gates, cold blue fog rolling forward across the ground; holds on frosty gate."
+  },
+  {
+    "id": 32,
+    "script": "terlelap di tempat, membuat langkah kakimu mudah tersandung dan",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_RANDY stumbling violently forward over the edge of the woven rug, arms flailing awkwardly in thin stickman lines. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fast camera shake as the stickman stumbles, recovering balance with a sharp knee bend; holds on awkward recovery."
+  },
+  {
+    "id": 33,
+    "script": "pikiranmu gagal menangkap kalimat sederhana dari teman bicara. Memasuki",
+    "visual": "[CHARACTER_RANDY, CHARACTER_DEMENT, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_DEMENT speaking with hand gesturing, while CHARACTER_RANDY stares through him with curly question marks floating above head. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Researcher hand gestures once, stickman head tilts sideways slowly in total incomprehension; holds on blank expression."
+  },
+  {
+    "id": 34,
+    "script": "hari ketiga atau sekitar tujuh puluh dua jam, arah",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [DECLINE] Living room at 3:00 AM, heavy atmospheric blue fog seeping across the floorboards, shadows stretching unnaturally tall. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Parallax pan across room, floor fog rolling slowly like liquid dry ice; holds on dark eerie living room."
+  },
+  {
+    "id": 35,
+    "script": "ceritanya mulai berubah menjadi semakin aneh dan membingungkan. Reseptor",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] Pattern interrupt: extreme close-up of stickman head, skin tint shifting slightly to sickly ash-cream, dot eyes trembling rapidly. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Subtle erratic jitter animation on the eye dots, chromatic aberration pulse on the ink outline; holds on strained face."
+  },
+  {
+    "id": 36,
+    "script": "kimiawi di dalam kepalamu mulai tumpul, dan pintu gerbang",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [CONFLICT] Massive stone lock and key mechanism covered in thick rusted mineral moss, gears jammed and grinding inertly. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in toward the rusty iron keyhole, tiny flakes of rust crumbling away; holds on jammed mechanism."
+  },
+  {
+    "id": 37,
+    "script": "yang biasanya menyaring rangsangan indra mulai jebol berantakan. Di",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [DECLINE] Huge broken floodgates collapsing, a turbulent tidal wave of chaotic neon noise and conflicting light bursts flooding in. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Dynamic surge of luminous liquid breaking through the gates, crashing against stone banks; holds on overflowing basin."
+  },
+  {
+    "id": 38,
+    "script": "titik ini, dunia nyata di sekelilingmu mulai tampak melengkung",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [CONFLICT] Living room walls visibly bending inward like soft melting candle wax, bookshelf leaning at a 30-degree angle. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow undulating ripple warp applied to the background architecture, furniture shifting fluidly; holds on warped room."
+  },
+  {
+    "id": 39,
+    "script": "aneh, seperti melihat permukaan dinding yang tiba-tiba bergelombang layaknya",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_RANDY touching the plaster wall with one mitten hand, the wall rippling in concentric water ripples under his palm. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Concentric circular waves pulse outward across the wall paint from the hand contact point; holds on rippling plaster."
+  },
+  {
+    "id": 40,
+    "script": "air kolam atau bayangan gelap di sudut ruangan yang",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] Pattern interrupt: dark corner of the room where shadowy coat hangers and curtains seem to form a creeping silhouette figure. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Creeping slow expansion of the dark corner shadow, shadow edges swaying like dark foliage; holds on sinister corner."
+  },
+  {
+    "id": 41,
+    "script": "tampak bergerak sendiri. Randy Gardner bahkan sempat mengalami kebingungan",
+    "visual": "[CHARACTER_RANDY, SETTING_URBAN_STREET] [wide shot] [DECLINE] CHARACTER_RANDY walking along a dark San Diego street sidewalk at 4 AM, shivering with hunched shoulders. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow horizontal tracking shot alongside the walking stickman, street lamp fog drifting past; holds on solitary walk."
+  },
+  {
+    "id": 42,
+    "script": "indra yang nyata, di mana dia mengira sebuah papan",
+    "visual": "[CHARACTER_RANDY, OBJECT_STREET_SIGN, SETTING_URBAN_STREET] [medium shot] [CONFLICT] CHARACTER_RANDY stopping on sidewalk, staring wide-eyed at OBJECT_STREET_SIGN standing on the grass verge ahead. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in over the stickman's shoulder toward the metal signpost standing in the fog; holds on tense stare."
+  },
+  {
+    "id": 43,
+    "script": "rambu jalan di pinggir trotoar adalah sosok orang sungguhan",
+    "visual": "[OBJECT_STREET_SIGN, SETTING_URBAN_STREET] [medium shot] [CONFLICT] The green octagonal street signpost subtly morphing into the silhouette of a tall standing person with arms crossed. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Subtle visual morph transition: the metal sign edges soften into shoulder and coat shapes; holds on humanoid silhouette."
+  },
+  {
+    "id": 44,
+    "script": "yang sedang berdiri menunggunya. Gampangnya, sistem pengolahan gambar",
+    "visual": "[CHARACTER_RANDY, SETTING_URBAN_STREET] [medium shot] [CONFLICT] CHARACTER_RANDY raising one mitten hand in a timid greeting toward the signpost, head tilted nervously. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Stickman arm slowly lifts up and waves once hesitantly, streetlamp flickering overhead; holds on awkward gesture."
+  },
+  {
+    "id": 45,
+    "script": "di kepalamu sudah tidak sanggup lagi membedakan mana pantulan",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [close-up] [CONFLICT] Pattern interrupt: a cracked camera lens or stained-glass prism refracting incoming pure white light into erratic jagged shards. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Shards of refracted light scatter across the dark background in erratic jolts; holds on fragmented optics."
+  },
+  {
+    "id": 46,
+    "script": "cahaya sungguhan dan mana kesalahan kirim sinyal saraf. Tapi",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [CONFLICT] Electrical sparks leaping wildly across torn telegraph wires strung between colossal decaying spinal columns. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Rapid violent blue electrical arcs jumping between wire ends, smoke curling off the poles; holds on arcing wires."
+  },
+  {
+    "id": 47,
+    "script": "cobaan mental yang sesungguhnya baru benar-benar meledak saat",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [DECLINE] Living room plunged into ominous twilight, window panes rattling from imaginary storm winds outside, shadows stretching. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in down the central hallway of the house, curtains billowing without an open window; holds on dark door."
+  },
+  {
+    "id": 48,
+    "script": "jarum jam menembus hari keempat dan kelima, sekitar sembilan",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Analog calendar pages on a desk tearing and blowing away violently in a phantom draft, numbers fluttering. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Calendar sheets flutter and peel off one after another in rapid motion; holds on stripped calendar stand."
+  },
+  {
+    "id": 49,
+    "script": "puluh enam hingga seratus dua puluh jam tanpa tidur.",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] CHARACTER_RANDY curled tightly on a wooden chair, knees pulled to chest, arms wrapped around legs, trembling. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow continuous zoom-in on the huddled stickman figure, slight periodic body shiver; holds on curled posture."
+  },
+  {
+    "id": 50,
+    "script": "Banyak orang mengira kurang tidur ekstrem hanya akan membuat badan",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [wide shot] [DECLINE] Pattern interrupt: wide shot of room, stickman lying flat on the floorboards limp like a discarded rag doll, empty space around him. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "High angle overhead shot slowly pulling upward, emphasizing isolation and stillness; holds on limp stickman figure."
+  },
+  {
+    "id": 51,
+    "script": "lemas lunglai di atas kasur, tapi kenyataannya justru memicu",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] CHARACTER_RANDY suddenly standing up, clutching his temples with both mitten hands, eyes wide with black exclamation points. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Sudden rapid jerk upward of the head, eyes widening dramatically with quick zoom-in; holds on panicked face."
+  },
+  {
+    "id": 52,
+    "script": "badai kekacauan pikiran yang menakutkan. Di fase ini, gangguan",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [CONFLICT] A swirling vortex storm of dark crimson clouds and jagged lightning tearing through the cerebral sky. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Violent rotation of the dark vortex clouds, red lightning flashes illuminating jagged terrain; holds on stormy chasm."
+  },
+  {
+    "id": 53,
+    "script": "persepsi bukan lagi sekadar salah lihat bayangan, melainkan berubah",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] CHARACTER_RANDY surrounded by swirling smoky translucent phantom figures whispering into his ears from behind. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Smoke wisps spiral around the stickman head, leaning close to ears then dissipating; holds on haunted expression."
+  },
+  {
+    "id": 54,
+    "script": "menjadi suara bisikan gaib tanpa wujud dan rasa curiga",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] Extreme close-up of stickman ear, faint sonic ripples painted in desaturated violet vibrating into the auditory canal. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow pulsing wave rings expanding inward toward the ear hole; holds on vibration detail."
+  },
+  {
+    "id": 55,
+    "script": "yang berlebihan. Randy mulai menuduh orang-orang terdekat yang",
+    "visual": "[CHARACTER_RANDY, CHARACTER_DEMENT, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Pattern interrupt: CHARACTER_RANDY pointing an accusing shaking finger at CHARACTER_DEMENT, backing away against a locked door. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fast push-in on the trembling pointing arm, researcher holding up open placating mitten hands; holds on stand-off."
+  },
+  {
+    "id": 56,
+    "script": "menjaganya memiliki niat jahat untuk mencelakainya. Pada saat",
+    "visual": "[CHARACTER_DEMENT, SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] CHARACTER_DEMENT seen through a distorted fish-eye lens, looking monstrously tall and shadowy, writing on his board. A 1964 clinical researcher stickman wearing round spectacles, receding dark-gray hair, a white lab coat over slate vest, holding a wooden clipboard firmly. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fish-eye distortion barrel effect pulses gently, shadows looming behind the researcher; holds on sinister silhouette."
+  },
+  {
+    "id": 57,
+    "script": "yang sama, kemampuan mengingatnya runtuh begitu cepat sampai ke",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [DECLINE] A towering bookshelf in the room with vintage leather books, their bound pages suddenly dissolving into white fluttering moths. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Pages crumble into white fluttering moth particles that fly away into darkness; holds on dissolving library."
+  },
+  {
+    "id": 58,
+    "script": "titik nol. Ketika dokter memintanya berhitung mundur kelipatan",
+    "visual": "[CHARACTER_DEMENT, CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [WONDER] CHARACTER_DEMENT holding up seven fingers in front of CHARACTER_RANDY who sits at a wooden kitchen table. A 1964 clinical researcher stickman wearing round spectacles, receding dark-gray hair, a white lab coat over slate vest, holding a wooden clipboard firmly. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Doctor mitten hand taps table rhythmically, Randy stares at the tabletop blankly; holds on clinical evaluation."
+  },
+  {
+    "id": 59,
+    "script": "tujuh mulai dari seratus, Randy mendadak terdiam kaku di",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] Close-up of CHARACTER_RANDY mouth frozen half-open, dot eyes completely unfocused, a faint fog drifting from his breath. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow continuous zoom into the frozen mouth, slight vapor breath puffing out into cold air; holds on stunned face."
+  },
+  {
+    "id": 60,
+    "script": "angka enam puluh lima, dan saat ditanya kenapa berhenti,",
+    "visual": "[CHARACTER_RANDY, CHARACTER_DEMENT, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Pattern interrupt: CHARACTER_RANDY shrugging with both mitten hands turned upward, head cocked sideways in total amnesia. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Stickman shoulders shrug upward quickly, holding the baffled pose; holds on clueless body posture."
+  },
+  {
+    "id": 61,
+    "script": "dia mengaku sudah lupa sama sekali apa yang sedang dia",
+    "visual": "[CHARACTER_RANDY] [close-up] [DECLINE] Extreme close-up of stickman head, an empty blank white slate replacing where facial thoughts would be, utter silence. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in, a clean white chalk eraser wipe effect clearing away faint mental lines; holds on blankness."
+  },
+  {
+    "id": 62,
+    "script": "kerjakan. Di dalam tubuhnya, tanda bahaya menyala di setiap",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [CONFLICT] Full room flashing with a rhythmic dull crimson ambient emergency pulse, casting long pulsing shadows on walls. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow rhythmic pulse of red ambient lighting across the entire room set, dimming and brightening; holds on red room."
+  },
+  {
+    "id": 63,
+    "script": "jengkal pembuluh darah, memicu reaksi peradangan hebat yang membuat",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [CONFLICT] Blood vessel branch glowing with fiery inflamed orange-rust embers, swollen and throbbing under immense pressure. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Pulsing expansion of the vessel walls with crackling ember lines radiating outward; holds on inflamed vessel."
+  },
+  {
+    "id": 64,
+    "script": "tubuh terasa sakit seperti sedang terserang infeksi berat. Otak",
+    "visual": "[CHARACTER_RANDY] [medium shot] [DECLINE] CHARACTER_RANDY slumped against a radiator, clutching his shoulders, shivering as if suffering from high fever chills. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Rapid body shiver and trembling limbs, radiator steam hissing faintly in background; holds on shivering boy."
+  },
+  {
+    "id": 65,
+    "script": "kita sesungguhnya memiliki armada pembersih khusus yang bekerja mirip",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [WONDER] Pattern interrupt: fantasy visual of tiny vintage 1960s sanitation street-sweeper carts parked neatly in rows inside brain alleys. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow high-angle sweep over the parked little carts, headlights unlit and engines cold; holds on idle fleet."
+  },
+  {
+    "id": 66,
+    "script": "dinas kebersihan kota pada tengah malam, di mana sel",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [WONDER] Stylized microscopic brain cells gently shrinking and creating wide open street channels for luminous cleansing water to flow. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Cells gracefully compress inward by 20 percent, opening a glowing clear passage; holds on open clean alley."
+  },
+  {
+    "id": 67,
+    "script": "otak akan menyusut agar cairan pembersih bisa leluasa menyapu",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [GLORY] Brilliant wave of crystal-clear cerulean fluid sweeping through the wide cellular avenue, washing away debris. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Majestic fluid rush forward toward the camera, glistening blue waves cleansing the stone bed; holds on clean surge."
+  },
+  {
+    "id": 68,
+    "script": "tumpukan racun sisa metabolisme. Saat kamu menolak tidur selama",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [DECLINE] Contrast shot: the same street now packed with swollen, bloated cells wedged tightly together, blocking all drainage. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Cells swell and press against each other with heavy creaking visual tension, sealing off the gap; holds on gridlock."
+  },
+  {
+    "id": 69,
+    "script": "berhari-hari, armada truk sampah itu dilarang keluar garasi,",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [CONFLICT] A heavy iron gate with padlocks chained across a dark tunnel mouth where the cleaning carts sit trapped inside. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Heavy iron lock drops with a thud, chain tightening across the bars; holds on locked depot gate."
+  },
+  {
+    "id": 70,
+    "script": "membiarkan tumpukan limbah beracun mengendap pekat dan mulai merusak",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [close-up] [DECLINE] Pattern interrupt: close-up of dark caustic sludge bubbling like boiling tar, dissolving delicate synaptic filaments. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow bubbling pop of black viscous slime, corrosive vapor rising upward; holds on toxic melting filament."
+  },
+  {
+    "id": 71,
+    "script": "lingkungan sel saraf itu sendiri. Lalu apa yang sebenarnya terjadi",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [wide shot] [DECLINE] CHARACTER_RANDY sitting alone in the middle of a vast empty living room floor, dark shadows encroaching from every corner. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow wide zoom-out, the room borders fading into black void, leaving a lone spotlight on the boy; holds on isolation."
+  },
+  {
+    "id": 72,
+    "script": "saat seseorang dipaksa melangkah lebih jauh hingga hari keenam",
+    "visual": "[CHARACTER_RANDY, CHARACTER_GENERIC_OBSERVER, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Two generic stickman observers physically supporting CHARACTER_RANDY by his arms, helping him drag his feet across the floor. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow dragging tracking shot to the left, stickman feet shuffling lifelessly across the floor; holds on supported walk."
+  },
+  {
+    "id": 73,
+    "script": "dan ketujuh, menembus angka seratus empat puluh empat sampai",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [close-up] [CONFLICT] Mechanical brass stopwatch ticking relentlessly, the red sweep second hand juddering around the scratched ivory face. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Extreme close-up of stopwatch hand jerking forward second by second; holds on mechanical dial."
+  },
+  {
+    "id": 74,
+    "script": "seratus enam puluh delapan jam, yaitu genap satu minggu",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [wide shot] [DECLINE] Calendar on the wall showing seven full days crossed out with heavy dark charcoal marks, gloom outside window. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in toward the wall calendar, deep shadow falling across the paper; holds on seven crossed days."
+  },
+  {
+    "id": 75,
+    "script": "penuh. Di titik terendah ini, batas pemisah antara alam",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [DECLINE] Pattern interrupt: dream landscape merging physically into living room: surreal floating furniture drifting over neural abyss. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow surreal float of a wooden chair drifting horizontally across purple brain canyon; holds on impossible hybrid vista."
+  },
+  {
+    "id": 76,
+    "script": "mimpi dan alam sadar sudah runtuh seutuhnya. Otak manusia",
+    "visual": "[CHARACTER_RANDY] [medium shot] [DECLINE] CHARACTER_RANDY looking at his own mitten hands, which appear semi-transparent and dissolving into drifting watercolor mist. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Stickman turns hands over slowly, transparent fingers shedding faint misty particles; holds on translucent hands."
+  },
+  {
+    "id": 77,
+    "script": "sudah tidak mampu lagi berfungsi sebagai satu kesatuan yang utuh,",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [CONFLICT] A cracked porcelain globe representing the brain, broken into disjointed drifting islands floating apart over an abyss. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow widening of the dark fissures between the floating brain landmasses; holds on fragmented islands."
+  },
+  {
+    "id": 78,
+    "script": "melainkan terpecah-pecah menjadi pulau kecil, di mana sebagian besar",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [DECLINE] One floating island covered in dark slumbering snow, completely inert and dormant in dark gray shadow. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Soft dark snowfall falling silently across the dormant brain island; holds on sleeping cold landscape."
+  },
+  {
+    "id": 79,
+    "script": "wilayah otak sudah menyerah dan tertidur lelap sementara sebagian",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [CONFLICT] Adjacent island glowing frantically with overdriven red lightning arcs, fighting desperately to stay powered. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Rapid crackle of desperate red electrical sparks jumping across the stressed rocks; holds on straining sector."
+  },
+  {
+    "id": 80,
+    "script": "kecil lainnya dipaksa tetap menyala agar tubuh tidak roboh",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Pattern interrupt: dramatic shot of CHARACTER_RANDY swaying violently like a ship mast in a gale, legs locked rigid. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Heavy pendulum sway from left to right, feet planted while torso tilts dangerously; holds on precarious balance."
+  },
+  {
+    "id": 81,
+    "script": "ke lantai. Randy bahkan mulai kesulitan untuk sekadar menggerakkan",
+    "visual": "[CHARACTER_RANDY] [close-up] [DECLINE] Close-up of stickman face, mouth trying to form speech but stiffened into an immobile straight gray line. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Subtle slow zoom-in on the paralyzed mouth line, slight quivering twitch on the chin outline; holds on muteness."
+  },
+  {
+    "id": 82,
+    "script": "lidah, bicaranya pelo tanpa nada, tatapan matanya kosong, dan",
+    "visual": "[CHARACTER_RANDY, CHARACTER_DEMENT, SETTING_SAN_DIEGO_ROOM] [medium shot] [DECLINE] CHARACTER_DEMENT leaning in close to listen, while CHARACTER_RANDY emits only faint broken soundwave scribbles from his lips. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Doctor leans ear closer, faint jagged ink lines dissolve in mid-air between them; holds on strained listening."
+  },
+  {
+    "id": 83,
+    "script": "jari jemarinya bergetar tak terkendali. Satu-satunya alasan remaja ini",
+    "visual": "[CHARACTER_RANDY] [close-up] [CONFLICT] Extreme close-up of stickman mitten hands holding a silver coin, fingers vibrating in rapid uncontrolled tremors. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Fast vibration jitter on the mitten hands, the coin rattling softly between fingers; holds on trembling hands."
+  },
+  {
+    "id": 84,
+    "script": "masih sanggup berdiri tegak adalah karena para pengawas terus",
+    "visual": "[CHARACTER_RANDY, CHARACTER_GENERIC_OBSERVER, SETTING_SAN_DIEGO_ROOM] [wide shot] [CONFLICT] Observers marching CHARACTER_RANDY briskly back and forth down the hallway, keeping him moving under harsh lamp light. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Tracking pan down the hallway, three stickmen marching in forced synchrony; holds on continuous forced march."
+  },
+  {
+    "id": 85,
+    "script": "mengajaknya bergerak aktif dengan berjalan kaki, melempar bola basket,",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] Pattern interrupt: CHARACTER_RANDY in a backyard at dusk, mechanically bouncing a brown leather basketball off the ground. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Rhythmic bounce of basketball against concrete, ball rising slowly back to mitten hand; holds on hypnotic bouncing."
+  },
+  {
+    "id": 86,
+    "script": "dan bermain permainan bola pantul. Suhu badannya merosot dingin",
+    "visual": "[CHARACTER_RANDY, OBJECT_PINBALL_MACHINE, SETTING_SAN_DIEGO_ROOM] [medium shot] [WONDER] CHARACTER_RANDY leaning over the glowing OBJECT_PINBALL_MACHINE, steel ball rebounding off illuminated rubber bumpers. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Pinball ricochets between bumpers with golden flashes, stickman fingers slapping side buttons; holds on intense arcade play."
+  },
+  {
+    "id": 87,
+    "script": "karena pusat pengatur panas di kepalanya mulai mogok kerja,",
+    "visual": "[CHARACTER_RANDY] [close-up] [DECLINE] Close-up of stickman torso, delicate frost crystals visibly spreading outward across the yellow sweater wool. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow creeping growth of pale blue frost needles branching over sweater fabric; holds on freezing sweater."
+  },
+  {
+    "id": 88,
+    "script": "membuat seluruh pertahanan fisiknya berada tepat di tepi jurang",
+    "visual": "[CHARACTER_RANDY, SETTING_BRAIN_LANDSCAPE] [wide shot] [DECLINE] Metaphor: stickman figure standing balanced on the razor-sharp precipice of a bottomless granite cliff edge, stormy fog below. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "High angle dramatic camera pull-back revealing the immense sheer drop beneath his toes; holds on precarious precipice."
+  },
+  {
+    "id": 89,
+    "script": "kehancuran. Untungnya, tepat pada hari kesebelas setelah menyentuh",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [WONDER] Living room illuminated by a golden morning sunbeam breaking through parted blinds, warm light washing over furniture. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Morning dust motes sparkle as sunbeam widens across the wooden floor; holds on warm sunbeam."
+  },
+  {
+    "id": 90,
+    "script": "angka dua ratus enam puluh empat jam tanpa tidur, eksperimen",
+    "visual": "[CHARACTER_DEMENT, OBJECT_EEG_CLIPBOARD, SETTING_SAN_DIEGO_ROOM] [medium shot] [LEGACY] Pattern interrupt: CHARACTER_DEMENT firmly drawing a bold final double-line across his chart and lowering his clipboard. A 1964 clinical researcher stickman wearing round spectacles, receding dark-gray hair, a white lab coat over slate vest, holding a wooden clipboard firmly. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Doctor puts pencil down on clipboard with a definitive nod, spectacles gleaming in light; holds on completed record."
+  },
+  {
+    "id": 91,
+    "script": "yang menegangkan ini resmi dihentikan dan Randy Gardner akhirnya",
+    "visual": "[CHARACTER_RANDY, SETTING_NAVY_HOSPITAL] [wide shot] [LEGACY] Balboa Naval Hospital hallway, quiet clean sterile corridor, orderlies wheeling an empty low cot into the room. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in down the polished hospital corridor, rubber wheels gliding smoothly; holds on open clinic door."
+  },
+  {
+    "id": 92,
+    "script": "diantar menuju ranjang rumah sakit militer. Banyak orang mengira",
+    "visual": "[CHARACTER_RANDY, SETTING_NAVY_HOSPITAL] [medium shot] [LEGACY] CHARACTER_RANDY sitting gently on the edge of the crisp white hospital bed, unlacing his brown shoes with deep relief. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Stickman lets shoes drop to floorboards, shoulders releasing all accumulated tension; holds on sitting posture."
+  },
+  {
+    "id": 93,
+    "script": "dia bakal tertidur pulas berhari-hari tanpa bangun untuk mengganti",
+    "visual": "[SETTING_NAVY_HOSPITAL] [medium shot] [WONDER] A massive vintage calendar on the hospital wall showing multiple days flipping over like autumn leaves in wind. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Phantom calendar sheets flutter and float across frame in slow motion; holds on imaginary passing days."
+  },
+  {
+    "id": 94,
+    "script": "ratusan jam yang hilang. Tapi ternyata, cara tubuh manusia",
+    "visual": "[CHARACTER_RANDY, SETTING_NAVY_HOSPITAL] [medium shot] [GLORY] CHARACTER_RANDY lying flat under crisp white hospital blankets, head resting on soft cream pillow, eyes gently closed. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow gentle zoom-in toward the peaceful sleeping face, breathing rhythm slow and deep; holds on resting boy."
+  },
+  {
+    "id": 95,
+    "script": "memulihkan diri jauh lebih cerdas dari dugaan kita. Di",
+    "visual": "[SETTING_NAVY_HOSPITAL] [close-up] [WONDER] Pattern interrupt: medical monitor drum slowly rolling paper, a delicate ink stylus drawing smooth slow-wave undulating sine waves. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Paper feeds steadily from left to right as the needle paints graceful rhythmic rolling waves; holds on slow-wave trace."
+  },
+  {
+    "id": 96,
+    "script": "malam pertamanya di rumah sakit, Randy ternyata hanya tidur selama",
+    "visual": "[SETTING_NAVY_HOSPITAL] [wide shot] [WONDER] Hospital room at midnight, peaceful moonlight filtering through horizontal blinds, casting cool blue bars across the blanket. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow tranquil pan across the darkened hospital room, curtains swaying in mild breeze; holds on sleeping silhouette."
+  },
+  {
+    "id": 97,
+    "script": "sekitar empat belas jam empat puluh menit saja. Tubuh",
+    "visual": "[SETTING_NAVY_HOSPITAL] [medium shot] [GLORY] Analog clock above the hospital door showing hands pointing to morning light, serene and calm atmosphere. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Sunbeams gradually illuminate the clock face, shifting shadows across the wall; holds on peaceful morning dial."
+  },
+  {
+    "id": 98,
+    "script": "kita sama sekali tidak perlu mencicil utang waktu itu",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [LEGACY] An old metal weighing balance scale with weights on one side, settling into an effortless perfect level equilibrium. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Scale pans sway slightly once and lock into harmonious dead-center balance; holds on balanced scale."
+  },
+  {
+    "id": 99,
+    "script": "jam demi jam. Otak langsung memotong jalur secara cerdas,",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [GLORY] Golden glowing bypass conduits illuminating across the cerebral canyon, instantly routing vital energy to deep dormant chambers. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Brilliant golden light beams zap along high viaducts, instantly bypassing dark clogged valleys; holds on golden network."
+  },
+  {
+    "id": 100,
+    "script": "melompat langsung ke fase tidur paling pulas dan fase",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [medium shot] [WONDER] Pattern interrupt: deep oceanic underwater cavern inside brain, glowing with calm sapphire and violet bioluminescent light. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Deep slow-motion underwater pulse, calm sapphire light waves rippling softly; holds on serene deep-sleep realm."
+  },
+  {
+    "id": 101,
+    "script": "mimpi dalam, lalu menyalakan mode perbaikan kilat untuk menambal",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [close-up] [GLORY] Synaptic dendrite branches healing seamlessly, tiny golden thread stitches knitting damaged tissue back together cleanly. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Golden threads weave smoothly over cracks, sealing them with a warm soft gleam; holds on restored synapse."
+  },
+  {
+    "id": 102,
+    "script": "kerusakan sel yang sempat tertunda. Remaja itu akhirnya berhasil",
+    "visual": "[CHARACTER_RANDY, SETTING_NAVY_HOSPITAL] [medium shot] [GLORY] CHARACTER_RANDY waking up in the morning, sitting upright in bed, eyes clear and round without red rings, skin fresh. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Stickman stretches both mitten arms up in a hearty morning stretch, head held high; holds on revitalized figure."
+  },
+  {
+    "id": 103,
+    "script": "pulih tanpa meninggalkan luka jiwa permanen, namun para dokter",
+    "visual": "[CHARACTER_RANDY, CHARACTER_DEMENT, SETTING_NAVY_HOSPITAL] [wide shot] [LEGACY] Doctor shaking hands warmly with Randy beside the sunlit hospital window, nurses smiling in background. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Warm handshake motion between stickman mitten hands, morning sun wrapping around them; holds on celebratory moment."
+  },
+  {
+    "id": 104,
+    "script": "dan lembaga pencatat rekor dunia segera memutuskan untuk melarang",
+    "visual": "[SETTING_NAVY_HOSPITAL] [medium shot] [CONFLICT] A heavy vintage leather ledger book being closed firmly by gloved hands, a bronze lock snapping shut on the cover. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Heavy book slams shut raising a small puff of dust, bronze padlock snaps tight; holds on locked ledger."
+  },
+  {
+    "id": 105,
+    "script": "percobaan berbahaya ini demi melindungi nyawa manusia. Dan setiap",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [wide shot] [WONDER] Pattern interrupt: full wide view of the San Diego house living room, looking back from the open doorway. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in down the room axis, room quiet and peaceful in late afternoon gold; holds on quiet interior."
+  },
+  {
+    "id": 106,
+    "script": "kali kamu merasa tergoda untuk memaksakan diri begadang semalaman,",
+    "visual": "[SETTING_SAN_DIEGO_ROOM] [medium shot] [CONFLICT] A modern bedroom desk at 2:00 AM, a single glowing desk lamp illuminating an empty chair and a closed notebook. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow push-in toward the glowing lamp, shadows resting quiet across the desktop; holds on empty desk."
+  },
+  {
+    "id": 107,
+    "script": "ingatlah kembali sosok Randy Gardner yang berdiri linglung di depan",
+    "visual": "[CHARACTER_RANDY, OBJECT_PINBALL_MACHINE, SETTING_SAN_DIEGO_ROOM] [medium shot] [LEGACY] Callback hook: CHARACTER_RANDY seen from over-the-shoulder, standing in front of OBJECT_PINBALL_MACHINE as in Scene 2. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow zoom-out looping back to the opening hook composition, amber backglass glow pulsing; holds on memorable silhouette."
+  },
+  {
+    "id": 108,
+    "script": "papan permainan di San Diego itu, karena tidur nyatanya bukan",
+    "visual": "[CHARACTER_RANDY] [close-up] [WONDER] Extreme close-up of stickman profile, a single calm warm light reflecting in the dot eye, serene expression. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Gentle warm light flare sweeps horizontally across the eye dot; holds on thoughtful eye reflection."
+  },
+  {
+    "id": 109,
+    "script": "tanda kelemahan tubuh, melainkan satu-satunya cara otak kita menjaga",
+    "visual": "[SETTING_BRAIN_LANDSCAPE] [wide shot] [GLORY] Majestic wide vista of the cerebral landscape fully healed, peaceful golden and azure aurora shimmering across starry night sky. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Slow majestic upward tilt toward the shimmering cerebral aurora borealis, stars twinkling gently; holds on starry expanse."
+  },
+  {
+    "id": 110,
+    "script": "akal sehatnya tetap utuh.",
+    "visual": "[CHARACTER_RANDY, SETTING_SAN_DIEGO_ROOM] [wide shot] [LEGACY] Final held frame: silhouette of Randy sleeping peacefully in bed, soft moonlight through window, absolute calm and restoration. A 1964 high-school stickman with mustard sweater, brown trousers, messy dark hair, heavy bloodshot eye rings, and slouched posture holding a worn silver coin. Stickman characters (round cream head, dot eyes, thin black-outlined limbs, simple costume shapes) in a semi-realistic 2D graphic-novel background, cinematic 16:9, bold dark ink outlines on characters, thin soft lines on background, soft painted cel shading, subtle parchment and stone texture, three depth layers, one clear light source, mood-matched palette, no text, no letters, no 3D render, no photorealism, no modern objects, no blood.",
+    "animation": "Very slow 4-second fade to dark serene blue, holding on the peaceful sleeping silhouette until the final frame."
+  }
+]

@@ -1,0 +1,645 @@
+{
+  "title": "Misteri Fondasi & Rekayasa Taj Mahal",
+  "audio": "tajmahal/audio.wav",
+  "audioDurationMs": 384680,
+  "totalScenes": 91,
+  "scenes": [
+    {
+      "id": 1,
+      "image": "tajmahal/scene-1.jpg",
+      "startMs": 0,
+      "endMs": 5460,
+      "durationMs": 5460
+    },
+    {
+      "id": 2,
+      "image": "tajmahal/scene-2.jpg",
+      "startMs": 5460,
+      "endMs": 8840,
+      "durationMs": 3380
+    },
+    {
+      "id": 3,
+      "image": "tajmahal/scene-3.jpg",
+      "startMs": 8840,
+      "endMs": 11020,
+      "durationMs": 2180
+    },
+    {
+      "id": 4,
+      "image": "tajmahal/scene-4.jpg",
+      "startMs": 11020,
+      "endMs": 15080,
+      "durationMs": 4060
+    },
+    {
+      "id": 5,
+      "image": "tajmahal/scene-5.jpg",
+      "startMs": 15080,
+      "endMs": 19880,
+      "durationMs": 4800
+    },
+    {
+      "id": 6,
+      "image": "tajmahal/scene-6.jpg",
+      "startMs": 19880,
+      "endMs": 25790,
+      "durationMs": 5910
+    },
+    {
+      "id": 7,
+      "image": "tajmahal/scene-7.jpg",
+      "startMs": 25790,
+      "endMs": 31570,
+      "durationMs": 5780
+    },
+    {
+      "id": 8,
+      "image": "tajmahal/scene-8.jpg",
+      "startMs": 31570,
+      "endMs": 37030,
+      "durationMs": 5460
+    },
+    {
+      "id": 9,
+      "image": "tajmahal/scene-9.jpg",
+      "startMs": 37030,
+      "endMs": 40000,
+      "durationMs": 2970
+    },
+    {
+      "id": 10,
+      "image": "tajmahal/scene-10.jpg",
+      "startMs": 40000,
+      "endMs": 43050,
+      "durationMs": 3050
+    },
+    {
+      "id": 11,
+      "image": "tajmahal/scene-11.jpg",
+      "startMs": 43050,
+      "endMs": 48810,
+      "durationMs": 5760
+    },
+    {
+      "id": 12,
+      "image": "tajmahal/scene-12.jpg",
+      "startMs": 48810,
+      "endMs": 51500,
+      "durationMs": 2690
+    },
+    {
+      "id": 13,
+      "image": "tajmahal/scene-13.jpg",
+      "startMs": 51500,
+      "endMs": 54010,
+      "durationMs": 2510
+    },
+    {
+      "id": 14,
+      "image": "tajmahal/scene-14.jpg",
+      "startMs": 54010,
+      "endMs": 58210,
+      "durationMs": 4200
+    },
+    {
+      "id": 15,
+      "image": "tajmahal/scene-15.jpg",
+      "startMs": 58210,
+      "endMs": 62450,
+      "durationMs": 4240
+    },
+    {
+      "id": 16,
+      "image": "tajmahal/scene-16.jpg",
+      "startMs": 62450,
+      "endMs": 67360,
+      "durationMs": 4910
+    },
+    {
+      "id": 17,
+      "image": "tajmahal/scene-17.jpg",
+      "startMs": 67360,
+      "endMs": 70510,
+      "durationMs": 3150
+    },
+    {
+      "id": 18,
+      "image": "tajmahal/scene-18.jpg",
+      "startMs": 70510,
+      "endMs": 76260,
+      "durationMs": 5750
+    },
+    {
+      "id": 19,
+      "image": "tajmahal/scene-19.jpg",
+      "startMs": 76260,
+      "endMs": 78410,
+      "durationMs": 2150
+    },
+    {
+      "id": 20,
+      "image": "tajmahal/scene-20.jpg",
+      "startMs": 78410,
+      "endMs": 83652,
+      "durationMs": 5242
+    },
+    {
+      "id": 21,
+      "image": "tajmahal/scene-21.jpg",
+      "startMs": 83652,
+      "endMs": 88590,
+      "durationMs": 4938
+    },
+    {
+      "id": 22,
+      "image": "tajmahal/scene-22.jpg",
+      "startMs": 88590,
+      "endMs": 92133,
+      "durationMs": 3543
+    },
+    {
+      "id": 23,
+      "image": "tajmahal/scene-23.jpg",
+      "startMs": 92133,
+      "endMs": 96560,
+      "durationMs": 4427
+    },
+    {
+      "id": 24,
+      "image": "tajmahal/scene-24.jpg",
+      "startMs": 96560,
+      "endMs": 99570,
+      "durationMs": 3010
+    },
+    {
+      "id": 25,
+      "image": "tajmahal/scene-25.jpg",
+      "startMs": 99570,
+      "endMs": 105530,
+      "durationMs": 5960
+    },
+    {
+      "id": 26,
+      "image": "tajmahal/scene-26.jpg",
+      "startMs": 105530,
+      "endMs": 107920,
+      "durationMs": 2390
+    },
+    {
+      "id": 27,
+      "image": "tajmahal/scene-27.jpg",
+      "startMs": 107920,
+      "endMs": 113335,
+      "durationMs": 5415
+    },
+    {
+      "id": 28,
+      "image": "tajmahal/scene-28.jpg",
+      "startMs": 113335,
+      "endMs": 116380,
+      "durationMs": 3045
+    },
+    {
+      "id": 29,
+      "image": "tajmahal/scene-29.jpg",
+      "startMs": 116380,
+      "endMs": 121816,
+      "durationMs": 5436
+    },
+    {
+      "id": 30,
+      "image": "tajmahal/scene-30.jpg",
+      "startMs": 121816,
+      "endMs": 126056,
+      "durationMs": 4240
+    },
+    {
+      "id": 31,
+      "image": "tajmahal/scene-31.jpg",
+      "startMs": 126056,
+      "endMs": 130297,
+      "durationMs": 4241
+    },
+    {
+      "id": 32,
+      "image": "tajmahal/scene-32.jpg",
+      "startMs": 130297,
+      "endMs": 133730,
+      "durationMs": 3433
+    },
+    {
+      "id": 33,
+      "image": "tajmahal/scene-33.jpg",
+      "startMs": 133730,
+      "endMs": 138778,
+      "durationMs": 5048
+    },
+    {
+      "id": 34,
+      "image": "tajmahal/scene-34.jpg",
+      "startMs": 138778,
+      "endMs": 143018,
+      "durationMs": 4240
+    },
+    {
+      "id": 35,
+      "image": "tajmahal/scene-35.jpg",
+      "startMs": 143018,
+      "endMs": 147258,
+      "durationMs": 4240
+    },
+    {
+      "id": 36,
+      "image": "tajmahal/scene-36.jpg",
+      "startMs": 147258,
+      "endMs": 151820,
+      "durationMs": 4562
+    },
+    {
+      "id": 37,
+      "image": "tajmahal/scene-37.jpg",
+      "startMs": 151820,
+      "endMs": 154610,
+      "durationMs": 2790
+    },
+    {
+      "id": 38,
+      "image": "tajmahal/scene-38.jpg",
+      "startMs": 154610,
+      "endMs": 159979,
+      "durationMs": 5369
+    },
+    {
+      "id": 39,
+      "image": "tajmahal/scene-39.jpg",
+      "startMs": 159979,
+      "endMs": 164220,
+      "durationMs": 4241
+    },
+    {
+      "id": 40,
+      "image": "tajmahal/scene-40.jpg",
+      "startMs": 164220,
+      "endMs": 168460,
+      "durationMs": 4240
+    },
+    {
+      "id": 41,
+      "image": "tajmahal/scene-41.jpg",
+      "startMs": 168460,
+      "endMs": 173370,
+      "durationMs": 4910
+    },
+    {
+      "id": 42,
+      "image": "tajmahal/scene-42.jpg",
+      "startMs": 173370,
+      "endMs": 177720,
+      "durationMs": 4350
+    },
+    {
+      "id": 43,
+      "image": "tajmahal/scene-43.jpg",
+      "startMs": 177720,
+      "endMs": 181181,
+      "durationMs": 3461
+    },
+    {
+      "id": 44,
+      "image": "tajmahal/scene-44.jpg",
+      "startMs": 181181,
+      "endMs": 184550,
+      "durationMs": 3369
+    },
+    {
+      "id": 45,
+      "image": "tajmahal/scene-45.jpg",
+      "startMs": 184550,
+      "endMs": 189662,
+      "durationMs": 5112
+    },
+    {
+      "id": 46,
+      "image": "tajmahal/scene-46.jpg",
+      "startMs": 189662,
+      "endMs": 193903,
+      "durationMs": 4241
+    },
+    {
+      "id": 47,
+      "image": "tajmahal/scene-47.jpg",
+      "startMs": 193903,
+      "endMs": 198750,
+      "durationMs": 4847
+    },
+    {
+      "id": 48,
+      "image": "tajmahal/scene-48.jpg",
+      "startMs": 198750,
+      "endMs": 202383,
+      "durationMs": 3633
+    },
+    {
+      "id": 49,
+      "image": "tajmahal/scene-49.jpg",
+      "startMs": 202383,
+      "endMs": 206620,
+      "durationMs": 4237
+    },
+    {
+      "id": 50,
+      "image": "tajmahal/scene-50.jpg",
+      "startMs": 206620,
+      "endMs": 210864,
+      "durationMs": 4244
+    },
+    {
+      "id": 51,
+      "image": "tajmahal/scene-51.jpg",
+      "startMs": 210864,
+      "endMs": 214680,
+      "durationMs": 3816
+    },
+    {
+      "id": 52,
+      "image": "tajmahal/scene-52.jpg",
+      "startMs": 214680,
+      "endMs": 219345,
+      "durationMs": 4665
+    },
+    {
+      "id": 53,
+      "image": "tajmahal/scene-53.jpg",
+      "startMs": 219345,
+      "endMs": 224190,
+      "durationMs": 4845
+    },
+    {
+      "id": 54,
+      "image": "tajmahal/scene-54.jpg",
+      "startMs": 224190,
+      "endMs": 227826,
+      "durationMs": 3636
+    },
+    {
+      "id": 55,
+      "image": "tajmahal/scene-55.jpg",
+      "startMs": 227826,
+      "endMs": 230940,
+      "durationMs": 3114
+    },
+    {
+      "id": 56,
+      "image": "tajmahal/scene-56.jpg",
+      "startMs": 230940,
+      "endMs": 236307,
+      "durationMs": 5367
+    },
+    {
+      "id": 57,
+      "image": "tajmahal/scene-57.jpg",
+      "startMs": 236307,
+      "endMs": 240220,
+      "durationMs": 3913
+    },
+    {
+      "id": 58,
+      "image": "tajmahal/scene-58.jpg",
+      "startMs": 240220,
+      "endMs": 243900,
+      "durationMs": 3680
+    },
+    {
+      "id": 59,
+      "image": "tajmahal/scene-59.jpg",
+      "startMs": 243900,
+      "endMs": 249028,
+      "durationMs": 5128
+    },
+    {
+      "id": 60,
+      "image": "tajmahal/scene-60.jpg",
+      "startMs": 249028,
+      "endMs": 253268,
+      "durationMs": 4240
+    },
+    {
+      "id": 61,
+      "image": "tajmahal/scene-61.jpg",
+      "startMs": 253268,
+      "endMs": 257740,
+      "durationMs": 4472
+    },
+    {
+      "id": 62,
+      "image": "tajmahal/scene-62.jpg",
+      "startMs": 257740,
+      "endMs": 262790,
+      "durationMs": 5050
+    },
+    {
+      "id": 63,
+      "image": "tajmahal/scene-63.jpg",
+      "startMs": 262790,
+      "endMs": 265989,
+      "durationMs": 3199
+    },
+    {
+      "id": 64,
+      "image": "tajmahal/scene-64.jpg",
+      "startMs": 265989,
+      "endMs": 270230,
+      "durationMs": 4241
+    },
+    {
+      "id": 65,
+      "image": "tajmahal/scene-65.jpg",
+      "startMs": 270230,
+      "endMs": 274470,
+      "durationMs": 4240
+    },
+    {
+      "id": 66,
+      "image": "tajmahal/scene-66.jpg",
+      "startMs": 274470,
+      "endMs": 277860,
+      "durationMs": 3390
+    },
+    {
+      "id": 67,
+      "image": "tajmahal/scene-67.jpg",
+      "startMs": 277860,
+      "endMs": 281930,
+      "durationMs": 4070
+    },
+    {
+      "id": 68,
+      "image": "tajmahal/scene-68.jpg",
+      "startMs": 281930,
+      "endMs": 287320,
+      "durationMs": 5390
+    },
+    {
+      "id": 69,
+      "image": "tajmahal/scene-69.jpg",
+      "startMs": 287320,
+      "endMs": 290460,
+      "durationMs": 3140
+    },
+    {
+      "id": 70,
+      "image": "tajmahal/scene-70.jpg",
+      "startMs": 290460,
+      "endMs": 296090,
+      "durationMs": 5630
+    },
+    {
+      "id": 71,
+      "image": "tajmahal/scene-71.jpg",
+      "startMs": 296090,
+      "endMs": 298790,
+      "durationMs": 2700
+    },
+    {
+      "id": 72,
+      "image": "tajmahal/scene-72.jpg",
+      "startMs": 298790,
+      "endMs": 304153,
+      "durationMs": 5363
+    },
+    {
+      "id": 73,
+      "image": "tajmahal/scene-73.jpg",
+      "startMs": 304153,
+      "endMs": 308393,
+      "durationMs": 4240
+    },
+    {
+      "id": 74,
+      "image": "tajmahal/scene-74.jpg",
+      "startMs": 308393,
+      "endMs": 312634,
+      "durationMs": 4241
+    },
+    {
+      "id": 75,
+      "image": "tajmahal/scene-75.jpg",
+      "startMs": 312634,
+      "endMs": 316830,
+      "durationMs": 4196
+    },
+    {
+      "id": 76,
+      "image": "tajmahal/scene-76.jpg",
+      "startMs": 316830,
+      "endMs": 321114,
+      "durationMs": 4284
+    },
+    {
+      "id": 77,
+      "image": "tajmahal/scene-77.jpg",
+      "startMs": 321114,
+      "endMs": 326220,
+      "durationMs": 5106
+    },
+    {
+      "id": 78,
+      "image": "tajmahal/scene-78.jpg",
+      "startMs": 326220,
+      "endMs": 329595,
+      "durationMs": 3375
+    },
+    {
+      "id": 79,
+      "image": "tajmahal/scene-79.jpg",
+      "startMs": 329595,
+      "endMs": 334310,
+      "durationMs": 4715
+    },
+    {
+      "id": 80,
+      "image": "tajmahal/scene-80.jpg",
+      "startMs": 334310,
+      "endMs": 337100,
+      "durationMs": 2790
+    },
+    {
+      "id": 81,
+      "image": "tajmahal/scene-81.jpg",
+      "startMs": 337100,
+      "endMs": 342000,
+      "durationMs": 4900
+    },
+    {
+      "id": 82,
+      "image": "tajmahal/scene-82.jpg",
+      "startMs": 342000,
+      "endMs": 345600,
+      "durationMs": 3600
+    },
+    {
+      "id": 83,
+      "image": "tajmahal/scene-83.jpg",
+      "startMs": 345600,
+      "endMs": 349940,
+      "durationMs": 4340
+    },
+    {
+      "id": 84,
+      "image": "tajmahal/scene-84.jpg",
+      "startMs": 349940,
+      "endMs": 355038,
+      "durationMs": 5098
+    },
+    {
+      "id": 85,
+      "image": "tajmahal/scene-85.jpg",
+      "startMs": 355038,
+      "endMs": 359278,
+      "durationMs": 4240
+    },
+    {
+      "id": 86,
+      "image": "tajmahal/scene-86.jpg",
+      "startMs": 359278,
+      "endMs": 362360,
+      "durationMs": 3082
+    },
+    {
+      "id": 87,
+      "image": "tajmahal/scene-87.jpg",
+      "startMs": 362360,
+      "endMs": 367120,
+      "durationMs": 4760
+    },
+    {
+      "id": 88,
+      "image": "tajmahal/scene-88.jpg",
+      "startMs": 367120,
+      "endMs": 371999,
+      "durationMs": 4879
+    },
+    {
+      "id": 89,
+      "image": "tajmahal/scene-89.jpg",
+      "startMs": 371999,
+      "endMs": 376240,
+      "durationMs": 4241
+    },
+    {
+      "id": 90,
+      "image": "tajmahal/scene-90.jpg",
+      "startMs": 376240,
+      "endMs": 380480,
+      "durationMs": 4240
+    },
+    {
+      "id": 91,
+      "image": "tajmahal/scene-91.jpg",
+      "startMs": 380480,
+      "endMs": 384680,
+      "durationMs": 4200
+    }
+  ]
+}

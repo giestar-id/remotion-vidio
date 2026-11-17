@@ -12,6 +12,9 @@ import { RomaDocu } from './Roma';
 import { PersiaDocu } from './Persia';
 import { OrangIndoMainVideo } from './StickmanOrangIndo';
 import { MajapahitDocu } from './Majapahit';
+import { TajMahalMainVideo } from './StickmanTajMahal';
+import { KulitMainVideo } from './StickmanKulit';
+import { TakTidurMainVideo } from './StickmanTakTidur';
 
 export const FPS = 30;
 
@@ -230,6 +233,57 @@ export const Root: React.FC = () => {
         defaultProps={
           {
             proyek: 'majapahit',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="TajMahalStickman"
+        component={TajMahalMainVideo}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 385}
+        defaultProps={
+          {
+            proyek: 'tajmahal',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="KulitStickman"
+        component={KulitMainVideo}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 372}
+        defaultProps={
+          {
+            proyek: 'kulit',
+            timeline: null,
+            captions: [],
+          } satisfies VideoProps
+        }
+        calculateMetadata={createMetadataCalculator()}
+      />
+
+      <Composition
+        id="TakTidurStickman"
+        component={TakTidurMainVideo}
+        width={1920}
+        height={1080}
+        fps={FPS}
+        durationInFrames={FPS * 379}
+        defaultProps={
+          {
+            proyek: 'tak-tidur',
             timeline: null,
             captions: [],
           } satisfies VideoProps

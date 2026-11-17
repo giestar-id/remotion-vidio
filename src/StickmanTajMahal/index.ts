@@ -1,0 +1,1 @@
+export { TajMahalMainVideo } from './TajMahalMainVideo';
