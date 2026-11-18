@@ -129,26 +129,7 @@ export const SejarahDecorations: React.FC = () => {
         }}
       />
 
-      {/* Pojok kiri atas: badge arsip */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 44,
-          left: 52,
-          padding: '9px 16px',
-          backgroundColor: 'rgba(244, 231, 207, 0.88)',
-          border: '1px solid rgba(36, 31, 26, 0.45)',
-          borderRadius: 4,
-          fontFamily: 'Georgia, serif',
-          fontSize: 17,
-          letterSpacing: 4,
-          fontWeight: 700,
-          color: '#241F1A',
-          opacity: intro,
-        }}
-      >
-        DOKUMENTER SEJARAH
-      </div>
+      {/* Pojok kiri atas: Dihapus sesuai permintaan user */}
 
       {/* Pojok kanan atas: pill */}
       <div

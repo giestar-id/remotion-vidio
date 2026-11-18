@@ -200,58 +200,7 @@ export const DocumentaryDecorations: React.FC<{config: DocumentaryHeaderConfig}>
         );
       })}
 
-      {/* POJOK KIRI ATAS: Garis vertikal merah tua + judul utama (+ subjudul opsional) */}
-      <div
-        style={{
-          position: 'absolute',
-          top: config.headerSubtitle ? 38 : 40,
-          left: 48,
-          display: 'flex',
-          alignItems: 'center',
-          gap: 14,
-          opacity: headerOpacity,
-        }}
-      >
-        <div
-          style={{
-            width: 5,
-            height: config.headerSubtitle ? 44 : 26,
-            backgroundColor: ACCENT_RED,
-            borderRadius: 1,
-            boxShadow: '0 2px 8px rgba(0, 0, 0, 0.6)',
-          }}
-        />
-        <div style={{display: 'flex', flexDirection: 'column', gap: 3}}>
-          <div
-            style={{
-              fontFamily: SANS_HEADER_FONT,
-              fontSize: 22,
-              fontWeight: 700,
-              letterSpacing: 4.5,
-              lineHeight: 1.1,
-              color: CREAM_TEXT,
-              textShadow: '0 2px 10px rgba(10, 8, 5, 0.88)',
-            }}
-          >
-            {config.headerTitle}
-          </div>
-          {config.headerSubtitle && (
-            <div
-              style={{
-                fontFamily: SANS_HEADER_FONT,
-                fontSize: 12,
-                fontWeight: 500,
-                letterSpacing: 2.8,
-                lineHeight: 1.1,
-                color: 'rgba(244, 231, 207, 0.74)',
-                textShadow: '0 1px 6px rgba(10, 8, 5, 0.88)',
-              }}
-            >
-              {config.headerSubtitle}
-            </div>
-          )}
-        </div>
-      </div>
+      {/* POJOK KIRI ATAS: Dihapus sesuai permintaan user */}
 
       {/* POJOK KANAN ATAS: Nama channel dengan style tipografi arsip bersih (hanya jika ada) */}
       {config.channelName ? (
