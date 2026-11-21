@@ -1,1670 +1,2087 @@
 {
-  "audioDurationMs": 776960,
   "audio": "persia/persia.wav",
+  "audioDurationMs": 776650,
+  "totalDurationMs": 776650,
   "scenes": [
     {
+      "index": 1,
       "id": 1,
+      "image": "persia/scene-1.jpg",
       "startMs": 0,
-      "endMs": 4020,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-1.jpg"
+      "endMs": 4180,
+      "durationMs": 4180,
+      "transition": "none",
+      "text": "Di atas dataran tinggi yang berangin kencang, diapit puncak gunung berbatu"
     },
     {
+      "index": 2,
       "id": 2,
-      "startMs": 4020,
-      "endMs": 5960,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-2.jpg"
+      "image": "persia/scene-2.jpg",
+      "startMs": 4180,
+      "endMs": 6620,
+      "durationMs": 2440,
+      "transition": "none",
+      "text": "dan padang pasir yang membakar, sebuah bangsa peradaban kuno"
     },
     {
+      "index": 3,
       "id": 3,
-      "startMs": 5960,
-      "endMs": 11130,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-3.jpg"
+      "image": "persia/scene-3.jpg",
+      "startMs": 6620,
+      "endMs": 11500,
+      "durationMs": 4880,
+      "transition": "none",
+      "text": "bertahan melintasi ribuan tahun perang dan badai sejarah."
     },
     {
+      "index": 4,
       "id": 4,
-      "startMs": 11130,
-      "endMs": 14860,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "persia/scene-4.jpg"
+      "image": "persia/scene-4.jpg",
+      "startMs": 11500,
+      "endMs": 15070,
+      "durationMs": 3570,
+      "transition": "none",
+      "text": "Pasukan demi pasukan datang silih berganti membawa pedang terhunus,"
     },
     {
+      "index": 5,
       "id": 5,
-      "startMs": 14860,
-      "endMs": 18670,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-5.jpg"
+      "image": "persia/scene-5.jpg",
+      "startMs": 15070,
+      "endMs": 19400,
+      "durationMs": 4330,
+      "transition": "none",
+      "text": "membakar kota-kota permai, dan meratakan tembok istana megah."
     },
     {
+      "index": 6,
       "id": 6,
-      "startMs": 18670,
+      "image": "persia/scene-6.jpg",
+      "startMs": 19400,
       "endMs": 22060,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-6.jpg"
+      "durationMs": 2660,
+      "transition": "none",
+      "text": "Namun tanah ini memiliki kebiasaan yang sangat ganjil"
     },
     {
+      "index": 7,
       "id": 7,
+      "image": "persia/scene-7.jpg",
       "startMs": 22060,
-      "endMs": 23820,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "persia/scene-7.jpg"
+      "endMs": 24760,
+      "durationMs": 2700,
+      "transition": "none",
+      "text": "terhadap setiap musuh yang datang."
     },
     {
+      "index": 8,
       "id": 8,
-      "startMs": 23820,
-      "endMs": 27360,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-8.jpg"
+      "image": "persia/scene-8.jpg",
+      "startMs": 24760,
+      "endMs": 28100,
+      "durationMs": 3340,
+      "transition": "none",
+      "text": "Siapa pun yang menaklukkannya lewat kekuatan militer, pada akhirnya"
     },
     {
+      "index": 9,
       "id": 9,
-      "startMs": 27360,
-      "endMs": 31050,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-9.jpg"
+      "image": "persia/scene-9.jpg",
+      "startMs": 28100,
+      "endMs": 32680,
+      "durationMs": 4580,
+      "transition": "none",
+      "text": "justru akan terserap dan tunduk pada kebudayaannya sendiri."
     },
     {
+      "index": 10,
       "id": 10,
-      "startMs": 31050,
-      "endMs": 34320,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-10.jpg"
+      "image": "persia/scene-10.jpg",
+      "startMs": 32680,
+      "endMs": 34520,
+      "durationMs": 1840,
+      "transition": "none",
+      "text": "Bagaimana sebuah bangsa yang kalah perang berkali-kali bisa"
     },
     {
+      "index": 11,
       "id": 11,
-      "startMs": 34320,
-      "endMs": 36930,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "persia/scene-11.jpg"
+      "image": "persia/scene-11.jpg",
+      "startMs": 34520,
+      "endMs": 37900,
+      "durationMs": 3380,
+      "transition": "none",
+      "text": "terus bangkit dan mencetak ulang para penakluknya?"
     },
     {
+      "index": 12,
       "id": 12,
-      "startMs": 36930,
-      "endMs": 41520,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-12.jpg"
+      "image": "persia/scene-12.jpg",
+      "startMs": 37900,
+      "endMs": 42560,
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "Mengapa nama Persia yang terdengar megah diganti menjadi Iran di abad modern?"
     },
     {
+      "index": 13,
       "id": 13,
-      "startMs": 41520,
-      "endMs": 46160,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-13.jpg"
+      "image": "persia/scene-13.jpg",
+      "startMs": 42560,
+      "endMs": 46380,
+      "durationMs": 3820,
+      "transition": "none",
+      "text": "Ini adalah kisah bagaimana sekelompok peternak kuda di pegunungan sunyi tumbuh"
     },
     {
+      "index": 14,
       "id": 14,
-      "startMs": 46160,
-      "endMs": 49560,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-14.jpg"
+      "image": "persia/scene-14.jpg",
+      "startMs": 46380,
+      "endMs": 48240,
+      "durationMs": 1860,
+      "transition": "none",
+      "text": "menjadi raksasa dunia, berulang kali runtuh, tetapi selalu"
     },
     {
+      "index": 15,
       "id": 15,
-      "startMs": 49560,
-      "endMs": 52620,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "persia/scene-15.jpg"
+      "image": "persia/scene-15.jpg",
+      "startMs": 48240,
+      "endMs": 53420,
+      "durationMs": 5180,
+      "transition": "none",
+      "text": "berhasil mereprogram balik siapa pun yang menjajahnya."
     },
     {
+      "index": 16,
       "id": 16,
-      "startMs": 52620,
-      "endMs": 57450,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-16.jpg"
+      "image": "persia/scene-16.jpg",
+      "startMs": 53420,
+      "endMs": 57980,
+      "durationMs": 4560,
+      "transition": "none",
+      "text": "Untuk memahami bagaimana semua ini bermula, kita harus melihat peta ribuan"
     },
     {
+      "index": 17,
       "id": 17,
-      "startMs": 57450,
-      "endMs": 60420,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-17.jpg"
+      "image": "persia/scene-17.jpg",
+      "startMs": 57980,
+      "endMs": 61540,
+      "durationMs": 3560,
+      "transition": "none",
+      "text": "tahun silam ketika nama Persia bahkan belum dikenal oleh dunia luar."
     },
     {
+      "index": 18,
       "id": 18,
-      "startMs": 60420,
+      "image": "persia/scene-18.jpg",
+      "startMs": 61540,
       "endMs": 63100,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-18.jpg"
+      "durationMs": 1560,
+      "transition": "none",
+      "text": "Pada masa itu, dataran tinggi yang kering ini kedatangan"
     },
     {
+      "index": 19,
       "id": 19,
+      "image": "persia/scene-19.jpg",
       "startMs": 63100,
-      "endMs": 66010,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-19.jpg"
+      "endMs": 66560,
+      "durationMs": 3460,
+      "transition": "none",
+      "text": "rombongan keluarga pengelana yang mencari padang rumput baru."
     },
     {
+      "index": 20,
       "id": 20,
-      "startMs": 66010,
-      "endMs": 70640,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-20.jpg"
+      "image": "persia/scene-20.jpg",
+      "startMs": 66560,
+      "endMs": 72320,
+      "durationMs": 5760,
+      "transition": "none",
+      "text": "Setelah menetap, mereka hidup terpisah menjadi dua kubu yang nasibnya bertolak belakang."
     },
     {
+      "index": 21,
       "id": 21,
-      "startMs": 70640,
-      "endMs": 74280,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-21.jpg"
+      "image": "persia/scene-21.jpg",
+      "startMs": 72320,
+      "endMs": 74380,
+      "durationMs": 2060,
+      "transition": "none",
+      "text": "Di sebelah utara, tinggal suku Media yang mendiami lembah subur,"
     },
     {
+      "index": 22,
       "id": 22,
-      "startMs": 74280,
-      "endMs": 77860,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-22.jpg"
+      "image": "persia/scene-22.jpg",
+      "startMs": 74380,
+      "endMs": 78700,
+      "durationMs": 4320,
+      "transition": "none",
+      "text": "membangun benteng pertahanan yang kuat, dan memiliki tentara yang disegani."
     },
     {
+      "index": 23,
       "id": 23,
-      "startMs": 77860,
-      "endMs": 80580,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-23.jpg"
+      "image": "persia/scene-23.jpg",
+      "startMs": 78700,
+      "endMs": 81100,
+      "durationMs": 2400,
+      "transition": "none",
+      "text": "Sementara di sebelah selatan, di sebuah daerah pegunungan"
     },
     {
+      "index": 24,
       "id": 24,
-      "startMs": 80580,
-      "endMs": 83300,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-24.jpg"
+      "image": "persia/scene-24.jpg",
+      "startMs": 81100,
+      "endMs": 84240,
+      "durationMs": 3140,
+      "transition": "none",
+      "text": "tandus dan berbatu bernama Pars, tinggal suku Persia."
     },
     {
+      "index": 25,
       "id": 25,
-      "startMs": 83300,
-      "endMs": 87640,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-25.jpg"
+      "image": "persia/scene-25.jpg",
+      "startMs": 84240,
+      "endMs": 88680,
+      "durationMs": 4440,
+      "transition": "none",
+      "text": "Suku Persia hidup sederhana sebagai penggembala kambing dan penunggang kuda."
     },
     {
+      "index": 26,
       "id": 26,
-      "startMs": 87640,
-      "endMs": 90220,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "persia/scene-26.jpg"
+      "image": "persia/scene-26.jpg",
+      "startMs": 88680,
+      "endMs": 91960,
+      "durationMs": 3280,
+      "transition": "none",
+      "text": "Kedudukan mereka sangat lemah dan terhimpit."
     },
     {
+      "index": 27,
       "id": 27,
-      "startMs": 90220,
-      "endMs": 93880,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-27.jpg"
+      "image": "persia/scene-27.jpg",
+      "startMs": 91960,
+      "endMs": 93980,
+      "durationMs": 2020,
+      "transition": "none",
+      "text": "Setiap musim, para tetua suku Persia harus berjalan mendaki ke utara"
     },
     {
+      "index": 28,
       "id": 28,
-      "startMs": 93880,
+      "image": "persia/scene-28.jpg",
+      "startMs": 93980,
       "endMs": 96160,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-28.jpg"
+      "durationMs": 2180,
+      "transition": "none",
+      "text": "sambil membawa ternak terbaik dan hasil bumi untuk"
     },
     {
+      "index": 29,
       "id": 29,
+      "image": "persia/scene-29.jpg",
       "startMs": 96160,
-      "endMs": 98620,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "persia/scene-29.jpg"
+      "endMs": 98960,
+      "durationMs": 2800,
+      "transition": "none",
+      "text": "diserahkan sebagai upeti kepada raja Media."
     },
     {
+      "index": 30,
       "id": 30,
-      "startMs": 98620,
-      "endMs": 102200,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-30.jpg"
+      "image": "persia/scene-30.jpg",
+      "startMs": 98960,
+      "endMs": 102940,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "Mereka hidup bertahun-tahun di bawah perintah tuan tanah dari utara."
     },
     {
+      "index": 31,
       "id": 31,
-      "startMs": 102200,
+      "image": "persia/scene-31.jpg",
+      "startMs": 102940,
       "endMs": 105760,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-31.jpg"
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "Namun pada tahun 550 Sebelum Masehi, jalan nasib itu"
     },
     {
+      "index": 32,
       "id": 32,
+      "image": "persia/scene-32.jpg",
       "startMs": 105760,
-      "endMs": 109720,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-32.jpg"
+      "endMs": 109890,
+      "durationMs": 4130,
+      "transition": "none",
+      "text": "berbalik ketika seorang pemuda bernama Koresh Agung memimpin sukunya."
     },
     {
+      "index": 33,
       "id": 33,
-      "startMs": 109720,
-      "endMs": 112440,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "persia/scene-33.jpg"
+      "image": "persia/scene-33.jpg",
+      "startMs": 109890,
+      "endMs": 113040,
+      "durationMs": 3150,
+      "transition": "none",
+      "text": "Koresh menolak terus-menerus tunduk pada kekuasaan asing."
     },
     {
+      "index": 34,
       "id": 34,
-      "startMs": 112440,
+      "image": "persia/scene-34.jpg",
+      "startMs": 113040,
       "endMs": 116260,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-34.jpg"
+      "durationMs": 3220,
+      "transition": "none",
+      "text": "Ia menyatukan para peternak kuda di pegunungan Pars, turun ke medan"
     },
     {
+      "index": 35,
       "id": 35,
+      "image": "persia/scene-35.jpg",
       "startMs": 116260,
-      "endMs": 120420,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-35.jpg"
+      "endMs": 121120,
+      "durationMs": 4860,
+      "transition": "none",
+      "text": "laga, dan secara mengejutkan berhasil memukul mundur pasukan raja Media."
     },
     {
+      "index": 36,
       "id": 36,
-      "startMs": 120420,
-      "endMs": 124950,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-36.jpg"
+      "image": "persia/scene-36.jpg",
+      "startMs": 121120,
+      "endMs": 126960,
+      "durationMs": 5840,
+      "transition": "none",
+      "text": "Begitu memenangkan perang, Koresh tidak membakar kota atau membalas dendam."
     },
     {
+      "index": 37,
       "id": 37,
-      "startMs": 124950,
-      "endMs": 129060,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-37.jpg"
+      "image": "persia/scene-37.jpg",
+      "startMs": 126960,
+      "endMs": 129520,
+      "durationMs": 2560,
+      "transition": "none",
+      "text": "Ia justru mengundang para bangsawan Media untuk bergabung, berbagi jabatan"
     },
     {
+      "index": 38,
       "id": 38,
-      "startMs": 129060,
-      "endMs": 132600,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-38.jpg"
+      "image": "persia/scene-38.jpg",
+      "startMs": 129520,
+      "endMs": 132960,
+      "durationMs": 3440,
+      "transition": "none",
+      "text": "penting di istana, dan menggabungkan tentara kedua belah pihak."
     },
     {
+      "index": 39,
       "id": 39,
-      "startMs": 132600,
+      "image": "persia/scene-39.jpg",
+      "startMs": 132960,
       "endMs": 136940,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-39.jpg"
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "Dari gabungan inilah lahir wangsa Akhemeniyah, kekaisaran pertama yang"
     },
     {
+      "index": 40,
       "id": 40,
+      "image": "persia/scene-40.jpg",
       "startMs": 136940,
-      "endMs": 140880,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-40.jpg"
+      "endMs": 140980,
+      "durationMs": 4040,
+      "transition": "none",
+      "text": "kelak menguasai dunia dari Mesir hingga perbatasan India."
     },
     {
+      "index": 41,
       "id": 41,
-      "startMs": 140880,
-      "endMs": 144190,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-41.jpg"
+      "image": "persia/scene-41.jpg",
+      "startMs": 140980,
+      "endMs": 145760,
+      "durationMs": 4780,
+      "transition": "none",
+      "text": "Koresh memasuki kota Babilonia tanpa merusak rumah ibadah, memulangkan orang-orang Yahudi"
     },
     {
+      "index": 42,
       "id": 42,
-      "startMs": 144190,
-      "endMs": 147240,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "persia/scene-42.jpg"
+      "image": "persia/scene-42.jpg",
+      "startMs": 145760,
+      "endMs": 147920,
+      "durationMs": 2160,
+      "transition": "none",
+      "text": "yang tertawan ke tanah air mereka, dan membiarkan"
     },
     {
+      "index": 43,
       "id": 43,
-      "startMs": 147240,
-      "endMs": 150660,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-43.jpg"
+      "image": "persia/scene-43.jpg",
+      "startMs": 147920,
+      "endMs": 151300,
+      "durationMs": 3380,
+      "transition": "none",
+      "text": "penduduk lokal tetap memeluk keyakinan masing-masing."
     },
     {
+      "index": 44,
       "id": 44,
-      "startMs": 150660,
-      "endMs": 154580,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-44.jpg"
+      "image": "persia/scene-44.jpg",
+      "startMs": 151300,
+      "endMs": 155000,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "Kebijakan ini terdengar sangat lapang dada, tapi tentu saja ada syarat"
     },
     {
+      "index": 45,
       "id": 45,
-      "startMs": 154580,
-      "endMs": 157760,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-45.jpg"
+      "image": "persia/scene-45.jpg",
+      "startMs": 155000,
+      "endMs": 158100,
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "yang tidak boleh ditawar: seluruh wilayah taklukan tetap"
     },
     {
+      "index": 46,
       "id": 46,
-      "startMs": 157760,
-      "endMs": 160600,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-46.jpg"
+      "image": "persia/scene-46.jpg",
+      "startMs": 158100,
+      "endMs": 160720,
+      "durationMs": 2620,
+      "transition": "none",
+      "text": "wajib membayar upeti dan tunduk pada titah raja."
     },
     {
+      "index": 47,
       "id": 47,
-      "startMs": 160600,
+      "image": "persia/scene-47.jpg",
+      "startMs": 160720,
       "endMs": 164500,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-47.jpg"
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "Wilayah kekuasaan yang terbentang melintasi tiga benua ini membutuhkan tata"
     },
     {
+      "index": 48,
       "id": 48,
+      "image": "persia/scene-48.jpg",
       "startMs": 164500,
       "endMs": 167640,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-48.jpg"
+      "durationMs": 3140,
+      "transition": "none",
+      "text": "kelola yang luar biasa rapi agar tidak segera hancur berantakan."
     },
     {
+      "index": 49,
       "id": 49,
+      "image": "persia/scene-49.jpg",
       "startMs": 167640,
-      "endMs": 172060,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "persia/scene-49.jpg"
+      "endMs": 173020,
+      "durationMs": 5380,
+      "transition": "none",
+      "text": "Pada tahun 522 Sebelum Masehi, tampuk kekuasaan dipegang"
     },
     {
+      "index": 50,
       "id": 50,
-      "startMs": 172060,
-      "endMs": 175180,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "persia/scene-50.jpg"
+      "image": "persia/scene-50.jpg",
+      "startMs": 173020,
+      "endMs": 176060,
+      "durationMs": 3040,
+      "transition": "none",
+      "text": "oleh seorang perancang ulung bernama Darius Pertama."
     },
     {
+      "index": 51,
       "id": 51,
-      "startMs": 175180,
+      "image": "persia/scene-51.jpg",
+      "startMs": 176060,
       "endMs": 179860,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-51.jpg"
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "Darius membagi wilayah kekaisaran ke dalam puluhan daerah administratif, membuat mata"
     },
     {
+      "index": 52,
       "id": 52,
+      "image": "persia/scene-52.jpg",
       "startMs": 179860,
       "endMs": 182180,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-52.jpg"
+      "durationMs": 2320,
+      "transition": "none",
+      "text": "uang koin emas yang seragam, dan membangun jalan"
     },
     {
+      "index": 53,
       "id": 53,
+      "image": "persia/scene-53.jpg",
       "startMs": 182180,
-      "endMs": 185080,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-53.jpg"
+      "endMs": 185340,
+      "durationMs": 3160,
+      "transition": "none",
+      "text": "raya utama dari kota Susan menuju kota Sardis."
     },
     {
+      "index": 54,
       "id": 54,
-      "startMs": 185080,
-      "endMs": 188420,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-54.jpg"
+      "image": "persia/scene-54.jpg",
+      "startMs": 185340,
+      "endMs": 189060,
+      "durationMs": 3720,
+      "transition": "none",
+      "text": "Di sepanjang jalur inilah beroperasi sistem pengiriman pesan"
     },
     {
+      "index": 55,
       "id": 55,
-      "startMs": 188420,
-      "endMs": 190400,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "persia/scene-55.jpg"
+      "image": "persia/scene-55.jpg",
+      "startMs": 189060,
+      "endMs": 191040,
+      "durationMs": 1980,
+      "transition": "none",
+      "text": "yang mereka sebut Chapar Khaneh."
     },
     {
+      "index": 56,
       "id": 56,
-      "startMs": 190400,
-      "endMs": 194780,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-56.jpg"
+      "image": "persia/scene-56.jpg",
+      "startMs": 191040,
+      "endMs": 195800,
+      "durationMs": 4760,
+      "transition": "none",
+      "text": "Artinya, pos kurir berkuda yang berjaga di setiap jarak perjalanan satu hari."
     },
     {
+      "index": 57,
       "id": 57,
-      "startMs": 194780,
-      "endMs": 199640,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-57.jpg"
+      "image": "persia/scene-57.jpg",
+      "startMs": 195800,
+      "endMs": 200620,
+      "durationMs": 4820,
+      "transition": "none",
+      "text": "Cara kerjanya persis seperti lomba lari estafet di lapangan sekolah."
     },
     {
+      "index": 58,
       "id": 58,
-      "startMs": 199640,
-      "endMs": 203500,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-58.jpg"
+      "image": "persia/scene-58.jpg",
+      "startMs": 200620,
+      "endMs": 203560,
+      "durationMs": 2940,
+      "transition": "none",
+      "text": "Seorang kurir memacu kudanya secepat mungkin ke pos terdekat, menyerahkan surat"
     },
     {
+      "index": 59,
       "id": 59,
-      "startMs": 203500,
-      "endMs": 206040,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-59.jpg"
+      "image": "persia/scene-59.jpg",
+      "startMs": 203560,
+      "endMs": 206380,
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "penting kepada penunggang lain yang kudanya masih bugar,"
     },
     {
+      "index": 60,
       "id": 60,
-      "startMs": 206040,
-      "endMs": 209200,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-60.jpg"
+      "image": "persia/scene-60.jpg",
+      "startMs": 206380,
+      "endMs": 209380,
+      "durationMs": 3000,
+      "transition": "none",
+      "text": "lalu kurir kedua langsung melesat tanpa membuang waktu."
     },
     {
+      "index": 61,
       "id": 61,
-      "startMs": 209200,
-      "endMs": 212180,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-61.jpg"
+      "image": "persia/scene-61.jpg",
+      "startMs": 209380,
+      "endMs": 212380,
+      "durationMs": 3000,
+      "transition": "none",
+      "text": "Berkat sistem ini, perintah raja bisa menembus gurun"
     },
     {
+      "index": 62,
       "id": 62,
-      "startMs": 212180,
-      "endMs": 214400,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "persia/scene-62.jpg"
+      "image": "persia/scene-62.jpg",
+      "startMs": 212380,
+      "endMs": 214800,
+      "durationMs": 2420,
+      "transition": "none",
+      "text": "dan gunung dalam hitungan hari."
     },
     {
+      "index": 63,
       "id": 63,
-      "startMs": 214400,
+      "image": "persia/scene-63.jpg",
+      "startMs": 214800,
       "endMs": 217620,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-63.jpg"
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "Tapi kekuasaan yang terlalu percaya diri kerap mengundang"
     },
     {
+      "index": 64,
       "id": 64,
+      "image": "persia/scene-64.jpg",
       "startMs": 217620,
-      "endMs": 220140,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "persia/scene-64.jpg"
+      "endMs": 220280,
+      "durationMs": 2660,
+      "transition": "none",
+      "text": "bencana dari arah yang tak terduga."
     },
     {
+      "index": 65,
       "id": 65,
-      "startMs": 220140,
+      "image": "persia/scene-65.jpg",
+      "startMs": 220280,
       "endMs": 224380,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-65.jpg"
+      "durationMs": 4100,
+      "transition": "none",
+      "text": "Lompatan waktu membawa kita ke tahun 330 Sebelum Masehi, ketika pemuda"
     },
     {
+      "index": 66,
       "id": 66,
+      "image": "persia/scene-66.jpg",
       "startMs": 224380,
-      "endMs": 230150,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-66.jpg"
+      "endMs": 230610,
+      "durationMs": 6230,
+      "transition": "none",
+      "text": "bernama Alexander Agung dari Makedonia menyerbu masuk memimpin barisan tentara Yunani."
     },
     {
+      "index": 67,
       "id": 67,
-      "startMs": 230150,
-      "endMs": 232710,
-      "matchRatio": 0.6,
-      "words": 10,
-      "image": "persia/scene-67.jpg"
+      "image": "persia/scene-67.jpg",
+      "startMs": 230610,
+      "endMs": 235230,
+      "durationMs": 4620,
+      "transition": "none",
+      "text": "Pasukan kerajaan Persia dipukul kocar-kacir, dan istana kebanggaan Persepolis dijarah"
     },
     {
+      "index": 68,
       "id": 68,
-      "startMs": 232710,
-      "endMs": 239780,
-      "matchRatio": 0.8,
-      "words": 10,
-      "image": "persia/scene-68.jpg"
+      "image": "persia/scene-68.jpg",
+      "startMs": 235230,
+      "endMs": 240260,
+      "durationMs": 5030,
+      "transition": "none",
+      "text": "serta dibakar hingga hanya menyisakan pilar-pilar batu yang hitam arang."
     },
     {
+      "index": 69,
       "id": 69,
-      "startMs": 239780,
-      "endMs": 244270,
-      "matchRatio": 0.833,
-      "words": 12,
-      "image": "persia/scene-69.jpg"
+      "image": "persia/scene-69.jpg",
+      "startMs": 240260,
+      "endMs": 245110,
+      "durationMs": 4850,
+      "transition": "none",
+      "text": "Banyak orang mengira riwayat Persia sudah tamat selamanya pada malam pembakaran itu."
     },
     {
+      "index": 70,
       "id": 70,
-      "startMs": 244270,
-      "endMs": 247350,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-70.jpg"
+      "image": "persia/scene-70.jpg",
+      "startMs": 245110,
+      "endMs": 247850,
+      "durationMs": 2740,
+      "transition": "none",
+      "text": "Namun alur sejarah justru berbelok ke arah yang aneh."
     },
     {
+      "index": 71,
       "id": 71,
-      "startMs": 247350,
+      "image": "persia/scene-71.jpg",
+      "startMs": 247850,
       "endMs": 250570,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "persia/scene-71.jpg"
+      "durationMs": 2720,
+      "transition": "none",
+      "text": "Alexander datang membawa cita-cita untuk menyebarkan cara hidup Yunani,"
     },
     {
+      "index": 72,
       "id": 72,
+      "image": "persia/scene-72.jpg",
       "startMs": 250570,
-      "endMs": 253730,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-72.jpg"
+      "endMs": 254690,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "tetapi ia sendiri malah terpikat oleh pesona istana timur."
     },
     {
+      "index": 73,
       "id": 73,
-      "startMs": 253730,
+      "image": "persia/scene-73.jpg",
+      "startMs": 254690,
       "endMs": 257810,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-73.jpg"
+      "durationMs": 3120,
+      "transition": "none",
+      "text": "Penakluk muda itu mulai memakai jubah sutra raja Persia, menuntut para"
     },
     {
+      "index": 74,
       "id": 74,
+      "image": "persia/scene-74.jpg",
       "startMs": 257810,
-      "endMs": 260870,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-74.jpg"
+      "endMs": 261290,
+      "durationMs": 3480,
+      "transition": "none",
+      "text": "prajuritnya menyembah dengan gaya istana timur, dan menikahkan"
     },
     {
+      "index": 75,
       "id": 75,
-      "startMs": 260870,
-      "endMs": 264390,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-75.jpg"
+      "image": "persia/scene-75.jpg",
+      "startMs": 261290,
+      "endMs": 264490,
+      "durationMs": 3200,
+      "transition": "none",
+      "text": "ribuan perwiranya dengan putri-putri bangsawan setempat."
     },
     {
+      "index": 76,
       "id": 76,
-      "startMs": 264390,
-      "endMs": 267070,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-76.jpg"
+      "image": "persia/scene-76.jpg",
+      "startMs": 264490,
+      "endMs": 267330,
+      "durationMs": 2840,
+      "transition": "none",
+      "text": "Alexander menang di medan tempur, tetapi tata krama"
     },
     {
+      "index": 77,
       "id": 77,
-      "startMs": 267070,
-      "endMs": 269680,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-77.jpg"
+      "image": "persia/scene-77.jpg",
+      "startMs": 267330,
+      "endMs": 270260,
+      "durationMs": 2930,
+      "transition": "none",
+      "text": "istana Persia yang menelan sang pemenang."
     },
     {
+      "index": 78,
       "id": 78,
-      "startMs": 269680,
-      "endMs": 274500,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-78.jpg"
+      "image": "persia/scene-78.jpg",
+      "startMs": 270260,
+      "endMs": 274660,
+      "durationMs": 4400,
+      "transition": "none",
+      "text": "Setelah kepergian Alexander, kekuasaan bangsa pendatang itu pecah dan perlahan surut."
     },
     {
+      "index": 79,
       "id": 79,
-      "startMs": 274500,
+      "image": "persia/scene-79.jpg",
+      "startMs": 274660,
       "endMs": 277600,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-79.jpg"
+      "durationMs": 2940,
+      "transition": "none",
+      "text": "Suku Partia turun dari padang rumput timur laut untuk merebut kembali"
     },
     {
+      "index": 80,
       "id": 80,
+      "image": "persia/scene-80.jpg",
       "startMs": 277600,
-      "endMs": 280140,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-80.jpg"
+      "endMs": 281200,
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "tanah air mereka dan menjadi benteng kokoh yang"
     },
     {
+      "index": 81,
       "id": 81,
-      "startMs": 280140,
-      "endMs": 283200,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "persia/scene-81.jpg"
+      "image": "persia/scene-81.jpg",
+      "startMs": 281200,
+      "endMs": 283640,
+      "durationMs": 2440,
+      "transition": "none",
+      "text": "menahan gempuran pasukan Romawi selama ratusan tahun."
     },
     {
+      "index": 82,
       "id": 82,
-      "startMs": 283200,
-      "endMs": 286380,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-82.jpg"
+      "image": "persia/scene-82.jpg",
+      "startMs": 283640,
+      "endMs": 286580,
+      "durationMs": 2940,
+      "transition": "none",
+      "text": "Lalu pada tahun 224 Masehi, lahirlah Dinasti Sassania"
     },
     {
+      "index": 83,
       "id": 83,
-      "startMs": 286380,
-      "endMs": 289450,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "persia/scene-83.jpg"
+      "image": "persia/scene-83.jpg",
+      "startMs": 286580,
+      "endMs": 289950,
+      "durationMs": 3370,
+      "transition": "none",
+      "text": "yang bertekad membangkitkan kembali masa kejayaan leluhur."
     },
     {
+      "index": 84,
       "id": 84,
-      "startMs": 289450,
-      "endMs": 294110,
-      "matchRatio": 0.917,
-      "words": 12,
-      "image": "persia/scene-84.jpg"
+      "image": "persia/scene-84.jpg",
+      "startMs": 289950,
+      "endMs": 294240,
+      "durationMs": 4290,
+      "transition": "none",
+      "text": "Di masa dinasti ini, ajaran api suci Zoroaster dijadikan pegangan resmi kerajaan."
     },
     {
+      "index": 85,
       "id": 85,
-      "startMs": 294110,
-      "endMs": 297770,
-      "matchRatio": 0.8,
-      "words": 10,
-      "image": "persia/scene-85.jpg"
+      "image": "persia/scene-85.jpg",
+      "startMs": 294240,
+      "endMs": 299430,
+      "durationMs": 5190,
+      "transition": "none",
+      "text": "Kekuatan mereka terbukti nyata saat Raja Shapur Pertama mempermalukan musuh"
     },
     {
+      "index": 86,
       "id": 86,
-      "startMs": 297770,
-      "endMs": 301750,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-86.jpg"
+      "image": "persia/scene-86.jpg",
+      "startMs": 299430,
+      "endMs": 302490,
+      "durationMs": 3060,
+      "transition": "none",
+      "text": "bebuyutannya dengan menangkap kaisar Romawi hidup-hidup di medan perang."
     },
     {
+      "index": 87,
       "id": 87,
-      "startMs": 301750,
-      "endMs": 306170,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-87.jpg"
+      "image": "persia/scene-87.jpg",
+      "startMs": 302490,
+      "endMs": 306190,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "Pada zaman Raja Khosrow Pertama, penarikan pajak diperbaiki dan sebuah pusat"
     },
     {
+      "index": 88,
       "id": 88,
-      "startMs": 306170,
-      "endMs": 311810,
-      "matchRatio": 0.833,
-      "words": 12,
-      "image": "persia/scene-88.jpg"
+      "image": "persia/scene-88.jpg",
+      "startMs": 306190,
+      "endMs": 312890,
+      "durationMs": 6700,
+      "transition": "none",
+      "text": "ilmu pengetahuan bernama Gondeshapur didirikan untuk menerjemahkan buku-buku pengobatan dari berbagai negeri."
     },
     {
+      "index": 89,
       "id": 89,
-      "startMs": 311810,
-      "endMs": 316130,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-89.jpg"
+      "image": "persia/scene-89.jpg",
+      "startMs": 312890,
+      "endMs": 316530,
+      "durationMs": 3640,
+      "transition": "none",
+      "text": "Selama lebih dari empat abad, Sassania berdiri tegak menjaga perbatasan barat."
     },
     {
+      "index": 90,
       "id": 90,
-      "startMs": 316130,
-      "endMs": 319608,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-90.jpg"
+      "image": "persia/scene-90.jpg",
+      "startMs": 316530,
+      "endMs": 319350,
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "Namun perang tanpa henti melawan Kekaisaran Bizantium perlahan-lahan menguras"
     },
     {
+      "index": 91,
       "id": 91,
-      "startMs": 319608,
-      "endMs": 322910,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-91.jpg"
+      "image": "persia/scene-91.jpg",
+      "startMs": 319350,
+      "endMs": 323170,
+      "durationMs": 3820,
+      "transition": "none",
+      "text": "kas negara dan melumpuhkan kekuatan tentara mereka sendiri."
     },
     {
+      "index": 92,
       "id": 92,
-      "startMs": 322910,
-      "endMs": 325210,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-92.jpg"
+      "image": "persia/scene-92.jpg",
+      "startMs": 323170,
+      "endMs": 325310,
+      "durationMs": 2140,
+      "transition": "none",
+      "text": "Di sinilah babak paling penting terjadi."
     },
     {
+      "index": 93,
       "id": 93,
-      "startMs": 325210,
+      "image": "persia/scene-93.jpg",
+      "startMs": 325310,
       "endMs": 329550,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-93.jpg"
+      "durationMs": 4240,
+      "transition": "none",
+      "text": "Sekitar pertengahan abad ketujuh Masehi, rombongan pasukan penunggang kuda dari padang"
     },
     {
+      "index": 94,
       "id": 94,
+      "image": "persia/scene-94.jpg",
       "startMs": 329550,
-      "endMs": 333050,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-94.jpg"
+      "endMs": 333990,
+      "durationMs": 4440,
+      "transition": "none",
+      "text": "pasir jazirah Arab bergerak membawa ajaran agama baru yaitu Islam."
     },
     {
+      "index": 95,
       "id": 95,
-      "startMs": 333050,
+      "image": "persia/scene-95.jpg",
+      "startMs": 333990,
       "endMs": 336650,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-95.jpg"
+      "durationMs": 2660,
+      "transition": "none",
+      "text": "Dinasti Sassania yang sudah kelelahan akhirnya roboh dalam"
     },
     {
+      "index": 96,
       "id": 96,
+      "image": "persia/scene-96.jpg",
       "startMs": 336650,
-      "endMs": 339370,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-96.jpg"
+      "endMs": 339470,
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "pertempuran sengit di Qadisiyyah dan Nahavand."
     },
     {
+      "index": 97,
       "id": 97,
-      "startMs": 339370,
-      "endMs": 341890,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-97.jpg"
+      "image": "persia/scene-97.jpg",
+      "startMs": 339470,
+      "endMs": 343890,
+      "durationMs": 4420,
+      "transition": "none",
+      "text": "Raja terakhir mereka melarikan diri ke timur hingga tewas"
     },
     {
+      "index": 98,
       "id": 98,
-      "startMs": 341890,
-      "endMs": 345950,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-98.jpg"
+      "image": "persia/scene-98.jpg",
+      "startMs": 343890,
+      "endMs": 346390,
+      "durationMs": 2500,
+      "transition": "none",
+      "text": "terbunuh, dan kekuasaan para pengikut api suci resmi berakhir."
     },
     {
+      "index": 99,
       "id": 99,
-      "startMs": 345950,
-      "endMs": 350290,
-      "matchRatio": 0.917,
-      "words": 12,
-      "image": "persia/scene-99.jpg"
+      "image": "persia/scene-99.jpg",
+      "startMs": 346390,
+      "endMs": 352250,
+      "durationMs": 5860,
+      "transition": "none",
+      "text": "Bahasa Arab seketika menjadi bahasa resmi pemerintahan dan peribadatan di seluruh wilayah."
     },
     {
+      "index": 100,
       "id": 100,
-      "startMs": 350290,
+      "image": "persia/scene-100.jpg",
+      "startMs": 352250,
       "endMs": 353530,
-      "matchRatio": 0.5,
-      "words": 8,
-      "image": "persia/scene-100.jpg"
+      "durationMs": 1280,
+      "transition": "none",
+      "text": "Di atas kertas, kerajaan Persia telah musnah dan"
     },
     {
+      "index": 101,
       "id": 101,
+      "image": "persia/scene-101.jpg",
       "startMs": 353530,
-      "endMs": 356330,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "persia/scene-101.jpg"
+      "endMs": 357340,
+      "durationMs": 3810,
+      "transition": "none",
+      "text": "sepenuhnya menjadi bagian dari kekhalifahan Islam."
     },
     {
+      "index": 102,
       "id": 102,
-      "startMs": 356330,
+      "image": "persia/scene-102.jpg",
+      "startMs": 357340,
       "endMs": 360110,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-102.jpg"
+      "durationMs": 2770,
+      "transition": "none",
+      "text": "Namun di balik dinding kantor pemerintahan, para juru tulis dan petugas"
     },
     {
+      "index": 103,
       "id": 103,
+      "image": "persia/scene-103.jpg",
       "startMs": 360110,
-      "endMs": 364390,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-103.jpg"
+      "endMs": 363730,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "pajak setempat tetap dipertahankan pada meja kerja mereka karena penguasa baru"
     },
     {
+      "index": 104,
       "id": 104,
-      "startMs": 364390,
-      "endMs": 368480,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-104.jpg"
+      "image": "persia/scene-104.jpg",
+      "startMs": 363730,
+      "endMs": 368860,
+      "durationMs": 5130,
+      "transition": "none",
+      "text": "tidak memiliki tenaga ahli untuk mencatat kekayaan tanah seluas itu."
     },
     {
+      "index": 105,
       "id": 105,
-      "startMs": 368480,
-      "endMs": 370900,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "persia/scene-105.jpg"
+      "image": "persia/scene-105.jpg",
+      "startMs": 368860,
+      "endMs": 371640,
+      "durationMs": 2780,
+      "transition": "none",
+      "text": "Dan mesin cerita itu kembali berputar."
     },
     {
+      "index": 106,
       "id": 106,
-      "startMs": 370900,
+      "image": "persia/scene-106.jpg",
+      "startMs": 371640,
       "endMs": 374520,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-106.jpg"
+      "durationMs": 2880,
+      "transition": "none",
+      "text": "Ketika Dinasti Abbasiyah memindahkan pusat pemerintahan ke kota Baghdad pada tahun"
     },
     {
+      "index": 107,
       "id": 107,
+      "image": "persia/scene-107.jpg",
       "startMs": 374520,
       "endMs": 378560,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-107.jpg"
+      "durationMs": 4040,
+      "transition": "none",
+      "text": "750 Masehi, mereka mempercayakan pengelolaan negara kepada sebuah"
     },
     {
+      "index": 108,
       "id": 108,
+      "image": "persia/scene-108.jpg",
       "startMs": 378560,
-      "endMs": 381520,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "persia/scene-108.jpg"
+      "endMs": 382080,
+      "durationMs": 3520,
+      "transition": "none",
+      "text": "keluarga pejabat terkemuka bernama Barmakid."
     },
     {
+      "index": 109,
       "id": 109,
-      "startMs": 381520,
-      "endMs": 386220,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-109.jpg"
+      "image": "persia/scene-109.jpg",
+      "startMs": 382080,
+      "endMs": 387200,
+      "durationMs": 5120,
+      "transition": "none",
+      "text": "Peran keluarga Barmakid ini bekerja persis seperti mesin penggerak di balik layar."
     },
     {
+      "index": 110,
       "id": 110,
-      "startMs": 386220,
-      "endMs": 389640,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-110.jpg"
+      "image": "persia/scene-110.jpg",
+      "startMs": 387200,
+      "endMs": 391280,
+      "durationMs": 4080,
+      "transition": "none",
+      "text": "Pemimpin tertinggi di atas takhta mungkin berasal dari bangsa Arab, tetapi"
     },
     {
+      "index": 111,
       "id": 111,
-      "startMs": 389640,
-      "endMs": 393000,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-111.jpg"
+      "image": "persia/scene-111.jpg",
+      "startMs": 391280,
+      "endMs": 394660,
+      "durationMs": 3380,
+      "transition": "none",
+      "text": "seluruh susunan kementerian, tata krama perjamuan, hingga aturan"
     },
     {
+      "index": 112,
       "id": 112,
-      "startMs": 393000,
-      "endMs": 396060,
-      "matchRatio": 0.625,
-      "words": 8,
-      "image": "persia/scene-112.jpg"
+      "image": "persia/scene-112.jpg",
+      "startMs": 394660,
+      "endMs": 397420,
+      "durationMs": 2760,
+      "transition": "none",
+      "text": "pengadilan dijalankan meniru cara istana Sassania masa lalu."
     },
     {
+      "index": 113,
       "id": 113,
-      "startMs": 396060,
+      "image": "persia/scene-113.jpg",
+      "startMs": 397420,
       "endMs": 399560,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "persia/scene-113.jpg"
+      "durationMs": 2140,
+      "transition": "none",
+      "text": "Para pujangga dan pemikir setempat kemudian memelopori sebuah"
     },
     {
+      "index": 114,
       "id": 114,
+      "image": "persia/scene-114.jpg",
       "startMs": 399560,
-      "endMs": 402160,
-      "matchRatio": 0.8,
-      "words": 5,
-      "image": "persia/scene-114.jpg"
+      "endMs": 402190,
+      "durationMs": 2630,
+      "transition": "none",
+      "text": "gerakan yang mereka sebut Shu'ubiyah."
     },
     {
+      "index": 115,
       "id": 115,
-      "startMs": 402160,
+      "image": "persia/scene-115.jpg",
+      "startMs": 402190,
       "endMs": 406300,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-115.jpg"
+      "durationMs": 4110,
+      "transition": "none",
+      "text": "Artinya, gerakan tulisan yang menegaskan bahwa derajat seseorang dinilai dari"
     },
     {
+      "index": 116,
       "id": 116,
+      "image": "persia/scene-116.jpg",
       "startMs": 406300,
-      "endMs": 409840,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "persia/scene-116.jpg"
+      "endMs": 409910,
+      "durationMs": 3610,
+      "transition": "none",
+      "text": "budi pekerti dan ilmu, bukan dari keturunan darah bangsawan."
     },
     {
+      "index": 117,
       "id": 117,
-      "startMs": 409840,
-      "endMs": 413680,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-117.jpg"
+      "image": "persia/scene-117.jpg",
+      "startMs": 409910,
+      "endMs": 413880,
+      "durationMs": 3970,
+      "transition": "none",
+      "text": "Keluarga Barmakid pada akhirnya disingkirkan secara kejam karena raja mulai takut"
     },
     {
+      "index": 118,
       "id": 118,
-      "startMs": 413680,
+      "image": "persia/scene-118.jpg",
+      "startMs": 413880,
       "endMs": 416800,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-118.jpg"
+      "durationMs": 2920,
+      "transition": "none",
+      "text": "pada pengaruh mereka yang terlalu besar, tetapi cara memerintah warisan"
     },
     {
+      "index": 119,
       "id": 119,
+      "image": "persia/scene-119.jpg",
       "startMs": 416800,
-      "endMs": 420400,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-119.jpg"
+      "endMs": 420580,
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "masa lalu sudah terlanjur meresap ke dalam nadi kekhalifahan."
     },
     {
+      "index": 120,
       "id": 120,
-      "startMs": 420400,
+      "image": "persia/scene-120.jpg",
+      "startMs": 420580,
       "endMs": 423200,
-      "matchRatio": 0.8,
-      "words": 10,
-      "image": "persia/scene-120.jpg"
+      "durationMs": 2620,
+      "transition": "none",
+      "text": "Lompatan waktu ke abad kesepuluh membawa kita ke kota Bukhara,"
     },
     {
+      "index": 121,
       "id": 121,
+      "image": "persia/scene-121.jpg",
       "startMs": 423200,
-      "endMs": 426960,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-121.jpg"
+      "endMs": 428180,
+      "durationMs": 4980,
+      "transition": "none",
+      "text": "tempat para penguasa setempat mulai menyalakan kembali kebanggaan lama."
     },
     {
+      "index": 122,
       "id": 122,
-      "startMs": 426960,
-      "endMs": 431160,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-122.jpg"
+      "image": "persia/scene-122.jpg",
+      "startMs": 428180,
+      "endMs": 432020,
+      "durationMs": 3840,
+      "transition": "none",
+      "text": "Bahasa tutur sehari-hari yang sempat terdesak kini ditulis kembali memakai huruf"
     },
     {
+      "index": 123,
       "id": 123,
-      "startMs": 431160,
-      "endMs": 436390,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-123.jpg"
+      "image": "persia/scene-123.jpg",
+      "startMs": 432020,
+      "endMs": 436610,
+      "durationMs": 4590,
+      "transition": "none",
+      "text": "Arab, melahirkan bahasa baru yang sangat indah untuk syair dan pengetahuan."
     },
     {
+      "index": 124,
       "id": 124,
-      "startMs": 436390,
-      "endMs": 440354,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "persia/scene-124.jpg"
+      "image": "persia/scene-124.jpg",
+      "startMs": 436610,
+      "endMs": 440670,
+      "durationMs": 4060,
+      "transition": "none",
+      "text": "Di zaman inilah seorang penyair bernama Ferdowsi mencurahkan tiga"
     },
     {
+      "index": 125,
       "id": 125,
-      "startMs": 440354,
-      "endMs": 443810,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-125.jpg"
+      "image": "persia/scene-125.jpg",
+      "startMs": 440670,
+      "endMs": 444290,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "puluh tahun hidupnya demi menyusun sebuah karya agung."
     },
     {
+      "index": 126,
       "id": 126,
-      "startMs": 443810,
+      "image": "persia/scene-126.jpg",
+      "startMs": 444290,
       "endMs": 446630,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-126.jpg"
+      "durationMs": 2340,
+      "transition": "none",
+      "text": "Kumpulan syair itu mereka sebut Shahnameh."
     },
     {
+      "index": 127,
       "id": 127,
+      "image": "persia/scene-127.jpg",
       "startMs": 446630,
       "endMs": 451290,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-127.jpg"
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "Artinya, Kitab Para Raja, sebuah karya besar yang mengisahkan riwayat para"
     },
     {
+      "index": 128,
       "id": 128,
+      "image": "persia/scene-128.jpg",
       "startMs": 451290,
-      "endMs": 455350,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-128.jpg"
+      "endMs": 455950,
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "penguasa masa lalu tanpa memakai banyak kata serapan dari luar."
     },
     {
+      "index": 129,
       "id": 129,
-      "startMs": 455350,
+      "image": "persia/scene-129.jpg",
+      "startMs": 455950,
       "endMs": 458850,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "persia/scene-129.jpg"
+      "durationMs": 2900,
+      "transition": "none",
+      "text": "Melalui bait-bait syair inilah, ingatan bersama dan bahasa"
     },
     {
+      "index": 130,
       "id": 130,
+      "image": "persia/scene-130.jpg",
       "startMs": 458850,
-      "endMs": 462720,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "persia/scene-130.jpg"
+      "endMs": 463840,
+      "durationMs": 4990,
+      "transition": "none",
+      "text": "persatuan bangsa berhasil diselamatkan dari kepunahan."
     },
     {
+      "index": 131,
       "id": 131,
-      "startMs": 462720,
-      "endMs": 466600,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-131.jpg"
+      "image": "persia/scene-131.jpg",
+      "startMs": 463840,
+      "endMs": 467520,
+      "durationMs": 3680,
+      "transition": "none",
+      "text": "Namun saat kebudayaan itu sedang berkembang elok, langit di"
     },
     {
+      "index": 132,
       "id": 132,
-      "startMs": 466600,
-      "endMs": 471850,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-132.jpg"
+      "image": "persia/scene-132.jpg",
+      "startMs": 467520,
+      "endMs": 472230,
+      "durationMs": 4710,
+      "transition": "none",
+      "text": "timur kembali gelap tertutup debu derap ribuan kaki kuda."
     },
     {
+      "index": 133,
       "id": 133,
-      "startMs": 471850,
-      "endMs": 475510,
-      "matchRatio": 0.7,
-      "words": 10,
-      "image": "persia/scene-133.jpg"
+      "image": "persia/scene-133.jpg",
+      "startMs": 472230,
+      "endMs": 476050,
+      "durationMs": 3820,
+      "transition": "none",
+      "text": "Pada abad ketiga belas, gelombang penyerbu dari padang rumput Mongol"
     },
     {
+      "index": 134,
       "id": 134,
-      "startMs": 475510,
-      "endMs": 479450,
-      "matchRatio": 0.6,
-      "words": 10,
-      "image": "persia/scene-134.jpg"
+      "image": "persia/scene-134.jpg",
+      "startMs": 476050,
+      "endMs": 481970,
+      "durationMs": 5920,
+      "transition": "none",
+      "text": "di bawah pimpinan Jenghis Khan dan pasukannya meluluhlantakkan seisi negeri."
     },
     {
+      "index": 135,
       "id": 135,
-      "startMs": 479450,
+      "image": "persia/scene-135.jpg",
+      "startMs": 481970,
       "endMs": 484090,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-135.jpg"
+      "durationMs": 2120,
+      "transition": "none",
+      "text": "Kota-kota diratakan, saluran air bawah tanah dihancurkan, dan"
     },
     {
+      "index": 136,
       "id": 136,
+      "image": "persia/scene-136.jpg",
       "startMs": 484090,
-      "endMs": 488700,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "persia/scene-136.jpg"
+      "endMs": 489280,
+      "durationMs": 5190,
+      "transition": "none",
+      "text": "kota Baghdad akhirnya ditaklukkan pada tahun 1258."
     },
     {
+      "index": 137,
       "id": 137,
-      "startMs": 488700,
+      "image": "persia/scene-137.jpg",
+      "startMs": 489280,
       "endMs": 490740,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-137.jpg"
+      "durationMs": 1460,
+      "transition": "none",
+      "text": "Banyak orang mengira tanah ini tidak akan sanggup"
     },
     {
+      "index": 138,
       "id": 138,
+      "image": "persia/scene-138.jpg",
       "startMs": 490740,
-      "endMs": 493420,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "persia/scene-138.jpg"
+      "endMs": 494380,
+      "durationMs": 3640,
+      "transition": "none",
+      "text": "berdiri lagi dari tumpukan puing dan debu."
     },
     {
+      "index": 139,
       "id": 139,
-      "startMs": 493420,
-      "endMs": 496580,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "persia/scene-139.jpg"
+      "image": "persia/scene-139.jpg",
+      "startMs": 494380,
+      "endMs": 496900,
+      "durationMs": 2520,
+      "transition": "none",
+      "text": "Namun keajaiban yang sama terulang kembali."
     },
     {
+      "index": 140,
       "id": 140,
-      "startMs": 496580,
-      "endMs": 502060,
-      "matchRatio": 0.727,
-      "words": 11,
-      "image": "persia/scene-140.jpg"
+      "image": "persia/scene-140.jpg",
+      "startMs": 496900,
+      "endMs": 502120,
+      "durationMs": 5220,
+      "transition": "none",
+      "text": "Pada tahun 1295, seorang pemimpin Mongol bernama Ghazan Khan memilih memeluk"
     },
     {
+      "index": 141,
       "id": 141,
-      "startMs": 502060,
+      "image": "persia/scene-141.jpg",
+      "startMs": 502120,
       "endMs": 505220,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-141.jpg"
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "agama Islam dan mengangkat seorang cendekiawan setempat bernama"
     },
     {
+      "index": 142,
       "id": 142,
+      "image": "persia/scene-142.jpg",
       "startMs": 505220,
-      "endMs": 508190,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "persia/scene-142.jpg"
+      "endMs": 508790,
+      "durationMs": 3570,
+      "transition": "none",
+      "text": "Rashid al-Din sebagai penasihat utamanya."
     },
     {
+      "index": 143,
       "id": 143,
-      "startMs": 508190,
-      "endMs": 512110,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-143.jpg"
+      "image": "persia/scene-143.jpg",
+      "startMs": 508790,
+      "endMs": 513860,
+      "durationMs": 5070,
+      "transition": "none",
+      "text": "Pasukan penunggang kuda yang terbiasa hidup keras di alam bebas perlahan-lahan"
     },
     {
+      "index": 144,
       "id": 144,
-      "startMs": 512110,
-      "endMs": 516630,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-144.jpg"
+      "image": "persia/scene-144.jpg",
+      "startMs": 513860,
+      "endMs": 516790,
+      "durationMs": 2930,
+      "transition": "none",
+      "text": "meletakkan panah mereka, belajar tata krama kota, dan bahkan menjadi penyokong"
     },
     {
+      "index": 145,
       "id": 145,
-      "startMs": 516630,
-      "endMs": 520970,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-145.jpg"
+      "image": "persia/scene-145.jpg",
+      "startMs": 516790,
+      "endMs": 522350,
+      "durationMs": 5560,
+      "transition": "none",
+      "text": "dana terbesar bagi pembuatan lukisan halus serta bangunan masjid yang indah."
     },
     {
+      "index": 146,
       "id": 146,
-      "startMs": 520970,
-      "endMs": 523490,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "persia/scene-146.jpg"
+      "image": "persia/scene-146.jpg",
+      "startMs": 522350,
+      "endMs": 524010,
+      "durationMs": 1660,
+      "transition": "none",
+      "text": "Sekali lagi, para penakluk yang beringas itu luluh"
     },
     {
+      "index": 147,
       "id": 147,
-      "startMs": 523490,
-      "endMs": 526130,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-147.jpg"
+      "image": "persia/scene-147.jpg",
+      "startMs": 524010,
+      "endMs": 527430,
+      "durationMs": 3420,
+      "transition": "none",
+      "text": "dan menyatu ke dalam kebudayaan yang mereka kuasai."
     },
     {
+      "index": 148,
       "id": 148,
-      "startMs": 526130,
-      "endMs": 531890,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "persia/scene-148.jpg"
+      "image": "persia/scene-148.jpg",
+      "startMs": 527430,
+      "endMs": 532050,
+      "durationMs": 4620,
+      "transition": "none",
+      "text": "Dua abad kemudian, tepatnya pada tahun 1501, muncul Dinasti Safawiyah"
     },
     {
+      "index": 149,
       "id": 149,
-      "startMs": 531890,
-      "endMs": 535170,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-149.jpg"
+      "image": "persia/scene-149.jpg",
+      "startMs": 532050,
+      "endMs": 535670,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "yang dipimpin oleh seorang pemuda bernama Shah Ismail Pertama."
     },
     {
+      "index": 150,
       "id": 150,
-      "startMs": 535170,
+      "image": "persia/scene-150.jpg",
+      "startMs": 535670,
       "endMs": 539050,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-150.jpg"
+      "durationMs": 3380,
+      "transition": "none",
+      "text": "Ismail mengambil langkah politik yang sangat menentukan dengan menetapkan"
     },
     {
+      "index": 151,
       "id": 151,
+      "image": "persia/scene-151.jpg",
       "startMs": 539050,
-      "endMs": 542310,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "persia/scene-151.jpg"
+      "endMs": 542440,
+      "durationMs": 3390,
+      "transition": "none",
+      "text": "ajaran Syiah Dua Belas Imam sebagai pedoman resmi negara."
     },
     {
+      "index": 152,
       "id": 152,
-      "startMs": 542310,
-      "endMs": 546750,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-152.jpg"
+      "image": "persia/scene-152.jpg",
+      "startMs": 542440,
+      "endMs": 546490,
+      "durationMs": 4050,
+      "transition": "none",
+      "text": "Langkah ini sengaja diambil sebagai pagar pembatas agar rakyatnya memiliki ciri"
     },
     {
+      "index": 153,
       "id": 153,
-      "startMs": 546750,
-      "endMs": 550810,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-153.jpg"
+      "image": "persia/scene-153.jpg",
+      "startMs": 546490,
+      "endMs": 551550,
+      "durationMs": 5060,
+      "transition": "none",
+      "text": "khas yang berbeda dari kerajaan tetangga di barat yang berpaham Sunni."
     },
     {
+      "index": 154,
       "id": 154,
-      "startMs": 550810,
+      "image": "persia/scene-154.jpg",
+      "startMs": 551550,
       "endMs": 555130,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-154.jpg"
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "Dinasti ini mencapai puncak kemegahannya di bawah Shah Abbas Pertama, yang"
     },
     {
+      "index": 155,
       "id": 155,
+      "image": "persia/scene-155.jpg",
       "startMs": 555130,
-      "endMs": 560510,
-      "matchRatio": 0.917,
-      "words": 12,
-      "image": "persia/scene-155.jpg"
+      "endMs": 560670,
+      "durationMs": 5540,
+      "transition": "none",
+      "text": "memindahkan pusat pemerintahan ke kota Isfahan dan membangun lapangan luas Naqsh-e Jahan."
     },
     {
+      "index": 156,
       "id": 156,
-      "startMs": 560510,
-      "endMs": 563450,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-156.jpg"
+      "image": "persia/scene-156.jpg",
+      "startMs": 560670,
+      "endMs": 563830,
+      "durationMs": 3160,
+      "transition": "none",
+      "text": "Isfahan tumbuh menjadi pasar perniagaan sutra dunia yang"
     },
     {
+      "index": 157,
       "id": 157,
-      "startMs": 563450,
-      "endMs": 567660,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "persia/scene-157.jpg"
+      "image": "persia/scene-157.jpg",
+      "startMs": 563830,
+      "endMs": 568220,
+      "durationMs": 4390,
+      "transition": "none",
+      "text": "sangat ramai hingga warga menjulukinya separuh dunia."
     },
     {
+      "index": 158,
       "id": 158,
-      "startMs": 567660,
-      "endMs": 571220,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-158.jpg"
+      "image": "persia/scene-158.jpg",
+      "startMs": 568220,
+      "endMs": 572440,
+      "durationMs": 4220,
+      "transition": "none",
+      "text": "Namun masa kejayaan itu lambat laun meredup saat pergantian penguasa terus"
     },
     {
+      "index": 159,
       "id": 159,
-      "startMs": 571220,
+      "image": "persia/scene-159.jpg",
+      "startMs": 572440,
       "endMs": 574580,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-159.jpg"
+      "durationMs": 2140,
+      "transition": "none",
+      "text": "terjadi, hingga negeri ini harus menghadapi tantangan zaman"
     },
     {
+      "index": 160,
       "id": 160,
+      "image": "persia/scene-160.jpg",
       "startMs": 574580,
-      "endMs": 576780,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "persia/scene-160.jpg"
+      "endMs": 577480,
+      "durationMs": 2900,
+      "transition": "none",
+      "text": "baru yang jauh lebih berat."
     },
     {
+      "index": 161,
       "id": 161,
-      "startMs": 576780,
+      "image": "persia/scene-161.jpg",
+      "startMs": 577480,
       "endMs": 580880,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-161.jpg"
+      "durationMs": 3400,
+      "transition": "none",
+      "text": "Memasuki abad kesembilan belas, Dinasti Qajar yang memegang kendali terjepit di"
     },
     {
+      "index": 162,
       "id": 162,
+      "image": "persia/scene-162.jpg",
       "startMs": 580880,
-      "endMs": 585280,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-162.jpg"
+      "endMs": 586540,
+      "durationMs": 5660,
+      "transition": "none",
+      "text": "antara dua kekuatan raksasa dunia, yaitu pihak Inggris dan pihak Rusia."
     },
     {
+      "index": 163,
       "id": 163,
-      "startMs": 585280,
-      "endMs": 589168,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-163.jpg"
+      "image": "persia/scene-163.jpg",
+      "startMs": 586540,
+      "endMs": 589820,
+      "durationMs": 3280,
+      "transition": "none",
+      "text": "Demi membiayai pengeluaran istana dan perjalanan mewah para bangsawan ke benua"
     },
     {
+      "index": 164,
       "id": 164,
-      "startMs": 589168,
-      "endMs": 594000,
-      "matchRatio": 0.833,
-      "words": 12,
-      "image": "persia/scene-164.jpg"
+      "image": "persia/scene-164.jpg",
+      "startMs": 589820,
+      "endMs": 594920,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "Eropa, raja-raja Qajar mulai melelang hak pengelolaan kekayaan alam kepada pengusaha asing."
     },
     {
+      "index": 165,
       "id": 165,
-      "startMs": 594000,
-      "endMs": 599560,
-      "matchRatio": 0.636,
-      "words": 11,
-      "image": "persia/scene-165.jpg"
+      "image": "persia/scene-165.jpg",
+      "startMs": 594920,
+      "endMs": 599680,
+      "durationMs": 4760,
+      "transition": "none",
+      "text": "Puncaknya meletus pada tahun 1890 ketika raja menyerahkan hak tunggal penjualan"
     },
     {
+      "index": 166,
       "id": 166,
-      "startMs": 599560,
-      "endMs": 603460,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-166.jpg"
+      "image": "persia/scene-166.jpg",
+      "startMs": 599680,
+      "endMs": 604400,
+      "durationMs": 4720,
+      "transition": "none",
+      "text": "dan pengiriman daun tembakau ke luar negeri kepada seorang pengusaha Inggris."
     },
     {
+      "index": 167,
       "id": 167,
-      "startMs": 603460,
-      "endMs": 607520,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-167.jpg"
+      "image": "persia/scene-167.jpg",
+      "startMs": 604400,
+      "endMs": 607940,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "Mata pencaharian para petani dan pedagang pasar terancam gulung tikar seketika."
     },
     {
+      "index": 168,
       "id": 168,
-      "startMs": 607520,
+      "image": "persia/scene-168.jpg",
+      "startMs": 607940,
       "endMs": 611100,
-      "matchRatio": 0.667,
-      "words": 9,
-      "image": "persia/scene-168.jpg"
+      "durationMs": 3160,
+      "transition": "none",
+      "text": "Seorang pemuka agama terpandang bernama Mirza Hasan Shirazi kemudian"
     },
     {
+      "index": 169,
       "id": 169,
+      "image": "persia/scene-169.jpg",
       "startMs": 611100,
-      "endMs": 614560,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-169.jpg"
+      "endMs": 614720,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "mengeluarkan fatwa yang melarang siapa pun menghisap tembakau."
     },
     {
+      "index": 170,
       "id": 170,
-      "startMs": 614560,
-      "endMs": 619480,
-      "matchRatio": 0.917,
-      "words": 12,
-      "image": "persia/scene-170.jpg"
+      "image": "persia/scene-170.jpg",
+      "startMs": 614720,
+      "endMs": 620200,
+      "durationMs": 5480,
+      "transition": "none",
+      "text": "Reaksi rakyat bekerja persis seperti menekan saklar lampu di sebuah gedung bertingkat."
     },
     {
+      "index": 171,
       "id": 171,
-      "startMs": 619480,
-      "endMs": 623860,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-171.jpg"
+      "image": "persia/scene-171.jpg",
+      "startMs": 620200,
+      "endMs": 624320,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "Dalam sekejap mata, warga dari berbagai pelosok kompak berhenti merokok, bahkan"
     },
     {
+      "index": 172,
       "id": 172,
-      "startMs": 623860,
-      "endMs": 626520,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-172.jpg"
+      "image": "persia/scene-172.jpg",
+      "startMs": 624320,
+      "endMs": 627940,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "para istri raja di dalam istana ikut menyembunyikan alat"
     },
     {
+      "index": 173,
       "id": 173,
-      "startMs": 626520,
-      "endMs": 630890,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-173.jpg"
+      "image": "persia/scene-173.jpg",
+      "startMs": 627940,
+      "endMs": 631310,
+      "durationMs": 3370,
+      "transition": "none",
+      "text": "hisap mereka sampai sang raja terpaksa membatalkan perjanjian tersebut."
     },
     {
+      "index": 174,
       "id": 174,
-      "startMs": 630890,
-      "endMs": 635050,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-174.jpg"
+      "image": "persia/scene-174.jpg",
+      "startMs": 631310,
+      "endMs": 635590,
+      "durationMs": 4280,
+      "transition": "none",
+      "text": "Kemenangan rakyat ini memicu lahirnya gerakan tahun 1906 yang memaksa"
     },
     {
+      "index": 175,
       "id": 175,
-      "startMs": 635050,
-      "endMs": 639950,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-175.jpg"
+      "image": "persia/scene-175.jpg",
+      "startMs": 635590,
+      "endMs": 640790,
+      "durationMs": 5200,
+      "transition": "none",
+      "text": "didirikannya gedung dewan perwakilan pertama demi membatasi kekuasaan mutlak raja."
     },
     {
+      "index": 176,
       "id": 176,
-      "startMs": 639950,
-      "endMs": 642130,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-176.jpg"
+      "image": "persia/scene-176.jpg",
+      "startMs": 640790,
+      "endMs": 643570,
+      "durationMs": 2780,
+      "transition": "none",
+      "text": "Setelah kekacauan perang dunia pertama mereda, seorang perwira tentara bernama Reza"
     },
     {
+      "index": 177,
       "id": 177,
-      "startMs": 642130,
-      "endMs": 649610,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-177.jpg"
+      "image": "persia/scene-177.jpg",
+      "startMs": 643570,
+      "endMs": 649730,
+      "durationMs": 6160,
+      "transition": "none",
+      "text": "Khan mengambil alih kepemimpinan dan mendirikan Dinasti Pahlavi pada tahun 1925."
     },
     {
+      "index": 178,
       "id": 178,
-      "startMs": 649610,
-      "endMs": 653970,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-178.jpg"
+      "image": "persia/scene-178.jpg",
+      "startMs": 649730,
+      "endMs": 655050,
+      "durationMs": 5320,
+      "transition": "none",
+      "text": "Pemimpin baru ini ingin mengubah negerinya menjadi bangsa yang mandiri secepat mungkin."
     },
     {
+      "index": 179,
       "id": 179,
-      "startMs": 653970,
+      "image": "persia/scene-179.jpg",
+      "startMs": 655050,
       "endMs": 659310,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-179.jpg"
+      "durationMs": 4260,
+      "transition": "none",
+      "text": "Pada tanggal 21 Maret 1935, bertepatan dengan perayaan tahun baru musim"
     },
     {
+      "index": 180,
       "id": 180,
+      "image": "persia/scene-180.jpg",
       "startMs": 659310,
       "endMs": 663450,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-180.jpg"
+      "durationMs": 4140,
+      "transition": "none",
+      "text": "semi, pemerintah meminta seluruh perwakilan negara sahabat untuk berhenti"
     },
     {
+      "index": 181,
       "id": 181,
+      "image": "persia/scene-181.jpg",
       "startMs": 663450,
-      "endMs": 667490,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-181.jpg"
+      "endMs": 668010,
+      "durationMs": 4560,
+      "transition": "none",
+      "text": "memakai sebutan Persia dan menggantinya dengan nama resmi Iran."
     },
     {
+      "index": 182,
       "id": 182,
-      "startMs": 667490,
-      "endMs": 671350,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "persia/scene-182.jpg"
+      "image": "persia/scene-182.jpg",
+      "startMs": 668010,
+      "endMs": 671530,
+      "durationMs": 3520,
+      "transition": "none",
+      "text": "Nama Persia dinilai hanya mewakili salah satu suku di selatan"
     },
     {
+      "index": 183,
       "id": 183,
-      "startMs": 671350,
-      "endMs": 675050,
-      "matchRatio": 0.7,
-      "words": 10,
-      "image": "persia/scene-183.jpg"
+      "image": "persia/scene-183.jpg",
+      "startMs": 671530,
+      "endMs": 675470,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "dan terdengar seperti cerita negeri dongeng di telinga bangsa barat."
     },
     {
+      "index": 184,
       "id": 184,
-      "startMs": 675050,
-      "endMs": 679050,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-184.jpg"
+      "image": "persia/scene-184.jpg",
+      "startMs": 675470,
+      "endMs": 680690,
+      "durationMs": 5220,
+      "transition": "none",
+      "text": "Nama Iran dipilih untuk menegaskan kedaulatan baru sekaligus mengikat"
     },
     {
+      "index": 185,
       "id": 185,
-      "startMs": 679050,
-      "endMs": 682630,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-185.jpg"
+      "image": "persia/scene-185.jpg",
+      "startMs": 680690,
+      "endMs": 683270,
+      "durationMs": 2580,
+      "transition": "none",
+      "text": "seluruh warga modern kembali pada akar sebutan asli mereka."
     },
     {
+      "index": 186,
       "id": 186,
-      "startMs": 682630,
-      "endMs": 687550,
-      "matchRatio": 0.8,
-      "words": 10,
-      "image": "persia/scene-186.jpg"
+      "image": "persia/scene-186.jpg",
+      "startMs": 683270,
+      "endMs": 687870,
+      "durationMs": 4600,
+      "transition": "none",
+      "text": "Namun cita-cita kemandirian itu segera berhadapan dengan kepentingan negara-negara besar."
     },
     {
+      "index": 187,
       "id": 187,
-      "startMs": 687550,
+      "image": "persia/scene-187.jpg",
+      "startMs": 687870,
       "endMs": 693050,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-187.jpg"
+      "durationMs": 5180,
+      "transition": "none",
+      "text": "Pada tahun 1951, Perdana Menteri Mohammad Mossadegh mengambil keputusan berani untuk"
     },
     {
+      "index": 188,
       "id": 188,
+      "image": "persia/scene-188.jpg",
       "startMs": 693050,
-      "endMs": 695210,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-188.jpg"
+      "endMs": 695470,
+      "durationMs": 2420,
+      "transition": "none",
+      "text": "mengambil alih seluruh tambang minyak bumi yang selama"
     },
     {
+      "index": 189,
       "id": 189,
-      "startMs": 695210,
-      "endMs": 698530,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "persia/scene-189.jpg"
+      "image": "persia/scene-189.jpg",
+      "startMs": 695470,
+      "endMs": 698990,
+      "durationMs": 3520,
+      "transition": "none",
+      "text": "puluhan tahun dikeruk oleh perusahaan asing asal Inggris."
     },
     {
+      "index": 190,
       "id": 190,
-      "startMs": 698530,
-      "endMs": 701950,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-190.jpg"
+      "image": "persia/scene-190.jpg",
+      "startMs": 698990,
+      "endMs": 703520,
+      "durationMs": 4530,
+      "transition": "none",
+      "text": "Langkah tegas ini dibalas dengan gerakan rahasia bawah tanah pada tahun"
     },
     {
+      "index": 191,
       "id": 191,
-      "startMs": 701950,
-      "endMs": 706810,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-191.jpg"
+      "image": "persia/scene-191.jpg",
+      "startMs": 703520,
+      "endMs": 707270,
+      "durationMs": 3750,
+      "transition": "none",
+      "text": "1953, ketika pihak luar mendalangi pergantian kekuasaan untuk mendudukkan"
     },
     {
+      "index": 192,
       "id": 192,
-      "startMs": 706810,
-      "endMs": 710910,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-192.jpg"
+      "image": "persia/scene-192.jpg",
+      "startMs": 707270,
+      "endMs": 711210,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "kembali raja muda Mohammad Reza Pahlavi sebagai penguasa tunggal."
     },
     {
+      "index": 193,
       "id": 193,
-      "startMs": 710910,
+      "image": "persia/scene-193.jpg",
+      "startMs": 711210,
       "endMs": 715090,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-193.jpg"
+      "durationMs": 3880,
+      "transition": "none",
+      "text": "Sang raja memang gencar membangun jalan aspal dan gedung-gedung perkotaan, tetapi"
     },
     {
+      "index": 194,
       "id": 194,
+      "image": "persia/scene-194.jpg",
       "startMs": 715090,
       "endMs": 718690,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "persia/scene-194.jpg"
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "tindakan kejam aparat keamanan serta pesta peringatan kekaisaran di"
     },
     {
+      "index": 195,
       "id": 195,
+      "image": "persia/scene-195.jpg",
       "startMs": 718690,
-      "endMs": 723130,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-195.jpg"
+      "endMs": 723570,
+      "durationMs": 4880,
+      "transition": "none",
+      "text": "reruntuhan Persepolis yang teramat mewah memicu kemarahan warga kecil."
     },
     {
+      "index": 196,
       "id": 196,
-      "startMs": 723130,
+      "image": "persia/scene-196.jpg",
+      "startMs": 723570,
       "endMs": 726710,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-196.jpg"
+      "durationMs": 3140,
+      "transition": "none",
+      "text": "Rasa kecewa yang tertahan puluhan tahun itu akhirnya meledak pada tahun"
     },
     {
+      "index": 197,
       "id": 197,
+      "image": "persia/scene-197.jpg",
       "startMs": 726710,
-      "endMs": 732170,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-197.jpg"
+      "endMs": 732730,
+      "durationMs": 6020,
+      "transition": "none",
+      "text": "1979 lewat gelombang perubahan besar yang dipimpin oleh Ayatullah Khomeini, meruntuhkan"
     },
     {
+      "index": 198,
       "id": 198,
-      "startMs": 732170,
-      "endMs": 737110,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-198.jpg"
+      "image": "persia/scene-198.jpg",
+      "startMs": 732730,
+      "endMs": 738240,
+      "durationMs": 5510,
+      "transition": "none",
+      "text": "kekuasaan raja yang telah berumur ribuan tahun dan mendirikan Republik Islam Iran."
     },
     {
+      "index": 199,
       "id": 199,
-      "startMs": 737110,
-      "endMs": 742030,
-      "matchRatio": 1,
-      "words": 12,
-      "image": "persia/scene-199.jpg"
+      "image": "persia/scene-199.jpg",
+      "startMs": 738240,
+      "endMs": 742270,
+      "durationMs": 4030,
+      "transition": "none",
+      "text": "Hari ini, negeri itu berdiri di persimpangan jalan sejarah yang penuh tantangan."
     },
     {
+      "index": 200,
       "id": 200,
-      "startMs": 742030,
+      "image": "persia/scene-200.jpg",
+      "startMs": 742270,
       "endMs": 744850,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-200.jpg"
+      "durationMs": 2580,
+      "transition": "none",
+      "text": "Di satu sisi, ada sebuah negara modern yang terus"
     },
     {
+      "index": 201,
       "id": 201,
+      "image": "persia/scene-201.jpg",
       "startMs": 744850,
-      "endMs": 748790,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "persia/scene-201.jpg"
+      "endMs": 750710,
+      "durationMs": 5860,
+      "transition": "none",
+      "text": "berhadapan dengan tekanan ekonomi dan persaingan politik dunia luar."
     },
     {
+      "index": 202,
       "id": 202,
-      "startMs": 748790,
-      "endMs": 752537,
-      "matchRatio": 0.818,
-      "words": 11,
-      "image": "persia/scene-202.jpg"
+      "image": "persia/scene-202.jpg",
+      "startMs": 750710,
+      "endMs": 752750,
+      "durationMs": 2040,
+      "transition": "none",
+      "text": "Namun di sisi lain, kebanggaan atas peradaban besar berusia dua puluh"
     },
     {
+      "index": 203,
       "id": 203,
-      "startMs": 752537,
-      "endMs": 756330,
-      "matchRatio": 0.8,
-      "words": 10,
-      "image": "persia/scene-203.jpg"
+      "image": "persia/scene-203.jpg",
+      "startMs": 752750,
+      "endMs": 756920,
+      "durationMs": 4170,
+      "transition": "none",
+      "text": "lima abad masih mengalir kuat di dalam denyut nadi warganya."
     },
     {
+      "index": 204,
       "id": 204,
-      "startMs": 756330,
-      "endMs": 761210,
-      "matchRatio": 0.917,
-      "words": 12,
-      "image": "persia/scene-204.jpg"
+      "image": "persia/scene-204.jpg",
+      "startMs": 756920,
+      "endMs": 761510,
+      "durationMs": 4590,
+      "transition": "none",
+      "text": "Setiap kali badai penyerbuan datang menerjang, bangsa ini tidak pernah benar-benar punah;"
     },
     {
+      "index": 205,
       "id": 205,
-      "startMs": 761210,
-      "endMs": 764530,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-205.jpg"
+      "image": "persia/scene-205.jpg",
+      "startMs": 761510,
+      "endMs": 765050,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "mereka menahan benturan tersebut, menyesuaikan diri dengan sabar,"
     },
     {
+      "index": 206,
       "id": 206,
-      "startMs": 764530,
-      "endMs": 767330,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "persia/scene-206.jpg"
+      "image": "persia/scene-206.jpg",
+      "startMs": 765050,
+      "endMs": 768590,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "lalu membangun kembali masa depan dengan caranya sendiri."
     },
     {
+      "index": 207,
       "id": 207,
-      "startMs": 767330,
+      "image": "persia/scene-207.jpg",
+      "startMs": 768590,
       "endMs": 772430,
-      "matchRatio": 0.909,
-      "words": 11,
-      "image": "persia/scene-207.jpg"
+      "durationMs": 3840,
+      "transition": "none",
+      "text": "Tiang-tiang batu di Persepolis mungkin telah lama runtuh menjadi abu, tetapi"
     },
     {
+      "index": 208,
       "id": 208,
+      "image": "persia/scene-208.jpg",
       "startMs": 772430,
-      "endMs": 776960,
-      "matchRatio": 1,
-      "words": 11,
-      "image": "persia/scene-208.jpg"
+      "endMs": 776650,
+      "durationMs": 4220,
+      "transition": "none",
+      "text": "jiwa peradaban kuno ini selalu menemukan jalan untuk terus bertahan hidup."
     }
   ]
 }

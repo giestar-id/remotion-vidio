@@ -1,1497 +1,2137 @@
 {
-  "audioDurationMs": 909320,
   "audio": "sejarah-2/voiceover.wav",
+  "audioDurationMs": 908880,
+  "totalDurationMs": 908880,
   "scenes": [
     {
+      "index": 1,
       "id": 1,
-      "startMs": 0,
-      "endMs": 4820,
       "image": "sejarah-2/scene-1.jpg",
-      "words": 9
+      "startMs": 0,
+      "endMs": 1960,
+      "durationMs": 1960,
+      "transition": "none",
+      "text": "Pada tahun 610 Masehi, di sebuah gua sunyi di"
     },
     {
+      "index": 2,
       "id": 2,
-      "startMs": 4820,
-      "endMs": 7770,
       "image": "sejarah-2/scene-2.jpg",
-      "words": 5
+      "startMs": 1960,
+      "endMs": 7840,
+      "durationMs": 5880,
+      "transition": "none",
+      "text": "puncak tebing berbatu dekat Makkah, seseorang berusia empat puluh"
     },
     {
+      "index": 3,
       "id": 3,
-      "startMs": 7770,
-      "endMs": 12920,
       "image": "sejarah-2/scene-3.jpg",
-      "words": 9
+      "startMs": 7840,
+      "endMs": 14370,
+      "durationMs": 6530,
+      "transition": "none",
+      "text": "tahun sedang menyendiri dalam kegelapan. Di bawah gua itu,"
     },
     {
+      "index": 4,
       "id": 4,
-      "startMs": 12920,
-      "endMs": 18880,
       "image": "sejarah-2/scene-4.jpg",
-      "words": 13
+      "startMs": 14370,
+      "endMs": 18950,
+      "durationMs": 4580,
+      "transition": "none",
+      "text": "sebagian besar bangsa Arab sedang tenggelam dalam zaman Jahiliyah:"
     },
     {
+      "index": 5,
       "id": 5,
-      "startMs": 18880,
-      "endMs": 22480,
       "image": "sejarah-2/scene-5.jpg",
-      "words": 7
+      "startMs": 18950,
+      "endMs": 22550,
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "ratusan patung berhala dipuja di sekeliling Ka’bah,"
     },
     {
+      "index": 6,
       "id": 6,
-      "startMs": 22480,
-      "endMs": 26490,
       "image": "sejarah-2/scene-6.jpg",
-      "words": 9
+      "startMs": 22550,
+      "endMs": 26510,
+      "durationMs": 3960,
+      "transition": "none",
+      "text": "sebagian kabilah mengubur bayi perempuan hidup-hidup ke dalam pasir,"
     },
     {
+      "index": 7,
       "id": 7,
-      "startMs": 26490,
-      "endMs": 31120,
       "image": "sejarah-2/scene-7.jpg",
-      "words": 6
+      "startMs": 26510,
+      "endMs": 31190,
+      "durationMs": 4680,
+      "transition": "none",
+      "text": "dan perang antarsuku berkecamuk tanpa henti."
     },
     {
+      "index": 8,
       "id": 8,
-      "startMs": 31120,
-      "endMs": 34720,
       "image": "sejarah-2/scene-8.jpg",
-      "words": 8
+      "startMs": 31190,
+      "endMs": 34790,
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "Di tengah pekatnya malam di Gua Hira itulah,"
     },
     {
+      "index": 9,
       "id": 9,
-      "startMs": 34720,
-      "endMs": 41510,
       "image": "sejarah-2/scene-9.jpg",
-      "words": 11
+      "startMs": 34790,
+      "endMs": 39510,
+      "durationMs": 4720,
+      "transition": "none",
+      "text": "sebuah suara memerintahkan pria bernama Muhammad shallallahu ‘alaihi wasallam"
     },
     {
+      "index": 10,
       "id": 10,
-      "startMs": 41510,
-      "endMs": 43540,
       "image": "sejarah-2/scene-10.jpg",
-      "words": 5
+      "startMs": 39510,
+      "endMs": 44680,
+      "durationMs": 5170,
+      "transition": "none",
+      "text": "untuk membaca. Detik itu menjadi titik tolak perubahan terbesar"
     },
     {
+      "index": 11,
       "id": 11,
-      "startMs": 43540,
-      "endMs": 47590,
       "image": "sejarah-2/scene-11.jpg",
-      "words": 7
+      "startMs": 44680,
+      "endMs": 47660,
+      "durationMs": 2980,
+      "transition": "none",
+      "text": "dalam sejarah peradaban gurun pasir. Bagaimana sebuah risalah yang"
     },
     {
+      "index": 12,
       "id": 12,
-      "startMs": 47590,
-      "endMs": 51920,
       "image": "sejarah-2/scene-12.jpg",
-      "words": 12
+      "startMs": 47660,
+      "endMs": 52780,
+      "durationMs": 5120,
+      "transition": "none",
+      "text": "dimulai oleh satu orang di dalam gua sunyi mampu"
     },
     {
+      "index": 13,
       "id": 13,
-      "startMs": 51920,
-      "endMs": 56990,
       "image": "sejarah-2/scene-13.jpg",
-      "words": 11
+      "startMs": 52780,
+      "endMs": 57060,
+      "durationMs": 4280,
+      "transition": "none",
+      "text": "mengubah masyarakat yang terpecah belah dan tenggelam dalam krisis moral,"
     },
     {
+      "index": 14,
       "id": 14,
-      "startMs": 56990,
-      "endMs": 60500,
       "image": "sejarah-2/scene-14.jpg",
-      "words": 7
+      "startMs": 57060,
+      "endMs": 60880,
+      "durationMs": 3820,
+      "transition": "none",
+      "text": "hingga berhasil mendirikan negara-kota berkeadaban di Madinah dalam rentang"
     },
     {
+      "index": 15,
       "id": 15,
-      "startMs": 60500,
-      "endMs": 62980,
       "image": "sejarah-2/scene-15.jpg",
-      "words": 6
+      "startMs": 60880,
+      "endMs": 65450,
+      "durationMs": 4570,
+      "transition": "none",
+      "text": "sekitar dua belas tahun? Saat wahyu pertama turun,"
     },
     {
+      "index": 16,
       "id": 16,
-      "startMs": 62980,
-      "endMs": 69690,
       "image": "sejarah-2/scene-16.jpg",
-      "words": 13
+      "startMs": 65450,
+      "endMs": 70430,
+      "durationMs": 4980,
+      "transition": "none",
+      "text": "kota Makkah dikuasai oleh para bangsawan pedagang Suku Quraisy."
     },
     {
+      "index": 17,
       "id": 17,
-      "startMs": 69690,
-      "endMs": 73310,
       "image": "sejarah-2/scene-17.jpg",
-      "words": 9
+      "startMs": 70430,
+      "endMs": 73330,
+      "durationMs": 2900,
+      "transition": "none",
+      "text": "Kehidupan kota ditopang oleh ratusan berhala di sekitar Ka’bah"
     },
     {
+      "index": 18,
       "id": 18,
-      "startMs": 73310,
-      "endMs": 75700,
       "image": "sejarah-2/scene-18.jpg",
-      "words": 4
+      "startMs": 73330,
+      "endMs": 77970,
+      "durationMs": 4640,
+      "transition": "none",
+      "text": "dan jalur perdagangan kafilah. Tatanan sosial di sana sangat timpang."
     },
     {
+      "index": 19,
       "id": 19,
-      "startMs": 75700,
-      "endMs": 80520,
       "image": "sejarah-2/scene-19.jpg",
-      "words": 11
+      "startMs": 77970,
+      "endMs": 81790,
+      "durationMs": 3820,
+      "transition": "none",
+      "text": "Kaum elit kaya menimbun harta, sementara budak dan fakir"
     },
     {
+      "index": 20,
       "id": 20,
-      "startMs": 80520,
-      "endMs": 85930,
       "image": "sejarah-2/scene-20.jpg",
-      "words": 11
+      "startMs": 81790,
+      "endMs": 86000,
+      "durationMs": 4210,
+      "transition": "none",
+      "text": "miskin diperlakukan seperti barang tanpa perlindungan hukum."
     },
     {
+      "index": 21,
       "id": 21,
-      "startMs": 85930,
-      "endMs": 89170,
       "image": "sejarah-2/scene-21.jpg",
-      "words": 5
+      "startMs": 86000,
+      "endMs": 90420,
+      "durationMs": 4420,
+      "transition": "none",
+      "text": "Fanatisme kesukuan menjadi harga mati. Siapa yang berasal dari"
     },
     {
+      "index": 22,
       "id": 22,
-      "startMs": 89170,
-      "endMs": 93640,
       "image": "sejarah-2/scene-22.jpg",
-      "words": 11
+      "startMs": 90420,
+      "endMs": 93710,
+      "durationMs": 3290,
+      "transition": "none",
+      "text": "klan lemah, nasibnya berada di ujung tanduk."
     },
     {
+      "index": 23,
       "id": 23,
-      "startMs": 93640,
-      "endMs": 97350,
       "image": "sejarah-2/scene-23.jpg",
-      "words": 7
+      "startMs": 93710,
+      "endMs": 96430,
+      "durationMs": 2720,
+      "transition": "none",
+      "text": "Kemapanan para penguasa Makkah ini tiba-tiba terguncang ketika Nabi"
     },
     {
+      "index": 24,
       "id": 24,
-      "startMs": 97350,
-      "endMs": 99750,
       "image": "sejarah-2/scene-24.jpg",
-      "words": 6
+      "startMs": 96430,
+      "endMs": 102290,
+      "durationMs": 5860,
+      "transition": "none",
+      "text": "Muhammad shallallahu ‘alaihi wasallam mulai menyuarakan ajaran tauhid dan"
     },
     {
+      "index": 25,
       "id": 25,
-      "startMs": 99750,
-      "endMs": 103270,
       "image": "sejarah-2/scene-25.jpg",
-      "words": 7
+      "startMs": 102290,
+      "endMs": 107580,
+      "durationMs": 5290,
+      "transition": "none",
+      "text": "keadilan sosial. Pada mulanya, dakwah Islam berjalan secara sembunyi-sembunyi"
     },
     {
+      "index": 26,
       "id": 26,
-      "startMs": 103270,
-      "endMs": 109550,
       "image": "sejarah-2/scene-26.jpg",
-      "words": 12
+      "startMs": 107580,
+      "endMs": 110800,
+      "durationMs": 3220,
+      "transition": "none",
+      "text": "selama kurang lebih tiga tahun. Pertemuan digelar di rumah"
     },
     {
+      "index": 27,
       "id": 27,
-      "startMs": 109550,
-      "endMs": 115010,
       "image": "sejarah-2/scene-27.jpg",
-      "words": 13
+      "startMs": 110800,
+      "endMs": 115080,
+      "durationMs": 4280,
+      "transition": "none",
+      "text": "sederhana milik sahabat muda bernama al-Arqam bin Abi al-Arqam."
     },
     {
+      "index": 28,
       "id": 28,
-      "startMs": 115010,
-      "endMs": 118320,
       "image": "sejarah-2/scene-28.jpg",
-      "words": 7
+      "startMs": 115080,
+      "endMs": 119060,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "Di rumah inilah fondasi keimanan dibangun perlahan."
     },
     {
+      "index": 29,
       "id": 29,
-      "startMs": 118320,
-      "endMs": 121380,
       "image": "sejarah-2/scene-29.jpg",
-      "words": 6
+      "startMs": 119060,
+      "endMs": 122460,
+      "durationMs": 3400,
+      "transition": "none",
+      "text": "Orang-orang pertama yang menyambut ajaran ini sebagian besar adalah"
     },
     {
+      "index": 30,
       "id": 30,
-      "startMs": 121380,
-      "endMs": 125190,
       "image": "sejarah-2/scene-30.jpg",
-      "words": 9
+      "startMs": 122460,
+      "endMs": 125260,
+      "durationMs": 2800,
+      "transition": "none",
+      "text": "mereka yang tertindas oleh sistem Jahiliyah."
     },
     {
+      "index": 31,
       "id": 31,
-      "startMs": 125190,
-      "endMs": 129260,
       "image": "sejarah-2/scene-31.jpg",
-      "words": 10
+      "startMs": 125260,
+      "endMs": 129280,
+      "durationMs": 4020,
+      "transition": "none",
+      "text": "Ada budak seperti Bilal bin Rabah, perempuan terhormat seperti Khadijah,"
     },
     {
+      "index": 32,
       "id": 32,
-      "startMs": 129260,
-      "endMs": 134250,
       "image": "sejarah-2/scene-32.jpg",
-      "words": 12
+      "startMs": 129280,
+      "endMs": 133040,
+      "durationMs": 3760,
+      "transition": "none",
+      "text": "serta pemuda berani seperti Ali bin Abi Thalib dan"
     },
     {
+      "index": 33,
       "id": 33,
-      "startMs": 134250,
-      "endMs": 138480,
       "image": "sejarah-2/scene-33.jpg",
-      "words": 8
+      "startMs": 133040,
+      "endMs": 137320,
+      "durationMs": 4280,
+      "transition": "none",
+      "text": "Zaid bin Haritsah. Namun pergerakan sunyi itu berubah menjadi"
     },
     {
+      "index": 34,
       "id": 34,
-      "startMs": 138480,
-      "endMs": 141750,
       "image": "sejarah-2/scene-34.jpg",
-      "words": 5
+      "startMs": 137320,
+      "endMs": 141820,
+      "durationMs": 4500,
+      "transition": "none",
+      "text": "badai terbuka saat perintah dakwah terang-terangan turun."
     },
     {
+      "index": 35,
       "id": 35,
-      "startMs": 141750,
-      "endMs": 144780,
       "image": "sejarah-2/scene-35.jpg",
-      "words": 8
+      "startMs": 141820,
+      "endMs": 145260,
+      "durationMs": 3440,
+      "transition": "none",
+      "text": "Nabi naik ke bukit Safa dan menyerukan kebenaran kepada"
     },
     {
+      "index": 36,
       "id": 36,
-      "startMs": 144780,
-      "endMs": 148200,
       "image": "sejarah-2/scene-36.jpg",
-      "words": 7
+      "startMs": 145260,
+      "endMs": 148270,
+      "durationMs": 3010,
+      "transition": "none",
+      "text": "kaum Quraisy yang beliau panggil berkumpul."
     },
     {
+      "index": 37,
       "id": 37,
-      "startMs": 148200,
-      "endMs": 151290,
       "image": "sejarah-2/scene-37.jpg",
-      "words": 6
+      "startMs": 148270,
+      "endMs": 152450,
+      "durationMs": 4180,
+      "transition": "none",
+      "text": "Setelah itu, beliau juga menyampaikan risalahnya kepada kabilah-kabilah yang"
     },
     {
+      "index": 38,
       "id": 38,
-      "startMs": 151290,
-      "endMs": 155470,
       "image": "sejarah-2/scene-38.jpg",
-      "words": 9
+      "startMs": 152450,
+      "endMs": 155540,
+      "durationMs": 3090,
+      "transition": "none",
+      "text": "datang ke Makkah pada musim haji."
     },
     {
+      "index": 39,
       "id": 39,
-      "startMs": 155470,
-      "endMs": 163200,
       "image": "sejarah-2/scene-39.jpg",
-      "words": 15
+      "startMs": 155540,
+      "endMs": 160100,
+      "durationMs": 4560,
+      "transition": "none",
+      "text": "Bisa jadi kamu bertanya-tanya, kenapa para bangsawan Quraisy begitu"
     },
     {
+      "index": 40,
       "id": 40,
-      "startMs": 163200,
-      "endMs": 165350,
-      "image": "sejarah-2/scene-41.jpg",
-      "words": 4
-    },
-    {
-      "id": 41,
-      "startMs": 165350,
-      "endMs": 168560,
       "image": "sejarah-2/scene-40.jpg",
-      "words": 7
+      "startMs": 160100,
+      "endMs": 163270,
+      "durationMs": 3170,
+      "transition": "none",
+      "text": "panik dan marah terhadap seruan ini?"
     },
     {
+      "index": 41,
+      "id": 41,
+      "image": "sejarah-2/scene-41.jpg",
+      "startMs": 163270,
+      "endMs": 167330,
+      "durationMs": 4060,
+      "transition": "none",
+      "text": "Para sejarawan menganalisis setidaknya lima alasan mendasar di balik"
+    },
+    {
+      "index": 42,
       "id": 42,
-      "startMs": 168560,
-      "endMs": 172550,
       "image": "sejarah-2/scene-42.jpg",
-      "words": 8
+      "startMs": 167330,
+      "endMs": 171750,
+      "durationMs": 4420,
+      "transition": "none",
+      "text": "penolakan mereka. Pertama, mereka menolak keyakinan akan adanya hari"
     },
     {
+      "index": 43,
       "id": 43,
-      "startMs": 172550,
-      "endMs": 176430,
       "image": "sejarah-2/scene-43.jpg",
-      "words": 7
+      "startMs": 171750,
+      "endMs": 177030,
+      "durationMs": 5280,
+      "transition": "none",
+      "text": "kebangkitan dan pembalasan amal. Kedua, sebagian elit Quraisy menyamakan"
     },
     {
+      "index": 44,
       "id": 44,
-      "startMs": 176430,
-      "endMs": 180340,
       "image": "sejarah-2/scene-44.jpg",
-      "words": 7
+      "startMs": 177030,
+      "endMs": 180410,
+      "durationMs": 3380,
+      "transition": "none",
+      "text": "risalah kenabian dengan perebutan kekuasaan politik."
     },
     {
+      "index": 45,
       "id": 45,
-      "startMs": 180340,
-      "endMs": 183210,
       "image": "sejarah-2/scene-45.jpg",
-      "words": 7
+      "startMs": 180410,
+      "endMs": 184530,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "Mereka khawatir tunduk pada ajaran ini berarti menyerahkan kepemimpinan"
     },
     {
+      "index": 46,
       "id": 46,
-      "startMs": 183210,
-      "endMs": 187110,
       "image": "sejarah-2/scene-46.jpg",
-      "words": 7
+      "startMs": 184530,
+      "endMs": 189420,
+      "durationMs": 4890,
+      "transition": "none",
+      "text": "Makkah kepada klan Bani Hasyim. Ketiga, faktor ekonomi."
     },
     {
+      "index": 47,
       "id": 47,
-      "startMs": 187110,
-      "endMs": 193870,
       "image": "sejarah-2/scene-47.jpg",
-      "words": 14
+      "startMs": 189420,
+      "endMs": 191840,
+      "durationMs": 2420,
+      "transition": "none",
+      "text": "Menurut tradisi, Ka’bah saat itu dikelilingi tiga ratus enam"
     },
     {
+      "index": 48,
       "id": 48,
-      "startMs": 193870,
-      "endMs": 197330,
       "image": "sejarah-2/scene-48.jpg",
-      "words": 11
+      "startMs": 191840,
+      "endMs": 196120,
+      "durationMs": 4280,
+      "transition": "none",
+      "text": "puluh berhala. Kota Makkah hidup dari peziarah yang datang"
     },
     {
+      "index": 49,
       "id": 49,
-      "startMs": 197330,
-      "endMs": 200820,
       "image": "sejarah-2/scene-49.jpg",
-      "words": 9
+      "startMs": 196120,
+      "endMs": 198880,
+      "durationMs": 2760,
+      "transition": "none",
+      "text": "ke tempat suci itu, dan orang-orang yang bergantung pada"
     },
     {
+      "index": 50,
       "id": 50,
-      "startMs": 200820,
-      "endMs": 203340,
       "image": "sejarah-2/scene-50.jpg",
-      "words": 5
+      "startMs": 198880,
+      "endMs": 203360,
+      "durationMs": 4480,
+      "transition": "none",
+      "text": "perdagangan serta pemujaan berhala takut kehilangan mata pencaharian jika"
     },
     {
+      "index": 51,
       "id": 51,
-      "startMs": 203340,
-      "endMs": 205590,
       "image": "sejarah-2/scene-51.jpg",
-      "words": 3
+      "startMs": 203360,
+      "endMs": 208740,
+      "durationMs": 5380,
+      "transition": "none",
+      "text": "penyembahan berhala dihentikan. Keempat, Islam menegaskan persamaan derajat manusia"
     },
     {
+      "index": 52,
       "id": 52,
-      "startMs": 205590,
-      "endMs": 210670,
       "image": "sejarah-2/scene-52.jpg",
-      "words": 9
+      "startMs": 208740,
+      "endMs": 212940,
+      "durationMs": 4200,
+      "transition": "none",
+      "text": "di hadapan Tuhan, hal yang sangat dibenci kaum bangsawan"
     },
     {
+      "index": 53,
       "id": 53,
-      "startMs": 210670,
-      "endMs": 216650,
       "image": "sejarah-2/scene-53.jpg",
-      "words": 14
+      "startMs": 212940,
+      "endMs": 216720,
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "karena meruntuhkan status istimewa mereka atas para budak."
     },
     {
+      "index": 54,
       "id": 54,
-      "startMs": 216650,
-      "endMs": 221250,
       "image": "sejarah-2/scene-54.jpg",
-      "words": 7
+      "startMs": 216720,
+      "endMs": 221320,
+      "durationMs": 4600,
+      "transition": "none",
+      "text": "Dan kelima, fanatisme terhadap tradisi nenek moyang."
     },
     {
+      "index": 55,
       "id": 55,
-      "startMs": 221250,
-      "endMs": 224170,
       "image": "sejarah-2/scene-55.jpg",
-      "words": 6
+      "startMs": 221320,
+      "endMs": 224240,
+      "durationMs": 2920,
+      "transition": "none",
+      "text": "Ketika kata-kata tidak mempan membendung dakwah,"
     },
     {
+      "index": 56,
       "id": 56,
-      "startMs": 224170,
-      "endMs": 227150,
       "image": "sejarah-2/scene-56.jpg",
-      "words": 6
+      "startMs": 224240,
+      "endMs": 227220,
+      "durationMs": 2980,
+      "transition": "none",
+      "text": "kaum Quraisy mulai memakai kekerasan fisik."
     },
     {
+      "index": 57,
       "id": 57,
-      "startMs": 227150,
-      "endMs": 230780,
       "image": "sejarah-2/scene-57.jpg",
-      "words": 10
+      "startMs": 227220,
+      "endMs": 230800,
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "Bilal dicambuk dan ditindih batu panas di terik gurun pasir."
     },
     {
+      "index": 58,
       "id": 58,
-      "startMs": 230780,
-      "endMs": 236330,
       "image": "sejarah-2/scene-58.jpg",
-      "words": 9
+      "startMs": 230800,
+      "endMs": 236400,
+      "durationMs": 5600,
+      "transition": "none",
+      "text": "Keluarga Yasir disiksa hingga Sumayyah dan suaminya, Yasir, gugur."
     },
     {
+      "index": 59,
       "id": 59,
-      "startMs": 236330,
-      "endMs": 240390,
       "image": "sejarah-2/scene-59.jpg",
-      "words": 7
+      "startMs": 236400,
+      "endMs": 240460,
+      "durationMs": 4060,
+      "transition": "none",
+      "text": "Sumayyah dikenal sebagai syahid pertama dalam Islam."
     },
     {
+      "index": 60,
       "id": 60,
-      "startMs": 240390,
-      "endMs": 243920,
       "image": "sejarah-2/scene-60.jpg",
-      "words": 8
+      "startMs": 240460,
+      "endMs": 243880,
+      "durationMs": 3420,
+      "transition": "none",
+      "text": "Melihat pengikutnya yang lemah terus disiksa tanpa henti,"
     },
     {
+      "index": 61,
       "id": 61,
-      "startMs": 243920,
-      "endMs": 246130,
       "image": "sejarah-2/scene-61.jpg",
-      "words": 4
+      "startMs": 243880,
+      "endMs": 248460,
+      "durationMs": 4580,
+      "transition": "none",
+      "text": "Nabi mengambil langkah penyelamatan. Sebagian sahabat diperintahkan menyeberangi Laut"
     },
     {
+      "index": 62,
       "id": 62,
-      "startMs": 246130,
-      "endMs": 250860,
       "image": "sejarah-2/scene-62.jpg",
-      "words": 11
+      "startMs": 248460,
+      "endMs": 250480,
+      "durationMs": 2020,
+      "transition": "none",
+      "text": "Merah menuju negeri Habasyah di Ethiopia."
     },
     {
+      "index": 63,
       "id": 63,
-      "startMs": 250860,
-      "endMs": 256200,
       "image": "sejarah-2/scene-63.jpg",
-      "words": 13
+      "startMs": 250480,
+      "endMs": 253660,
+      "durationMs": 3180,
+      "transition": "none",
+      "text": "Di sana mereka mendapat perlindungan dari seorang raja Kristen"
     },
     {
+      "index": 64,
       "id": 64,
-      "startMs": 256200,
-      "endMs": 258720,
       "image": "sejarah-2/scene-64.jpg",
-      "words": 5
+      "startMs": 253660,
+      "endMs": 258740,
+      "durationMs": 5080,
+      "transition": "none",
+      "text": "yang adil bernama Najasyi. Inilah salah satu peristiwa suaka"
     },
     {
+      "index": 65,
       "id": 65,
-      "startMs": 258720,
-      "endMs": 262680,
       "image": "sejarah-2/scene-65.jpg",
-      "words": 7
+      "startMs": 258740,
+      "endMs": 262750,
+      "durationMs": 4010,
+      "transition": "none",
+      "text": "lintas benua paling awal dalam sejarah Islam."
     },
     {
+      "index": 66,
       "id": 66,
-      "startMs": 262680,
-      "endMs": 266040,
       "image": "sejarah-2/scene-66.jpg",
-      "words": 8
+      "startMs": 262750,
+      "endMs": 266110,
+      "durationMs": 3360,
+      "transition": "none",
+      "text": "Di Makkah, para pemuka Quraisy semakin putus asa."
     },
     {
+      "index": 67,
       "id": 67,
-      "startMs": 266040,
-      "endMs": 271840,
       "image": "sejarah-2/scene-67.jpg",
-      "words": 9
+      "startMs": 266110,
+      "endMs": 271910,
+      "durationMs": 5800,
+      "transition": "none",
+      "text": "Menurut riwayat, mereka mencoba menawarkan kepada Nabi tumpukan harta,"
     },
     {
+      "index": 68,
       "id": 68,
-      "startMs": 271840,
-      "endMs": 277750,
       "image": "sejarah-2/scene-68.jpg",
-      "words": 10
+      "startMs": 271910,
+      "endMs": 277820,
+      "durationMs": 5910,
+      "transition": "none",
+      "text": "kedudukan pemimpin kota, hingga pernikahan dengan wanita yang paling diinginkan."
     },
     {
+      "index": 69,
       "id": 69,
-      "startMs": 277750,
-      "endMs": 280260,
       "image": "sejarah-2/scene-69.jpg",
-      "words": 4
+      "startMs": 277820,
+      "endMs": 282670,
+      "durationMs": 4850,
+      "transition": "none",
+      "text": "Semua tawaran itu ditolak. Karena jalan bujukan gagal,"
     },
     {
+      "index": 70,
       "id": 70,
-      "startMs": 280260,
-      "endMs": 285410,
       "image": "sejarah-2/scene-70.jpg",
-      "words": 9
+      "startMs": 282670,
+      "endMs": 287450,
+      "durationMs": 4780,
+      "transition": "none",
+      "text": "para elit Quraisy bersatu menandatangani piagam pemboikotan ekonomi dan"
     },
     {
+      "index": 71,
       "id": 71,
-      "startMs": 285410,
-      "endMs": 291630,
       "image": "sejarah-2/scene-71.jpg",
-      "words": 12
+      "startMs": 287450,
+      "endMs": 291700,
+      "durationMs": 4250,
+      "transition": "none",
+      "text": "sosial terhadap klan Bani Hasyim dan Bani Muthalib."
     },
     {
+      "index": 72,
       "id": 72,
-      "startMs": 291630,
-      "endMs": 297030,
       "image": "sejarah-2/scene-72.jpg",
-      "words": 10
+      "startMs": 291700,
+      "endMs": 297100,
+      "durationMs": 5400,
+      "transition": "none",
+      "text": "Mekanisme pemboikotan ini bekerja ibarat jerat leher ekonomi yang mematikan."
     },
     {
+      "index": 73,
       "id": 73,
-      "startMs": 297030,
-      "endMs": 301060,
       "image": "sejarah-2/scene-73.jpg",
-      "words": 9
+      "startMs": 297100,
+      "endMs": 301080,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "Selama kurang lebih tiga tahun, klan pendukung Nabi terkurung"
     },
     {
+      "index": 74,
       "id": 74,
-      "startMs": 301060,
-      "endMs": 304110,
       "image": "sejarah-2/scene-74.jpg",
-      "words": 7
+      "startMs": 301080,
+      "endMs": 304180,
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "di sebuah lembah sempit di pinggiran Makkah."
     },
     {
+      "index": 75,
       "id": 75,
-      "startMs": 304110,
-      "endMs": 307750,
       "image": "sejarah-2/scene-75.jpg",
-      "words": 9
+      "startMs": 304180,
+      "endMs": 307820,
+      "durationMs": 3640,
+      "transition": "none",
+      "text": "Tidak ada pasokan makanan yang boleh dijual kepada mereka,"
     },
     {
+      "index": 76,
       "id": 76,
-      "startMs": 307750,
-      "endMs": 313630,
       "image": "sejarah-2/scene-76.jpg",
-      "words": 12
+      "startMs": 307820,
+      "endMs": 311620,
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "tidak ada pernikahan yang diizinkan, dan tidak ada hubungan"
     },
     {
+      "index": 77,
       "id": 77,
-      "startMs": 313630,
-      "endMs": 316700,
       "image": "sejarah-2/scene-77.jpg",
-      "words": 6
+      "startMs": 311620,
+      "endMs": 316720,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "dagang yang diperbolehkan. Tangis anak-anak kecil yang kelaparan terdengar"
     },
     {
+      "index": 78,
       "id": 78,
-      "startMs": 316700,
-      "endMs": 319940,
       "image": "sejarah-2/scene-78.jpg",
-      "words": 6
+      "startMs": 316720,
+      "endMs": 320010,
+      "durationMs": 3290,
+      "transition": "none",
+      "text": "menyayat hati hingga ke pemukiman Makkah."
     },
     {
+      "index": 79,
       "id": 79,
-      "startMs": 319940,
-      "endMs": 324120,
       "image": "sejarah-2/scene-79.jpg",
-      "words": 9
+      "startMs": 320010,
+      "endMs": 324190,
+      "durationMs": 4180,
+      "transition": "none",
+      "text": "Mereka terpaksa memakan dedaunan kering dan potongan kulit hewan"
     },
     {
+      "index": 80,
       "id": 80,
-      "startMs": 324120,
-      "endMs": 328420,
       "image": "sejarah-2/scene-80.jpg",
-      "words": 9
+      "startMs": 324190,
+      "endMs": 328440,
+      "durationMs": 4250,
+      "transition": "none",
+      "text": "sekadar untuk bertahan hidup. Dan di sinilah titik terendah"
     },
     {
+      "index": 81,
       "id": 81,
-      "startMs": 328420,
-      "endMs": 331520,
       "image": "sejarah-2/scene-81.jpg",
-      "words": 6
+      "startMs": 328440,
+      "endMs": 331590,
+      "durationMs": 3150,
+      "transition": "none",
+      "text": "dari seluruh perjuangan di Makkah terjadi."
     },
     {
+      "index": 82,
       "id": 82,
-      "startMs": 331520,
-      "endMs": 334120,
       "image": "sejarah-2/scene-82.jpg",
-      "words": 5
+      "startMs": 331590,
+      "endMs": 335950,
+      "durationMs": 4360,
+      "transition": "none",
+      "text": "Tak lama setelah boikot berakhir, dua benteng pelindung terkuat"
     },
     {
+      "index": 83,
       "id": 83,
-      "startMs": 334120,
-      "endMs": 340980,
       "image": "sejarah-2/scene-83.jpg",
-      "words": 13
+      "startMs": 335950,
+      "endMs": 341000,
+      "durationMs": 5050,
+      "transition": "none",
+      "text": "Nabi wafat dalam waktu berdekatan. Paman beliau, Abu Thalib,"
     },
     {
+      "index": 84,
       "id": 84,
-      "startMs": 340980,
-      "endMs": 346850,
       "image": "sejarah-2/scene-84.jpg",
-      "words": 12
+      "startMs": 341000,
+      "endMs": 344960,
+      "durationMs": 3960,
+      "transition": "none",
+      "text": "yang selama puluhan tahun menjadi pelindung dari ancaman klan Quraisy,"
     },
     {
+      "index": 85,
       "id": 85,
-      "startMs": 346850,
-      "endMs": 351710,
       "image": "sejarah-2/scene-85.jpg",
-      "words": 8
+      "startMs": 344960,
+      "endMs": 351780,
+      "durationMs": 6820,
+      "transition": "none",
+      "text": "meninggal dunia. Selang beberapa waktu kemudian, sang istri tercinta Khadijah,"
     },
     {
+      "index": 86,
       "id": 86,
-      "startMs": 351710,
-      "endMs": 356740,
       "image": "sejarah-2/scene-86.jpg",
-      "words": 9
+      "startMs": 351780,
+      "endMs": 356810,
+      "durationMs": 5030,
+      "transition": "none",
+      "text": "tempat beliau bersandar dan yang mengorbankan hartanya, turut berpulang."
     },
     {
+      "index": 87,
       "id": 87,
-      "startMs": 356740,
-      "endMs": 362780,
       "image": "sejarah-2/scene-87.jpg",
-      "words": 13
+      "startMs": 356810,
+      "endMs": 360750,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "Tahun kepedihan ini dicatat dalam sejarah sebagai Amul Huzni,"
     },
     {
+      "index": 88,
       "id": 88,
-      "startMs": 362780,
-      "endMs": 365580,
       "image": "sejarah-2/scene-88.jpg",
-      "words": 6
+      "startMs": 360750,
+      "endMs": 365650,
+      "durationMs": 4900,
+      "transition": "none",
+      "text": "atau Tahun Duka Cita. Tanpa perlindungan Abu Thalib dan Khadijah,"
     },
     {
+      "index": 89,
       "id": 89,
-      "startMs": 365580,
-      "endMs": 371250,
       "image": "sejarah-2/scene-89.jpg",
-      "words": 11
+      "startMs": 365650,
+      "endMs": 370330,
+      "durationMs": 4680,
+      "transition": "none",
+      "text": "perlakuan kaum Quraisy semakin keras. Nabi mencoba mencari basis"
     },
     {
+      "index": 90,
       "id": 90,
-      "startMs": 371250,
-      "endMs": 373380,
       "image": "sejarah-2/scene-90.jpg",
-      "words": 4
+      "startMs": 370330,
+      "endMs": 373450,
+      "durationMs": 3120,
+      "transition": "none",
+      "text": "perlindungan baru ke kota pegunungan Thaif."
     },
     {
+      "index": 91,
       "id": 91,
-      "startMs": 373380,
-      "endMs": 378250,
       "image": "sejarah-2/scene-91.jpg",
-      "words": 9
+      "startMs": 373450,
+      "endMs": 378270,
+      "durationMs": 4820,
+      "transition": "none",
+      "text": "Namun harapan itu berbuah luka. Penduduk Thaif justru menolak"
     },
     {
+      "index": 92,
       "id": 92,
-      "startMs": 378250,
-      "endMs": 381870,
       "image": "sejarah-2/scene-92.jpg",
-      "words": 9
+      "startMs": 378270,
+      "endMs": 381890,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "beliau dengan caci maki dan lemparan batu hingga tubuh"
     },
     {
+      "index": 93,
       "id": 93,
-      "startMs": 381870,
-      "endMs": 386220,
       "image": "sejarah-2/scene-93.jpg",
-      "words": 8
+      "startMs": 381890,
+      "endMs": 386290,
+      "durationMs": 4400,
+      "transition": "none",
+      "text": "beliau terluka. Di tengah kepedihan dan kebuntuan inilah,"
     },
     {
+      "index": 94,
       "id": 94,
-      "startMs": 386220,
-      "endMs": 390880,
       "image": "sejarah-2/scene-94.jpg",
-      "words": 9
+      "startMs": 386290,
+      "endMs": 390950,
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "fajar pertolongan justru terbit dari arah yang tak disangka-sangka."
     },
     {
+      "index": 95,
       "id": 95,
-      "startMs": 390880,
-      "endMs": 396170,
       "image": "sejarah-2/scene-95.jpg",
-      "words": 11
+      "startMs": 390950,
+      "endMs": 397350,
+      "durationMs": 6400,
+      "transition": "none",
+      "text": "Setiap musim haji tiba, suku-suku dari penjuru jazirah berdatangan"
     },
     {
+      "index": 96,
       "id": 96,
-      "startMs": 396170,
-      "endMs": 398980,
       "image": "sejarah-2/scene-96.jpg",
-      "words": 4
+      "startMs": 397350,
+      "endMs": 399310,
+      "durationMs": 1960,
+      "transition": "none",
+      "text": "ke Makkah. Pada tahun kesebelas kenabian,"
     },
     {
+      "index": 97,
       "id": 97,
-      "startMs": 398980,
-      "endMs": 404130,
       "image": "sejarah-2/scene-97.jpg",
-      "words": 13
+      "startMs": 399310,
+      "endMs": 402350,
+      "durationMs": 3040,
+      "transition": "none",
+      "text": "Nabi menemui enam orang pria dari suku Khazraj yang"
     },
     {
+      "index": 98,
       "id": 98,
-      "startMs": 404130,
-      "endMs": 406990,
       "image": "sejarah-2/scene-98.jpg",
-      "words": 5
+      "startMs": 402350,
+      "endMs": 407010,
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "datang dari kota Yatsrib. Yatsrib adalah lembah pertanian subur"
     },
     {
+      "index": 99,
       "id": 99,
-      "startMs": 406990,
-      "endMs": 413490,
       "image": "sejarah-2/scene-99.jpg",
-      "words": 13
+      "startMs": 407010,
+      "endMs": 411170,
+      "durationMs": 4160,
+      "transition": "none",
+      "text": "yang sedang dilanda perselisihan dan perang saudara menahun antara"
     },
     {
+      "index": 100,
       "id": 100,
-      "startMs": 413490,
-      "endMs": 415720,
       "image": "sejarah-2/scene-100.jpg",
-      "words": 5
+      "startMs": 411170,
+      "endMs": 413560,
+      "durationMs": 2390,
+      "transition": "none",
+      "text": "suku Aus dan Khazraj. Warga Yatsrib kerap mendengar dari"
     },
     {
+      "index": 101,
       "id": 101,
-      "startMs": 415720,
-      "endMs": 419430,
       "image": "sejarah-2/scene-101.jpg",
-      "words": 8
+      "startMs": 413560,
+      "endMs": 419500,
+      "durationMs": 5940,
+      "transition": "none",
+      "text": "tetangga Yahudi mereka tentang akan datangnya seorang nabi."
     },
     {
+      "index": 102,
       "id": 102,
-      "startMs": 419430,
-      "endMs": 423130,
       "image": "sejarah-2/scene-102.jpg",
-      "words": 7
+      "startMs": 419500,
+      "endMs": 423260,
+      "durationMs": 3760,
+      "transition": "none",
+      "text": "Begitu mendengar risalah yang disampaikan Nabi Muhammad,"
     },
     {
+      "index": 103,
       "id": 103,
-      "startMs": 423130,
-      "endMs": 426530,
       "image": "sejarah-2/scene-103.jpg",
-      "words": 6
+      "startMs": 423260,
+      "endMs": 426600,
+      "durationMs": 3340,
+      "transition": "none",
+      "text": "keenam orang itu menyatakan keislaman mereka."
     },
     {
+      "index": 104,
       "id": 104,
-      "startMs": 426530,
-      "endMs": 430480,
       "image": "sejarah-2/scene-104.jpg",
-      "words": 9
+      "startMs": 426600,
+      "endMs": 431140,
+      "durationMs": 4540,
+      "transition": "none",
+      "text": "Pertemuan kecil itu menggelinding menjadi arus sejarah yang besar."
     },
     {
+      "index": 105,
       "id": 105,
-      "startMs": 430480,
-      "endMs": 434480,
       "image": "sejarah-2/scene-105.jpg",
-      "words": 7
+      "startMs": 431140,
+      "endMs": 434080,
+      "durationMs": 2940,
+      "transition": "none",
+      "text": "Pada tahun berikutnya, berlangsung Bai'at Aqabah Pertama."
     },
     {
+      "index": 106,
       "id": 106,
-      "startMs": 434480,
-      "endMs": 440800,
       "image": "sejarah-2/scene-106.jpg",
-      "words": 11
+      "startMs": 434080,
+      "endMs": 439200,
+      "durationMs": 5120,
+      "transition": "none",
+      "text": "Dua belas perwakilan Yatsrib berikrar memegang nilai-nilai tauhid dan"
     },
     {
+      "index": 107,
       "id": 107,
-      "startMs": 440800,
-      "endMs": 444440,
       "image": "sejarah-2/scene-107.jpg",
-      "words": 8
+      "startMs": 439200,
+      "endMs": 443750,
+      "durationMs": 4550,
+      "transition": "none",
+      "text": "moralitas luhur. Setahun berselang, datang rombongan yang jauh lebih"
     },
     {
+      "index": 108,
       "id": 108,
-      "startMs": 444440,
-      "endMs": 447590,
       "image": "sejarah-2/scene-108.jpg",
-      "words": 8
+      "startMs": 443750,
+      "endMs": 447610,
+      "durationMs": 3860,
+      "transition": "none",
+      "text": "besar dalam Bai'at Aqabah Kedua. Sekitar tujuh puluh lima"
     },
     {
+      "index": 109,
       "id": 109,
-      "startMs": 447590,
-      "endMs": 451350,
       "image": "sejarah-2/scene-109.jpg",
-      "words": 9
+      "startMs": 447610,
+      "endMs": 451370,
+      "durationMs": 3760,
+      "transition": "none",
+      "text": "warga Yatsrib mengundang Nabi ke kota mereka dan bersumpah"
     },
     {
+      "index": 110,
       "id": 110,
-      "startMs": 451350,
-      "endMs": 456340,
       "image": "sejarah-2/scene-110.jpg",
-      "words": 9
+      "startMs": 451370,
+      "endMs": 456410,
+      "durationMs": 5040,
+      "transition": "none",
+      "text": "setia untuk melindungi beliau selayaknya melindungi keluarga mereka sendiri."
     },
     {
+      "index": 111,
       "id": 111,
-      "startMs": 456340,
-      "endMs": 458660,
       "image": "sejarah-2/scene-111.jpg",
-      "words": 5
+      "startMs": 456410,
+      "endMs": 460350,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "Melihat pintu baru telah terbuka, Nabi memerintahkan para pengikutnya"
     },
     {
+      "index": 112,
       "id": 112,
-      "startMs": 458660,
-      "endMs": 462820,
       "image": "sejarah-2/scene-112.jpg",
-      "words": 10
+      "startMs": 460350,
+      "endMs": 462890,
+      "durationMs": 2540,
+      "transition": "none",
+      "text": "di Makkah untuk berhijrah ke Yatsrib."
     },
     {
+      "index": 113,
       "id": 113,
-      "startMs": 462820,
-      "endMs": 467970,
       "image": "sejarah-2/scene-113.jpg",
-      "words": 10
+      "startMs": 462890,
+      "endMs": 467990,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "Mereka berangkat secara bertahap dan diam-diam, berkelompok kecil maupun sendiri-sendiri,"
     },
     {
+      "index": 114,
       "id": 114,
-      "startMs": 467970,
-      "endMs": 471470,
       "image": "sejarah-2/scene-114.jpg",
-      "words": 8
+      "startMs": 467990,
+      "endMs": 471490,
+      "durationMs": 3500,
+      "transition": "none",
+      "text": "meninggalkan rumah, tanah, dan harta mereka di Makkah."
     },
     {
+      "index": 115,
       "id": 115,
-      "startMs": 471470,
-      "endMs": 477410,
       "image": "sejarah-2/scene-115.jpg",
-      "words": 11
+      "startMs": 471490,
+      "endMs": 475910,
+      "durationMs": 4420,
+      "transition": "none",
+      "text": "Hingga akhirnya, sebagian besar kaum Muslim Makkah sudah berada"
     },
     {
+      "index": 116,
       "id": 116,
-      "startMs": 477410,
-      "endMs": 480480,
       "image": "sejarah-2/scene-116.jpg",
-      "words": 8
+      "startMs": 475910,
+      "endMs": 480120,
+      "durationMs": 4210,
+      "transition": "none",
+      "text": "di Yatsrib. Menyadari kota Yatsrib akan menjadi pangkalan kekuatan"
     },
     {
+      "index": 117,
       "id": 117,
-      "startMs": 480480,
-      "endMs": 483240,
       "image": "sejarah-2/scene-117.jpg",
-      "words": 7
+      "startMs": 480120,
+      "endMs": 482800,
+      "durationMs": 2680,
+      "transition": "none",
+      "text": "baru bagi umat Islam, para pemimpin Quraisy panik."
     },
     {
+      "index": 118,
       "id": 118,
-      "startMs": 483240,
-      "endMs": 488540,
       "image": "sejarah-2/scene-118.jpg",
-      "words": 10
+      "startMs": 482800,
+      "endMs": 488300,
+      "durationMs": 5500,
+      "transition": "none",
+      "text": "Pada tahun 622 Masehi, mereka berkumpul di balai Darun"
     },
     {
+      "index": 119,
       "id": 119,
-      "startMs": 488540,
-      "endMs": 492420,
       "image": "sejarah-2/scene-119.jpg",
-      "words": 7
+      "startMs": 488300,
+      "endMs": 492680,
+      "durationMs": 4380,
+      "transition": "none",
+      "text": "Nadwah dan menyusun rencana pamungkas: mengepung rumah Nabi dengan"
     },
     {
+      "index": 120,
       "id": 120,
-      "startMs": 492420,
-      "endMs": 496220,
       "image": "sejarah-2/scene-120.jpg",
-      "words": 10
+      "startMs": 492680,
+      "endMs": 496240,
+      "durationMs": 3560,
+      "transition": "none",
+      "text": "pemuda-pemuda dari berbagai klan agar pembunuhan itu tidak bisa"
     },
     {
+      "index": 121,
       "id": 121,
-      "startMs": 496220,
-      "endMs": 498510,
       "image": "sejarah-2/scene-121.jpg",
-      "words": 6
+      "startMs": 496240,
+      "endMs": 498580,
+      "durationMs": 2340,
+      "transition": "none",
+      "text": "dituntut balas oleh satu klan saja,"
     },
     {
+      "index": 122,
       "id": 122,
-      "startMs": 498510,
-      "endMs": 500570,
       "image": "sejarah-2/scene-122.jpg",
-      "words": 6
+      "startMs": 498580,
+      "endMs": 500570,
+      "durationMs": 1990,
+      "transition": "none",
+      "text": "lalu membunuh beliau di tempat tidurnya. Namun rencana itu gagal."
     },
     {
+      "index": 123,
       "id": 123,
-      "startMs": 500570,
-      "endMs": 505960,
       "image": "sejarah-2/scene-123.jpg",
-      "words": 12
+      "startMs": 500570,
+      "endMs": 506180,
+      "durationMs": 5610,
+      "transition": "none",
+      "text": "Ali bin Abi Thalib tidur di ranjang Nabi untuk"
     },
     {
+      "index": 124,
       "id": 124,
-      "startMs": 505960,
-      "endMs": 509940,
       "image": "sejarah-2/scene-124.jpg",
-      "words": 10
+      "startMs": 506180,
+      "endMs": 510740,
+      "durationMs": 4560,
+      "transition": "none",
+      "text": "mengecoh para pengepung, sementara Nabi dan Abu Bakar ash-Shiddiq"
     },
     {
+      "index": 125,
       "id": 125,
-      "startMs": 509940,
-      "endMs": 514320,
       "image": "sejarah-2/scene-125.jpg",
-      "words": 9
+      "startMs": 510740,
+      "endMs": 514280,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "berhasil keluar dari kepungan malam, bersembunyi di Gua Tsur,"
     },
     {
+      "index": 126,
       "id": 126,
-      "startMs": 514320,
-      "endMs": 517030,
       "image": "sejarah-2/scene-126.jpg",
-      "words": 5
+      "startMs": 514280,
+      "endMs": 518740,
+      "durationMs": 4460,
+      "transition": "none",
+      "text": "lalu melintasi gurun menuju Yatsrib. Sebagian orang mengira hijrah"
     },
     {
+      "index": 127,
       "id": 127,
-      "startMs": 517030,
-      "endMs": 521390,
       "image": "sejarah-2/scene-127.jpg",
-      "words": 9
+      "startMs": 518740,
+      "endMs": 523360,
+      "durationMs": 4620,
+      "transition": "none",
+      "text": "hanyalah pelarian dari ancaman musuh. Padahal fakta sejarah membuktikan"
     },
     {
+      "index": 128,
       "id": 128,
-      "startMs": 521390,
-      "endMs": 524780,
       "image": "sejarah-2/scene-128.jpg",
-      "words": 9
+      "startMs": 523360,
+      "endMs": 526840,
+      "durationMs": 3480,
+      "transition": "none",
+      "text": "hal yang jauh lebih besar. Para pakar sejarah mencatat"
     },
     {
+      "index": 129,
       "id": 129,
-      "startMs": 524780,
-      "endMs": 532030,
       "image": "sejarah-2/scene-129.jpg",
-      "words": 14
+      "startMs": 526840,
+      "endMs": 532100,
+      "durationMs": 5260,
+      "transition": "none",
+      "text": "bahwa hijrah adalah transformasi sosial paling mendasar dalam sejarah dunia."
     },
     {
+      "index": 130,
       "id": 130,
-      "startMs": 532030,
-      "endMs": 538200,
       "image": "sejarah-2/scene-130.jpg",
-      "words": 11
+      "startMs": 532100,
+      "endMs": 536800,
+      "durationMs": 4700,
+      "transition": "none",
+      "text": "Hijrah bukan sekadar berpindah tempat sejauh ratusan kilometer di"
     },
     {
+      "index": 131,
       "id": 131,
-      "startMs": 538200,
-      "endMs": 542210,
       "image": "sejarah-2/scene-131.jpg",
-      "words": 7
+      "startMs": 536800,
+      "endMs": 542230,
+      "durationMs": 5430,
+      "transition": "none",
+      "text": "atas peta. Hijrah adalah lompatan raksasa dari tatanan kesukuan"
     },
     {
+      "index": 132,
       "id": 132,
-      "startMs": 542210,
-      "endMs": 545020,
       "image": "sejarah-2/scene-132.jpg",
-      "words": 6
+      "startMs": 542230,
+      "endMs": 545090,
+      "durationMs": 2860,
+      "transition": "none",
+      "text": "kuno yang berlandaskan darah dan klan,"
     },
     {
+      "index": 133,
       "id": 133,
-      "startMs": 545020,
-      "endMs": 550240,
       "image": "sejarah-2/scene-133.jpg",
-      "words": 11
+      "startMs": 545090,
+      "endMs": 549150,
+      "durationMs": 4060,
+      "transition": "none",
+      "text": "menuju tatanan masyarakat beradab yang disatukan oleh komitmen moral"
     },
     {
+      "index": 134,
       "id": 134,
-      "startMs": 550240,
-      "endMs": 555840,
       "image": "sejarah-2/scene-134.jpg",
-      "words": 9
+      "startMs": 549150,
+      "endMs": 553630,
+      "durationMs": 4480,
+      "transition": "none",
+      "text": "dan iman. Ketika Nabi tiba di Yatsrib pada tahun"
     },
     {
+      "index": 135,
       "id": 135,
-      "startMs": 555840,
-      "endMs": 559700,
       "image": "sejarah-2/scene-135.jpg",
-      "words": 8
+      "startMs": 553630,
+      "endMs": 559770,
+      "durationMs": 6140,
+      "transition": "none",
+      "text": "622 Masehi, beliau membiarkan untanya berjalan tanpa ditarik tali kekangnya,"
     },
     {
+      "index": 136,
       "id": 136,
-      "startMs": 559700,
-      "endMs": 562540,
       "image": "sejarah-2/scene-136.jpg",
-      "words": 5
+      "startMs": 559770,
+      "endMs": 564590,
+      "durationMs": 4820,
+      "transition": "none",
+      "text": "karena unta itu diperintahkan Allah. Unta itu akhirnya berlutut"
     },
     {
+      "index": 137,
       "id": 137,
-      "startMs": 562540,
-      "endMs": 566930,
       "image": "sejarah-2/scene-137.jpg",
-      "words": 10
+      "startMs": 564590,
+      "endMs": 567890,
+      "durationMs": 3300,
+      "transition": "none",
+      "text": "di atas sebidang tanah penjemuran kurma milik dua anak"
     },
     {
+      "index": 138,
       "id": 138,
-      "startMs": 566930,
-      "endMs": 570070,
       "image": "sejarah-2/scene-138.jpg",
-      "words": 8
+      "startMs": 567890,
+      "endMs": 572850,
+      "durationMs": 4960,
+      "transition": "none",
+      "text": "yatim bernama Sahl dan Suhail. Di tanah inilah kelak"
     },
     {
+      "index": 139,
       "id": 139,
-      "startMs": 570070,
-      "endMs": 574530,
       "image": "sejarah-2/scene-139.jpg",
-      "words": 6
+      "startMs": 572850,
+      "endMs": 578600,
+      "durationMs": 5750,
+      "transition": "none",
+      "text": "dibangun masjid. Sejak itu Yatsrib dikenal sebagai Madinatun Nabi,"
     },
     {
+      "index": 140,
       "id": 140,
-      "startMs": 574530,
-      "endMs": 579280,
       "image": "sejarah-2/scene-140.jpg",
-      "words": 9
+      "startMs": 578600,
+      "endMs": 584050,
+      "durationMs": 5450,
+      "transition": "none",
+      "text": "“Kota Nabi”, atau disingkat Madinah, yang secara harfiah bermakna “kota”."
     },
     {
+      "index": 141,
       "id": 141,
-      "startMs": 579280,
-      "endMs": 583980,
       "image": "sejarah-2/scene-141.jpg",
-      "words": 8
+      "startMs": 584050,
+      "endMs": 588490,
+      "durationMs": 4440,
+      "transition": "none",
+      "text": "Kata tamaddun, yang berarti peradaban, berasal dari akar kata"
     },
     {
+      "index": 142,
       "id": 142,
-      "startMs": 583980,
-      "endMs": 589420,
       "image": "sejarah-2/scene-142.jpg",
-      "words": 11
+      "startMs": 588490,
+      "endMs": 592890,
+      "durationMs": 4400,
+      "transition": "none",
+      "text": "yang sama, sehingga Madinah kerap dimaknai sebagai kota tempat"
     },
     {
+      "index": 143,
       "id": 143,
-      "startMs": 589420,
-      "endMs": 598750,
       "image": "sejarah-2/scene-143.jpg",
-      "words": 16
+      "startMs": 592890,
+      "endMs": 598820,
+      "durationMs": 5930,
+      "transition": "none",
+      "text": "peradaban dibangun. Di Madinah, status umat Islam berubah total."
     },
     {
+      "index": 144,
       "id": 144,
-      "startMs": 598750,
-      "endMs": 602650,
       "image": "sejarah-2/scene-144.jpg",
-      "words": 8
+      "startMs": 598820,
+      "endMs": 602720,
+      "durationMs": 3900,
+      "transition": "none",
+      "text": "Di Makkah mereka adalah kelompok tertindas yang dikucilkan."
     },
     {
+      "index": 145,
       "id": 145,
-      "startMs": 602650,
-      "endMs": 606325,
       "image": "sejarah-2/scene-145.jpg",
-      "words": 7
+      "startMs": 602720,
+      "endMs": 606390,
+      "durationMs": 3670,
+      "transition": "none",
+      "text": "Di Madinah, mereka memegang kendali kepemimpinan politik."
     },
     {
+      "index": 146,
       "id": 146,
-      "startMs": 606325,
-      "endMs": 611240,
       "image": "sejarah-2/scene-146.jpg",
-      "words": 10
+      "startMs": 606390,
+      "endMs": 611310,
+      "durationMs": 4920,
+      "transition": "none",
+      "text": "Nabi Muhammad tidak lagi hanya berperan sebagai pembawa risalah agama,"
     },
     {
+      "index": 147,
       "id": 147,
-      "startMs": 611240,
-      "endMs": 619410,
       "image": "sejarah-2/scene-147.jpg",
-      "words": 12
+      "startMs": 611310,
+      "endMs": 616910,
+      "durationMs": 5600,
+      "transition": "none",
+      "text": "melainkan memikul mandat ganda: pemimpin spiritual sekaligus pemimpin masyarakat"
     },
     {
+      "index": 148,
       "id": 148,
-      "startMs": 619410,
-      "endMs": 622830,
       "image": "sejarah-2/scene-148.jpg",
-      "words": 6
+      "startMs": 616910,
+      "endMs": 622900,
+      "durationMs": 5990,
+      "transition": "none",
+      "text": "dan kepala negara-kota. Untuk membangun masyarakat majemuk yang berkeadaban,"
     },
     {
+      "index": 149,
       "id": 149,
-      "startMs": 622830,
-      "endMs": 626840,
       "image": "sejarah-2/scene-149.jpg",
-      "words": 7
+      "startMs": 622900,
+      "endMs": 626910,
+      "durationMs": 4010,
+      "transition": "none",
+      "text": "Nabi segera meletakkan tiga pilar pembangunan peradaban."
     },
     {
+      "index": 150,
       "id": 150,
-      "startMs": 626840,
-      "endMs": 630340,
       "image": "sejarah-2/scene-150.jpg",
-      "words": 6
+      "startMs": 626910,
+      "endMs": 630410,
+      "durationMs": 3500,
+      "transition": "none",
+      "text": "Pilar pertama adalah pendirian Masjid Nabawi."
     },
     {
+      "index": 151,
       "id": 151,
-      "startMs": 630340,
-      "endMs": 634590,
       "image": "sejarah-2/scene-151.jpg",
-      "words": 11
+      "startMs": 630410,
+      "endMs": 633510,
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "Di masa lalu, suku-suku Arab hanya berkumpul di balai"
     },
     {
+      "index": 152,
       "id": 152,
-      "startMs": 634590,
-      "endMs": 637060,
       "image": "sejarah-2/scene-152.jpg",
-      "words": 4
+      "startMs": 633510,
+      "endMs": 637130,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "sukunya masing-masing untuk membanggakan garis keturunan."
     },
     {
+      "index": 153,
       "id": 153,
-      "startMs": 637060,
-      "endMs": 641470,
       "image": "sejarah-2/scene-153.jpg",
-      "words": 9
+      "startMs": 637130,
+      "endMs": 641540,
+      "durationMs": 4410,
+      "transition": "none",
+      "text": "Nabi menyatukan berbagai elemen masyarakat di bawah satu atap."
     },
     {
+      "index": 154,
       "id": 154,
-      "startMs": 641470,
-      "endMs": 644610,
       "image": "sejarah-2/scene-154.jpg",
-      "words": 8
+      "startMs": 641540,
+      "endMs": 644680,
+      "durationMs": 3140,
+      "transition": "none",
+      "text": "Masjid Nabawi dibangun bukan hanya untuk salat berjamaah."
     },
     {
+      "index": 155,
       "id": 155,
-      "startMs": 644610,
-      "endMs": 650490,
       "image": "sejarah-2/scene-155.jpg",
-      "words": 10
+      "startMs": 644680,
+      "endMs": 650560,
+      "durationMs": 5880,
+      "transition": "none",
+      "text": "Bangunan ini berfungsi sebagai balai musyawarah, tempat menyelesaikan perkara hukum,"
     },
     {
+      "index": 156,
       "id": 156,
-      "startMs": 650490,
-      "endMs": 652330,
       "image": "sejarah-2/scene-156.jpg",
-      "words": 3
+      "startMs": 650560,
+      "endMs": 654340,
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "pusat bantuan sosial, serta tempat belajar bagi para sahabat"
     },
     {
+      "index": 157,
       "id": 157,
-      "startMs": 652330,
-      "endMs": 659060,
       "image": "sejarah-2/scene-157.jpg",
-      "words": 16
+      "startMs": 654340,
+      "endMs": 659020,
+      "durationMs": 4680,
+      "transition": "none",
+      "text": "miskin yang tinggal di serambinya, yang dikenal sebagai Ahlus Suffah."
     },
     {
+      "index": 158,
       "id": 158,
-      "startMs": 659060,
-      "endMs": 662610,
       "image": "sejarah-2/scene-158.jpg",
-      "words": 7
+      "startMs": 659020,
+      "endMs": 662610,
+      "durationMs": 3590,
+      "transition": "none",
+      "text": "Masjid menjadi pusat urusan publik sekaligus spiritual."
     },
     {
+      "index": 159,
       "id": 159,
-      "startMs": 662610,
-      "endMs": 667860,
       "image": "sejarah-2/scene-159.jpg",
-      "words": 7
+      "startMs": 662610,
+      "endMs": 668560,
+      "durationMs": 5950,
+      "transition": "none",
+      "text": "Pilar kedua adalah al-Mu'akhah, yaitu program persaudaraan antara kaum"
     },
     {
+      "index": 160,
       "id": 160,
-      "startMs": 667860,
-      "endMs": 674000,
       "image": "sejarah-2/scene-160.jpg",
-      "words": 12
+      "startMs": 668560,
+      "endMs": 673960,
+      "durationMs": 5400,
+      "transition": "none",
+      "text": "Muhajirin pendatang dari Makkah dengan kaum Anshar warga asli Madinah."
     },
     {
+      "index": 161,
       "id": 161,
-      "startMs": 674000,
-      "endMs": 677760,
       "image": "sejarah-2/scene-161.jpg",
-      "words": 8
+      "startMs": 673960,
+      "endMs": 678480,
+      "durationMs": 4520,
+      "transition": "none",
+      "text": "Kaum Muhajirin tiba di Madinah dalam keadaan miskin karena"
     },
     {
+      "index": 162,
       "id": 162,
-      "startMs": 677760,
-      "endMs": 683910,
       "image": "sejarah-2/scene-162.jpg",
-      "words": 11
+      "startMs": 678480,
+      "endMs": 683980,
+      "durationMs": 5500,
+      "transition": "none",
+      "text": "sebagian besar harta benda mereka ditinggalkan atau disita di Makkah."
     },
     {
+      "index": 163,
       "id": 163,
-      "startMs": 683910,
-      "endMs": 688020,
       "image": "sejarah-2/scene-163.jpg",
-      "words": 7
+      "startMs": 683980,
+      "endMs": 688040,
+      "durationMs": 4060,
+      "transition": "none",
+      "text": "Melalui program ini, ikatan klan purba dihancurkan."
     },
     {
+      "index": 164,
       "id": 164,
-      "startMs": 688020,
-      "endMs": 691900,
       "image": "sejarah-2/scene-164.jpg",
-      "words": 7
+      "startMs": 688040,
+      "endMs": 690300,
+      "durationMs": 2260,
+      "transition": "none",
+      "text": "Abu Bakar dipersaudarakan dengan Kharijah bin Zaid,"
     },
     {
+      "index": 165,
       "id": 165,
-      "startMs": 691900,
-      "endMs": 697410,
       "image": "sejarah-2/scene-165.jpg",
-      "words": 10
+      "startMs": 690300,
+      "endMs": 697480,
+      "durationMs": 7180,
+      "transition": "none",
+      "text": "dan Ja'far bin Abi Thalib dipersaudarakan dengan Mu'adz bin Jabal."
     },
     {
+      "index": 166,
       "id": 166,
-      "startMs": 697410,
-      "endMs": 701910,
       "image": "sejarah-2/scene-166.jpg",
-      "words": 8
+      "startMs": 697480,
+      "endMs": 701980,
+      "durationMs": 4500,
+      "transition": "none",
+      "text": "Persaudaraan ini menjadi jalan keluar dari krisis kemanusiaan."
     },
     {
+      "index": 167,
       "id": 167,
-      "startMs": 701910,
-      "endMs": 704620,
       "image": "sejarah-2/scene-167.jpg",
-      "words": 6
+      "startMs": 701980,
+      "endMs": 704640,
+      "durationMs": 2660,
+      "transition": "none",
+      "text": "Kaum Anshar dengan sukarela membagi rumah,"
     },
     {
+      "index": 168,
       "id": 168,
-      "startMs": 704620,
-      "endMs": 708270,
       "image": "sejarah-2/scene-168.jpg",
-      "words": 7
+      "startMs": 704640,
+      "endMs": 707300,
+      "durationMs": 2660,
+      "transition": "none",
+      "text": "bahkan harta mereka kepada saudara baru mereka."
     },
     {
+      "index": 169,
       "id": 169,
-      "startMs": 708270,
-      "endMs": 713550,
       "image": "sejarah-2/scene-169.jpg",
-      "words": 10
+      "startMs": 707300,
+      "endMs": 713620,
+      "durationMs": 6320,
+      "transition": "none",
+      "text": "Sa’ad bin Rabi’ menawarkan separuh hartanya kepada Abdurrahman bin Auf,"
     },
     {
+      "index": 170,
       "id": 170,
-      "startMs": 713550,
-      "endMs": 717920,
       "image": "sejarah-2/scene-170.jpg",
-      "words": 9
+      "startMs": 713620,
+      "endMs": 717940,
+      "durationMs": 4320,
+      "transition": "none",
+      "text": "tetapi Abdurrahman memilih untuk hanya ditunjukkan jalan ke pasar"
     },
     {
+      "index": 171,
       "id": 171,
-      "startMs": 717920,
-      "endMs": 721410,
       "image": "sejarah-2/scene-171.jpg",
-      "words": 6
+      "startMs": 717940,
+      "endMs": 721480,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "agar bisa berdagang dengan usahanya sendiri."
     },
     {
+      "index": 172,
       "id": 172,
-      "startMs": 721410,
-      "endMs": 729380,
       "image": "sejarah-2/scene-172.jpg",
-      "words": 12
+      "startMs": 721480,
+      "endMs": 726800,
+      "durationMs": 5320,
+      "transition": "none",
+      "text": "Fanatisme kesukuan (asabiyah) dilebur ke dalam persaudaraan atas dasar"
     },
     {
+      "index": 173,
       "id": 173,
-      "startMs": 729380,
-      "endMs": 732320,
       "image": "sejarah-2/scene-173.jpg",
-      "words": 5
+      "startMs": 726800,
+      "endMs": 732390,
+      "durationMs": 5590,
+      "transition": "none",
+      "text": "akidah dan kemanusiaan. Pilar ketiga adalah Piagam Madinah,"
     },
     {
+      "index": 174,
       "id": 174,
-      "startMs": 732320,
-      "endMs": 737530,
       "image": "sejarah-2/scene-174.jpg",
-      "words": 9
+      "startMs": 732390,
+      "endMs": 737600,
+      "durationMs": 5210,
+      "transition": "none",
+      "text": "sebuah perjanjian tertulis yang kerap disebut juga Konstitusi Madinah."
     },
     {
+      "index": 175,
       "id": 175,
-      "startMs": 737530,
-      "endMs": 741990,
       "image": "sejarah-2/scene-175.jpg",
-      "words": 10
+      "startMs": 737600,
+      "endMs": 742060,
+      "durationMs": 4460,
+      "transition": "none",
+      "text": "Kota Madinah saat itu dihuni oleh penduduk yang sangat majemuk:"
     },
     {
+      "index": 176,
       "id": 176,
-      "startMs": 741990,
-      "endMs": 747300,
       "image": "sejarah-2/scene-176.jpg",
-      "words": 11
+      "startMs": 742060,
+      "endMs": 746260,
+      "durationMs": 4200,
+      "transition": "none",
+      "text": "kaum Muslim Muhajirin dan Anshar, orang-orang Arab yang masih"
     },
     {
+      "index": 177,
       "id": 177,
-      "startMs": 747300,
-      "endMs": 754190,
       "image": "sejarah-2/scene-177.jpg",
-      "words": 11
+      "startMs": 746260,
+      "endMs": 752020,
+      "durationMs": 5760,
+      "transition": "none",
+      "text": "menyembah berhala, serta suku-suku Yahudi seperti Bani Qainuqa, Bani Nadhir,"
     },
     {
+      "index": 178,
       "id": 178,
-      "startMs": 754190,
-      "endMs": 756780,
       "image": "sejarah-2/scene-178.jpg",
-      "words": 6
+      "startMs": 752020,
+      "endMs": 756800,
+      "durationMs": 4780,
+      "transition": "none",
+      "text": "dan Bani Quraizhah. Piagam ini menegaskan bahwa seluruh penduduk"
     },
     {
+      "index": 179,
       "id": 179,
-      "startMs": 756780,
-      "endMs": 759020,
       "image": "sejarah-2/scene-179.jpg",
-      "words": 6
+      "startMs": 756800,
+      "endMs": 758740,
+      "durationMs": 1940,
+      "transition": "none",
+      "text": "Madinah yang terikat dalam perjanjian itu,"
     },
     {
+      "index": 180,
       "id": 180,
-      "startMs": 759020,
-      "endMs": 761680,
       "image": "sejarah-2/scene-180.jpg",
-      "words": 7
+      "startMs": 758740,
+      "endMs": 761700,
+      "durationMs": 2960,
+      "transition": "none",
+      "text": "apa pun latar belakang suku dan agamanya,"
     },
     {
+      "index": 181,
       "id": 181,
-      "startMs": 761680,
-      "endMs": 765960,
       "image": "sejarah-2/scene-181.jpg",
-      "words": 7
+      "startMs": 761700,
+      "endMs": 766030,
+      "durationMs": 4330,
+      "transition": "none",
+      "text": "merupakan satu kesatuan masyarakat yang disebut Ummah."
     },
     {
+      "index": 182,
       "id": 182,
-      "startMs": 765960,
-      "endMs": 771060,
       "image": "sejarah-2/scene-182.jpg",
-      "words": 8
+      "startMs": 766030,
+      "endMs": 771130,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "Setiap kelompok dijamin kebebasannya untuk menjalankan keyakinan agamanya."
     },
     {
+      "index": 183,
       "id": 183,
-      "startMs": 771060,
-      "endMs": 774090,
       "image": "sejarah-2/scene-183.jpg",
-      "words": 7
+      "startMs": 771130,
+      "endMs": 775970,
+      "durationMs": 4840,
+      "transition": "none",
+      "text": "Apabila Madinah diserang dari luar, semua pihak berkewajiban bahu-membahu"
     },
     {
+      "index": 184,
       "id": 184,
-      "startMs": 774090,
-      "endMs": 777540,
       "image": "sejarah-2/scene-184.jpg",
-      "words": 4
+      "startMs": 775970,
+      "endMs": 779950,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "mempertahankan kota. Tidak ada klan yang boleh bersekutu secara"
     },
     {
+      "index": 185,
       "id": 185,
-      "startMs": 777540,
-      "endMs": 783140,
       "image": "sejarah-2/scene-185.jpg",
-      "words": 13
+      "startMs": 779950,
+      "endMs": 783210,
+      "durationMs": 3260,
+      "transition": "none",
+      "text": "diam-diam dengan Quraisy yang memusuhi Madinah."
     },
     {
+      "index": 186,
       "id": 186,
-      "startMs": 783140,
-      "endMs": 786650,
       "image": "sejarah-2/scene-186.jpg",
-      "words": 8
+      "startMs": 783210,
+      "endMs": 786950,
+      "durationMs": 3740,
+      "transition": "none",
+      "text": "Dan jika terjadi perselisihan besar, perkara itu dibawa kepada"
     },
     {
+      "index": 187,
       "id": 187,
-      "startMs": 786650,
-      "endMs": 789770,
       "image": "sejarah-2/scene-187.jpg",
-      "words": 5
+      "startMs": 786950,
+      "endMs": 791660,
+      "durationMs": 4710,
+      "transition": "none",
+      "text": "Nabi Muhammad untuk diputuskan. Melalui Piagam Madinah,"
     },
     {
+      "index": 188,
       "id": 188,
-      "startMs": 789770,
-      "endMs": 795900,
       "image": "sejarah-2/scene-188.jpg",
-      "words": 12
+      "startMs": 791660,
+      "endMs": 795920,
+      "durationMs": 4260,
+      "transition": "none",
+      "text": "kelompok-kelompok yang berbeda keyakinan diakui sebagai bagian dari masyarakat"
     },
     {
+      "index": 189,
       "id": 189,
-      "startMs": 795900,
-      "endMs": 800100,
       "image": "sejarah-2/scene-189.jpg",
-      "words": 10
+      "startMs": 795920,
+      "endMs": 800120,
+      "durationMs": 4200,
+      "transition": "none",
+      "text": "yang sama, dengan hak dan perlindungan yang dijamin dalam perjanjian."
     },
     {
+      "index": 190,
       "id": 190,
-      "startMs": 800100,
-      "endMs": 804900,
       "image": "sejarah-2/scene-190.jpg",
-      "words": 9
+      "startMs": 800120,
+      "endMs": 804920,
+      "durationMs": 4800,
+      "transition": "none",
+      "text": "Para peneliti modern sering menyebutnya salah satu dokumen politik"
     },
     {
+      "index": 191,
       "id": 191,
-      "startMs": 804900,
-      "endMs": 810110,
       "image": "sejarah-2/scene-191.jpg",
-      "words": 9
+      "startMs": 804920,
+      "endMs": 810180,
+      "durationMs": 5260,
+      "transition": "none",
+      "text": "tertulis paling awal yang mengatur kehidupan bersama masyarakat majemuk,"
     },
     {
+      "index": 192,
       "id": 192,
-      "startMs": 810110,
-      "endMs": 816230,
       "image": "sejarah-2/scene-192.jpg",
-      "words": 11
+      "startMs": 810180,
+      "endMs": 812660,
+      "durationMs": 2480,
+      "transition": "none",
+      "text": "meski istilah seperti “konstitusi” dan “warga negara” adalah bahasa"
     },
     {
+      "index": 193,
       "id": 193,
-      "startMs": 816230,
-      "endMs": 819560,
       "image": "sejarah-2/scene-193.jpg",
-      "words": 7
+      "startMs": 812660,
+      "endMs": 819580,
+      "durationMs": 6920,
+      "transition": "none",
+      "text": "zaman sekarang, dan mereka juga masih berdiskusi mengenai kapan"
     },
     {
+      "index": 194,
       "id": 194,
-      "startMs": 819560,
-      "endMs": 822130,
       "image": "sejarah-2/scene-194.jpg",
-      "words": 4
+      "startMs": 819580,
+      "endMs": 824760,
+      "durationMs": 5180,
+      "transition": "none",
+      "text": "tepatnya naskah itu disusun. Perbedaan corak sosial antara Makkah"
     },
     {
+      "index": 195,
       "id": 195,
-      "startMs": 822130,
-      "endMs": 828855,
       "image": "sejarah-2/scene-195.jpg",
-      "words": 11
+      "startMs": 824760,
+      "endMs": 827960,
+      "durationMs": 3200,
+      "transition": "none",
+      "text": "pra-Islam dan Madinah kini terlihat nyata."
     },
     {
+      "index": 196,
       "id": 196,
-      "startMs": 828855,
-      "endMs": 832150,
       "image": "sejarah-2/scene-196.jpg",
-      "words": 6
+      "startMs": 827960,
+      "endMs": 832220,
+      "durationMs": 4260,
+      "transition": "none",
+      "text": "Di Makkah Jahiliyah, hukum rimba berkuasa."
     },
     {
+      "index": 197,
       "id": 197,
-      "startMs": 832150,
-      "endMs": 837190,
       "image": "sejarah-2/scene-197.jpg",
-      "words": 10
+      "startMs": 832220,
+      "endMs": 837260,
+      "durationMs": 5040,
+      "transition": "none",
+      "text": "Siapa yang kuat dan banyak sukunya, dialah yang menentukan keadaan."
     },
     {
+      "index": 198,
       "id": 198,
-      "startMs": 837190,
-      "endMs": 841340,
       "image": "sejarah-2/scene-198.jpg",
-      "words": 9
+      "startMs": 837260,
+      "endMs": 841360,
+      "durationMs": 4100,
+      "transition": "none",
+      "text": "Penindasan terhadap kaum lemah dan perempuan terjadi tanpa ada"
     },
     {
+      "index": 199,
       "id": 199,
-      "startMs": 841340,
-      "endMs": 847220,
       "image": "sejarah-2/scene-199.jpg",
-      "words": 11
+      "startMs": 841360,
+      "endMs": 845820,
+      "durationMs": 4460,
+      "transition": "none",
+      "text": "lembaga hukum yang membela, bahkan sebagian kabilah mengubur anak"
     },
     {
+      "index": 200,
       "id": 200,
-      "startMs": 847220,
-      "endMs": 849350,
       "image": "sejarah-2/scene-200.jpg",
-      "words": 4
+      "startMs": 845820,
+      "endMs": 849420,
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "perempuan hidup-hidup karena dipandang sebagai aib."
     },
     {
+      "index": 201,
       "id": 201,
-      "startMs": 849350,
-      "endMs": 854440,
       "image": "sejarah-2/scene-201.jpg",
-      "words": 9
+      "startMs": 849420,
+      "endMs": 854460,
+      "durationMs": 5040,
+      "transition": "none",
+      "text": "Sebaliknya di Madinah, kehidupan bermasyarakat mulai diatur oleh kesepakatan"
     },
     {
+      "index": 202,
       "id": 202,
-      "startMs": 854440,
-      "endMs": 858370,
       "image": "sejarah-2/scene-202.jpg",
-      "words": 7
+      "startMs": 854460,
+      "endMs": 858440,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "tertulis dan tuntunan agama yang menjunjung keadilan."
     },
     {
+      "index": 203,
       "id": 203,
-      "startMs": 858370,
-      "endMs": 862850,
       "image": "sejarah-2/scene-203.jpg",
-      "words": 9
+      "startMs": 858440,
+      "endMs": 862920,
+      "durationMs": 4480,
+      "transition": "none",
+      "text": "Kaum perempuan diberi hak kepemilikan harta pribadi, hak waris,"
     },
     {
+      "index": 204,
       "id": 204,
-      "startMs": 862850,
-      "endMs": 868140,
       "image": "sejarah-2/scene-204.jpg",
-      "words": 9
+      "startMs": 862920,
+      "endMs": 868160,
+      "durationMs": 5240,
+      "transition": "none",
+      "text": "serta perlindungan dalam pernikahan. Sistem perbudakan mulai dibatasi dan"
     },
     {
+      "index": 205,
       "id": 205,
-      "startMs": 868140,
-      "endMs": 872170,
       "image": "sejarah-2/scene-205.jpg",
-      "words": 8
+      "startMs": 868160,
+      "endMs": 872240,
+      "durationMs": 4080,
+      "transition": "none",
+      "text": "pembebasan budak didorong sebagai amal yang sangat utama."
     },
     {
+      "index": 206,
       "id": 206,
-      "startMs": 872170,
-      "endMs": 877550,
       "image": "sejarah-2/scene-206.jpg",
-      "words": 9
+      "startMs": 872240,
+      "endMs": 877620,
+      "durationMs": 5380,
+      "transition": "none",
+      "text": "Kesenjangan sosial dipersempit melalui ajaran zakat dan anjuran sedekah."
     },
     {
+      "index": 207,
       "id": 207,
-      "startMs": 877550,
-      "endMs": 884325,
       "image": "sejarah-2/scene-207.jpg",
-      "words": 14
+      "startMs": 877620,
+      "endMs": 881860,
+      "durationMs": 4240,
+      "transition": "none",
+      "text": "Watak sebagian masyarakat gurun yang semula mudah tersulut perang"
     },
     {
+      "index": 208,
       "id": 208,
-      "startMs": 884325,
-      "endMs": 888510,
       "image": "sejarah-2/scene-208.jpg",
-      "words": 5
+      "startMs": 881860,
+      "endMs": 888580,
+      "durationMs": 6720,
+      "transition": "none",
+      "text": "antarsuku dan memuja berhala batu, berangsur-angsur diarahkan menuju kebiasaan bermusyawarah,"
     },
     {
+      "index": 209,
       "id": 209,
-      "startMs": 888510,
-      "endMs": 893850,
       "image": "sejarah-2/scene-209.jpg",
-      "words": 9
+      "startMs": 888580,
+      "endMs": 893920,
+      "durationMs": 5340,
+      "transition": "none",
+      "text": "pengendalian diri, dan ikatan persaudaraan yang melampaui batas klan."
     },
     {
+      "index": 210,
       "id": 210,
-      "startMs": 893850,
-      "endMs": 900470,
       "image": "sejarah-2/scene-210.jpg",
-      "words": 13
+      "startMs": 893920,
+      "endMs": 898060,
+      "durationMs": 4140,
+      "transition": "none",
+      "text": "Perjalanan dari kesunyian Gua Hira menuju kota Madinah telah"
     },
     {
+      "index": 211,
       "id": 211,
-      "startMs": 900470,
-      "endMs": 904470,
       "image": "sejarah-2/scene-211.jpg",
-      "words": 10
+      "startMs": 898060,
+      "endMs": 902180,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "melahirkan tatanan sejarah baru. Dari satu orang yang menerima"
     },
     {
+      "index": 212,
       "id": 212,
-      "startMs": 904470,
-      "endMs": 906500,
       "image": "sejarah-2/scene-212.jpg",
-      "words": 4
+      "startMs": 902180,
+      "endMs": 904540,
+      "durationMs": 2360,
+      "transition": "none",
+      "text": "wahyu di puncak gunung batu, lahirlah sebuah masyarakat yang"
     },
     {
+      "index": 213,
       "id": 213,
-      "startMs": 906500,
-      "endMs": 909320,
       "image": "sejarah-2/scene-213.jpg",
-      "words": 4
+      "startMs": 904540,
+      "endMs": 908880,
+      "durationMs": 4340,
+      "transition": "none",
+      "text": "kelak menjadi mercusuar peradaban."
     }
   ]
 }

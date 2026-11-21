@@ -1,2158 +1,2697 @@
 {
-  "audioDurationMs": 818440,
   "audio": "roma/roma.wav",
+  "audioDurationMs": 818130,
+  "totalDurationMs": 818130,
   "scenes": [
     {
+      "index": 1,
       "id": 1,
+      "image": "roma/scene-1.jpg",
       "startMs": 0,
-      "endMs": 3520,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-1.jpg"
+      "endMs": 5420,
+      "durationMs": 5420,
+      "transition": "none",
+      "text": "Kekaisaran terbesar di dunia barat tidak dimulai dari istana"
     },
     {
+      "index": 2,
       "id": 2,
-      "startMs": 3520,
-      "endMs": 6440,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-2.jpg"
+      "image": "roma/scene-2.jpg",
+      "startMs": 5420,
+      "endMs": 6680,
+      "durationMs": 1260,
+      "transition": "none",
+      "text": "marmer emas, melainkan dari gundukan tanah lumpur"
     },
     {
+      "index": 3,
       "id": 3,
-      "startMs": 6440,
-      "endMs": 8990,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-3.jpg"
+      "image": "roma/scene-3.jpg",
+      "startMs": 6680,
+      "endMs": 9290,
+      "durationMs": 2610,
+      "transition": "none",
+      "text": "dan pondok jerami di tepi sungai."
     },
     {
+      "index": 4,
       "id": 4,
-      "startMs": 8990,
-      "endMs": 12050,
-      "matchRatio": 0.625,
-      "words": 8,
-      "image": "roma/scene-4.jpg"
+      "image": "roma/scene-4.jpg",
+      "startMs": 9290,
+      "endMs": 12500,
+      "durationMs": 3210,
+      "transition": "none",
+      "text": "Di atas lumpur itulah sekelompok peternak membangun parit,"
     },
     {
+      "index": 5,
       "id": 5,
-      "startMs": 12050,
-      "endMs": 16240,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-5.jpg"
+      "image": "roma/scene-5.jpg",
+      "startMs": 12500,
+      "endMs": 18290,
+      "durationMs": 5790,
+      "transition": "none",
+      "text": "menancapkan tombak, dan menyusun aturan tertulis pertama mereka."
     },
     {
+      "index": 6,
       "id": 6,
-      "startMs": 16240,
-      "endMs": 18680,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-6.jpg"
+      "image": "roma/scene-6.jpg",
+      "startMs": 18290,
+      "endMs": 19940,
+      "durationMs": 1650,
+      "transition": "none",
+      "text": "Bangsa lain datang dan pergi membawa pedang yang"
     },
     {
+      "index": 7,
       "id": 7,
-      "startMs": 18680,
-      "endMs": 21500,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-7.jpg"
+      "image": "roma/scene-7.jpg",
+      "startMs": 19940,
+      "endMs": 23920,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "lebih tajam, tapi peradaban ini membangun sesuatu"
     },
     {
+      "index": 8,
       "id": 8,
-      "startMs": 21500,
-      "endMs": 24940,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "roma/scene-8.jpg"
+      "image": "roma/scene-8.jpg",
+      "startMs": 23920,
+      "endMs": 25660,
+      "durationMs": 1740,
+      "transition": "none",
+      "text": "yang jauh lebih keras daripada besi, yaitu sistem hukum"
     },
     {
+      "index": 9,
       "id": 9,
-      "startMs": 24940,
-      "endMs": 27840,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-9.jpg"
+      "image": "roma/scene-9.jpg",
+      "startMs": 25660,
+      "endMs": 29260,
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "dan campuran batu yang sanggup bertahan ribuan tahun."
     },
     {
+      "index": 10,
       "id": 10,
-      "startMs": 27840,
-      "endMs": 31400,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-10.jpg"
+      "image": "roma/scene-10.jpg",
+      "startMs": 29260,
+      "endMs": 32920,
+      "durationMs": 3660,
+      "transition": "none",
+      "text": "Dari sebuah bukit kecil di Italia, kekuasaan ini"
     },
     {
+      "index": 11,
       "id": 11,
-      "startMs": 31400,
-      "endMs": 34720,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-11.jpg"
+      "image": "roma/scene-11.jpg",
+      "startMs": 32920,
+      "endMs": 34080,
+      "durationMs": 1160,
+      "transition": "none",
+      "text": "meluas mencaplok tiga benua dan menaungi puluhan"
     },
     {
+      "index": 12,
       "id": 12,
-      "startMs": 34720,
-      "endMs": 36150,
-      "matchRatio": 1,
-      "words": 2,
-      "image": "roma/scene-12.jpg"
+      "image": "roma/scene-12.jpg",
+      "startMs": 34080,
+      "endMs": 38250,
+      "durationMs": 4170,
+      "transition": "none",
+      "text": "juta manusia."
     },
     {
+      "index": 13,
       "id": 13,
-      "startMs": 36150,
+      "image": "roma/scene-13.jpg",
+      "startMs": 38250,
       "endMs": 39550,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-13.jpg"
+      "durationMs": 1300,
+      "transition": "none",
+      "text": "Bagaimana mungkin sebuah perkampungan gembala biasa bisa"
     },
     {
+      "index": 14,
       "id": 14,
+      "image": "roma/scene-14.jpg",
       "startMs": 39550,
-      "endMs": 42050,
-      "matchRatio": 1,
-      "words": 4,
-      "image": "roma/scene-14.jpg"
+      "endMs": 42570,
+      "durationMs": 3020,
+      "transition": "none",
+      "text": "menaklukkan seluruh daratan Mediterania?"
     },
     {
+      "index": 15,
       "id": 15,
-      "startMs": 42050,
-      "endMs": 45750,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-15.jpg"
+      "image": "roma/scene-15.jpg",
+      "startMs": 42570,
+      "endMs": 45850,
+      "durationMs": 3280,
+      "transition": "none",
+      "text": "Mengapa kekaisaran yang tampak abadi ini akhirnya pecah,"
     },
     {
+      "index": 16,
       "id": 16,
-      "startMs": 45750,
-      "endMs": 48350,
-      "matchRatio": 0.667,
-      "words": 6,
-      "image": "roma/scene-16.jpg"
+      "image": "roma/scene-16.jpg",
+      "startMs": 45850,
+      "endMs": 49410,
+      "durationMs": 3560,
+      "transition": "none",
+      "text": "runtuh, lalu lenyap dari peta dunia?"
     },
     {
+      "index": 17,
       "id": 17,
-      "startMs": 48350,
-      "endMs": 50370,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-17.jpg"
+      "image": "roma/scene-17.jpg",
+      "startMs": 49410,
+      "endMs": 50870,
+      "durationMs": 1460,
+      "transition": "none",
+      "text": "Dan mengapa cara hidup kita hari ini,"
     },
     {
+      "index": 18,
       "id": 18,
-      "startMs": 50370,
-      "endMs": 53130,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "roma/scene-18.jpg"
+      "image": "roma/scene-18.jpg",
+      "startMs": 50870,
+      "endMs": 53870,
+      "durationMs": 3000,
+      "transition": "none",
+      "text": "mulai dari gedung parlemen, kitab undang-undang,"
     },
     {
+      "index": 19,
       "id": 19,
-      "startMs": 53130,
-      "endMs": 55670,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-19.jpg"
+      "image": "roma/scene-19.jpg",
+      "startMs": 53870,
+      "endMs": 55950,
+      "durationMs": 2080,
+      "transition": "none",
+      "text": "sampai kalender di dinding, masih meniru cetak biru"
     },
     {
+      "index": 20,
       "id": 20,
-      "startMs": 55670,
-      "endMs": 58390,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-20.jpg"
+      "image": "roma/scene-20.jpg",
+      "startMs": 55950,
+      "endMs": 60370,
+      "durationMs": 4420,
+      "transition": "none",
+      "text": "yang mereka tinggalkan ribuan tahun lalu?"
     },
     {
+      "index": 21,
       "id": 21,
-      "startMs": 58390,
-      "endMs": 61810,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-21.jpg"
+      "image": "roma/scene-21.jpg",
+      "startMs": 60370,
+      "endMs": 63870,
+      "durationMs": 3500,
+      "transition": "none",
+      "text": "Ini adalah kisah bagaimana kota Roma menciptakan mesin"
     },
     {
+      "index": 22,
       "id": 22,
-      "startMs": 61810,
-      "endMs": 64830,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-22.jpg"
+      "image": "roma/scene-22.jpg",
+      "startMs": 63870,
+      "endMs": 65930,
+      "durationMs": 2060,
+      "transition": "none",
+      "text": "peradaban yang mengatur dunia, hancur oleh ambisinya"
     },
     {
+      "index": 23,
       "id": 23,
-      "startMs": 64830,
-      "endMs": 68810,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-23.jpg"
+      "image": "roma/scene-23.jpg",
+      "startMs": 65930,
+      "endMs": 69470,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "sendiri, namun cetak birunya menolak untuk mati."
     },
     {
+      "index": 24,
       "id": 24,
-      "startMs": 68810,
-      "endMs": 71452,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-24.jpg"
+      "image": "roma/scene-24.jpg",
+      "startMs": 69470,
+      "endMs": 72530,
+      "durationMs": 3060,
+      "transition": "none",
+      "text": "Cerita ini bermula pada tahun 753 Sebelum"
     },
     {
+      "index": 25,
       "id": 25,
-      "startMs": 71452,
-      "endMs": 74230,
-      "matchRatio": 0.571,
-      "words": 7,
-      "image": "roma/scene-25.jpg"
+      "image": "roma/scene-25.jpg",
+      "startMs": 72530,
+      "endMs": 74490,
+      "durationMs": 1960,
+      "transition": "none",
+      "text": "Masehi. Kata legenda, kota Roma didirikan oleh"
     },
     {
+      "index": 26,
       "id": 26,
-      "startMs": 74230,
+      "image": "roma/scene-26.jpg",
+      "startMs": 74490,
       "endMs": 76730,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-26.jpg"
+      "durationMs": 2240,
+      "transition": "none",
+      "text": "dua anak kembar bernama Romulus dan Remus yang"
     },
     {
+      "index": 27,
       "id": 27,
+      "image": "roma/scene-27.jpg",
       "startMs": 76730,
-      "endMs": 79350,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "roma/scene-27.jpg"
+      "endMs": 79710,
+      "durationMs": 2980,
+      "transition": "none",
+      "text": "dibesarkan oleh seekor serigala betina."
     },
     {
+      "index": 28,
       "id": 28,
-      "startMs": 79350,
-      "endMs": 81790,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-28.jpg"
+      "image": "roma/scene-28.jpg",
+      "startMs": 79710,
+      "endMs": 82270,
+      "durationMs": 2560,
+      "transition": "none",
+      "text": "Tentu saja, itu cuma cerita rakyat."
     },
     {
+      "index": 29,
       "id": 29,
-      "startMs": 81790,
-      "endMs": 83910,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-29.jpg"
+      "image": "roma/scene-29.jpg",
+      "startMs": 82270,
+      "endMs": 85750,
+      "durationMs": 3480,
+      "transition": "none",
+      "text": "Tidak ada yang tahu persis bagaimana hari pertama"
     },
     {
+      "index": 30,
       "id": 30,
-      "startMs": 83910,
+      "image": "roma/scene-30.jpg",
+      "startMs": 85750,
       "endMs": 87130,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-30.jpg"
+      "durationMs": 1380,
+      "transition": "none",
+      "text": "kota itu berdiri. Mungkin karena persatuan desa-desa"
     },
     {
+      "index": 31,
       "id": 31,
+      "image": "roma/scene-31.jpg",
       "startMs": 87130,
-      "endMs": 90890,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-31.jpg"
+      "endMs": 91310,
+      "durationMs": 4180,
+      "transition": "none",
+      "text": "petani lokal, mungkin karena kebutuhan menjaga perlintasan sungai."
     },
     {
+      "index": 32,
       "id": 32,
-      "startMs": 90890,
-      "endMs": 93450,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-32.jpg"
+      "image": "roma/scene-32.jpg",
+      "startMs": 91310,
+      "endMs": 93650,
+      "durationMs": 2340,
+      "transition": "none",
+      "text": "Yang kita tahu, Roma tumbuh di bawah kekuasaan"
     },
     {
+      "index": 33,
       "id": 33,
-      "startMs": 93450,
-      "endMs": 95370,
-      "matchRatio": 0.75,
-      "words": 4,
-      "image": "roma/scene-33.jpg"
+      "image": "roma/scene-33.jpg",
+      "startMs": 93650,
+      "endMs": 95790,
+      "durationMs": 2140,
+      "transition": "none",
+      "text": "tujuh raja secara bergantian."
     },
     {
+      "index": 34,
       "id": 34,
-      "startMs": 95370,
-      "endMs": 98570,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-34.jpg"
+      "image": "roma/scene-34.jpg",
+      "startMs": 95790,
+      "endMs": 98830,
+      "durationMs": 3040,
+      "transition": "none",
+      "text": "Tapi raja terakhir mereka, Tarquin si Sombong, memerintah"
     },
     {
+      "index": 35,
       "id": 35,
-      "startMs": 98570,
-      "endMs": 101390,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-35.jpg"
+      "image": "roma/scene-35.jpg",
+      "startMs": 98830,
+      "endMs": 101750,
+      "durationMs": 2920,
+      "transition": "none",
+      "text": "dengan kejam dan memicu kemarahan warga."
     },
     {
+      "index": 36,
       "id": 36,
-      "startMs": 101390,
+      "image": "roma/scene-36.jpg",
+      "startMs": 101750,
       "endMs": 104350,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-36.jpg"
+      "durationMs": 2600,
+      "transition": "none",
+      "text": "Pada tahun 509 Sebelum Masehi, bangsa Romawi"
     },
     {
+      "index": 37,
       "id": 37,
+      "image": "roma/scene-37.jpg",
       "startMs": 104350,
-      "endMs": 107130,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-37.jpg"
+      "endMs": 107480,
+      "durationMs": 3130,
+      "transition": "none",
+      "text": "mengusir raja itu dan bersumpah tidak akan pernah"
     },
     {
+      "index": 38,
       "id": 38,
-      "startMs": 107130,
-      "endMs": 109810,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "roma/scene-38.jpg"
+      "image": "roma/scene-38.jpg",
+      "startMs": 107480,
+      "endMs": 110170,
+      "durationMs": 2690,
+      "transition": "none",
+      "text": "lagi tunduk pada satu orang penguasa."
     },
     {
+      "index": 39,
       "id": 39,
-      "startMs": 109810,
-      "endMs": 113810,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-39.jpg"
+      "image": "roma/scene-39.jpg",
+      "startMs": 110170,
+      "endMs": 113910,
+      "durationMs": 3740,
+      "transition": "none",
+      "text": "Mereka menyebut sistem baru ini res publica. Artinya,"
     },
     {
+      "index": 40,
       "id": 40,
-      "startMs": 113810,
-      "endMs": 117130,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-40.jpg"
+      "image": "roma/scene-40.jpg",
+      "startMs": 113910,
+      "endMs": 117690,
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "urusan milik bersama atau pemerintahan republik."
     },
     {
+      "index": 41,
       "id": 41,
-      "startMs": 117130,
-      "endMs": 119930,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-41.jpg"
+      "image": "roma/scene-41.jpg",
+      "startMs": 117690,
+      "endMs": 120190,
+      "durationMs": 2500,
+      "transition": "none",
+      "text": "Supaya tidak ada orang yang bisa menjadi diktator,"
     },
     {
+      "index": 42,
       "id": 42,
-      "startMs": 119930,
-      "endMs": 123390,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-42.jpg"
+      "image": "roma/scene-42.jpg",
+      "startMs": 120190,
+      "endMs": 123490,
+      "durationMs": 3300,
+      "transition": "none",
+      "text": "mereka merancang mekanisme kekuasaan yang saling mengunci."
     },
     {
+      "index": 43,
       "id": 43,
-      "startMs": 123390,
+      "image": "roma/scene-43.jpg",
+      "startMs": 123490,
       "endMs": 125950,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-43.jpg"
+      "durationMs": 2460,
+      "transition": "none",
+      "text": "Sistem ini ibarat sebuah gerobak kayu yang ditarik"
     },
     {
+      "index": 44,
       "id": 44,
+      "image": "roma/scene-44.jpg",
       "startMs": 125950,
-      "endMs": 128070,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-44.jpg"
+      "endMs": 128850,
+      "durationMs": 2900,
+      "transition": "none",
+      "text": "oleh tiga orang dari tiga arah berbeda,"
     },
     {
+      "index": 45,
       "id": 45,
-      "startMs": 128070,
+      "image": "roma/scene-45.jpg",
+      "startMs": 128850,
       "endMs": 130250,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-45.jpg"
+      "durationMs": 1400,
+      "transition": "none",
+      "text": "sehingga tidak ada satu pihak pun yang bisa membawa"
     },
     {
+      "index": 46,
       "id": 46,
+      "image": "roma/scene-46.jpg",
       "startMs": 130250,
-      "endMs": 132510,
-      "matchRatio": 0.6,
-      "words": 5,
-      "image": "roma/scene-46.jpg"
+      "endMs": 132770,
+      "durationMs": 2520,
+      "transition": "none",
+      "text": "lari gerobak itu ke jurang."
     },
     {
+      "index": 47,
       "id": 47,
-      "startMs": 132510,
-      "endMs": 135570,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "roma/scene-47.jpg"
+      "image": "roma/scene-47.jpg",
+      "startMs": 132770,
+      "endMs": 135790,
+      "durationMs": 3020,
+      "transition": "none",
+      "text": "Di posisi depan ada dua orang pemimpin bernama konsul"
     },
     {
+      "index": 48,
       "id": 48,
-      "startMs": 135570,
-      "endMs": 139030,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "roma/scene-48.jpg"
+      "image": "roma/scene-48.jpg",
+      "startMs": 135790,
+      "endMs": 139250,
+      "durationMs": 3460,
+      "transition": "none",
+      "text": "yang dipilih setiap satu tahun sekali untuk memimpin tentara."
     },
     {
+      "index": 49,
       "id": 49,
-      "startMs": 139030,
-      "endMs": 141457,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-49.jpg"
+      "image": "roma/scene-49.jpg",
+      "startMs": 139250,
+      "endMs": 141610,
+      "durationMs": 2360,
+      "transition": "none",
+      "text": "Di samping ada Senat, yaitu dewan tetua kaum"
     },
     {
+      "index": 50,
       "id": 50,
-      "startMs": 141457,
-      "endMs": 144670,
-      "matchRatio": 0.9,
-      "words": 10,
-      "image": "roma/scene-50.jpg"
+      "image": "roma/scene-50.jpg",
+      "startMs": 141610,
+      "endMs": 144850,
+      "durationMs": 3240,
+      "transition": "none",
+      "text": "bangsawan kaya yang mengurus kas negara dan hubungan luar negeri."
     },
     {
+      "index": 51,
       "id": 51,
-      "startMs": 144670,
-      "endMs": 147990,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-51.jpg"
+      "image": "roma/scene-51.jpg",
+      "startMs": 144850,
+      "endMs": 147090,
+      "durationMs": 2240,
+      "transition": "none",
+      "text": "Di sisi lain ada majelis rakyat, tempat warga biasa"
     },
     {
+      "index": 52,
       "id": 52,
-      "startMs": 147990,
-      "endMs": 151760,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-52.jpg"
+      "image": "roma/scene-52.jpg",
+      "startMs": 147090,
+      "endMs": 152200,
+      "durationMs": 5110,
+      "transition": "none",
+      "text": "memberikan suara untuk menyetujui perang atau memilih pejabat."
     },
     {
+      "index": 53,
       "id": 53,
-      "startMs": 151760,
-      "endMs": 153900,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-53.jpg"
+      "image": "roma/scene-53.jpg",
+      "startMs": 152200,
+      "endMs": 154440,
+      "durationMs": 2240,
+      "transition": "none",
+      "text": "Tapi sistem ini awalnya sangat timpang."
     },
     {
+      "index": 54,
       "id": 54,
-      "startMs": 153900,
-      "endMs": 156700,
-      "matchRatio": 0.6,
-      "words": 5,
-      "image": "roma/scene-54.jpg"
+      "image": "roma/scene-54.jpg",
+      "startMs": 154440,
+      "endMs": 157100,
+      "durationMs": 2660,
+      "transition": "none",
+      "text": "Kaum bangsawan kaya menguasai pengadilan,"
     },
     {
+      "index": 55,
       "id": 55,
-      "startMs": 156700,
-      "endMs": 158960,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-55.jpg"
+      "image": "roma/scene-55.jpg",
+      "startMs": 157100,
+      "endMs": 159400,
+      "durationMs": 2300,
+      "transition": "none",
+      "text": "sementara rakyat jelata dipaksa pergi berperang"
     },
     {
+      "index": 56,
       "id": 56,
-      "startMs": 158960,
-      "endMs": 162640,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-56.jpg"
+      "image": "roma/scene-56.jpg",
+      "startMs": 159400,
+      "endMs": 162650,
+      "durationMs": 3250,
+      "transition": "none",
+      "text": "dan pulang dalam keadaan tanah mereka disita rentenir."
     },
     {
+      "index": 57,
       "id": 57,
-      "startMs": 162640,
-      "endMs": 164360,
-      "matchRatio": 0.8,
-      "words": 5,
-      "image": "roma/scene-57.jpg"
+      "image": "roma/scene-57.jpg",
+      "startMs": 162650,
+      "endMs": 164500,
+      "durationMs": 1850,
+      "transition": "none",
+      "text": "Rakyat biasa tidak tinggal diam."
     },
     {
+      "index": 58,
       "id": 58,
-      "startMs": 164360,
-      "endMs": 167180,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-58.jpg"
+      "image": "roma/scene-58.jpg",
+      "startMs": 164500,
+      "endMs": 167740,
+      "durationMs": 3240,
+      "transition": "none",
+      "text": "Mereka melakukan aksi mogok massal, keluar dari kota,"
     },
     {
+      "index": 59,
       "id": 59,
-      "startMs": 167180,
-      "endMs": 170520,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-59.jpg"
+      "image": "roma/scene-59.jpg",
+      "startMs": 167740,
+      "endMs": 170620,
+      "durationMs": 2880,
+      "transition": "none",
+      "text": "dan menolak bertempur jika hak mereka tidak dipenuhi."
     },
     {
+      "index": 60,
       "id": 60,
-      "startMs": 170520,
+      "image": "roma/scene-60.jpg",
+      "startMs": 170620,
       "endMs": 173840,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-60.jpg"
+      "durationMs": 3220,
+      "transition": "none",
+      "text": "Puncaknya terjadi pada tahun 287 Sebelum Masehi"
     },
     {
+      "index": 61,
       "id": 61,
+      "image": "roma/scene-61.jpg",
       "startMs": 173840,
-      "endMs": 176480,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "roma/scene-61.jpg"
+      "endMs": 177720,
+      "durationMs": 3880,
+      "transition": "none",
+      "text": "lewat sebuah aturan bernama Lex Hortensia."
     },
     {
+      "index": 62,
       "id": 62,
-      "startMs": 176480,
+      "image": "roma/scene-62.jpg",
+      "startMs": 177720,
       "endMs": 179340,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-62.jpg"
+      "durationMs": 1620,
+      "transition": "none",
+      "text": "Sejak saat itu, keputusan majelis rakyat jelata sah"
     },
     {
+      "index": 63,
       "id": 63,
+      "image": "roma/scene-63.jpg",
       "startMs": 179340,
-      "endMs": 182240,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-63.jpg"
+      "endMs": 183270,
+      "durationMs": 3930,
+      "transition": "none",
+      "text": "mengikat semua orang, termasuk para bangsawan paling kaya."
     },
     {
+      "index": 64,
       "id": 64,
-      "startMs": 182240,
-      "endMs": 186150,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-64.jpg"
+      "image": "roma/scene-64.jpg",
+      "startMs": 183270,
+      "endMs": 186710,
+      "durationMs": 3440,
+      "transition": "none",
+      "text": "Roma pun bersatu dan siap menatap dunia luar."
     },
     {
+      "index": 65,
       "id": 65,
-      "startMs": 186150,
-      "endMs": 189750,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-65.jpg"
+      "image": "roma/scene-65.jpg",
+      "startMs": 186710,
+      "endMs": 189870,
+      "durationMs": 3160,
+      "transition": "none",
+      "text": "Lalu datanglah ujian terberat mereka dari seberang lautan."
     },
     {
+      "index": 66,
       "id": 66,
-      "startMs": 189750,
-      "endMs": 192690,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-66.jpg"
+      "image": "roma/scene-66.jpg",
+      "startMs": 189870,
+      "endMs": 193530,
+      "durationMs": 3660,
+      "transition": "none",
+      "text": "Kartago, penguasa dagang terbesar di Afrika Utara,"
     },
     {
+      "index": 67,
       "id": 67,
-      "startMs": 192690,
-      "endMs": 195590,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-67.jpg"
+      "image": "roma/scene-67.jpg",
+      "startMs": 193530,
+      "endMs": 195970,
+      "durationMs": 2440,
+      "transition": "none",
+      "text": "bentrok dengan Roma dalam tiga babak perang panjang"
     },
     {
+      "index": 68,
       "id": 68,
-      "startMs": 195590,
-      "endMs": 198210,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-68.jpg"
+      "image": "roma/scene-68.jpg",
+      "startMs": 195970,
+      "endMs": 198670,
+      "durationMs": 2700,
+      "transition": "none",
+      "text": "yang kita kenal sebagai Perang Funisia."
     },
     {
+      "index": 69,
       "id": 69,
-      "startMs": 198210,
-      "endMs": 201290,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-69.jpg"
+      "image": "roma/scene-69.jpg",
+      "startMs": 198670,
+      "endMs": 202370,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "Pada tahun 218 Sebelum Masehi, jenderal legendaris"
     },
     {
+      "index": 70,
       "id": 70,
-      "startMs": 201290,
-      "endMs": 204010,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "roma/scene-70.jpg"
+      "image": "roma/scene-70.jpg",
+      "startMs": 202370,
+      "endMs": 204110,
+      "durationMs": 1740,
+      "transition": "none",
+      "text": "Hannibal melintasi pegunungan Alpen bersalju"
     },
     {
+      "index": 71,
       "id": 71,
-      "startMs": 204010,
-      "endMs": 205390,
-      "matchRatio": 0.667,
-      "words": 3,
-      "image": "roma/scene-71.jpg"
+      "image": "roma/scene-71.jpg",
+      "startMs": 204110,
+      "endMs": 206150,
+      "durationMs": 2040,
+      "transition": "none",
+      "text": "bersama gajah-gajah perangnya"
     },
     {
+      "index": 72,
       "id": 72,
-      "startMs": 205390,
-      "endMs": 209120,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-72.jpg"
+      "image": "roma/scene-72.jpg",
+      "startMs": 206150,
+      "endMs": 209960,
+      "durationMs": 3810,
+      "transition": "none",
+      "text": "dan menghabisi pasukan Romawi berkali-kali di tanah Italia."
     },
     {
+      "index": 73,
       "id": 73,
-      "startMs": 209120,
+      "image": "roma/scene-73.jpg",
+      "startMs": 209960,
       "endMs": 212020,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-73.jpg"
+      "durationMs": 2060,
+      "transition": "none",
+      "text": "Siapa pun akan menyerah jika kehilangan ratusan ribu"
     },
     {
+      "index": 74,
       "id": 74,
+      "image": "roma/scene-74.jpg",
       "startMs": 212020,
-      "endMs": 213840,
-      "matchRatio": 0.75,
-      "words": 4,
-      "image": "roma/scene-74.jpg"
+      "endMs": 214460,
+      "durationMs": 2440,
+      "transition": "none",
+      "text": "prajurit dalam hitungan tahun."
     },
     {
+      "index": 75,
       "id": 75,
-      "startMs": 213840,
-      "endMs": 216200,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-75.jpg"
+      "image": "roma/scene-75.jpg",
+      "startMs": 214460,
+      "endMs": 218040,
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "Tapi bangsa Romawi punya satu sifat keras kepala"
     },
     {
+      "index": 76,
       "id": 76,
-      "startMs": 216200,
-      "endMs": 220000,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-76.jpg"
+      "image": "roma/scene-76.jpg",
+      "startMs": 218040,
+      "endMs": 220410,
+      "durationMs": 2370,
+      "transition": "none",
+      "text": "yang luar biasa: mereka menolak berunding saat kalah."
     },
     {
+      "index": 77,
       "id": 77,
-      "startMs": 220000,
-      "endMs": 222020,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "roma/scene-77.jpg"
+      "image": "roma/scene-77.jpg",
+      "startMs": 220410,
+      "endMs": 222260,
+      "durationMs": 1850,
+      "transition": "none",
+      "text": "Setiap kali tentara mereka dihancurkan,"
     },
     {
+      "index": 78,
       "id": 78,
-      "startMs": 222020,
-      "endMs": 225620,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-78.jpg"
+      "image": "roma/scene-78.jpg",
+      "startMs": 222260,
+      "endMs": 225960,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "mereka memanggil ribuan petani baru untuk kembali berbaris."
     },
     {
+      "index": 79,
       "id": 79,
-      "startMs": 225620,
-      "endMs": 228920,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-79.jpg"
+      "image": "roma/scene-79.jpg",
+      "startMs": 225960,
+      "endMs": 230080,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "Pada tahun 146 Sebelum Masehi, Kartago akhirnya rata"
     },
     {
+      "index": 80,
       "id": 80,
-      "startMs": 228920,
-      "endMs": 232740,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-80.jpg"
+      "image": "roma/scene-80.jpg",
+      "startMs": 230080,
+      "endMs": 232910,
+      "durationMs": 2830,
+      "transition": "none",
+      "text": "dengan tanah. Roma resmi menjadi penguasa tunggal laut tengah."
     },
     {
+      "index": 81,
       "id": 81,
-      "startMs": 232740,
-      "endMs": 235260,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-81.jpg"
+      "image": "roma/scene-81.jpg",
+      "startMs": 232910,
+      "endMs": 235760,
+      "durationMs": 2850,
+      "transition": "none",
+      "text": "Kemenangan besar ini membawa kekayaan luar biasa,"
     },
     {
+      "index": 82,
       "id": 82,
-      "startMs": 235260,
+      "image": "roma/scene-82.jpg",
+      "startMs": 235760,
       "endMs": 237140,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-82.jpg"
+      "durationMs": 1380,
+      "transition": "none",
+      "text": "tapi juga membawa racun yang mematikan."
     },
     {
+      "index": 83,
       "id": 83,
+      "image": "roma/scene-83.jpg",
       "startMs": 237140,
-      "endMs": 239700,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-83.jpg"
+      "endMs": 239730,
+      "durationMs": 2590,
+      "transition": "none",
+      "text": "Tanah-tanah rampasan perang diborong oleh para elit"
     },
     {
+      "index": 84,
       "id": 84,
-      "startMs": 239700,
-      "endMs": 243100,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-84.jpg"
+      "image": "roma/scene-84.jpg",
+      "startMs": 239730,
+      "endMs": 243520,
+      "durationMs": 3790,
+      "transition": "none",
+      "text": "kaya untuk dijadikan ladang raksasa yang digarap oleh budak."
     },
     {
+      "index": 85,
       "id": 85,
-      "startMs": 243100,
-      "endMs": 245480,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-85.jpg"
+      "image": "roma/scene-85.jpg",
+      "startMs": 243520,
+      "endMs": 245980,
+      "durationMs": 2460,
+      "transition": "none",
+      "text": "Petani biasa bangkrut, kehilangan mata pencaharian,"
     },
     {
+      "index": 86,
       "id": 86,
-      "startMs": 245480,
-      "endMs": 248940,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-86.jpg"
+      "image": "roma/scene-86.jpg",
+      "startMs": 245980,
+      "endMs": 249300,
+      "durationMs": 3320,
+      "transition": "none",
+      "text": "dan membanjiri kota Roma sebagai pengangguran lapar."
     },
     {
+      "index": 87,
       "id": 87,
-      "startMs": 248940,
-      "endMs": 252250,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-87.jpg"
+      "image": "roma/scene-87.jpg",
+      "startMs": 249300,
+      "endMs": 251930,
+      "durationMs": 2630,
+      "transition": "none",
+      "text": "Di sinilah ceritanya berubah. Dulu, prajurit Romawi"
     },
     {
+      "index": 88,
       "id": 88,
-      "startMs": 252250,
+      "image": "roma/scene-88.jpg",
+      "startMs": 251930,
       "endMs": 255170,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-88.jpg"
+      "durationMs": 3240,
+      "transition": "none",
+      "text": "adalah petani yang memiliki tanah dan membiayai pedangnya sendiri."
     },
     {
+      "index": 89,
       "id": 89,
+      "image": "roma/scene-89.jpg",
       "startMs": 255170,
       "endMs": 258670,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-89.jpg"
+      "durationMs": 3500,
+      "transition": "none",
+      "text": "Sekitar tahun 107 Sebelum Masehi, seorang jenderal"
     },
     {
+      "index": 90,
       "id": 90,
+      "image": "roma/scene-90.jpg",
       "startMs": 258670,
-      "endMs": 260770,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "roma/scene-90.jpg"
+      "endMs": 261310,
+      "durationMs": 2640,
+      "transition": "none",
+      "text": "bernama Marius mulai merekrut warga miskin"
     },
     {
+      "index": 91,
       "id": 91,
-      "startMs": 260770,
-      "endMs": 263490,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-91.jpg"
+      "image": "roma/scene-91.jpg",
+      "startMs": 261310,
+      "endMs": 264050,
+      "durationMs": 2740,
+      "transition": "none",
+      "text": "yang tidak punya tanah ke dalam pasukannya."
     },
     {
+      "index": 92,
       "id": 92,
-      "startMs": 263490,
+      "image": "roma/scene-92.jpg",
+      "startMs": 264050,
       "endMs": 265590,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-92.jpg"
+      "durationMs": 1540,
+      "transition": "none",
+      "text": "Banyak orang mengira Marius seorang diri mengubah"
     },
     {
+      "index": 93,
       "id": 93,
+      "image": "roma/scene-93.jpg",
       "startMs": 265590,
-      "endMs": 269210,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-93.jpg"
+      "endMs": 269950,
+      "durationMs": 4360,
+      "transition": "none",
+      "text": "tentara petani menjadi tentara bayaran lewat satu gebrakan cepat."
     },
     {
+      "index": 94,
       "id": 94,
-      "startMs": 269210,
-      "endMs": 272170,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-94.jpg"
+      "image": "roma/scene-94.jpg",
+      "startMs": 269950,
+      "endMs": 272340,
+      "durationMs": 2390,
+      "transition": "none",
+      "text": "Tapi catatan sejarah modern membuktikan hal yang berbeda:"
     },
     {
+      "index": 95,
       "id": 95,
-      "startMs": 272170,
+      "image": "roma/scene-95.jpg",
+      "startMs": 272340,
       "endMs": 274510,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-95.jpg"
+      "durationMs": 2170,
+      "transition": "none",
+      "text": "perubahan itu sebenarnya berjalan lambat selama puluhan"
     },
     {
+      "index": 96,
       "id": 96,
+      "image": "roma/scene-96.jpg",
       "startMs": 274510,
-      "endMs": 277490,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-96.jpg"
+      "endMs": 278090,
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "tahun akibat kebutuhan perang yang tiada henti."
     },
     {
+      "index": 97,
       "id": 97,
-      "startMs": 277490,
-      "endMs": 280170,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-97.jpg"
+      "image": "roma/scene-97.jpg",
+      "startMs": 278090,
+      "endMs": 280710,
+      "durationMs": 2620,
+      "transition": "none",
+      "text": "Akibatnya tetap sama dan sangat berbahaya."
     },
     {
+      "index": 98,
       "id": 98,
-      "startMs": 280170,
-      "endMs": 282630,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-98.jpg"
+      "image": "roma/scene-98.jpg",
+      "startMs": 280710,
+      "endMs": 283530,
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "Prajurit miskin ini tidak lagi punya ladang untuk pulang."
     },
     {
+      "index": 99,
       "id": 99,
-      "startMs": 282630,
-      "endMs": 285810,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-99.jpg"
+      "image": "roma/scene-99.jpg",
+      "startMs": 283530,
+      "endMs": 286350,
+      "durationMs": 2820,
+      "transition": "none",
+      "text": "Mereka menggantungkan seluruh masa depan pensiun mereka"
     },
     {
+      "index": 100,
       "id": 100,
-      "startMs": 285810,
-      "endMs": 288570,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-100.jpg"
+      "image": "roma/scene-100.jpg",
+      "startMs": 286350,
+      "endMs": 289350,
+      "durationMs": 3000,
+      "transition": "none",
+      "text": "pada sang jenderal, bukan lagi pada negara."
     },
     {
+      "index": 101,
       "id": 101,
-      "startMs": 288570,
-      "endMs": 291570,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-101.jpg"
+      "image": "roma/scene-101.jpg",
+      "startMs": 289350,
+      "endMs": 291700,
+      "durationMs": 2350,
+      "transition": "none",
+      "text": "Ketika seorang jenderal menjanjikan tanah dan rampasan perang,"
     },
     {
+      "index": 102,
       "id": 102,
-      "startMs": 291570,
-      "endMs": 294430,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-102.jpg"
+      "image": "roma/scene-102.jpg",
+      "startMs": 291700,
+      "endMs": 294460,
+      "durationMs": 2760,
+      "transition": "none",
+      "text": "prajurit akan mematuhi jenderal itu meski diperintahkan"
     },
     {
+      "index": 103,
       "id": 103,
-      "startMs": 294430,
-      "endMs": 297470,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-103.jpg"
+      "image": "roma/scene-103.jpg",
+      "startMs": 294460,
+      "endMs": 296420,
+      "durationMs": 1960,
+      "transition": "none",
+      "text": "menyerang kota Roma sendiri. Tentara negara perlahan"
     },
     {
+      "index": 104,
       "id": 104,
-      "startMs": 297470,
-      "endMs": 299470,
-      "matchRatio": 1,
-      "words": 4,
-      "image": "roma/scene-104.jpg"
+      "image": "roma/scene-104.jpg",
+      "startMs": 296420,
+      "endMs": 299830,
+      "durationMs": 3410,
+      "transition": "none",
+      "text": "berubah menjadi tentara pribadi."
     },
     {
+      "index": 105,
       "id": 105,
-      "startMs": 299470,
-      "endMs": 302230,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-105.jpg"
+      "image": "roma/scene-105.jpg",
+      "startMs": 299830,
+      "endMs": 303510,
+      "durationMs": 3680,
+      "transition": "none",
+      "text": "Dan itu belum yang terburuk. Pada tahun 91"
     },
     {
+      "index": 106,
       "id": 106,
-      "startMs": 302230,
-      "endMs": 305090,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-106.jpg"
+      "image": "roma/scene-106.jpg",
+      "startMs": 303510,
+      "endMs": 305910,
+      "durationMs": 2400,
+      "transition": "none",
+      "text": "Sebelum Masehi, kota-kota sekutu di semenanjung Italia"
     },
     {
+      "index": 107,
       "id": 107,
-      "startMs": 305090,
-      "endMs": 308450,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-107.jpg"
+      "image": "roma/scene-107.jpg",
+      "startMs": 305910,
+      "endMs": 310330,
+      "durationMs": 4420,
+      "transition": "none",
+      "text": "yang selama ratusan tahun ikut berdarah-darah membela Roma"
     },
     {
+      "index": 108,
       "id": 108,
-      "startMs": 308450,
-      "endMs": 311290,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-108.jpg"
+      "image": "roma/scene-108.jpg",
+      "startMs": 310330,
+      "endMs": 311790,
+      "durationMs": 1460,
+      "transition": "none",
+      "text": "akhirnya memberontak. Mereka menuntut hak yang sama:"
     },
     {
+      "index": 109,
       "id": 109,
-      "startMs": 311290,
-      "endMs": 314170,
-      "matchRatio": 0.75,
-      "words": 4,
-      "image": "roma/scene-109.jpg"
+      "image": "roma/scene-109.jpg",
+      "startMs": 311790,
+      "endMs": 314350,
+      "durationMs": 2560,
+      "transition": "none",
+      "text": "kewarganegaraan penuh atau kemerdekaan."
     },
     {
+      "index": 110,
       "id": 110,
-      "startMs": 314170,
-      "endMs": 316490,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-110.jpg"
+      "image": "roma/scene-110.jpg",
+      "startMs": 314350,
+      "endMs": 316890,
+      "durationMs": 2540,
+      "transition": "none",
+      "text": "Perang saudara brutal ini memaksa Roma mengalah"
     },
     {
+      "index": 111,
       "id": 111,
-      "startMs": 316490,
-      "endMs": 319950,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-111.jpg"
+      "image": "roma/scene-111.jpg",
+      "startMs": 316890,
+      "endMs": 321910,
+      "durationMs": 5020,
+      "transition": "none",
+      "text": "dan memberikan status warga negara kepada hampir seluruh sekutu"
     },
     {
+      "index": 112,
       "id": 112,
-      "startMs": 319950,
+      "image": "roma/scene-112.jpg",
+      "startMs": 321910,
       "endMs": 323350,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-112.jpg"
+      "durationMs": 1440,
+      "transition": "none",
+      "text": "di Italia selatan. Warga bertambah banyak, tapi ketegangan"
     },
     {
+      "index": 113,
       "id": 113,
+      "image": "roma/scene-113.jpg",
       "startMs": 323350,
-      "endMs": 324830,
-      "matchRatio": 1,
-      "words": 4,
-      "image": "roma/scene-113.jpg"
+      "endMs": 326130,
+      "durationMs": 2780,
+      "transition": "none",
+      "text": "politik justru makin membara."
     },
     {
+      "index": 114,
       "id": 114,
-      "startMs": 324830,
-      "endMs": 327870,
-      "matchRatio": 0.667,
-      "words": 6,
-      "image": "roma/scene-114.jpg"
+      "image": "roma/scene-114.jpg",
+      "startMs": 326130,
+      "endMs": 328530,
+      "durationMs": 2400,
+      "transition": "none",
+      "text": "Para panglima perang mulai berebut kendali."
     },
     {
+      "index": 115,
       "id": 115,
-      "startMs": 327870,
+      "image": "roma/scene-115.jpg",
+      "startMs": 328530,
       "endMs": 330830,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-115.jpg"
+      "durationMs": 2300,
+      "transition": "none",
+      "text": "Sulla memimpin pasukannya merebut Roma, disusul pertarungan"
     },
     {
+      "index": 116,
       "id": 116,
+      "image": "roma/scene-116.jpg",
       "startMs": 330830,
-      "endMs": 333390,
-      "matchRatio": 0.75,
-      "words": 4,
-      "image": "roma/scene-116.jpg"
+      "endMs": 333830,
+      "durationMs": 3000,
+      "transition": "none",
+      "text": "sengit antara jenderal-jenderal ambisius."
     },
     {
+      "index": 117,
       "id": 117,
-      "startMs": 333390,
+      "image": "roma/scene-117.jpg",
+      "startMs": 333830,
       "endMs": 335970,
-      "matchRatio": 0.833,
-      "words": 6,
-      "image": "roma/scene-117.jpg"
+      "durationMs": 2140,
+      "transition": "none",
+      "text": "Hingga pada tahun 49 Sebelum Masehi,"
     },
     {
+      "index": 118,
       "id": 118,
+      "image": "roma/scene-118.jpg",
       "startMs": 335970,
-      "endMs": 339410,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-118.jpg"
+      "endMs": 340430,
+      "durationMs": 4460,
+      "transition": "none",
+      "text": "Julius Caesar membawa legiunnya menyeberangi sungai kecil Rubicon."
     },
     {
+      "index": 119,
       "id": 119,
-      "startMs": 339410,
-      "endMs": 343570,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-119.jpg"
+      "image": "roma/scene-119.jpg",
+      "startMs": 340430,
+      "endMs": 344730,
+      "durationMs": 4300,
+      "transition": "none",
+      "text": "Itu adalah batas wilayah terlarang bagi seorang komandan bersenjata."
     },
     {
+      "index": 120,
       "id": 120,
-      "startMs": 343570,
-      "endMs": 346250,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-120.jpg"
+      "image": "roma/scene-120.jpg",
+      "startMs": 344730,
+      "endMs": 346350,
+      "durationMs": 1620,
+      "transition": "none",
+      "text": "Langkah itu menyulut perang saudara berikutnya."
     },
     {
+      "index": 121,
       "id": 121,
-      "startMs": 346250,
-      "endMs": 348270,
-      "matchRatio": 0.8,
-      "words": 5,
-      "image": "roma/scene-121.jpg"
+      "image": "roma/scene-121.jpg",
+      "startMs": 346350,
+      "endMs": 348330,
+      "durationMs": 1980,
+      "transition": "none",
+      "text": "Caesar keluar sebagai pemenang tunggal"
     },
     {
+      "index": 122,
       "id": 122,
-      "startMs": 348270,
-      "endMs": 350850,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-122.jpg"
+      "image": "roma/scene-122.jpg",
+      "startMs": 348330,
+      "endMs": 353310,
+      "durationMs": 4980,
+      "transition": "none",
+      "text": "dan diangkat menjadi diktator seumur hidup pada tahun"
     },
     {
+      "index": 123,
       "id": 123,
-      "startMs": 350850,
-      "endMs": 354310,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-123.jpg"
+      "image": "roma/scene-123.jpg",
+      "startMs": 353310,
+      "endMs": 354550,
+      "durationMs": 1240,
+      "transition": "none",
+      "text": "44 Sebelum Masehi. Para senator yang takut republik"
     },
     {
+      "index": 124,
       "id": 124,
-      "startMs": 354310,
-      "endMs": 356830,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-124.jpg"
+      "image": "roma/scene-124.jpg",
+      "startMs": 354550,
+      "endMs": 358570,
+      "durationMs": 4020,
+      "transition": "none",
+      "text": "akan lenyap menikam Caesar di ruang dewan pada"
     },
     {
+      "index": 125,
       "id": 125,
-      "startMs": 356830,
-      "endMs": 359590,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-125.jpg"
+      "image": "roma/scene-125.jpg",
+      "startMs": 358570,
+      "endMs": 360210,
+      "durationMs": 1640,
+      "transition": "none",
+      "text": "tanggal 15 Maret. Tapi membunuh sang diktator"
     },
     {
+      "index": 126,
       "id": 126,
-      "startMs": 359590,
-      "endMs": 362850,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-126.jpg"
+      "image": "roma/scene-126.jpg",
+      "startMs": 360210,
+      "endMs": 363170,
+      "durationMs": 2960,
+      "transition": "none",
+      "text": "ternyata tidak menyelamatkan republik. Kematian Caesar justru"
     },
     {
+      "index": 127,
       "id": 127,
-      "startMs": 362850,
-      "endMs": 366020,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-127.jpg"
+      "image": "roma/scene-127.jpg",
+      "startMs": 363170,
+      "endMs": 366360,
+      "durationMs": 3190,
+      "transition": "none",
+      "text": "memicu perang saudara baru yang lebih berdarah."
     },
     {
+      "index": 128,
       "id": 128,
-      "startMs": 366020,
-      "endMs": 368600,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-128.jpg"
+      "image": "roma/scene-128.jpg",
+      "startMs": 366360,
+      "endMs": 369080,
+      "durationMs": 2720,
+      "transition": "none",
+      "text": "Kita sekarang tiba di titik balik terbesar sekitar tahun"
     },
     {
+      "index": 129,
       "id": 129,
-      "startMs": 368600,
-      "endMs": 371684,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-129.jpg"
+      "image": "roma/scene-129.jpg",
+      "startMs": 369080,
+      "endMs": 371520,
+      "durationMs": 2440,
+      "transition": "none",
+      "text": "27 Sebelum Masehi. Republik tua yang berusia lima"
     },
     {
+      "index": 130,
       "id": 130,
-      "startMs": 371684,
-      "endMs": 375260,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-130.jpg"
+      "image": "roma/scene-130.jpg",
+      "startMs": 371520,
+      "endMs": 374160,
+      "durationMs": 2640,
+      "transition": "none",
+      "text": "ratus tahun resmi berakhir. Seluruh dunia Mediterania"
     },
     {
+      "index": 131,
       "id": 131,
-      "startMs": 375260,
-      "endMs": 377580,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-131.jpg"
+      "image": "roma/scene-131.jpg",
+      "startMs": 374160,
+      "endMs": 378660,
+      "durationMs": 4500,
+      "transition": "none",
+      "text": "kini berada di bawah genggaman satu anak muda:"
     },
     {
+      "index": 132,
       "id": 132,
-      "startMs": 377580,
-      "endMs": 381980,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-132.jpg"
+      "image": "roma/scene-132.jpg",
+      "startMs": 378660,
+      "endMs": 383800,
+      "durationMs": 5140,
+      "transition": "none",
+      "text": "Oktavianus, anak angkat Caesar. Oktavianus belajar dari nasib"
     },
     {
+      "index": 133,
       "id": 133,
-      "startMs": 381980,
-      "endMs": 384900,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-133.jpg"
+      "image": "roma/scene-133.jpg",
+      "startMs": 383800,
+      "endMs": 386200,
+      "durationMs": 2400,
+      "transition": "none",
+      "text": "tragis ayahnya. Dia tidak pernah menyebut dirinya raja"
     },
     {
+      "index": 134,
       "id": 134,
-      "startMs": 384900,
-      "endMs": 388340,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-134.jpg"
+      "image": "roma/scene-134.jpg",
+      "startMs": 386200,
+      "endMs": 387580,
+      "durationMs": 1380,
+      "transition": "none",
+      "text": "atau diktator. Dia memilih gelar sederhana, princeps."
     },
     {
+      "index": 135,
       "id": 135,
-      "startMs": 388340,
-      "endMs": 391740,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-135.jpg"
+      "image": "roma/scene-135.jpg",
+      "startMs": 387580,
+      "endMs": 393550,
+      "durationMs": 5970,
+      "transition": "none",
+      "text": "Artinya, warga negara nomor satu. Senat memberinya nama"
     },
     {
+      "index": 136,
       "id": 136,
-      "startMs": 391740,
-      "endMs": 395740,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-136.jpg"
+      "image": "roma/scene-136.jpg",
+      "startMs": 393550,
+      "endMs": 396440,
+      "durationMs": 2890,
+      "transition": "none",
+      "text": "kehormatan Augustus. Sistem ini tampak seperti republik lama,"
     },
     {
+      "index": 137,
       "id": 137,
-      "startMs": 395740,
-      "endMs": 399560,
-      "matchRatio": 1,
-      "words": 10,
-      "image": "roma/scene-137.jpg"
+      "image": "roma/scene-137.jpg",
+      "startMs": 396440,
+      "endMs": 400180,
+      "durationMs": 3740,
+      "transition": "none",
+      "text": "namun seluruh kendali militer dan hukum mutlak berada di tangannya."
     },
     {
+      "index": 138,
       "id": 138,
-      "startMs": 399560,
+      "image": "roma/scene-138.jpg",
+      "startMs": 400180,
       "endMs": 402500,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-138.jpg"
+      "durationMs": 2320,
+      "transition": "none",
+      "text": "Augustus paham bahwa kekuasaannya hanya akan bertahan jika"
     },
     {
+      "index": 139,
       "id": 139,
+      "image": "roma/scene-139.jpg",
       "startMs": 402500,
-      "endMs": 405680,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-139.jpg"
+      "endMs": 405200,
+      "durationMs": 2700,
+      "transition": "none",
+      "text": "tentara tidak lagi memberontak. Maka, dia menciptakan"
     },
     {
+      "index": 140,
       "id": 140,
-      "startMs": 405680,
-      "endMs": 409200,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-140.jpg"
+      "image": "roma/scene-140.jpg",
+      "startMs": 405200,
+      "endMs": 409360,
+      "durationMs": 4160,
+      "transition": "none",
+      "text": "mekanisme baru bernama kas militer atau aerarium militare"
     },
     {
+      "index": 141,
       "id": 141,
-      "startMs": 409200,
-      "endMs": 412640,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-141.jpg"
+      "image": "roma/scene-141.jpg",
+      "startMs": 409360,
+      "endMs": 412000,
+      "durationMs": 2640,
+      "transition": "none",
+      "text": "pada tahun 6 Masehi. Mekanismenya sederhana: negara memungut"
     },
     {
+      "index": 142,
       "id": 142,
-      "startMs": 412640,
+      "image": "roma/scene-142.jpg",
+      "startMs": 412000,
       "endMs": 415600,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-142.jpg"
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "pajak warisan lima persen dan pajak penjualan barang lelang"
     },
     {
+      "index": 143,
       "id": 143,
+      "image": "roma/scene-143.jpg",
       "startMs": 415600,
       "endMs": 418460,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-143.jpg"
+      "durationMs": 2860,
+      "transition": "none",
+      "text": "satu persen, khusus untuk membiayai uang pensiun tunai"
     },
     {
+      "index": 144,
       "id": 144,
+      "image": "roma/scene-144.jpg",
       "startMs": 418460,
-      "endMs": 421100,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-144.jpg"
+      "endMs": 422160,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "bagi prajurit yang telah bertugas belasan tahun."
     },
     {
+      "index": 145,
       "id": 145,
-      "startMs": 421100,
+      "image": "roma/scene-145.jpg",
+      "startMs": 422160,
       "endMs": 423500,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-145.jpg"
+      "durationMs": 1340,
+      "transition": "none",
+      "text": "Dengan begitu, prajurit tidak perlu lagi berharap pada"
     },
     {
+      "index": 146,
       "id": 146,
+      "image": "roma/scene-146.jpg",
       "startMs": 423500,
-      "endMs": 426580,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-146.jpg"
+      "endMs": 427060,
+      "durationMs": 3560,
+      "transition": "none",
+      "text": "belas kasihan jenderal mereka untuk mendapatkan tanah rampasan."
     },
     {
+      "index": 147,
       "id": 147,
-      "startMs": 426580,
-      "endMs": 430080,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-147.jpg"
+      "image": "roma/scene-147.jpg",
+      "startMs": 427060,
+      "endMs": 430220,
+      "durationMs": 3160,
+      "transition": "none",
+      "text": "Kesetiaan militer berhasil dikunci langsung ke tangan kaisar."
     },
     {
+      "index": 148,
       "id": 148,
-      "startMs": 430080,
-      "endMs": 432720,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-148.jpg"
+      "image": "roma/scene-148.jpg",
+      "startMs": 430220,
+      "endMs": 433560,
+      "durationMs": 3340,
+      "transition": "none",
+      "text": "Langkah ini melahirkan era kestabilan selama dua abad"
     },
     {
+      "index": 149,
       "id": 149,
-      "startMs": 432720,
-      "endMs": 436080,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-149.jpg"
+      "image": "roma/scene-149.jpg",
+      "startMs": 433560,
+      "endMs": 437580,
+      "durationMs": 4020,
+      "transition": "none",
+      "text": "yang disebut Pax Romana, atau Perdamaian Romawi."
     },
     {
+      "index": 150,
       "id": 150,
-      "startMs": 436080,
-      "endMs": 439060,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-150.jpg"
+      "image": "roma/scene-150.jpg",
+      "startMs": 437580,
+      "endMs": 440580,
+      "durationMs": 3000,
+      "transition": "none",
+      "text": "Perdagangan berkembang pesat dari gurun Suriah sampai perbukitan"
     },
     {
+      "index": 151,
       "id": 151,
-      "startMs": 439060,
-      "endMs": 441920,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-151.jpg"
+      "image": "roma/scene-151.jpg",
+      "startMs": 440580,
+      "endMs": 442600,
+      "durationMs": 2020,
+      "transition": "none",
+      "text": "basah di Inggris. Mereka menyatukan dunia luas ini"
     },
     {
+      "index": 152,
       "id": 152,
-      "startMs": 441920,
-      "endMs": 445420,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-152.jpg"
+      "image": "roma/scene-152.jpg",
+      "startMs": 442600,
+      "endMs": 445580,
+      "durationMs": 2980,
+      "transition": "none",
+      "text": "bukan hanya dengan senjata, melainkan dengan batu dan semen."
     },
     {
+      "index": 153,
       "id": 153,
-      "startMs": 445420,
-      "endMs": 449240,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-153.jpg"
+      "image": "roma/scene-153.jpg",
+      "startMs": 445580,
+      "endMs": 448460,
+      "durationMs": 2880,
+      "transition": "none",
+      "text": "Mekanisme pembangunan mereka sangat cemerlang. Para insinyur Romawi"
     },
     {
+      "index": 154,
       "id": 154,
-      "startMs": 449240,
-      "endMs": 452080,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-154.jpg"
+      "image": "roma/scene-154.jpg",
+      "startMs": 448460,
+      "endMs": 452360,
+      "durationMs": 3900,
+      "transition": "none",
+      "text": "mencampurkan abu gunung berapi dari kawasan Teluk Napoli"
     },
     {
+      "index": 155,
       "id": 155,
-      "startMs": 452080,
-      "endMs": 455000,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-155.jpg"
+      "image": "roma/scene-155.jpg",
+      "startMs": 452360,
+      "endMs": 455620,
+      "durationMs": 3260,
+      "transition": "none",
+      "text": "dengan kapur tohor dan pecahan batu. Campuran yang"
     },
     {
+      "index": 156,
       "id": 156,
-      "startMs": 455000,
-      "endMs": 457980,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-156.jpg"
+      "image": "roma/scene-156.jpg",
+      "startMs": 455620,
+      "endMs": 459460,
+      "durationMs": 3840,
+      "transition": "none",
+      "text": "mereka sebut beton hidrolik ini punya sifat ajaib:"
     },
     {
+      "index": 157,
       "id": 157,
-      "startMs": 457980,
+      "image": "roma/scene-157.jpg",
+      "startMs": 459460,
       "endMs": 461240,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-157.jpg"
+      "durationMs": 1780,
+      "transition": "none",
+      "text": "alih-alih rusak tergerus air, beton ini justru makin"
     },
     {
+      "index": 158,
       "id": 158,
+      "image": "roma/scene-158.jpg",
       "startMs": 461240,
-      "endMs": 464420,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-158.jpg"
+      "endMs": 466300,
+      "durationMs": 5060,
+      "transition": "none",
+      "text": "mengeras ketika terendam air laut dan sanggup menutup"
     },
     {
+      "index": 159,
       "id": 159,
-      "startMs": 464420,
-      "endMs": 468180,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-159.jpg"
+      "image": "roma/scene-159.jpg",
+      "startMs": 466300,
+      "endMs": 468940,
+      "durationMs": 2640,
+      "transition": "none",
+      "text": "retakannya sendiri. Lewat beton inilah mereka membangun lebih"
     },
     {
+      "index": 160,
       "id": 160,
-      "startMs": 468180,
-      "endMs": 471180,
-      "matchRatio": 0.5,
-      "words": 8,
-      "image": "roma/scene-160.jpg"
+      "image": "roma/scene-160.jpg",
+      "startMs": 468940,
+      "endMs": 471500,
+      "durationMs": 2560,
+      "transition": "none",
+      "text": "dari delapan puluh ribu kilometer jalan beraspal batu,"
     },
     {
+      "index": 161,
       "id": 161,
-      "startMs": 471180,
-      "endMs": 473740,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-161.jpg"
+      "image": "roma/scene-161.jpg",
+      "startMs": 471500,
+      "endMs": 474280,
+      "durationMs": 2780,
+      "transition": "none",
+      "text": "saluran air akuaduk megah yang menembus bukit,"
     },
     {
+      "index": 162,
       "id": 162,
-      "startMs": 473740,
+      "image": "roma/scene-162.jpg",
+      "startMs": 474280,
       "endMs": 476560,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-162.jpg"
+      "durationMs": 2280,
+      "transition": "none",
+      "text": "serta kubah beton raksasa kuil Pantheon yang masih"
     },
     {
+      "index": 163,
       "id": 163,
+      "image": "roma/scene-163.jpg",
       "startMs": 476560,
-      "endMs": 478860,
-      "matchRatio": 1,
-      "words": 5,
-      "image": "roma/scene-163.jpg"
+      "endMs": 480060,
+      "durationMs": 3500,
+      "transition": "none",
+      "text": "kokoh berdiri hingga detik ini."
     },
     {
+      "index": 164,
       "id": 164,
-      "startMs": 478860,
-      "endMs": 481900,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-164.jpg"
+      "image": "roma/scene-164.jpg",
+      "startMs": 480060,
+      "endMs": 482540,
+      "durationMs": 2480,
+      "transition": "none",
+      "text": "Tapi tidak semua orang ikut menikmati kemakmuran ini."
     },
     {
+      "index": 165,
       "id": 165,
-      "startMs": 481900,
+      "image": "roma/scene-165.jpg",
+      "startMs": 482540,
       "endMs": 484800,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-165.jpg"
+      "durationMs": 2260,
+      "transition": "none",
+      "text": "Kemegahan kota Roma ditopang oleh jutaan budak"
     },
     {
+      "index": 166,
       "id": 166,
+      "image": "roma/scene-166.jpg",
       "startMs": 484800,
-      "endMs": 488380,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-166.jpg"
+      "endMs": 488540,
+      "durationMs": 3740,
+      "transition": "none",
+      "text": "belian dan pemerasan pajak provinsi yang tanpa ampun."
     },
     {
+      "index": 167,
       "id": 167,
-      "startMs": 488380,
-      "endMs": 491920,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-167.jpg"
+      "image": "roma/scene-167.jpg",
+      "startMs": 488540,
+      "endMs": 492090,
+      "durationMs": 3550,
+      "transition": "none",
+      "text": "Pemberontakan di daerah jajahan ditumpas dengan sangat kejam."
     },
     {
+      "index": 168,
       "id": 168,
-      "startMs": 491920,
+      "image": "roma/scene-168.jpg",
+      "startMs": 492090,
       "endMs": 494620,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-168.jpg"
+      "durationMs": 2530,
+      "transition": "none",
+      "text": "Hukum pun makin berat sebelah: bangsawan kaya hanya"
     },
     {
+      "index": 169,
       "id": 169,
+      "image": "roma/scene-169.jpg",
       "startMs": 494620,
-      "endMs": 497780,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-169.jpg"
+      "endMs": 498040,
+      "durationMs": 3420,
+      "transition": "none",
+      "text": "membayar denda, sementara rakyat jelata bisa dihukum cambuk"
     },
     {
+      "index": 170,
       "id": 170,
-      "startMs": 497780,
-      "endMs": 498820,
-      "matchRatio": 1,
-      "words": 4,
-      "image": "roma/scene-170.jpg"
+      "image": "roma/scene-170.jpg",
+      "startMs": 498040,
+      "endMs": 501680,
+      "durationMs": 3640,
+      "transition": "none",
+      "text": "untuk kesalahan yang sama."
     },
     {
+      "index": 171,
       "id": 171,
-      "startMs": 498820,
-      "endMs": 502880,
-      "matchRatio": 0.571,
-      "words": 7,
-      "image": "roma/scene-171.jpg"
+      "image": "roma/scene-171.jpg",
+      "startMs": 501680,
+      "endMs": 504720,
+      "durationMs": 3040,
+      "transition": "none",
+      "text": "Pada tahun 212 Masehi, Kaisar Caracalla mengeluarkan"
     },
     {
+      "index": 172,
       "id": 172,
-      "startMs": 502880,
-      "endMs": 506360,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-172.jpg"
+      "image": "roma/scene-172.jpg",
+      "startMs": 504720,
+      "endMs": 506460,
+      "durationMs": 1740,
+      "transition": "none",
+      "text": "maklumat penting. Semua orang merdeka di seluruh kekaisaran"
     },
     {
+      "index": 173,
       "id": 173,
-      "startMs": 506360,
-      "endMs": 509620,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-173.jpg"
+      "image": "roma/scene-173.jpg",
+      "startMs": 506460,
+      "endMs": 508900,
+      "durationMs": 2440,
+      "transition": "none",
+      "text": "resmi dijadikan warga negara Romawi. Tindakan ini tampak"
     },
     {
+      "index": 174,
       "id": 174,
-      "startMs": 509620,
+      "image": "roma/scene-174.jpg",
+      "startMs": 508900,
       "endMs": 512620,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-174.jpg"
+      "durationMs": 3720,
+      "transition": "none",
+      "text": "mulia, tapi tujuannya sangat praktis: memperluas tarikan"
     },
     {
+      "index": 175,
       "id": 175,
+      "image": "roma/scene-175.jpg",
       "startMs": 512620,
-      "endMs": 515860,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-175.jpg"
+      "endMs": 517220,
+      "durationMs": 4600,
+      "transition": "none",
+      "text": "pajak dan mengisi kas negara yang mulai kempis."
     },
     {
+      "index": 176,
       "id": 176,
-      "startMs": 515860,
-      "endMs": 518640,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-176.jpg"
+      "image": "roma/scene-176.jpg",
+      "startMs": 517220,
+      "endMs": 519440,
+      "durationMs": 2220,
+      "transition": "none",
+      "text": "Kekaisaran sudah terlalu tambun untuk diatur dari satu"
     },
     {
+      "index": 177,
       "id": 177,
-      "startMs": 518640,
-      "endMs": 523280,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-177.jpg"
+      "image": "roma/scene-177.jpg",
+      "startMs": 519440,
+      "endMs": 523380,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "meja. Antara tahun 235 sampai 284 Masehi,"
     },
     {
+      "index": 178,
       "id": 178,
-      "startMs": 523280,
-      "endMs": 526420,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-178.jpg"
+      "image": "roma/scene-178.jpg",
+      "startMs": 523380,
+      "endMs": 525750,
+      "durationMs": 2370,
+      "transition": "none",
+      "text": "Roma dilanda Krisis Abad Ketiga. Terjadi puluhan"
     },
     {
+      "index": 179,
       "id": 179,
-      "startMs": 526420,
-      "endMs": 529400,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-179.jpg"
+      "image": "roma/scene-179.jpg",
+      "startMs": 525750,
+      "endMs": 529960,
+      "durationMs": 4210,
+      "transition": "none",
+      "text": "kudeta militer kilat, wabah penyakit menyapu kota-kota,"
     },
     {
+      "index": 180,
       "id": 180,
-      "startMs": 529400,
+      "image": "roma/scene-180.jpg",
+      "startMs": 529960,
       "endMs": 532000,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-180.jpg"
+      "durationMs": 2040,
+      "transition": "none",
+      "text": "dan uang koin perak mereka terus dicetak dengan"
     },
     {
+      "index": 181,
       "id": 181,
+      "image": "roma/scene-181.jpg",
       "startMs": 532000,
-      "endMs": 535220,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-181.jpg"
+      "endMs": 535800,
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "kadar logam yang makin tipis hingga kehilangan nilainya."
     },
     {
+      "index": 182,
       "id": 182,
-      "startMs": 535220,
+      "image": "roma/scene-182.jpg",
+      "startMs": 535800,
       "endMs": 538480,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-182.jpg"
+      "durationMs": 2680,
+      "transition": "none",
+      "text": "Kaisar Diocletian yang naik takhta pada tahun 284"
     },
     {
+      "index": 183,
       "id": 183,
+      "image": "roma/scene-183.jpg",
       "startMs": 538480,
       "endMs": 542080,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-183.jpg"
+      "durationMs": 3600,
+      "transition": "none",
+      "text": "Masehi memutuskan untuk membongkar total sistem lama. Dia"
     },
     {
+      "index": 184,
       "id": 184,
+      "image": "roma/scene-184.jpg",
       "startMs": 542080,
-      "endMs": 545260,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-184.jpg"
+      "endMs": 546860,
+      "durationMs": 4780,
+      "transition": "none",
+      "text": "meninggalkan gelar warga biasa dan menuntut disembah layaknya"
     },
     {
+      "index": 185,
       "id": 185,
-      "startMs": 545260,
+      "image": "roma/scene-185.jpg",
+      "startMs": 546860,
       "endMs": 548480,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-185.jpg"
+      "durationMs": 1620,
+      "transition": "none",
+      "text": "raja mutlak. Karena wilayah kekaisaran mustahil dijaga"
     },
     {
+      "index": 186,
       "id": 186,
+      "image": "roma/scene-186.jpg",
       "startMs": 548480,
-      "endMs": 551600,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-186.jpg"
+      "endMs": 551700,
+      "durationMs": 3220,
+      "transition": "none",
+      "text": "satu orang, dia membagi kepemimpinan menjadi dua bagian:"
     },
     {
+      "index": 187,
       "id": 187,
-      "startMs": 551600,
-      "endMs": 554420,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-187.jpg"
+      "image": "roma/scene-187.jpg",
+      "startMs": 551700,
+      "endMs": 556560,
+      "durationMs": 4860,
+      "transition": "none",
+      "text": "wilayah Barat yang berbahasa Latin dan wilayah Timur yang"
     },
     {
+      "index": 188,
       "id": 188,
-      "startMs": 554420,
-      "endMs": 557720,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-188.jpg"
+      "image": "roma/scene-188.jpg",
+      "startMs": 556560,
+      "endMs": 557750,
+      "durationMs": 1190,
+      "transition": "none",
+      "text": "berbahasa Yunani. Pemisahan ini makin tegas saat Kaisar"
     },
     {
+      "index": 189,
       "id": 189,
-      "startMs": 557720,
-      "endMs": 561320,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-189.jpg"
+      "image": "roma/scene-189.jpg",
+      "startMs": 557750,
+      "endMs": 561470,
+      "durationMs": 3720,
+      "transition": "none",
+      "text": "Konstantinus memindahkan pusat pemerintahan ke kota baru di timur,"
     },
     {
+      "index": 190,
       "id": 190,
-      "startMs": 561320,
-      "endMs": 565520,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-190.jpg"
+      "image": "roma/scene-190.jpg",
+      "startMs": 561470,
+      "endMs": 564660,
+      "durationMs": 3190,
+      "transition": "none",
+      "text": "Konstantinopel, pada tahun 330 Masehi. Wilayah Timur sangat"
     },
     {
+      "index": 191,
       "id": 191,
-      "startMs": 565520,
-      "endMs": 568540,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-191.jpg"
+      "image": "roma/scene-191.jpg",
+      "startMs": 564660,
+      "endMs": 570720,
+      "durationMs": 6060,
+      "transition": "none",
+      "text": "makmur, punya jalur dagang ramai, dan kas negara"
     },
     {
+      "index": 192,
       "id": 192,
-      "startMs": 568540,
+      "image": "roma/scene-192.jpg",
+      "startMs": 570720,
       "endMs": 572640,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-192.jpg"
+      "durationMs": 1920,
+      "transition": "none",
+      "text": "melimpah. Sebaliknya, wilayah Barat miskin, terbebani biaya"
     },
     {
+      "index": 193,
       "id": 193,
+      "image": "roma/scene-193.jpg",
       "startMs": 572640,
-      "endMs": 575570,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-193.jpg"
+      "endMs": 575320,
+      "durationMs": 2680,
+      "transition": "none",
+      "text": "tentara, dan terus dihantam gelombang migrasi suku-suku"
     },
     {
+      "index": 194,
       "id": 194,
-      "startMs": 575570,
-      "endMs": 578660,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-194.jpg"
+      "image": "roma/scene-194.jpg",
+      "startMs": 575320,
+      "endMs": 579120,
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "Jermanik yang menyeberangi perbatasan. Satu per satu"
     },
     {
+      "index": 195,
       "id": 195,
-      "startMs": 578660,
-      "endMs": 581680,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-195.jpg"
+      "image": "roma/scene-195.jpg",
+      "startMs": 579120,
+      "endMs": 580900,
+      "durationMs": 1780,
+      "transition": "none",
+      "text": "provinsi barat lepas kendali. Hingga pada tahun 476"
     },
     {
+      "index": 196,
       "id": 196,
-      "startMs": 581680,
-      "endMs": 585720,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-196.jpg"
+      "image": "roma/scene-196.jpg",
+      "startMs": 580900,
+      "endMs": 586500,
+      "durationMs": 5600,
+      "transition": "none",
+      "text": "Masehi, seorang komandan prajurit bernama Odoaker mencopot"
     },
     {
+      "index": 197,
       "id": 197,
-      "startMs": 585720,
-      "endMs": 589660,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-197.jpg"
+      "image": "roma/scene-197.jpg",
+      "startMs": 586500,
+      "endMs": 588850,
+      "durationMs": 2350,
+      "transition": "none",
+      "text": "kaisar belia di barat, Romulus Augustulus. Odoaker tidak"
     },
     {
+      "index": 198,
       "id": 198,
-      "startMs": 589660,
-      "endMs": 592420,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-198.jpg"
+      "image": "roma/scene-198.jpg",
+      "startMs": 588850,
+      "endMs": 591480,
+      "durationMs": 2630,
+      "transition": "none",
+      "text": "mengangkat kaisar baru di Italia; dia mengirimkan mahkota"
     },
     {
+      "index": 199,
       "id": 199,
-      "startMs": 592420,
-      "endMs": 596300,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-199.jpg"
+      "image": "roma/scene-199.jpg",
+      "startMs": 591480,
+      "endMs": 595440,
+      "durationMs": 3960,
+      "transition": "none",
+      "text": "dan jubah kekaisaran kembali ke Konstantinopel. Kerajaan-kerajaan baru"
     },
     {
+      "index": 200,
       "id": 200,
-      "startMs": 596300,
-      "endMs": 599960,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-200.jpg"
+      "image": "roma/scene-200.jpg",
+      "startMs": 595440,
+      "endMs": 600940,
+      "durationMs": 5500,
+      "transition": "none",
+      "text": "bermunculan di atas tanah bekas Romawi Barat. Orang"
     },
     {
+      "index": 201,
       "id": 201,
-      "startMs": 599960,
-      "endMs": 602700,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-201.jpg"
+      "image": "roma/scene-201.jpg",
+      "startMs": 600940,
+      "endMs": 604400,
+      "durationMs": 3460,
+      "transition": "none",
+      "text": "sering mengira sejarah Romawi tamat di tahun 476"
     },
     {
+      "index": 202,
       "id": 202,
-      "startMs": 602700,
+      "image": "roma/scene-202.jpg",
+      "startMs": 604400,
       "endMs": 606120,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-202.jpg"
+      "durationMs": 1720,
+      "transition": "none",
+      "text": "itu. Padahal, saudara kembar mereka di timur, yang"
     },
     {
+      "index": 203,
       "id": 203,
+      "image": "roma/scene-203.jpg",
       "startMs": 606120,
-      "endMs": 608960,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-203.jpg"
+      "endMs": 609820,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "kelak sering kita sebut Kekaisaran Bizantium, masih terus"
     },
     {
+      "index": 204,
       "id": 204,
-      "startMs": 608960,
-      "endMs": 612360,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-204.jpg"
+      "image": "roma/scene-204.jpg",
+      "startMs": 609820,
+      "endMs": 614360,
+      "durationMs": 4540,
+      "transition": "none",
+      "text": "bertahan, berperang, dan mengibarkan panji-panji Romawi selama"
     },
     {
+      "index": 205,
       "id": 205,
-      "startMs": 612360,
-      "endMs": 615560,
-      "matchRatio": 0.625,
-      "words": 8,
-      "image": "roma/scene-205.jpg"
+      "image": "roma/scene-205.jpg",
+      "startMs": 614360,
+      "endMs": 616580,
+      "durationMs": 2220,
+      "transition": "none",
+      "text": "hampir seribu tahun berikutnya. Mereka menyusun ulang undang-undang"
     },
     {
+      "index": 206,
       "id": 206,
-      "startMs": 615560,
+      "image": "roma/scene-206.jpg",
+      "startMs": 616580,
       "endMs": 618980,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-206.jpg"
+      "durationMs": 2400,
+      "transition": "none",
+      "text": "klasik lewat kitab hukum Kaisar Yustinianus dan menata"
     },
     {
+      "index": 207,
       "id": 207,
+      "image": "roma/scene-207.jpg",
       "startMs": 618980,
-      "endMs": 622680,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-207.jpg"
+      "endMs": 621280,
+      "durationMs": 2300,
+      "transition": "none",
+      "text": "tentaranya menjadi wilayah pertahanan petani mandiri. Napas panjang"
     },
     {
+      "index": 208,
       "id": 208,
-      "startMs": 622680,
-      "endMs": 626084,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-208.jpg"
+      "image": "roma/scene-208.jpg",
+      "startMs": 621280,
+      "endMs": 628080,
+      "durationMs": 6800,
+      "transition": "none",
+      "text": "itu baru benar-benar terhenti pada tanggal 29 Mei"
     },
     {
+      "index": 209,
       "id": 209,
-      "startMs": 626084,
+      "image": "roma/scene-209.jpg",
+      "startMs": 628080,
       "endMs": 629920,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-209.jpg"
+      "durationMs": 1840,
+      "transition": "none",
+      "text": "1453, ketika meriam pasukan Turki Usmani berhasil menjebol"
     },
     {
+      "index": 210,
       "id": 210,
+      "image": "roma/scene-210.jpg",
       "startMs": 629920,
-      "endMs": 634000,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-210.jpg"
+      "endMs": 635640,
+      "durationMs": 5720,
+      "transition": "none",
+      "text": "dinding kokoh Konstantinopel. Kekaisaran politik Romawi akhirnya resmi"
     },
     {
+      "index": 211,
       "id": 211,
-      "startMs": 634000,
-      "endMs": 635420,
-      "matchRatio": 1,
-      "words": 2,
-      "image": "roma/scene-211.jpg"
+      "image": "roma/scene-211.jpg",
+      "startMs": 635640,
+      "endMs": 636280,
+      "durationMs": 640,
+      "transition": "none",
+      "text": "padam selamanya."
     },
     {
+      "index": 212,
       "id": 212,
-      "startMs": 635420,
-      "endMs": 637920,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-212.jpg"
+      "image": "roma/scene-212.jpg",
+      "startMs": 636280,
+      "endMs": 638060,
+      "durationMs": 1780,
+      "transition": "none",
+      "text": "Lalu, kalau barat sudah hancur di masa kuno"
     },
     {
+      "index": 213,
       "id": 213,
-      "startMs": 637920,
-      "endMs": 639780,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-213.jpg"
+      "image": "roma/scene-213.jpg",
+      "startMs": 638060,
+      "endMs": 640320,
+      "durationMs": 2260,
+      "transition": "none",
+      "text": "dan timur sudah ditaklukkan oleh bangsa Turki,"
     },
     {
+      "index": 214,
       "id": 214,
-      "startMs": 639780,
-      "endMs": 642420,
-      "matchRatio": 0.556,
-      "words": 9,
-      "image": "roma/scene-214.jpg"
+      "image": "roma/scene-214.jpg",
+      "startMs": 640320,
+      "endMs": 643600,
+      "durationMs": 3280,
+      "transition": "none",
+      "text": "dari mana sebenarnya asal kota Roma yang kita lihat"
     },
     {
+      "index": 215,
       "id": 215,
-      "startMs": 642420,
-      "endMs": 643500,
-      "matchRatio": 1,
-      "words": 2,
-      "image": "roma/scene-215.jpg"
-    },
-    {
-      "id": 216,
-      "startMs": 643500,
+      "image": "roma/scene-215.jpg",
+      "startMs": 643600,
       "endMs": 645840,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-216.jpg"
+      "durationMs": 2240,
+      "transition": "none",
+      "text": "hari ini?"
     },
     {
-      "id": 217,
+      "index": 216,
+      "id": 216,
+      "image": "roma/scene-216.jpg",
       "startMs": 645840,
-      "endMs": 648980,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-217.jpg"
+      "endMs": 647180,
+      "durationMs": 1340,
+      "transition": "none",
+      "text": "Jawabannya ada pada pergeseran kekuasaan di semenanjung"
     },
     {
+      "index": 217,
+      "id": 217,
+      "image": "roma/scene-217.jpg",
+      "startMs": 647180,
+      "endMs": 649600,
+      "durationMs": 2420,
+      "transition": "none",
+      "text": "Italia. Ketika kekaisaran barat runtuh di tahun 476,"
+    },
+    {
+      "index": 218,
       "id": 218,
-      "startMs": 648980,
-      "endMs": 652420,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "roma/scene-218.jpg"
+      "image": "roma/scene-218.jpg",
+      "startMs": 649600,
+      "endMs": 652580,
+      "durationMs": 2980,
+      "transition": "none",
+      "text": "kota Roma tidak langsung lenyap dari bumi, tapi kota"
     },
     {
+      "index": 219,
       "id": 219,
-      "startMs": 652420,
-      "endMs": 655520,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-219.jpg"
+      "image": "roma/scene-219.jpg",
+      "startMs": 652580,
+      "endMs": 655570,
+      "durationMs": 2990,
+      "transition": "none",
+      "text": "ini hancur, telantar, dan jumlah penduduknya merosot"
     },
     {
+      "index": 220,
       "id": 220,
-      "startMs": 655520,
+      "image": "roma/scene-220.jpg",
+      "startMs": 655570,
       "endMs": 658060,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-220.jpg"
+      "durationMs": 2490,
+      "transition": "none",
+      "text": "tajam dari sejuta jiwa menjadi puluhan ribu orang"
     },
     {
+      "index": 221,
       "id": 221,
+      "image": "roma/scene-221.jpg",
       "startMs": 658060,
-      "endMs": 661160,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-221.jpg"
+      "endMs": 661180,
+      "durationMs": 3120,
+      "transition": "none",
+      "text": "saja di antara puing-puing bangunan tua. Di tengah"
     },
     {
+      "index": 222,
       "id": 222,
-      "startMs": 661160,
+      "image": "roma/scene-222.jpg",
+      "startMs": 661180,
       "endMs": 663720,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-222.jpg"
+      "durationMs": 2540,
+      "transition": "none",
+      "text": "kekacauan itu, tidak ada lagi kaisar atau tentara"
     },
     {
+      "index": 223,
       "id": 223,
+      "image": "roma/scene-223.jpg",
       "startMs": 663720,
-      "endMs": 666280,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-223.jpg"
+      "endMs": 667340,
+      "durationMs": 3620,
+      "transition": "none",
+      "text": "kekaisaran yang melindungi warga dari serbuan suku-suku"
     },
     {
+      "index": 224,
       "id": 224,
-      "startMs": 666280,
+      "image": "roma/scene-224.jpg",
+      "startMs": 667340,
       "endMs": 669560,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-224.jpg"
+      "durationMs": 2220,
+      "transition": "none",
+      "text": "baru. Satu-satunya lembaga yang masih berdiri kokoh dan"
     },
     {
+      "index": 225,
       "id": 225,
+      "image": "roma/scene-225.jpg",
       "startMs": 669560,
       "endMs": 673360,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-225.jpg"
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "punya wibawa administratif hanyalah Gereja, yang dipimpin oleh"
     },
     {
+      "index": 226,
       "id": 226,
+      "image": "roma/scene-226.jpg",
       "startMs": 673360,
-      "endMs": 676520,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-226.jpg"
+      "endMs": 676780,
+      "durationMs": 3420,
+      "transition": "none",
+      "text": "Uskup Roma atau yang kita kenal sebagai Paus."
     },
     {
+      "index": 227,
       "id": 227,
-      "startMs": 676520,
-      "endMs": 679560,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-227.jpg"
+      "image": "roma/scene-227.jpg",
+      "startMs": 676780,
+      "endMs": 679900,
+      "durationMs": 3120,
+      "transition": "none",
+      "text": "Para Paus terpaksa mengambil alih peran pemerintah sipil:"
     },
     {
+      "index": 228,
       "id": 228,
-      "startMs": 679560,
-      "endMs": 683300,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-228.jpg"
+      "image": "roma/scene-228.jpg",
+      "startMs": 679900,
+      "endMs": 683400,
+      "durationMs": 3500,
+      "transition": "none",
+      "text": "mereka mengatur pembagian gandum, memperbaiki saluran air,"
     },
     {
+      "index": 229,
       "id": 229,
-      "startMs": 683300,
-      "endMs": 686340,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-229.jpg"
+      "image": "roma/scene-229.jpg",
+      "startMs": 683400,
+      "endMs": 687100,
+      "durationMs": 3700,
+      "transition": "none",
+      "text": "memungut pajak lokal, dan berunding dengan para penyerbu."
     },
     {
+      "index": 230,
       "id": 230,
-      "startMs": 686340,
-      "endMs": 689280,
-      "matchRatio": 0.857,
-      "words": 7,
-      "image": "roma/scene-230.jpg"
+      "image": "roma/scene-230.jpg",
+      "startMs": 687100,
+      "endMs": 690200,
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "Puncaknya pada abad ke-8, penguasa Frank bernama"
     },
     {
+      "index": 231,
       "id": 231,
-      "startMs": 689280,
-      "endMs": 692220,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-231.jpg"
+      "image": "roma/scene-231.jpg",
+      "startMs": 690200,
+      "endMs": 694080,
+      "durationMs": 3880,
+      "transition": "none",
+      "text": "Pippin menyerahkan wilayah kekuasaan nyata di Italia tengah"
     },
     {
+      "index": 232,
       "id": 232,
-      "startMs": 692220,
+      "image": "roma/scene-232.jpg",
+      "startMs": 694080,
       "endMs": 696000,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-232.jpg"
+      "durationMs": 1920,
+      "transition": "none",
+      "text": "kepada Paus. Sejak saat itu, Paus resmi menjadi"
     },
     {
+      "index": 233,
       "id": 233,
+      "image": "roma/scene-233.jpg",
       "startMs": 696000,
-      "endMs": 699380,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-233.jpg"
+      "endMs": 699530,
+      "durationMs": 3530,
+      "transition": "none",
+      "text": "penguasa politik sekuler atas sebuah negara bernama Negara"
     },
     {
+      "index": 234,
       "id": 234,
-      "startMs": 699380,
-      "endMs": 702660,
-      "matchRatio": 0.714,
-      "words": 7,
-      "image": "roma/scene-234.jpg"
+      "image": "roma/scene-234.jpg",
+      "startMs": 699530,
+      "endMs": 703660,
+      "durationMs": 4130,
+      "transition": "none",
+      "text": "Kepausan, dengan kota Roma sebagai ibu kotanya."
     },
     {
+      "index": 235,
       "id": 235,
-      "startMs": 702660,
-      "endMs": 705980,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-235.jpg"
+      "image": "roma/scene-235.jpg",
+      "startMs": 703660,
+      "endMs": 706760,
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "Selama lebih dari seribu tahun berikutnya, semenanjung Italia"
     },
     {
+      "index": 236,
       "id": 236,
-      "startMs": 705980,
+      "image": "roma/scene-236.jpg",
+      "startMs": 706760,
       "endMs": 709340,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-236.jpg"
+      "durationMs": 2580,
+      "transition": "none",
+      "text": "tidak pernah menjadi satu negara, melainkan terpecah-pecah menjadi"
     },
     {
+      "index": 237,
       "id": 237,
+      "image": "roma/scene-237.jpg",
       "startMs": 709340,
-      "endMs": 712600,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-237.jpg"
+      "endMs": 713120,
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "kerajaan kecil dan kota dagang yang saling bersaing,"
     },
     {
+      "index": 238,
       "id": 238,
-      "startMs": 712600,
-      "endMs": 715580,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "roma/scene-238.jpg"
+      "image": "roma/scene-238.jpg",
+      "startMs": 713120,
+      "endMs": 716140,
+      "durationMs": 3020,
+      "transition": "none",
+      "text": "sementara kota Roma tetap berada di bawah kendali mutlak"
     },
     {
+      "index": 239,
       "id": 239,
-      "startMs": 715580,
-      "endMs": 720130,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-239.jpg"
+      "image": "roma/scene-239.jpg",
+      "startMs": 716140,
+      "endMs": 720610,
+      "durationMs": 4470,
+      "transition": "none",
+      "text": "tahta kepausan. Keadaan ini bertahan sampai abad ke-19,"
     },
     {
+      "index": 240,
       "id": 240,
-      "startMs": 720130,
-      "endMs": 723270,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-240.jpg"
+      "image": "roma/scene-240.jpg",
+      "startMs": 720610,
+      "endMs": 723530,
+      "durationMs": 2920,
+      "transition": "none",
+      "text": "ketika bangsa Italia bangkit untuk menyatukan seluruh semenanjung"
     },
     {
+      "index": 241,
       "id": 241,
-      "startMs": 723270,
-      "endMs": 727390,
-      "matchRatio": 1,
-      "words": 7,
-      "image": "roma/scene-241.jpg"
+      "image": "roma/scene-241.jpg",
+      "startMs": 723530,
+      "endMs": 727490,
+      "durationMs": 3960,
+      "transition": "none",
+      "text": "menjadi satu negara modern. Pada tahun 1870,"
     },
     {
+      "index": 242,
       "id": 242,
-      "startMs": 727390,
+      "image": "roma/scene-242.jpg",
+      "startMs": 727490,
       "endMs": 730270,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-242.jpg"
+      "durationMs": 2780,
+      "transition": "none",
+      "text": "pasukan nasional Italia berhasil mendobrak gerbang Roma dan"
     },
     {
+      "index": 243,
       "id": 243,
+      "image": "roma/scene-243.jpg",
       "startMs": 730270,
-      "endMs": 733530,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-243.jpg"
+      "endMs": 735560,
+      "durationMs": 5290,
+      "transition": "none",
+      "text": "mengakhiri kekuasaan politik Paus yang sudah berjalan seribu"
     },
     {
+      "index": 244,
       "id": 244,
-      "startMs": 733530,
+      "image": "roma/scene-244.jpg",
+      "startMs": 735560,
       "endMs": 737000,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-244.jpg"
+      "durationMs": 1440,
+      "transition": "none",
+      "text": "tahun. Roma kemudian dinobatkan menjadi ibu kota resmi"
     },
     {
+      "index": 245,
       "id": 245,
+      "image": "roma/scene-245.jpg",
       "startMs": 737000,
-      "endMs": 740540,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-245.jpg"
+      "endMs": 740020,
+      "durationMs": 3020,
+      "transition": "none",
+      "text": "negara Italia yang baru bersatu. Kekuasaan wilayah Paus"
     },
     {
+      "index": 246,
       "id": 246,
-      "startMs": 740540,
-      "endMs": 744040,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-246.jpg"
+      "image": "roma/scene-246.jpg",
+      "startMs": 740020,
+      "endMs": 747140,
+      "durationMs": 7120,
+      "transition": "none",
+      "text": "menciut drastis, hingga akhirnya ditetapkan batas wilayah tetap"
     },
     {
+      "index": 247,
       "id": 247,
-      "startMs": 744040,
-      "endMs": 748460,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-247.jpg"
+      "image": "roma/scene-247.jpg",
+      "startMs": 747140,
+      "endMs": 748880,
+      "durationMs": 1740,
+      "transition": "none",
+      "text": "pada tahun 1929: sebuah negara kota mandiri seluas"
     },
     {
+      "index": 248,
       "id": 248,
-      "startMs": 748460,
-      "endMs": 750720,
-      "matchRatio": 0.667,
-      "words": 9,
-      "image": "roma/scene-248.jpg"
+      "image": "roma/scene-248.jpg",
+      "startMs": 748880,
+      "endMs": 753500,
+      "durationMs": 4620,
+      "transition": "none",
+      "text": "beberapa blok jalan di tengah kota Roma yang kita"
     },
     {
+      "index": 249,
       "id": 249,
-      "startMs": 750720,
-      "endMs": 754690,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-249.jpg"
+      "image": "roma/scene-249.jpg",
+      "startMs": 753500,
+      "endMs": 754580,
+      "durationMs": 1080,
+      "transition": "none",
+      "text": "kenal sebagai Vatikan. Dari rantai sejarah inilah kota"
     },
     {
+      "index": 250,
       "id": 250,
-      "startMs": 754690,
+      "image": "roma/scene-250.jpg",
+      "startMs": 754580,
       "endMs": 758160,
-      "matchRatio": 0.889,
-      "words": 9,
-      "image": "roma/scene-250.jpg"
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "Roma hari ini berdiri: sebuah ibu kota negara republik"
     },
     {
+      "index": 251,
       "id": 251,
+      "image": "roma/scene-251.jpg",
       "startMs": 758160,
-      "endMs": 761240,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-251.jpg"
+      "endMs": 763340,
+      "durationMs": 5180,
+      "transition": "none",
+      "text": "modern, yang di jantungnya masih menampung pusat rohani"
     },
     {
+      "index": 252,
       "id": 252,
-      "startMs": 761240,
-      "endMs": 765220,
-      "matchRatio": 0.875,
-      "words": 8,
-      "image": "roma/scene-252.jpg"
+      "image": "roma/scene-252.jpg",
+      "startMs": 763340,
+      "endMs": 766980,
+      "durationMs": 3640,
+      "transition": "none",
+      "text": "tertua di dunia. Kekaisarannya memang telah terkubur belasan"
     },
     {
+      "index": 253,
       "id": 253,
-      "startMs": 765220,
+      "image": "roma/scene-253.jpg",
+      "startMs": 766980,
       "endMs": 768160,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-253.jpg"
+      "durationMs": 1180,
+      "transition": "none",
+      "text": "abad yang lalu, tetapi cetak birunya tidak pernah"
     },
     {
+      "index": 254,
       "id": 254,
+      "image": "roma/scene-254.jpg",
       "startMs": 768160,
-      "endMs": 771540,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-254.jpg"
+      "endMs": 771340,
+      "durationMs": 3180,
+      "transition": "none",
+      "text": "berhenti mengatur napas hidup kita hari ini. Setiap kali"
     },
     {
+      "index": 255,
       "id": 255,
-      "startMs": 771540,
+      "image": "roma/scene-255.jpg",
+      "startMs": 771340,
       "endMs": 775020,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "roma/scene-255.jpg"
+      "durationMs": 3680,
+      "transition": "none",
+      "text": "sebuah negara modern menyebut dirinya republik dan mendudukkan wakil"
     },
     {
+      "index": 256,
       "id": 256,
+      "image": "roma/scene-256.jpg",
       "startMs": 775020,
-      "endMs": 777760,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-256.jpg"
+      "endMs": 777500,
+      "durationMs": 2480,
+      "transition": "none",
+      "text": "rakyatnya di dewan bernama Senat, mereka sedang memakai"
     },
     {
+      "index": 257,
       "id": 257,
-      "startMs": 777760,
-      "endMs": 780910,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-257.jpg"
+      "image": "roma/scene-257.jpg",
+      "startMs": 777500,
+      "endMs": 780970,
+      "durationMs": 3470,
+      "transition": "none",
+      "text": "model yang dirancang di atas bukit Tiber. Setiap"
     },
     {
+      "index": 258,
       "id": 258,
-      "startMs": 780910,
-      "endMs": 784290,
-      "matchRatio": 0.778,
-      "words": 9,
-      "image": "roma/scene-258.jpg"
+      "image": "roma/scene-258.jpg",
+      "startMs": 780970,
+      "endMs": 786180,
+      "durationMs": 5210,
+      "transition": "none",
+      "text": "kali hakim di pengadilan memutuskan perkara berdasarkan kitab undang-undang"
     },
     {
+      "index": 259,
       "id": 259,
-      "startMs": 784290,
-      "endMs": 787390,
-      "matchRatio": 0.75,
-      "words": 8,
-      "image": "roma/scene-259.jpg"
+      "image": "roma/scene-259.jpg",
+      "startMs": 786180,
+      "endMs": 789540,
+      "durationMs": 3360,
+      "transition": "none",
+      "text": "tertulis, mereka sedang mengutip logika hukum perdata yang"
     },
     {
+      "index": 260,
       "id": 260,
-      "startMs": 787390,
-      "endMs": 791070,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-260.jpg"
+      "image": "roma/scene-260.jpg",
+      "startMs": 789540,
+      "endMs": 791170,
+      "durationMs": 1630,
+      "transition": "none",
+      "text": "dibukukan oleh Roma. Setiap kali ratusan juta manusia"
     },
     {
+      "index": 261,
       "id": 261,
-      "startMs": 791070,
-      "endMs": 794630,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-261.jpg"
+      "image": "roma/scene-261.jpg",
+      "startMs": 791170,
+      "endMs": 794910,
+      "durationMs": 3740,
+      "transition": "none",
+      "text": "di dunia bertutur dalam bahasa Spanyol, Prancis, Portugis,"
     },
     {
+      "index": 262,
       "id": 262,
-      "startMs": 794630,
-      "endMs": 797770,
-      "matchRatio": 0.625,
-      "words": 8,
-      "image": "roma/scene-262.jpg"
+      "image": "roma/scene-262.jpg",
+      "startMs": 794910,
+      "endMs": 798010,
+      "durationMs": 3100,
+      "transition": "none",
+      "text": "atau Italia, mereka sedang merawat dialek bahasa Latin"
     },
     {
+      "index": 263,
       "id": 263,
-      "startMs": 797770,
+      "image": "roma/scene-263.jpg",
+      "startMs": 798010,
       "endMs": 800790,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-263.jpg"
+      "durationMs": 2780,
+      "transition": "none",
+      "text": "yang dulu dibawa oleh para prajurit legiun. Bahkan"
     },
     {
+      "index": 264,
       "id": 264,
+      "image": "roma/scene-264.jpg",
       "startMs": 800790,
-      "endMs": 803250,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-264.jpg"
+      "endMs": 803710,
+      "durationMs": 2920,
+      "transition": "none",
+      "text": "nama bulan Juli dan Agustus di kalender dinding kita"
     },
     {
+      "index": 265,
       "id": 265,
-      "startMs": 803250,
-      "endMs": 807290,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-265.jpg"
+      "image": "roma/scene-265.jpg",
+      "startMs": 803710,
+      "endMs": 807810,
+      "durationMs": 4100,
+      "transition": "none",
+      "text": "adalah prasasti abadi bagi nama para kaisar mereka."
     },
     {
+      "index": 266,
       "id": 266,
-      "startMs": 807290,
-      "endMs": 810370,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-266.jpg"
+      "image": "roma/scene-266.jpg",
+      "startMs": 807810,
+      "endMs": 810650,
+      "durationMs": 2840,
+      "transition": "none",
+      "text": "Roma membuktikan bahwa pedang dan benteng baja mungkin"
     },
     {
+      "index": 267,
       "id": 267,
-      "startMs": 810370,
+      "image": "roma/scene-267.jpg",
+      "startMs": 810650,
       "endMs": 813190,
-      "matchRatio": 1,
-      "words": 8,
-      "image": "roma/scene-267.jpg"
+      "durationMs": 2540,
+      "transition": "none",
+      "text": "bisa hancur oleh waktu, tetapi aturan hukum dan"
     },
     {
+      "index": 268,
       "id": 268,
+      "image": "roma/scene-268.jpg",
       "startMs": 813190,
       "endMs": 815490,
-      "matchRatio": 1,
-      "words": 9,
-      "image": "roma/scene-268.jpg"
+      "durationMs": 2300,
+      "transition": "none",
+      "text": "tata kelola yang dicetak di atas batu akan terus"
     },
     {
+      "index": 269,
       "id": 269,
+      "image": "roma/scene-269.jpg",
       "startMs": 815490,
-      "endMs": 818440,
-      "matchRatio": 1,
-      "words": 6,
-      "image": "roma/scene-269.jpg"
+      "endMs": 818130,
+      "durationMs": 2640,
+      "transition": "none",
+      "text": "hidup selama peradaban manusia masih bernapas."
     }
   ]
 }

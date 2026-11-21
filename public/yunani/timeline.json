@@ -1,1133 +1,1617 @@
 {
-  "audioDurationMs": 804360,
   "audio": "yunani/voiceover.wav",
+  "audioDurationMs": 804000,
+  "totalDurationMs": 804000,
   "scenes": [
     {
+      "index": 1,
       "id": 1,
-      "startMs": 0,
-      "endMs": 6690,
       "image": "yunani/scene-1.jpg",
-      "words": 10
+      "startMs": 0,
+      "endMs": 8600,
+      "durationMs": 8600,
+      "transition": "none",
+      "text": "Tahun 483 Sebelum Masehi, di bukit berbatu Laurion dekat Athena,"
     },
     {
+      "index": 2,
       "id": 2,
-      "startMs": 6690,
-      "endMs": 12420,
       "image": "yunani/scene-2.jpg",
-      "words": 10
+      "startMs": 8600,
+      "endMs": 15230,
+      "durationMs": 6630,
+      "transition": "none",
+      "text": "seorang penambang menghantam batu karang dan menemukan urat perak tebal."
     },
     {
+      "index": 3,
       "id": 3,
-      "startMs": 12420,
-      "endMs": 20240,
       "image": "yunani/scene-3.jpg",
-      "words": 13
+      "startMs": 15230,
+      "endMs": 23750,
+      "durationMs": 8520,
+      "transition": "none",
+      "text": "Nilainya sekitar 100 talenta perak. Jumlah ini sanggup membuat"
     },
     {
+      "index": 4,
       "id": 4,
-      "startMs": 20240,
-      "endMs": 24870,
       "image": "yunani/scene-4.jpg",
-      "words": 8
+      "startMs": 23750,
+      "endMs": 25750,
+      "durationMs": 2000,
+      "transition": "none",
+      "text": "seluruh warga kaya mendadak. Namun, politisi bernama Themistocles melarang"
     },
     {
+      "index": 5,
       "id": 5,
-      "startMs": 24870,
-      "endMs": 28770,
       "image": "yunani/scene-5.jpg",
-      "words": 7
+      "startMs": 25750,
+      "endMs": 30590,
+      "durationMs": 4840,
+      "transition": "none",
+      "text": "uang itu dibagi-bagikan. Dia meyakinkan warga untuk memakai seluruh"
     },
     {
+      "index": 6,
       "id": 6,
-      "startMs": 28770,
-      "endMs": 32830,
       "image": "yunani/scene-6.jpg",
-      "words": 7
+      "startMs": 30590,
+      "endMs": 33420,
+      "durationMs": 2830,
+      "transition": "none",
+      "text": "perak demi membiayai dua ratus kapal perang trireme."
     },
     {
+      "index": 7,
       "id": 7,
-      "startMs": 32830,
-      "endMs": 37070,
       "image": "yunani/scene-7.jpg",
-      "words": 8
+      "startMs": 33420,
+      "endMs": 37250,
+      "durationMs": 3830,
+      "transition": "none",
+      "text": "Keputusan nekat ini kelak menyelamatkan Yunani dari kepunahan."
     },
     {
+      "index": 8,
       "id": 8,
-      "startMs": 37070,
-      "endMs": 41270,
       "image": "yunani/scene-8.jpg",
-      "words": 8
+      "startMs": 37250,
+      "endMs": 41860,
+      "durationMs": 4610,
+      "transition": "none",
+      "text": "Peradaban besar tidak selalu lahir dari lembah subur."
     },
     {
+      "index": 9,
       "id": 9,
-      "startMs": 41270,
-      "endMs": 45210,
       "image": "yunani/scene-9.jpg",
-      "words": 8
+      "startMs": 41860,
+      "endMs": 45840,
+      "durationMs": 3980,
+      "transition": "none",
+      "text": "Bangsa Yunani membangun dunia dari batu karang tandus,"
     },
     {
+      "index": 10,
       "id": 10,
-      "startMs": 45210,
-      "endMs": 49510,
       "image": "yunani/scene-10.jpg",
-      "words": 8
+      "startMs": 45840,
+      "endMs": 50140,
+      "durationMs": 4300,
+      "transition": "none",
+      "text": "kelangkaan pangan, dan ancaman maut yang selalu mengintai."
     },
     {
+      "index": 11,
       "id": 11,
-      "startMs": 49510,
-      "endMs": 53620,
       "image": "yunani/scene-11.jpg",
-      "words": 9
+      "startMs": 50140,
+      "endMs": 54880,
+      "durationMs": 4740,
+      "transition": "none",
+      "text": "Ini adalah kisah bagaimana kepingan perak dari bukit berbatu"
     },
     {
+      "index": 12,
       "id": 12,
-      "startMs": 53620,
-      "endMs": 59430,
       "image": "yunani/scene-12.jpg",
-      "words": 8
+      "startMs": 54880,
+      "endMs": 60680,
+      "durationMs": 5800,
+      "transition": "none",
+      "text": "menjelma menjadi armada pelindung, melahirkan kedaulatan rakyat pertama,"
     },
     {
+      "index": 13,
       "id": 13,
-      "startMs": 59430,
-      "endMs": 64730,
       "image": "yunani/scene-13.jpg",
-      "words": 9
+      "startMs": 60680,
+      "endMs": 66360,
+      "durationMs": 5680,
+      "transition": "none",
+      "text": "meledak melintasi benua, lalu menaklukkan pikiran para penakluknya sendiri."
     },
     {
+      "index": 14,
       "id": 14,
-      "startMs": 64730,
-      "endMs": 69470,
       "image": "yunani/scene-14.jpg",
-      "words": 9
+      "startMs": 66360,
+      "endMs": 71360,
+      "durationMs": 5000,
+      "transition": "none",
+      "text": "Yang kita tahu, Yunani pada mulanya bukanlah negara kesatuan."
     },
     {
+      "index": 15,
       "id": 15,
-      "startMs": 69470,
-      "endMs": 75330,
       "image": "yunani/scene-15.jpg",
-      "words": 13
+      "startMs": 71360,
+      "endMs": 75480,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "Wilayahnya terpecah oleh barisan gunung terjal dan ribuan teluk"
     },
     {
+      "index": 16,
       "id": 16,
-      "startMs": 75330,
-      "endMs": 79730,
       "image": "yunani/scene-16.jpg",
-      "words": 10
+      "startMs": 75480,
+      "endMs": 76840,
+      "durationMs": 1360,
+      "transition": "none",
+      "text": "sempit di Laut Aegea. Alam yang keras memaksa mereka"
     },
     {
+      "index": 17,
       "id": 17,
-      "startMs": 79730,
-      "endMs": 83370,
       "image": "yunani/scene-17.jpg",
-      "words": 4
+      "startMs": 76840,
+      "endMs": 83950,
+      "durationMs": 7110,
+      "transition": "none",
+      "text": "hidup terisolasi dalam komunitas mandiri bernama polis. Artinya, negara-kota."
     },
     {
+      "index": 18,
       "id": 18,
-      "startMs": 83370,
-      "endMs": 88310,
       "image": "yunani/scene-18.jpg",
-      "words": 10
+      "startMs": 83950,
+      "endMs": 88900,
+      "durationMs": 4950,
+      "transition": "none",
+      "text": "Setiap polis memiliki hukum, dewa pelindung, dan mata uang sendiri."
     },
     {
+      "index": 19,
       "id": 19,
-      "startMs": 88310,
-      "endMs": 91810,
       "image": "yunani/scene-19.jpg",
-      "words": 7
+      "startMs": 88900,
+      "endMs": 92480,
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "Mereka terus bersaing memperebutkan petak gandum sempit."
     },
     {
+      "index": 20,
       "id": 20,
-      "startMs": 91810,
-      "endMs": 95070,
       "image": "yunani/scene-20.jpg",
-      "words": 7
+      "startMs": 92480,
+      "endMs": 96700,
+      "durationMs": 4220,
+      "transition": "none",
+      "text": "Kala itu, hidup petani bebas sangat rapuh. Sekali gagal panen,"
     },
     {
+      "index": 21,
       "id": 21,
-      "startMs": 95070,
-      "endMs": 100920,
       "image": "yunani/scene-21.jpg",
-      "words": 12
+      "startMs": 96700,
+      "endMs": 104610,
+      "durationMs": 7910,
+      "transition": "none",
+      "text": "satu keluarga bisa langsung diperbudak untuk melunasi utang pangan."
     },
     {
+      "index": 22,
       "id": 22,
-      "startMs": 100920,
-      "endMs": 108070,
       "image": "yunani/scene-22.jpg",
-      "words": 12
+      "startMs": 104610,
+      "endMs": 110520,
+      "durationMs": 5910,
+      "transition": "none",
+      "text": "Sekitar 594 Sebelum Masehi, jurang kemiskinan di Athena nyaris menyulut"
     },
     {
+      "index": 23,
       "id": 23,
-      "startMs": 108070,
-      "endMs": 112570,
       "image": "yunani/scene-23.jpg",
-      "words": 7
+      "startMs": 110520,
+      "endMs": 113140,
+      "durationMs": 2620,
+      "transition": "none",
+      "text": "perang saudara. Bangsawan menguasai tanah, sementara rakyat tercekik utang."
     },
     {
+      "index": 24,
       "id": 24,
-      "startMs": 112570,
-      "endMs": 117600,
       "image": "yunani/scene-24.jpg",
-      "words": 9
+      "startMs": 113140,
+      "endMs": 117800,
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "Demi mencegah pertumpahan darah, mereka menunjuk Solon merombak hukum."
     },
     {
+      "index": 25,
       "id": 25,
-      "startMs": 117600,
-      "endMs": 120540,
       "image": "yunani/scene-25.jpg",
-      "words": 7
+      "startMs": 117800,
+      "endMs": 124060,
+      "durationMs": 6260,
+      "transition": "none",
+      "text": "Solon mencabut batu penanda utang di ladang serta memerdekakan"
     },
     {
+      "index": 26,
       "id": 26,
-      "startMs": 120540,
-      "endMs": 129480,
       "image": "yunani/scene-26.jpg",
-      "words": 14
+      "startMs": 124060,
+      "endMs": 126740,
+      "durationMs": 2680,
+      "transition": "none",
+      "text": "warga yang diperbudak. Tindakan ini disebut seisachtheia. Artinya,"
     },
     {
+      "index": 27,
       "id": 27,
-      "startMs": 129480,
-      "endMs": 132840,
       "image": "yunani/scene-27.jpg",
-      "words": 6
+      "startMs": 126740,
+      "endMs": 132970,
+      "durationMs": 6230,
+      "transition": "none",
+      "text": "pelepasan beban yang mengguncang. Dia melarang pinjaman berjaminan tubuh manusia."
     },
     {
+      "index": 28,
       "id": 28,
-      "startMs": 132840,
-      "endMs": 135400,
       "image": "yunani/scene-28.jpg",
-      "words": 6
+      "startMs": 132970,
+      "endMs": 138450,
+      "durationMs": 5480,
+      "transition": "none",
+      "text": "Solon tidak membagikan tanah orang kaya, tetapi membuka pintu rapat"
     },
     {
+      "index": 29,
       "id": 29,
-      "startMs": 135400,
-      "endMs": 141350,
       "image": "yunani/scene-29.jpg",
-      "words": 13
+      "startMs": 138450,
+      "endMs": 141640,
+      "durationMs": 3190,
+      "transition": "none",
+      "text": "umum bagi seluruh warga. Tapi sebelum sampai ke sana,"
     },
     {
+      "index": 30,
       "id": 30,
-      "startMs": 141350,
-      "endMs": 144050,
       "image": "yunani/scene-30.jpg",
-      "words": 6
+      "startMs": 141640,
+      "endMs": 147620,
+      "durationMs": 5980,
+      "transition": "none",
+      "text": "para elit masih menyimpan dendam lama. Sekitar 508 Sebelum Masehi,"
     },
     {
+      "index": 31,
       "id": 31,
-      "startMs": 144050,
-      "endMs": 154350,
       "image": "yunani/scene-31.jpg",
-      "words": 13
+      "startMs": 147620,
+      "endMs": 155280,
+      "durationMs": 7660,
+      "transition": "none",
+      "text": "perebutan kekuasaan antarbangsawan memuncak lagi. Di sinilah ceritanya berubah."
     },
     {
+      "index": 32,
       "id": 32,
-      "startMs": 154350,
-      "endMs": 159930,
       "image": "yunani/scene-32.jpg",
-      "words": 7
+      "startMs": 155280,
+      "endMs": 160320,
+      "durationMs": 5040,
+      "transition": "none",
+      "text": "Bangsawan bernama Cleisthenes mengambil langkah tanpa tandingan. Dia membubarkan empat"
     },
     {
+      "index": 33,
       "id": 33,
-      "startMs": 159930,
-      "endMs": 166590,
       "image": "yunani/scene-33.jpg",
-      "words": 12
+      "startMs": 160320,
+      "endMs": 167620,
+      "durationMs": 7300,
+      "transition": "none",
+      "text": "suku aristokrat lama dan membentuk sepuluh suku baru buatan."
     },
     {
+      "index": 34,
       "id": 34,
-      "startMs": 166590,
-      "endMs": 171550,
       "image": "yunani/scene-34.jpg",
-      "words": 7
+      "startMs": 167620,
+      "endMs": 172140,
+      "durationMs": 4520,
+      "transition": "none",
+      "text": "Mekanisme ini bekerja rapi meredam permusuhan antargolongan."
     },
     {
+      "index": 35,
       "id": 35,
-      "startMs": 171550,
-      "endMs": 177250,
       "image": "yunani/scene-35.jpg",
-      "words": 9
+      "startMs": 172140,
+      "endMs": 177630,
+      "durationMs": 5490,
+      "transition": "none",
+      "text": "Wilayah Athena dibagi tiga zona: pesisir, pedalaman, dan kota. Tiap"
     },
     {
+      "index": 36,
       "id": 36,
-      "startMs": 177250,
-      "endMs": 182090,
       "image": "yunani/scene-36.jpg",
-      "words": 11
+      "startMs": 177630,
+      "endMs": 182240,
+      "durationMs": 4610,
+      "transition": "none",
+      "text": "suku baru wajib berisi gabungan warga dari ketiga zona tersebut."
     },
     {
+      "index": 37,
       "id": 37,
-      "startMs": 182090,
-      "endMs": 189830,
       "image": "yunani/scene-37.jpg",
-      "words": 15
+      "startMs": 182240,
+      "endMs": 186900,
+      "durationMs": 4660,
+      "transition": "none",
+      "text": "Ibarat menyatukan serpihan tulang, otot, dan kulit tubuh agar"
     },
     {
+      "index": 38,
       "id": 38,
-      "startMs": 189830,
-      "endMs": 196420,
       "image": "yunani/scene-38.jpg",
-      "words": 12
+      "startMs": 186900,
+      "endMs": 190720,
+      "durationMs": 3820,
+      "transition": "none",
+      "text": "bergerak serempak di bawah satu kesadaran. Mereka yang dulunya"
     },
     {
+      "index": 39,
       "id": 39,
-      "startMs": 196420,
-      "endMs": 200960,
       "image": "yunani/scene-39.jpg",
-      "words": 9
+      "startMs": 190720,
+      "endMs": 196560,
+      "durationMs": 5840,
+      "transition": "none",
+      "text": "bermusuhan dipaksa duduk berdampingan mengurus pertahanan dan anggaran kota."
     },
     {
+      "index": 40,
       "id": 40,
-      "startMs": 200960,
-      "endMs": 203370,
       "image": "yunani/scene-40.jpg",
-      "words": 6
+      "startMs": 196560,
+      "endMs": 201670,
+      "durationMs": 5110,
+      "transition": "none",
+      "text": "Dewan lima ratus orang dibentuk lewat undian acak berkala. Siapa"
     },
     {
+      "index": 41,
       "id": 41,
-      "startMs": 203370,
-      "endMs": 206100,
       "image": "yunani/scene-41.jpg",
-      "words": 5
+      "startMs": 201670,
+      "endMs": 206510,
+      "durationMs": 4840,
+      "transition": "none",
+      "text": "pun pria merdeka punya peluang setara memimpin selama satu tahun."
     },
     {
+      "index": 42,
       "id": 42,
-      "startMs": 206100,
-      "endMs": 212570,
       "image": "yunani/scene-42.jpg",
-      "words": 9
+      "startMs": 206510,
+      "endMs": 212760,
+      "durationMs": 6250,
+      "transition": "none",
+      "text": "Mereka menamainya isonomia. Artinya, kesetaraan hak di hadapan hukum."
     },
     {
+      "index": 43,
       "id": 43,
-      "startMs": 212570,
-      "endMs": 218180,
       "image": "yunani/scene-43.jpg",
-      "words": 10
+      "startMs": 212760,
+      "endMs": 219180,
+      "durationMs": 6420,
+      "transition": "none",
+      "text": "Gagasan ini menjadi benih awal pemerintahan yang kita sebut demokrasi."
     },
     {
+      "index": 44,
       "id": 44,
-      "startMs": 218180,
-      "endMs": 223700,
       "image": "yunani/scene-44.jpg",
-      "words": 9
+      "startMs": 219180,
+      "endMs": 223830,
+      "durationMs": 4650,
+      "transition": "none",
+      "text": "Namun, tepat saat Athena mulai memperdebatkan undang-undang secara terbuka,"
     },
     {
+      "index": 45,
       "id": 45,
-      "startMs": 223700,
-      "endMs": 230220,
       "image": "yunani/scene-45.jpg",
-      "words": 10
+      "startMs": 223830,
+      "endMs": 229470,
+      "durationMs": 5640,
+      "transition": "none",
+      "text": "ancaman raksasa datang dari timur. Kekaisaran Persia bertekad menundukkan"
     },
     {
+      "index": 46,
       "id": 46,
-      "startMs": 230220,
-      "endMs": 234160,
       "image": "yunani/scene-46.jpg",
-      "words": 7
+      "startMs": 229470,
+      "endMs": 234690,
+      "durationMs": 5220,
+      "transition": "none",
+      "text": "Yunani akibat campur tangan Athena dalam pemberontakan Ionia."
     },
     {
+      "index": 47,
       "id": 47,
-      "startMs": 234160,
-      "endMs": 240320,
       "image": "yunani/scene-47.jpg",
-      "words": 13
+      "startMs": 234690,
+      "endMs": 239790,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "Pasukan Persia dipukul mundur oleh tombak Athena di Marathon pada"
     },
     {
+      "index": 48,
       "id": 48,
-      "startMs": 240320,
-      "endMs": 243550,
       "image": "yunani/scene-48.jpg",
-      "words": 6
+      "startMs": 239790,
+      "endMs": 243570,
+      "durationMs": 3780,
+      "transition": "none",
+      "text": "490 Sebelum Masehi. Sepuluh tahun berselang, putranya, Raja Xerxes,"
     },
     {
+      "index": 49,
       "id": 49,
-      "startMs": 243550,
-      "endMs": 247290,
       "image": "yunani/scene-49.jpg",
-      "words": 8
+      "startMs": 243570,
+      "endMs": 248090,
+      "durationMs": 4520,
+      "transition": "none",
+      "text": "memimpin ekspedisi kedua dengan skala jauh lebih mengerikan."
     },
     {
+      "index": 50,
       "id": 50,
-      "startMs": 247290,
-      "endMs": 252550,
       "image": "yunani/scene-50.jpg",
-      "words": 10
+      "startMs": 248090,
+      "endMs": 255410,
+      "durationMs": 7320,
+      "transition": "none",
+      "text": "Ratusan ribu prajurit dan ribuan kapal bergerak menyapu wilayah utara."
     },
     {
+      "index": 51,
       "id": 51,
-      "startMs": 252550,
-      "endMs": 257750,
       "image": "yunani/scene-51.jpg",
-      "words": 10
+      "startMs": 255410,
+      "endMs": 257770,
+      "durationMs": 2360,
+      "transition": "none",
+      "text": "Di celah sempit Thermopylae, Raja Leonidas bersama tiga ratus prajurit"
     },
     {
+      "index": 52,
       "id": 52,
-      "startMs": 257750,
-      "endMs": 262490,
       "image": "yunani/scene-52.jpg",
-      "words": 10
+      "startMs": 257770,
+      "endMs": 263620,
+      "durationMs": 5850,
+      "transition": "none",
+      "text": "Sparta bertarung sampai gugur demi mengulur waktu mundur bagi sekutu."
     },
     {
+      "index": 53,
       "id": 53,
-      "startMs": 262490,
-      "endMs": 266940,
       "image": "yunani/scene-53.jpg",
-      "words": 8
+      "startMs": 263620,
+      "endMs": 268080,
+      "durationMs": 4460,
+      "transition": "none",
+      "text": "Pengorbanan itu heroik, tetapi pertahanan darat tetap bobol."
     },
     {
+      "index": 54,
       "id": 54,
-      "startMs": 266940,
-      "endMs": 270000,
       "image": "yunani/scene-54.jpg",
-      "words": 6
+      "startMs": 268080,
+      "endMs": 271400,
+      "durationMs": 3320,
+      "transition": "none",
+      "text": "Pasukan Persia merangsek masuk ke Athena dan membakar kuil"
     },
     {
+      "index": 55,
       "id": 55,
-      "startMs": 270000,
-      "endMs": 275810,
       "image": "yunani/scene-55.jpg",
-      "words": 12
+      "startMs": 271400,
+      "endMs": 276880,
+      "durationMs": 5480,
+      "transition": "none",
+      "text": "Akropolis menjadi abu hitam. Dan itu belum yang terburuk."
     },
     {
+      "index": 56,
       "id": 56,
-      "startMs": 275810,
-      "endMs": 281360,
       "image": "yunani/scene-56.jpg",
-      "words": 10
+      "startMs": 276880,
+      "endMs": 281380,
+      "durationMs": 4500,
+      "transition": "none",
+      "text": "Melihat kotanya hangus, Themistocles tak menyerah. Dia mengarahkan warga mengungsi"
     },
     {
+      "index": 57,
       "id": 57,
-      "startMs": 281360,
-      "endMs": 287640,
       "image": "yunani/scene-57.jpg",
-      "words": 16
+      "startMs": 281380,
+      "endMs": 285320,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "ke Pulau Salamis dan mempertaruhkan nasib pada dinding kayu: dua"
     },
     {
+      "index": 58,
       "id": 58,
-      "startMs": 287640,
-      "endMs": 291140,
       "image": "yunani/scene-58.jpg",
-      "words": 4
+      "startMs": 285320,
+      "endMs": 291410,
+      "durationMs": 6090,
+      "transition": "none",
+      "text": "ratus kapal trireme dari perak Laurion. Themistocles menyusun perangkap licik."
     },
     {
+      "index": 59,
       "id": 59,
-      "startMs": 291140,
-      "endMs": 296450,
       "image": "yunani/scene-59.jpg",
-      "words": 10
+      "startMs": 291410,
+      "endMs": 297450,
+      "durationMs": 6040,
+      "transition": "none",
+      "text": "Dia mengirim budak kepercayaannya membawa pesan rahasia palsu kepada Xerxes"
     },
     {
+      "index": 60,
       "id": 60,
-      "startMs": 296450,
-      "endMs": 301070,
       "image": "yunani/scene-60.jpg",
-      "words": 10
+      "startMs": 297450,
+      "endMs": 302970,
+      "durationMs": 5520,
+      "transition": "none",
+      "text": "bahwa pasukan Yunani sedang panik dan bersiap melarikan diri lewat"
     },
     {
+      "index": 61,
       "id": 61,
-      "startMs": 301070,
-      "endMs": 309420,
       "image": "yunani/scene-61.jpg",
-      "words": 13
+      "startMs": 302970,
+      "endMs": 310030,
+      "durationMs": 7060,
+      "transition": "none",
+      "text": "selat. Tergiur kemenangan kilat, Xerxes memerintahkan armadanya mengepung Selat Salamis"
     },
     {
+      "index": 62,
       "id": 62,
-      "startMs": 309420,
-      "endMs": 312500,
       "image": "yunani/scene-62.jpg",
-      "words": 7
+      "startMs": 310030,
+      "endMs": 312650,
+      "durationMs": 2620,
+      "transition": "none",
+      "text": "pada malam hari. Di lorong laut inilah taktik perang bekerja."
     },
     {
+      "index": 63,
       "id": 63,
-      "startMs": 312500,
-      "endMs": 317190,
       "image": "yunani/scene-63.jpg",
-      "words": 10
+      "startMs": 312650,
+      "endMs": 316310,
+      "durationMs": 3660,
+      "transition": "none",
+      "text": "Kapal trireme Yunani memiliki lambung ramping dengan tiga"
     },
     {
+      "index": 64,
       "id": 64,
-      "startMs": 317190,
-      "endMs": 319940,
       "image": "yunani/scene-64.jpg",
-      "words": 6
+      "startMs": 316310,
+      "endMs": 320080,
+      "durationMs": 3770,
+      "transition": "none",
+      "text": "tingkat dayung yang dikayuh seratus tujuh puluh pendayung."
     },
     {
+      "index": 65,
       "id": 65,
-      "startMs": 319940,
-      "endMs": 322770,
       "image": "yunani/scene-65.jpg",
-      "words": 6
+      "startMs": 320080,
+      "endMs": 326230,
+      "durationMs": 6150,
+      "transition": "none",
+      "text": "Haluan kapal dipasangi moncong perunggu tajam. Saat kapal Persia yang"
     },
     {
+      "index": 66,
       "id": 66,
-      "startMs": 322770,
-      "endMs": 329160,
       "image": "yunani/scene-66.jpg",
-      "words": 13
+      "startMs": 326230,
+      "endMs": 329340,
+      "durationMs": 3110,
+      "transition": "none",
+      "text": "tambun berdesakan di selat sempit, gerak mereka terkunci rapat."
     },
     {
+      "index": 67,
       "id": 67,
-      "startMs": 329160,
-      "endMs": 337100,
       "image": "yunani/scene-67.jpg",
-      "words": 16
+      "startMs": 329340,
+      "endMs": 334290,
+      "durationMs": 4950,
+      "transition": "none",
+      "text": "Ibarat rombongan truk muatan berat tersangkut di gang perkampungan,"
     },
     {
+      "index": 68,
       "id": 68,
-      "startMs": 337100,
-      "endMs": 339440,
       "image": "yunani/scene-68.jpg",
-      "words": 4
+      "startMs": 334290,
+      "endMs": 338570,
+      "durationMs": 4280,
+      "transition": "none",
+      "text": "mereka saling menabrak dan mematahkan dayung sendiri. Kapal trireme lincah"
     },
     {
+      "index": 69,
       "id": 69,
-      "startMs": 339440,
-      "endMs": 342040,
       "image": "yunani/scene-69.jpg",
-      "words": 5
+      "startMs": 338570,
+      "endMs": 342370,
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "melesat, menghantam lambung lawan hingga remuk. Di atas bukit,"
     },
     {
+      "index": 70,
       "id": 70,
-      "startMs": 342040,
-      "endMs": 346895,
       "image": "yunani/scene-70.jpg",
-      "words": 11
+      "startMs": 342370,
+      "endMs": 348300,
+      "durationMs": 5930,
+      "transition": "none",
+      "text": "Xerxes terpaksa menyaksikan armadanya tenggelam ke dasar laut. Kemenangan di"
     },
     {
+      "index": 71,
       "id": 71,
-      "startMs": 346895,
-      "endMs": 353350,
       "image": "yunani/scene-71.jpg",
-      "words": 12
+      "startMs": 348300,
+      "endMs": 355940,
+      "durationMs": 7640,
+      "transition": "none",
+      "text": "Salamis dan pertempuran Plataea pada tahun berikutnya berhasil mengusir Persia."
     },
     {
+      "index": 72,
       "id": 72,
-      "startMs": 353350,
-      "endMs": 358310,
       "image": "yunani/scene-72.jpg",
-      "words": 10
+      "startMs": 355940,
+      "endMs": 361020,
+      "durationMs": 5080,
+      "transition": "none",
+      "text": "Athena melonjak menjadi pemimpin persekutuan laut yang makmur dan ditakuti."
     },
     {
+      "index": 73,
       "id": 73,
-      "startMs": 358310,
-      "endMs": 363490,
       "image": "yunani/scene-73.jpg",
-      "words": 11
+      "startMs": 361020,
+      "endMs": 363980,
+      "durationMs": 2960,
+      "transition": "none",
+      "text": "Sekarang kita berhenti sejenak melihat posisi Yunani di titik tengah"
     },
     {
+      "index": 74,
       "id": 74,
-      "startMs": 363490,
-      "endMs": 368060,
       "image": "yunani/scene-74.jpg",
-      "words": 9
+      "startMs": 363980,
+      "endMs": 368080,
+      "durationMs": 4100,
+      "transition": "none",
+      "text": "sejarah. Puncak kejayaan diraih dan penjajah terusir, tetapi benih kehancuran"
     },
     {
+      "index": 75,
       "id": 75,
-      "startMs": 368060,
-      "endMs": 373150,
       "image": "yunani/scene-75.jpg",
-      "words": 11
+      "startMs": 368080,
+      "endMs": 373540,
+      "durationMs": 5460,
+      "transition": "none",
+      "text": "bertunas dari dada bangsa ini sendiri. Di satu sudut berdiri"
     },
     {
+      "index": 76,
       "id": 76,
-      "startMs": 373150,
-      "endMs": 375960,
       "image": "yunani/scene-76.jpg",
-      "words": 8
+      "startMs": 373540,
+      "endMs": 378820,
+      "durationMs": 5280,
+      "transition": "none",
+      "text": "Athena, kota laut yang kaya seni dan debat filsafat. Di"
     },
     {
+      "index": 77,
       "id": 77,
-      "startMs": 375960,
-      "endMs": 381810,
       "image": "yunani/scene-77.jpg",
-      "words": 11
+      "startMs": 378820,
+      "endMs": 382400,
+      "durationMs": 3580,
+      "transition": "none",
+      "text": "sudut lain berdiri Sparta, kekuatan darat dengan reputasi militer legendaris."
     },
     {
+      "index": 78,
       "id": 78,
-      "startMs": 381810,
-      "endMs": 386110,
       "image": "yunani/scene-78.jpg",
-      "words": 10
+      "startMs": 382400,
+      "endMs": 386580,
+      "durationMs": 4180,
+      "transition": "none",
+      "text": "Banyak orang mengira Sparta bangsa prajurit super yang kebal kekalahan."
     },
     {
+      "index": 79,
       "id": 79,
-      "startMs": 386110,
-      "endMs": 390090,
       "image": "yunani/scene-79.jpg",
-      "words": 7
+      "startMs": 386580,
+      "endMs": 390480,
+      "durationMs": 3900,
+      "transition": "none",
+      "text": "Namun, catatan sejarah membuka kenyataan berbanding terbalik. Para sejarawan menyebut"
     },
     {
+      "index": 80,
       "id": 80,
-      "startMs": 390090,
-      "endMs": 394410,
       "image": "yunani/scene-80.jpg",
-      "words": 9
+      "startMs": 390480,
+      "endMs": 395740,
+      "durationMs": 5260,
+      "transition": "none",
+      "text": "tabir kehebatan ini sebagai Ilusi Sparta. Di balik zirah perunggu"
     },
     {
+      "index": 81,
       "id": 81,
-      "startMs": 394410,
-      "endMs": 401490,
       "image": "yunani/scene-81.jpg",
-      "words": 13
+      "startMs": 395740,
+      "endMs": 401630,
+      "durationMs": 5890,
+      "transition": "none",
+      "text": "perkasa, masyarakat Sparta digerogoti penyakit sosial mematikan bernama oliganthropia."
     },
     {
+      "index": 82,
       "id": 82,
-      "startMs": 401490,
-      "endMs": 404740,
       "image": "yunani/scene-82.jpg",
-      "words": 6
+      "startMs": 401630,
+      "endMs": 408650,
+      "durationMs": 7020,
+      "transition": "none",
+      "text": "Artinya, penyusutan drastis jumlah penduduk merdeka. Sistem sosial Sparta luar"
     },
     {
+      "index": 83,
       "id": 83,
-      "startMs": 404740,
-      "endMs": 408170,
       "image": "yunani/scene-83.jpg",
-      "words": 6
+      "startMs": 408650,
+      "endMs": 411980,
+      "durationMs": 3330,
+      "transition": "none",
+      "text": "biasa kaku. Untuk mempertahankan status warga penuh, seorang pria wajib"
     },
     {
+      "index": 84,
       "id": 84,
-      "startMs": 408170,
-      "endMs": 416850,
       "image": "yunani/scene-84.jpg",
-      "words": 18
+      "startMs": 411980,
+      "endMs": 417200,
+      "durationMs": 5220,
+      "transition": "none",
+      "text": "lulus pelatihan brutal agoge dan menyetor makanan ke perjamuan bersama."
     },
     {
+      "index": 85,
       "id": 85,
-      "startMs": 416850,
-      "endMs": 420530,
       "image": "yunani/scene-85.jpg",
-      "words": 8
+      "startMs": 417200,
+      "endMs": 420740,
+      "durationMs": 3540,
+      "transition": "none",
+      "text": "Bila prajurit jatuh miskin, hak warganya langsung dicabut."
     },
     {
+      "index": 86,
       "id": 86,
-      "startMs": 420530,
-      "endMs": 425136,
       "image": "yunani/scene-86.jpg",
-      "words": 8
+      "startMs": 420740,
+      "endMs": 426050,
+      "durationMs": 5310,
+      "transition": "none",
+      "text": "Ditambah gempa bumi dahsyat tahun 464 Sebelum Masehi serta"
     },
     {
+      "index": 87,
       "id": 87,
-      "startMs": 425136,
-      "endMs": 429620,
       "image": "yunani/scene-87.jpg",
-      "words": 9
+      "startMs": 426050,
+      "endMs": 430620,
+      "durationMs": 4570,
+      "transition": "none",
+      "text": "sikap menutup diri, populasi inti mereka menyusut drastis."
     },
     {
+      "index": 88,
       "id": 88,
-      "startMs": 429620,
-      "endMs": 433750,
       "image": "yunani/scene-88.jpg",
-      "words": 8
+      "startMs": 430620,
+      "endMs": 433880,
+      "durationMs": 3260,
+      "transition": "none",
+      "text": "Dari delapan ribu prajurit di awal perang Persia,"
     },
     {
+      "index": 89,
       "id": 89,
-      "startMs": 433750,
-      "endMs": 438650,
       "image": "yunani/scene-89.jpg",
-      "words": 10
+      "startMs": 433880,
+      "endMs": 438780,
+      "durationMs": 4900,
+      "transition": "none",
+      "text": "jumlahnya merosot hingga tersisa kurang dari seribu orang seabad kemudian."
     },
     {
+      "index": 90,
       "id": 90,
-      "startMs": 438650,
-      "endMs": 443650,
       "image": "yunani/scene-90.jpg",
-      "words": 10
+      "startMs": 438780,
+      "endMs": 442920,
+      "durationMs": 4140,
+      "transition": "none",
+      "text": "Sparta beroperasi mirip perkumpulan elit yang terus membuang anggotanya"
     },
     {
+      "index": 91,
       "id": 91,
-      "startMs": 443650,
-      "endMs": 447040,
       "image": "yunani/scene-91.jpg",
-      "words": 8
+      "startMs": 442920,
+      "endMs": 449190,
+      "durationMs": 6270,
+      "transition": "none",
+      "text": "sendiri sampai tak ada lagi prajurit di medan laga."
     },
     {
+      "index": 92,
       "id": 92,
-      "startMs": 447040,
-      "endMs": 455390,
       "image": "yunani/scene-92.jpg",
-      "words": 14
+      "startMs": 449190,
+      "endMs": 455910,
+      "durationMs": 6720,
+      "transition": "none",
+      "text": "Kecemasan Sparta melihat kekayaan laut Athena akhirnya menyulut Perang Peloponnesos"
     },
     {
+      "index": 93,
       "id": 93,
-      "startMs": 455390,
-      "endMs": 458765,
       "image": "yunani/scene-93.jpg",
-      "words": 9
+      "startMs": 455910,
+      "endMs": 460140,
+      "durationMs": 4230,
+      "transition": "none",
+      "text": "pada 431 Sebelum Masehi. Perang saudara ini berkecamuk selama dua"
     },
     {
+      "index": 94,
       "id": 94,
-      "startMs": 458765,
-      "endMs": 464340,
       "image": "yunani/scene-94.jpg",
-      "words": 10
+      "startMs": 460140,
+      "endMs": 464760,
+      "durationMs": 4620,
+      "transition": "none",
+      "text": "puluh tujuh tahun. Athena berlindung di balik tembok panjang sambil"
     },
     {
+      "index": 95,
       "id": 95,
-      "startMs": 464340,
-      "endMs": 468590,
       "image": "yunani/scene-95.jpg",
-      "words": 9
+      "startMs": 464760,
+      "endMs": 466880,
+      "durationMs": 2120,
+      "transition": "none",
+      "text": "mengandalkan suplai laut. Namun, wabah penyakit menyerang dari dalam,"
     },
     {
+      "index": 96,
       "id": 96,
-      "startMs": 468590,
-      "endMs": 471370,
       "image": "yunani/scene-96.jpg",
-      "words": 4
+      "startMs": 466880,
+      "endMs": 472420,
+      "durationMs": 5540,
+      "transition": "none",
+      "text": "membunuh sepertiga penduduk termasuk pemimpin mereka, Pericles."
     },
     {
+      "index": 97,
       "id": 97,
-      "startMs": 471370,
-      "endMs": 477090,
       "image": "yunani/scene-97.jpg",
-      "words": 10
+      "startMs": 472420,
+      "endMs": 477980,
+      "durationMs": 5560,
+      "transition": "none",
+      "text": "Ambisi Athena hancur setelah ekspedisi militer ke Sisilia musnah dibantai."
     },
     {
+      "index": 98,
       "id": 98,
-      "startMs": 477090,
-      "endMs": 481400,
       "image": "yunani/scene-98.jpg",
-      "words": 9
+      "startMs": 477980,
+      "endMs": 483080,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "Dibantu kucuran emas Persia, Sparta akhirnya membangun armada laut dan"
     },
     {
+      "index": 99,
       "id": 99,
-      "startMs": 481400,
-      "endMs": 487691,
       "image": "yunani/scene-99.jpg",
-      "words": 11
+      "startMs": 483080,
+      "endMs": 487000,
+      "durationMs": 3920,
+      "transition": "none",
+      "text": "menghancurkan sisa kapal Athena di Aegospotami pada 405 Sebelum Masehi."
     },
     {
+      "index": 100,
       "id": 100,
-      "startMs": 487691,
-      "endMs": 493140,
       "image": "yunani/scene-100.jpg",
-      "words": 7
+      "startMs": 487000,
+      "endMs": 493280,
+      "durationMs": 6280,
+      "transition": "none",
+      "text": "Athena menyerah karena kelaparan. Tembok pertahanannya dirobohkan. Kemenangan Sparta"
     },
     {
+      "index": 101,
       "id": 101,
-      "startMs": 493140,
-      "endMs": 499500,
       "image": "yunani/scene-101.jpg",
-      "words": 11
+      "startMs": 493280,
+      "endMs": 499910,
+      "durationMs": 6630,
+      "transition": "none",
+      "text": "berumur sangat pendek. Ketiadaan prajurit membuat kepemimpinan mereka rapuh."
     },
     {
+      "index": 102,
       "id": 102,
-      "startMs": 499500,
-      "endMs": 504490,
       "image": "yunani/scene-102.jpg",
-      "words": 9
+      "startMs": 499910,
+      "endMs": 504520,
+      "durationMs": 4610,
+      "transition": "none",
+      "text": "Pada 371 Sebelum Masehi di Leuktra, pasukan Thebes melancarkan"
     },
     {
+      "index": 103,
       "id": 103,
-      "startMs": 504490,
-      "endMs": 508940,
       "image": "yunani/scene-103.jpg",
-      "words": 8
+      "startMs": 504520,
+      "endMs": 509140,
+      "durationMs": 4620,
+      "transition": "none",
+      "text": "taktik formasi miring yang meremukkan barisan elit Sparta."
     },
     {
+      "index": 104,
       "id": 104,
-      "startMs": 508940,
-      "endMs": 514050,
       "image": "yunani/scene-104.jpg",
-      "words": 10
+      "startMs": 509140,
+      "endMs": 516290,
+      "durationMs": 7150,
+      "transition": "none",
+      "text": "Wilayah budak Messenia yang ratusan tahun menopang ekonomi Sparta dibebaskan."
     },
     {
+      "index": 105,
       "id": 105,
-      "startMs": 514050,
-      "endMs": 519940,
       "image": "yunani/scene-105.jpg",
-      "words": 10
+      "startMs": 516290,
+      "endMs": 520430,
+      "durationMs": 4140,
+      "transition": "none",
+      "text": "Sparta terpuruk menjadi desa pedalaman dan tidak pernah bangkit lagi."
     },
     {
+      "index": 106,
       "id": 106,
-      "startMs": 519940,
-      "endMs": 524930,
       "image": "yunani/scene-106.jpg",
-      "words": 10
+      "startMs": 520430,
+      "endMs": 525880,
+      "durationMs": 5450,
+      "transition": "none",
+      "text": "Seluruh tanah Yunani kini luluh lantak, bangkrut,"
     },
     {
+      "index": 107,
       "id": 107,
-      "startMs": 524930,
-      "endMs": 527640,
       "image": "yunani/scene-107.jpg",
-      "words": 4
+      "startMs": 525880,
+      "endMs": 527770,
+      "durationMs": 1890,
+      "transition": "none",
+      "text": "dan saling mencurigai. Di titik nadir inilah,"
     },
     {
+      "index": 108,
       "id": 108,
-      "startMs": 527640,
-      "endMs": 531670,
       "image": "yunani/scene-108.jpg",
-      "words": 8
+      "startMs": 527770,
+      "endMs": 532360,
+      "durationMs": 4590,
+      "transition": "none",
+      "text": "ancaman baru muncul dari perbatasan utara berhutan lebat. Kerajaan Makedonia,"
     },
     {
+      "index": 109,
       "id": 109,
-      "startMs": 531670,
-      "endMs": 537350,
       "image": "yunani/scene-109.jpg",
-      "words": 12
+      "startMs": 532360,
+      "endMs": 537480,
+      "durationMs": 5120,
+      "transition": "none",
+      "text": "wilayah pegunungan yang kerap dicap setengah barbar oleh orang Athena,"
     },
     {
+      "index": 110,
       "id": 110,
-      "startMs": 537350,
-      "endMs": 541110,
       "image": "yunani/scene-110.jpg",
-      "words": 8
+      "startMs": 537480,
+      "endMs": 541240,
+      "durationMs": 3760,
+      "transition": "none",
+      "text": "bangkit pesat di bawah komando Raja Philip II."
     },
     {
+      "index": 111,
       "id": 111,
-      "startMs": 541110,
-      "endMs": 546770,
       "image": "yunani/scene-111.jpg",
-      "words": 11
+      "startMs": 541240,
+      "endMs": 547220,
+      "durationMs": 5980,
+      "transition": "none",
+      "text": "Philip merevolusi formasi tempur dengan sarissa, tombak kayu sepanjang"
     },
     {
+      "index": 112,
       "id": 112,
-      "startMs": 546770,
-      "endMs": 550870,
       "image": "yunani/scene-112.jpg",
-      "words": 6
+      "startMs": 547220,
+      "endMs": 552340,
+      "durationMs": 5120,
+      "transition": "none",
+      "text": "enam meter. Pada 338 Sebelum Masehi di Chaeronea,"
     },
     {
+      "index": 113,
       "id": 113,
-      "startMs": 550870,
-      "endMs": 554470,
       "image": "yunani/scene-113.jpg",
-      "words": 7
+      "startMs": 552340,
+      "endMs": 560260,
+      "durationMs": 7920,
+      "transition": "none",
+      "text": "Philip menundukkan gabungan tentara Athena dan Thebes. Zaman kemandirian negara-kota"
     },
     {
+      "index": 114,
       "id": 114,
-      "startMs": 554470,
-      "endMs": 557700,
       "image": "yunani/scene-114.jpg",
-      "words": 6
+      "startMs": 560260,
+      "endMs": 561930,
+      "durationMs": 1670,
+      "transition": "none",
+      "text": "Yunani resmi tamat. Dua tahun kemudian, Philip tewas dibunuh."
     },
     {
+      "index": 115,
       "id": 115,
-      "startMs": 557700,
-      "endMs": 561750,
       "image": "yunani/scene-115.jpg",
-      "words": 6
+      "startMs": 561930,
+      "endMs": 567140,
+      "durationMs": 5210,
+      "transition": "none",
+      "text": "Putranya yang berumur dua puluh tahun, Alexander, mengambil alih tahta."
     },
     {
+      "index": 116,
       "id": 116,
-      "startMs": 561750,
-      "endMs": 570980,
       "image": "yunani/scene-116.jpg",
-      "words": 18
+      "startMs": 567140,
+      "endMs": 571080,
+      "durationMs": 3940,
+      "transition": "none",
+      "text": "Alexander menyeberang ke Asia membawa satu tekad mutlak:"
     },
     {
+      "index": 117,
       "id": 117,
-      "startMs": 570980,
-      "endMs": 578490,
       "image": "yunani/scene-117.jpg",
-      "words": 10
+      "startMs": 571080,
+      "endMs": 578620,
+      "durationMs": 7540,
+      "transition": "none",
+      "text": "menumbangkan Kekaisaran Persia. Lewat kecepatan manuver pasukan berkuda di Granicus,"
     },
     {
+      "index": 118,
       "id": 118,
-      "startMs": 578490,
-      "endMs": 584310,
       "image": "yunani/scene-118.jpg",
-      "words": 8
+      "startMs": 578620,
+      "endMs": 585200,
+      "durationMs": 6580,
+      "transition": "none",
+      "text": "Issus, dan Gaugamela, Alexander menumbangkan kekuasaan raja Persia."
     },
     {
+      "index": 119,
       "id": 119,
-      "startMs": 584310,
-      "endMs": 588280,
       "image": "yunani/scene-119.jpg",
-      "words": 6
+      "startMs": 585200,
+      "endMs": 591840,
+      "durationMs": 6640,
+      "transition": "none",
+      "text": "Pasukannya merebut Mesir, mendirikan kota Alexandria, lalu membakar istana Persepolis."
     },
     {
+      "index": 120,
       "id": 120,
-      "startMs": 588280,
-      "endMs": 591640,
       "image": "yunani/scene-120.jpg",
-      "words": 4
+      "startMs": 591840,
+      "endMs": 595750,
+      "durationMs": 3910,
+      "transition": "none",
+      "text": "Dahaga ekspansinya tak pernah padam melintasi ribuan mil padang"
     },
     {
+      "index": 121,
       "id": 121,
-      "startMs": 591640,
-      "endMs": 596650,
       "image": "yunani/scene-121.jpg",
-      "words": 10
+      "startMs": 595750,
+      "endMs": 601220,
+      "durationMs": 5470,
+      "transition": "none",
+      "text": "gurun sampai tiba di tepi Sungai Hyphasis di India."
     },
     {
+      "index": 122,
       "id": 122,
-      "startMs": 596650,
-      "endMs": 602250,
       "image": "yunani/scene-122.jpg",
-      "words": 12
+      "startMs": 601220,
+      "endMs": 606070,
+      "durationMs": 4850,
+      "transition": "none",
+      "text": "Di tepian sungai inilah prajuritnya yang letih menolak melangkah lebih"
     },
     {
+      "index": 123,
       "id": 123,
-      "startMs": 602250,
-      "endMs": 605930,
       "image": "yunani/scene-123.jpg",
-      "words": 7
+      "startMs": 606070,
+      "endMs": 610080,
+      "durationMs": 4010,
+      "transition": "none",
+      "text": "jauh. Alexander mendirikan dua belas altar batu raksasa penanda"
     },
     {
+      "index": 124,
       "id": 124,
-      "startMs": 605930,
-      "endMs": 615100,
       "image": "yunani/scene-124.jpg",
-      "words": 17
+      "startMs": 610080,
+      "endMs": 615510,
+      "durationMs": 5430,
+      "transition": "none",
+      "text": "batas akhir dunia yang dikenalnya, lalu memutar haluan pulang."
     },
     {
+      "index": 125,
       "id": 125,
-      "startMs": 615100,
-      "endMs": 621000,
       "image": "yunani/scene-125.jpg",
-      "words": 11
+      "startMs": 615510,
+      "endMs": 620210,
+      "durationMs": 4700,
+      "transition": "none",
+      "text": "Sang penakluk muda wafat di Babilonia pada tahun 323"
     },
     {
+      "index": 126,
       "id": 126,
-      "startMs": 621000,
-      "endMs": 624220,
       "image": "yunani/scene-126.jpg",
-      "words": 6
+      "startMs": 620210,
+      "endMs": 624400,
+      "durationMs": 4190,
+      "transition": "none",
+      "text": "Sebelum Masehi dalam usia tiga puluh dua tahun."
     },
     {
+      "index": 127,
       "id": 127,
-      "startMs": 624220,
-      "endMs": 628610,
       "image": "yunani/scene-127.jpg",
-      "words": 9
+      "startMs": 624400,
+      "endMs": 629630,
+      "durationMs": 5230,
+      "transition": "none",
+      "text": "Kematian mendadak tanpa pewaris sah meninggalkan lubang kekuasaan menganga. Para"
     },
     {
+      "index": 128,
       "id": 128,
-      "startMs": 628610,
-      "endMs": 634890,
       "image": "yunani/scene-128.jpg",
-      "words": 11
+      "startMs": 629630,
+      "endMs": 635460,
+      "durationMs": 5830,
+      "transition": "none",
+      "text": "jenderalnya yang bergelar Diadochi berebut wilayah dalam perang saudara panjang."
     },
     {
+      "index": 129,
       "id": 129,
-      "startMs": 634890,
-      "endMs": 639150,
       "image": "yunani/scene-129.jpg",
-      "words": 8
+      "startMs": 635460,
+      "endMs": 639330,
+      "durationMs": 3870,
+      "transition": "none",
+      "text": "Dari puing kekaisaran itu, terbentuk tiga dinasti besar: Ptolemeus di"
     },
     {
+      "index": 130,
       "id": 130,
-      "startMs": 639150,
-      "endMs": 645380,
       "image": "yunani/scene-130.jpg",
-      "words": 11
+      "startMs": 639330,
+      "endMs": 645970,
+      "durationMs": 6640,
+      "transition": "none",
+      "text": "Mesir, Seleukia di Timur Dekat, dan Antigonid di Makedonia."
     },
     {
+      "index": 131,
       "id": 131,
-      "startMs": 645380,
-      "endMs": 647680,
       "image": "yunani/scene-131.jpg",
-      "words": 3
+      "startMs": 645970,
+      "endMs": 651030,
+      "durationMs": 5060,
+      "transition": "none",
+      "text": "Inilah era Helenistik. Kedaulatan politik negara-kota telah sirna,"
     },
     {
+      "index": 132,
       "id": 132,
-      "startMs": 647680,
-      "endMs": 655440,
       "image": "yunani/scene-132.jpg",
-      "words": 13
+      "startMs": 651030,
+      "endMs": 655490,
+      "durationMs": 4460,
+      "transition": "none",
+      "text": "tetapi denyut kebudayaannya menyebar ke seluruh penjuru bumi."
     },
     {
+      "index": 133,
       "id": 133,
-      "startMs": 655440,
-      "endMs": 661070,
       "image": "yunani/scene-133.jpg",
-      "words": 11
+      "startMs": 655490,
+      "endMs": 661440,
+      "durationMs": 5950,
+      "transition": "none",
+      "text": "Dialek bahasa Yunani sederhana bernama Koine menjadi bahasa pengantar pergaulan"
     },
     {
+      "index": 134,
       "id": 134,
-      "startMs": 661070,
-      "endMs": 663620,
       "image": "yunani/scene-134.jpg",
-      "words": 5
+      "startMs": 661440,
+      "endMs": 665240,
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "internasional dari Laut Mediterania sampai India. Di perpustakaan Alexandria, para"
     },
     {
+      "index": 135,
       "id": 135,
-      "startMs": 663620,
-      "endMs": 669060,
       "image": "yunani/scene-135.jpg",
-      "words": 10
+      "startMs": 665240,
+      "endMs": 671880,
+      "durationMs": 6640,
+      "transition": "none",
+      "text": "sarjana menyusun dasar ilmu ukur geometri dan menghitung keliling bumi."
     },
     {
+      "index": 136,
       "id": 136,
-      "startMs": 669060,
-      "endMs": 671800,
       "image": "yunani/scene-136.jpg",
-      "words": 4
+      "startMs": 671880,
+      "endMs": 675720,
+      "durationMs": 3840,
+      "transition": "none",
+      "text": "Jauh di pedalaman Asia Tengah, tepatnya di situs Ai"
     },
     {
+      "index": 137,
       "id": 137,
-      "startMs": 671800,
-      "endMs": 677890,
       "image": "yunani/scene-137.jpg",
-      "words": 17
+      "startMs": 675720,
+      "endMs": 678340,
+      "durationMs": 2620,
+      "transition": "none",
+      "text": "Khanoum di tepi Sungai Oxus di Afghanistan modern,"
     },
     {
+      "index": 138,
       "id": 138,
-      "startMs": 677890,
-      "endMs": 683130,
       "image": "yunani/scene-138.jpg",
-      "words": 10
+      "startMs": 678340,
+      "endMs": 683260,
+      "durationMs": 4920,
+      "transition": "none",
+      "text": "para arkeolog menemukan reruntuhan kota Yunani lengkap dengan teater terbuka,"
     },
     {
+      "index": 139,
       "id": 139,
-      "startMs": 683130,
-      "endMs": 686110,
       "image": "yunani/scene-139.jpg",
-      "words": 6
+      "startMs": 683260,
+      "endMs": 687060,
+      "durationMs": 3800,
+      "transition": "none",
+      "text": "gimnasium, dan pilar batu bergaya Korintus. Di makam pendiri"
     },
     {
+      "index": 140,
       "id": 140,
-      "startMs": 686110,
-      "endMs": 691790,
       "image": "yunani/scene-140.jpg",
-      "words": 12
+      "startMs": 687060,
+      "endMs": 691980,
+      "durationMs": 4920,
+      "transition": "none",
+      "text": "kota terpahat untaian pepatah dari Kuil Delphi di Yunani"
     },
     {
+      "index": 141,
       "id": 141,
-      "startMs": 691790,
-      "endMs": 696230,
       "image": "yunani/scene-141.jpg",
-      "words": 9
+      "startMs": 691980,
+      "endMs": 697080,
+      "durationMs": 5100,
+      "transition": "none",
+      "text": "yang mengajarkan manusia belajar sopan santun di masa kecil,"
     },
     {
+      "index": 142,
       "id": 142,
-      "startMs": 696230,
-      "endMs": 698830,
       "image": "yunani/scene-142.jpg",
-      "words": 5
+      "startMs": 697080,
+      "endMs": 702100,
+      "durationMs": 5020,
+      "transition": "none",
+      "text": "menguasai emosi di masa muda, berlaku adil di masa dewasa,"
     },
     {
+      "index": 143,
       "id": 143,
-      "startMs": 698830,
-      "endMs": 701370,
       "image": "yunani/scene-143.jpg",
-      "words": 5
+      "startMs": 702100,
+      "endMs": 708350,
+      "durationMs": 6250,
+      "transition": "none",
+      "text": "memberi nasihat bijak di masa tua, dan menghadapi maut tanpa"
     },
     {
+      "index": 144,
       "id": 144,
-      "startMs": 701370,
-      "endMs": 704010,
       "image": "yunani/scene-144.jpg",
-      "words": 6
+      "startMs": 708350,
+      "endMs": 710570,
+      "durationMs": 2220,
+      "transition": "none",
+      "text": "penyesalan. Keping perak yang dulu dicungkil seorang penambang miskin dari"
     },
     {
+      "index": 145,
       "id": 145,
-      "startMs": 704010,
-      "endMs": 706260,
       "image": "yunani/scene-145.jpg",
-      "words": 5
+      "startMs": 710570,
+      "endMs": 714690,
+      "durationMs": 4120,
+      "transition": "none",
+      "text": "bukit Laurion tidak hanya berhenti menjadi papan kayu kapal trireme."
     },
     {
+      "index": 146,
       "id": 146,
-      "startMs": 706260,
-      "endMs": 714670,
       "image": "yunani/scene-146.jpg",
-      "words": 19
+      "startMs": 714690,
+      "endMs": 720370,
+      "durationMs": 5680,
+      "transition": "none",
+      "text": "Logam itu telah menjelma menjadi ribuan keping koin berukir kepala"
     },
     {
+      "index": 147,
       "id": 147,
-      "startMs": 714670,
-      "endMs": 722420,
       "image": "yunani/scene-147.jpg",
-      "words": 13
+      "startMs": 720370,
+      "endMs": 725910,
+      "durationMs": 5540,
+      "transition": "none",
+      "text": "dewa dan raja yang mengalirkan gagasan tentang akal budi,"
     },
     {
+      "index": 148,
       "id": 148,
-      "startMs": 722420,
-      "endMs": 731190,
       "image": "yunani/scene-148.jpg",
-      "words": 14
+      "startMs": 725910,
+      "endMs": 732280,
+      "durationMs": 6370,
+      "transition": "none",
+      "text": "hukum tertulis, dan ilmu pengetahuan ke peradaban lain."
     },
     {
+      "index": 149,
       "id": 149,
-      "startMs": 731190,
-      "endMs": 739930,
       "image": "yunani/scene-149.jpg",
-      "words": 16
+      "startMs": 732280,
+      "endMs": 735500,
+      "durationMs": 3220,
+      "transition": "none",
+      "text": "Ketika legiun Romawi menaklukkan daratan Yunani pada abad kedua Sebelum"
     },
     {
+      "index": 150,
       "id": 150,
-      "startMs": 739930,
-      "endMs": 743300,
       "image": "yunani/scene-150.jpg",
-      "words": 5
+      "startMs": 735500,
+      "endMs": 742680,
+      "durationMs": 7180,
+      "transition": "none",
+      "text": "Masehi, mereka menguasai benteng dan tanahnya, tetapi pikiran mereka justru"
     },
     {
+      "index": 151,
       "id": 151,
-      "startMs": 743300,
-      "endMs": 748840,
       "image": "yunani/scene-151.jpg",
-      "words": 9
+      "startMs": 742680,
+      "endMs": 749290,
+      "durationMs": 6610,
+      "transition": "none",
+      "text": "ditaklukkan oleh seni, sastra, dan filsafat bangsa yang mereka tundukkan."
     },
     {
+      "index": 152,
       "id": 152,
-      "startMs": 748840,
-      "endMs": 754100,
       "image": "yunani/scene-152.jpg",
-      "words": 9
+      "startMs": 749290,
+      "endMs": 755370,
+      "durationMs": 6080,
+      "transition": "none",
+      "text": "Para penakluk berlutut di hadapan kecerdasan mereka yang dikalahkan."
     },
     {
+      "index": 153,
       "id": 153,
-      "startMs": 754100,
-      "endMs": 757050,
       "image": "yunani/scene-153.jpg",
-      "words": 6
+      "startMs": 755370,
+      "endMs": 762030,
+      "durationMs": 6660,
+      "transition": "none",
+      "text": "Hari ini, kemegahan fisik kuil Yunani telah menjadi reruntuhan batu"
     },
     {
+      "index": 154,
       "id": 154,
-      "startMs": 757050,
-      "endMs": 760520,
       "image": "yunani/scene-154.jpg",
-      "words": 6
+      "startMs": 762030,
+      "endMs": 764730,
+      "durationMs": 2700,
+      "transition": "none",
+      "text": "kapur bisu. Namun, setiap kali manusia berkumpul di bilik suara"
     },
     {
+      "index": 155,
       "id": 155,
-      "startMs": 760520,
-      "endMs": 770750,
       "image": "yunani/scene-155.jpg",
-      "words": 17
+      "startMs": 764730,
+      "endMs": 771240,
+      "durationMs": 6510,
+      "transition": "none",
+      "text": "untuk menentukan pemimpinnya, mereka menyalakan kembali api demokrasi Cleisthenes."
     },
     {
+      "index": 156,
       "id": 156,
-      "startMs": 770750,
-      "endMs": 779040,
       "image": "yunani/scene-156.jpg",
-      "words": 14
+      "startMs": 771240,
+      "endMs": 776100,
+      "durationMs": 4860,
+      "transition": "none",
+      "text": "Setiap kali para hakim mengadili perkara berdasarkan pasal tertulis, mereka"
     },
     {
+      "index": 157,
       "id": 157,
-      "startMs": 779040,
-      "endMs": 784420,
       "image": "yunani/scene-157.jpg",
-      "words": 10
+      "startMs": 776100,
+      "endMs": 781650,
+      "durationMs": 5550,
+      "transition": "none",
+      "text": "mengulang ketegasan hukum Solon. Dan setiap kali para ilmuwan memetakan"
     },
     {
+      "index": 158,
       "id": 158,
-      "startMs": 784420,
-      "endMs": 790310,
       "image": "yunani/scene-158.jpg",
-      "words": 11
+      "startMs": 781650,
+      "endMs": 788080,
+      "durationMs": 6430,
+      "transition": "none",
+      "text": "semesta dengan penalaran rasional, mereka menyalakan obor pengetahuan yang pernah"
     },
     {
+      "index": 159,
       "id": 159,
-      "startMs": 790310,
-      "endMs": 797510,
       "image": "yunani/scene-159.jpg",
-      "words": 13
+      "startMs": 788080,
+      "endMs": 795120,
+      "durationMs": 7040,
+      "transition": "none",
+      "text": "dipantik di bukit berbatu Athena. Sebuah peradaban sejati tidak diukur"
     },
     {
+      "index": 160,
       "id": 160,
-      "startMs": 797510,
-      "endMs": 800920,
       "image": "yunani/scene-160.jpg",
-      "words": 5
+      "startMs": 795120,
+      "endMs": 798680,
+      "durationMs": 3560,
+      "transition": "none",
+      "text": "dari seberapa kokoh benteng batunya bertahan melawan waktu, melainkan seberapa"
     },
     {
+      "index": 161,
       "id": 161,
-      "startMs": 800920,
-      "endMs": 804360,
       "image": "yunani/scene-161.jpg",
-      "words": 7
+      "startMs": 798680,
+      "endMs": 804000,
+      "durationMs": 5320,
+      "transition": "none",
+      "text": "dalam gagasan kemanusiaannya tertanam di benak dunia yang datang setelahnya."
     }
   ]
 }

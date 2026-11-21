@@ -1,568 +1,567 @@
 {
-  "title": "Evolusi Warna Kulit Manusia",
+  "audioDurationMs": 371700,
+  "totalDurationMs": 371700,
   "audio": "kulit/audio.wav",
-  "audioDurationMs": 371960,
-  "totalScenes": 80,
   "scenes": [
     {
       "id": 1,
-      "image": "kulit/scene-1.jpg",
       "startMs": 0,
-      "endMs": 6780,
-      "durationMs": 6780
+      "endMs": 6880,
+      "durationMs": 6880,
+      "image": "kulit/scene-1.jpg"
     },
     {
       "id": 2,
-      "image": "kulit/scene-2.jpg",
-      "startMs": 6780,
-      "endMs": 10660,
-      "durationMs": 3880
+      "startMs": 6880,
+      "endMs": 11100,
+      "durationMs": 4220,
+      "image": "kulit/scene-2.jpg"
     },
     {
       "id": 3,
-      "image": "kulit/scene-3.jpg",
-      "startMs": 10660,
-      "endMs": 13300,
-      "durationMs": 2640
+      "startMs": 11100,
+      "endMs": 14920,
+      "durationMs": 3820,
+      "image": "kulit/scene-3.jpg"
     },
     {
       "id": 4,
-      "image": "kulit/scene-4.jpg",
-      "startMs": 13300,
-      "endMs": 16450,
-      "durationMs": 3150
+      "startMs": 14920,
+      "endMs": 16740,
+      "durationMs": 1820,
+      "image": "kulit/scene-4.jpg"
     },
     {
       "id": 5,
-      "image": "kulit/scene-5.jpg",
-      "startMs": 16450,
-      "endMs": 23020,
-      "durationMs": 6570
+      "startMs": 16740,
+      "endMs": 24960,
+      "durationMs": 8220,
+      "image": "kulit/scene-5.jpg"
     },
     {
       "id": 6,
-      "image": "kulit/scene-6.jpg",
-      "startMs": 23020,
-      "endMs": 27820,
-      "durationMs": 4800
+      "startMs": 24960,
+      "endMs": 30200,
+      "durationMs": 5240,
+      "image": "kulit/scene-6.jpg"
     },
     {
       "id": 7,
-      "image": "kulit/scene-7.jpg",
-      "startMs": 27820,
-      "endMs": 32600,
-      "durationMs": 4780
+      "startMs": 30200,
+      "endMs": 33170,
+      "durationMs": 2970,
+      "image": "kulit/scene-7.jpg"
     },
     {
       "id": 8,
-      "image": "kulit/scene-8.jpg",
-      "startMs": 32600,
-      "endMs": 37640,
-      "durationMs": 5040
+      "startMs": 33170,
+      "endMs": 35100,
+      "durationMs": 1930,
+      "image": "kulit/scene-8.jpg"
     },
     {
       "id": 9,
-      "image": "kulit/scene-9.jpg",
-      "startMs": 37640,
-      "endMs": 42160,
-      "durationMs": 4520
+      "startMs": 35100,
+      "endMs": 41440,
+      "durationMs": 6340,
+      "image": "kulit/scene-9.jpg"
     },
     {
       "id": 10,
-      "image": "kulit/scene-10.jpg",
-      "startMs": 42160,
-      "endMs": 46600,
-      "durationMs": 4440
+      "startMs": 41440,
+      "endMs": 45760,
+      "durationMs": 4320,
+      "image": "kulit/scene-10.jpg"
     },
     {
       "id": 11,
-      "image": "kulit/scene-11.jpg",
-      "startMs": 46600,
-      "endMs": 51920,
-      "durationMs": 5320
+      "startMs": 45760,
+      "endMs": 50000,
+      "durationMs": 4240,
+      "image": "kulit/scene-11.jpg"
     },
     {
       "id": 12,
-      "image": "kulit/scene-12.jpg",
-      "startMs": 51920,
-      "endMs": 56100,
-      "durationMs": 4180
+      "startMs": 50000,
+      "endMs": 56460,
+      "durationMs": 6460,
+      "image": "kulit/scene-12.jpg"
     },
     {
       "id": 13,
-      "image": "kulit/scene-13.jpg",
-      "startMs": 56100,
-      "endMs": 60940,
-      "durationMs": 4840
+      "startMs": 56460,
+      "endMs": 60020,
+      "durationMs": 3560,
+      "image": "kulit/scene-13.jpg"
     },
     {
       "id": 14,
-      "image": "kulit/scene-14.jpg",
-      "startMs": 60940,
-      "endMs": 65520,
-      "durationMs": 4580
+      "startMs": 60020,
+      "endMs": 64030,
+      "durationMs": 4010,
+      "image": "kulit/scene-14.jpg"
     },
     {
       "id": 15,
-      "image": "kulit/scene-15.jpg",
-      "startMs": 65520,
-      "endMs": 70420,
-      "durationMs": 4900
+      "startMs": 64030,
+      "endMs": 70200,
+      "durationMs": 6170,
+      "image": "kulit/scene-15.jpg"
     },
     {
       "id": 16,
-      "image": "kulit/scene-16.jpg",
-      "startMs": 70420,
-      "endMs": 75710,
-      "durationMs": 5290
+      "startMs": 70200,
+      "endMs": 75820,
+      "durationMs": 5620,
+      "image": "kulit/scene-16.jpg"
     },
     {
       "id": 17,
-      "image": "kulit/scene-17.jpg",
-      "startMs": 75710,
-      "endMs": 80510,
-      "durationMs": 4800
+      "startMs": 75820,
+      "endMs": 79840,
+      "durationMs": 4020,
+      "image": "kulit/scene-17.jpg"
     },
     {
       "id": 18,
-      "image": "kulit/scene-18.jpg",
-      "startMs": 80510,
-      "endMs": 85580,
-      "durationMs": 5070
+      "startMs": 79840,
+      "endMs": 85140,
+      "durationMs": 5300,
+      "image": "kulit/scene-18.jpg"
     },
     {
       "id": 19,
-      "image": "kulit/scene-19.jpg",
-      "startMs": 85580,
-      "endMs": 89580,
-      "durationMs": 4000
+      "startMs": 85140,
+      "endMs": 91000,
+      "durationMs": 5860,
+      "image": "kulit/scene-19.jpg"
     },
     {
       "id": 20,
-      "image": "kulit/scene-20.jpg",
-      "startMs": 89580,
-      "endMs": 93220,
-      "durationMs": 3640
+      "startMs": 91000,
+      "endMs": 94780,
+      "durationMs": 3780,
+      "image": "kulit/scene-20.jpg"
     },
     {
       "id": 21,
-      "image": "kulit/scene-21.jpg",
-      "startMs": 93220,
-      "endMs": 97680,
-      "durationMs": 4460
+      "startMs": 94780,
+      "endMs": 100240,
+      "durationMs": 5460,
+      "image": "kulit/scene-21.jpg"
     },
     {
       "id": 22,
-      "image": "kulit/scene-22.jpg",
-      "startMs": 97680,
-      "endMs": 102440,
-      "durationMs": 4760
+      "startMs": 100240,
+      "endMs": 102760,
+      "durationMs": 2520,
+      "image": "kulit/scene-22.jpg"
     },
     {
       "id": 23,
-      "image": "kulit/scene-23.jpg",
-      "startMs": 102440,
-      "endMs": 106790,
-      "durationMs": 4350
+      "startMs": 102760,
+      "endMs": 107280,
+      "durationMs": 4520,
+      "image": "kulit/scene-23.jpg"
     },
     {
       "id": 24,
-      "image": "kulit/scene-24.jpg",
-      "startMs": 106790,
-      "endMs": 111480,
-      "durationMs": 4690
+      "startMs": 107280,
+      "endMs": 112120,
+      "durationMs": 4840,
+      "image": "kulit/scene-24.jpg"
     },
     {
       "id": 25,
-      "image": "kulit/scene-25.jpg",
-      "startMs": 111480,
-      "endMs": 117300,
-      "durationMs": 5820
+      "startMs": 112120,
+      "endMs": 117500,
+      "durationMs": 5380,
+      "image": "kulit/scene-25.jpg"
     },
     {
       "id": 26,
-      "image": "kulit/scene-26.jpg",
-      "startMs": 117300,
-      "endMs": 122760,
-      "durationMs": 5460
+      "startMs": 117500,
+      "endMs": 123300,
+      "durationMs": 5800,
+      "image": "kulit/scene-26.jpg"
     },
     {
       "id": 27,
-      "image": "kulit/scene-27.jpg",
-      "startMs": 122760,
-      "endMs": 126640,
-      "durationMs": 3880
+      "startMs": 123300,
+      "endMs": 127240,
+      "durationMs": 3940,
+      "image": "kulit/scene-27.jpg"
     },
     {
       "id": 28,
-      "image": "kulit/scene-28.jpg",
-      "startMs": 126640,
+      "startMs": 127240,
       "endMs": 130960,
-      "durationMs": 4320
+      "durationMs": 3720,
+      "image": "kulit/scene-28.jpg"
     },
     {
       "id": 29,
-      "image": "kulit/scene-29.jpg",
       "startMs": 130960,
-      "endMs": 136100,
-      "durationMs": 5140
+      "endMs": 136680,
+      "durationMs": 5720,
+      "image": "kulit/scene-29.jpg"
     },
     {
       "id": 30,
-      "image": "kulit/scene-30.jpg",
-      "startMs": 136100,
-      "endMs": 139680,
-      "durationMs": 3580
+      "startMs": 136680,
+      "endMs": 139960,
+      "durationMs": 3280,
+      "image": "kulit/scene-30.jpg"
     },
     {
       "id": 31,
-      "image": "kulit/scene-31.jpg",
-      "startMs": 139680,
-      "endMs": 145320,
-      "durationMs": 5640
+      "startMs": 139960,
+      "endMs": 145780,
+      "durationMs": 5820,
+      "image": "kulit/scene-31.jpg"
     },
     {
       "id": 32,
-      "image": "kulit/scene-32.jpg",
-      "startMs": 145320,
-      "endMs": 150040,
-      "durationMs": 4720
+      "startMs": 145780,
+      "endMs": 151590,
+      "durationMs": 5810,
+      "image": "kulit/scene-32.jpg"
     },
     {
       "id": 33,
-      "image": "kulit/scene-33.jpg",
-      "startMs": 150040,
-      "endMs": 154200,
-      "durationMs": 4160
+      "startMs": 151590,
+      "endMs": 154480,
+      "durationMs": 2890,
+      "image": "kulit/scene-33.jpg"
     },
     {
       "id": 34,
-      "image": "kulit/scene-34.jpg",
-      "startMs": 154200,
-      "endMs": 159320,
-      "durationMs": 5120
+      "startMs": 154480,
+      "endMs": 158740,
+      "durationMs": 4260,
+      "image": "kulit/scene-34.jpg"
     },
     {
       "id": 35,
-      "image": "kulit/scene-35.jpg",
-      "startMs": 159320,
-      "endMs": 163420,
-      "durationMs": 4100
+      "startMs": 158740,
+      "endMs": 165380,
+      "durationMs": 6640,
+      "image": "kulit/scene-35.jpg"
     },
     {
       "id": 36,
-      "image": "kulit/scene-36.jpg",
-      "startMs": 163420,
-      "endMs": 168020,
-      "durationMs": 4600
+      "startMs": 165380,
+      "endMs": 169200,
+      "durationMs": 3820,
+      "image": "kulit/scene-36.jpg"
     },
     {
       "id": 37,
-      "image": "kulit/scene-37.jpg",
-      "startMs": 168020,
-      "endMs": 173100,
-      "durationMs": 5080
+      "startMs": 169200,
+      "endMs": 172800,
+      "durationMs": 3600,
+      "image": "kulit/scene-37.jpg"
     },
     {
       "id": 38,
-      "image": "kulit/scene-38.jpg",
-      "startMs": 173100,
+      "startMs": 172800,
       "endMs": 177240,
-      "durationMs": 4140
+      "durationMs": 4440,
+      "image": "kulit/scene-38.jpg"
     },
     {
       "id": 39,
-      "image": "kulit/scene-39.jpg",
       "startMs": 177240,
-      "endMs": 182020,
-      "durationMs": 4780
+      "endMs": 184040,
+      "durationMs": 6800,
+      "image": "kulit/scene-39.jpg"
     },
     {
       "id": 40,
-      "image": "kulit/scene-40.jpg",
-      "startMs": 182020,
-      "endMs": 185740,
-      "durationMs": 3720
+      "startMs": 184040,
+      "endMs": 187720,
+      "durationMs": 3680,
+      "image": "kulit/scene-40.jpg"
     },
     {
       "id": 41,
-      "image": "kulit/scene-41.jpg",
-      "startMs": 185740,
-      "endMs": 190380,
-      "durationMs": 4640
+      "startMs": 187720,
+      "endMs": 190880,
+      "durationMs": 3160,
+      "image": "kulit/scene-41.jpg"
     },
     {
       "id": 42,
-      "image": "kulit/scene-42.jpg",
-      "startMs": 190380,
-      "endMs": 194990,
-      "durationMs": 4610
+      "startMs": 190880,
+      "endMs": 194180,
+      "durationMs": 3300,
+      "image": "kulit/scene-42.jpg"
     },
     {
       "id": 43,
-      "image": "kulit/scene-43.jpg",
-      "startMs": 194990,
-      "endMs": 198810,
-      "durationMs": 3820
+      "startMs": 194180,
+      "endMs": 199010,
+      "durationMs": 4830,
+      "image": "kulit/scene-43.jpg"
     },
     {
       "id": 44,
-      "image": "kulit/scene-44.jpg",
-      "startMs": 198810,
+      "startMs": 199010,
       "endMs": 203510,
-      "durationMs": 4700
+      "durationMs": 4500,
+      "image": "kulit/scene-44.jpg"
     },
     {
       "id": 45,
-      "image": "kulit/scene-45.jpg",
       "startMs": 203510,
       "endMs": 208690,
-      "durationMs": 5180
+      "durationMs": 5180,
+      "image": "kulit/scene-45.jpg"
     },
     {
       "id": 46,
-      "image": "kulit/scene-46.jpg",
       "startMs": 208690,
-      "endMs": 214100,
-      "durationMs": 5410
+      "endMs": 214370,
+      "durationMs": 5680,
+      "image": "kulit/scene-46.jpg"
     },
     {
       "id": 47,
-      "image": "kulit/scene-47.jpg",
-      "startMs": 214100,
+      "startMs": 214370,
       "endMs": 219550,
-      "durationMs": 5450
+      "durationMs": 5180,
+      "image": "kulit/scene-47.jpg"
     },
     {
       "id": 48,
-      "image": "kulit/scene-48.jpg",
       "startMs": 219550,
-      "endMs": 224050,
-      "durationMs": 4500
+      "endMs": 224850,
+      "durationMs": 5300,
+      "image": "kulit/scene-48.jpg"
     },
     {
       "id": 49,
-      "image": "kulit/scene-49.jpg",
-      "startMs": 224050,
-      "endMs": 228350,
-      "durationMs": 4300
+      "startMs": 224850,
+      "endMs": 228730,
+      "durationMs": 3880,
+      "image": "kulit/scene-49.jpg"
     },
     {
       "id": 50,
-      "image": "kulit/scene-50.jpg",
-      "startMs": 228350,
-      "endMs": 234010,
-      "durationMs": 5660
+      "startMs": 228730,
+      "endMs": 234270,
+      "durationMs": 5540,
+      "image": "kulit/scene-50.jpg"
     },
     {
       "id": 51,
-      "image": "kulit/scene-51.jpg",
-      "startMs": 234010,
-      "endMs": 238610,
-      "durationMs": 4600
+      "startMs": 234270,
+      "endMs": 238950,
+      "durationMs": 4680,
+      "image": "kulit/scene-51.jpg"
     },
     {
       "id": 52,
-      "image": "kulit/scene-52.jpg",
-      "startMs": 238610,
-      "endMs": 243880,
-      "durationMs": 5270
+      "startMs": 238950,
+      "endMs": 243980,
+      "durationMs": 5030,
+      "image": "kulit/scene-52.jpg"
     },
     {
       "id": 53,
-      "image": "kulit/scene-53.jpg",
-      "startMs": 243880,
-      "endMs": 248260,
-      "durationMs": 4380
+      "startMs": 243980,
+      "endMs": 247460,
+      "durationMs": 3480,
+      "image": "kulit/scene-53.jpg"
     },
     {
       "id": 54,
-      "image": "kulit/scene-54.jpg",
-      "startMs": 248260,
-      "endMs": 252980,
-      "durationMs": 4720
+      "startMs": 247460,
+      "endMs": 254060,
+      "durationMs": 6600,
+      "image": "kulit/scene-54.jpg"
     },
     {
       "id": 55,
-      "image": "kulit/scene-55.jpg",
-      "startMs": 252980,
-      "endMs": 257300,
-      "durationMs": 4320
+      "startMs": 254060,
+      "endMs": 257360,
+      "durationMs": 3300,
+      "image": "kulit/scene-55.jpg"
     },
     {
       "id": 56,
-      "image": "kulit/scene-56.jpg",
-      "startMs": 257300,
-      "endMs": 262620,
-      "durationMs": 5320
+      "startMs": 257360,
+      "endMs": 263740,
+      "durationMs": 6380,
+      "image": "kulit/scene-56.jpg"
     },
     {
       "id": 57,
-      "image": "kulit/scene-57.jpg",
-      "startMs": 262620,
-      "endMs": 266760,
-      "durationMs": 4140
+      "startMs": 263740,
+      "endMs": 268180,
+      "durationMs": 4440,
+      "image": "kulit/scene-57.jpg"
     },
     {
       "id": 58,
-      "image": "kulit/scene-58.jpg",
-      "startMs": 266760,
-      "endMs": 270500,
-      "durationMs": 3740
+      "startMs": 268180,
+      "endMs": 270920,
+      "durationMs": 2740,
+      "image": "kulit/scene-58.jpg"
     },
     {
       "id": 59,
-      "image": "kulit/scene-59.jpg",
-      "startMs": 270500,
-      "endMs": 276100,
-      "durationMs": 5600
+      "startMs": 270920,
+      "endMs": 277360,
+      "durationMs": 6440,
+      "image": "kulit/scene-59.jpg"
     },
     {
       "id": 60,
-      "image": "kulit/scene-60.jpg",
-      "startMs": 276100,
-      "endMs": 280480,
-      "durationMs": 4380
+      "startMs": 277360,
+      "endMs": 282160,
+      "durationMs": 4800,
+      "image": "kulit/scene-60.jpg"
     },
     {
       "id": 61,
-      "image": "kulit/scene-61.jpg",
-      "startMs": 280480,
-      "endMs": 285060,
-      "durationMs": 4580
+      "startMs": 282160,
+      "endMs": 286520,
+      "durationMs": 4360,
+      "image": "kulit/scene-61.jpg"
     },
     {
       "id": 62,
-      "image": "kulit/scene-62.jpg",
-      "startMs": 285060,
-      "endMs": 290060,
-      "durationMs": 5000
+      "startMs": 286520,
+      "endMs": 291380,
+      "durationMs": 4860,
+      "image": "kulit/scene-62.jpg"
     },
     {
       "id": 63,
-      "image": "kulit/scene-63.jpg",
-      "startMs": 290060,
-      "endMs": 294320,
-      "durationMs": 4260
+      "startMs": 291380,
+      "endMs": 294120,
+      "durationMs": 2740,
+      "image": "kulit/scene-63.jpg"
     },
     {
       "id": 64,
-      "image": "kulit/scene-64.jpg",
-      "startMs": 294320,
-      "endMs": 298220,
-      "durationMs": 3900
+      "startMs": 294120,
+      "endMs": 299540,
+      "durationMs": 5420,
+      "image": "kulit/scene-64.jpg"
     },
     {
       "id": 65,
-      "image": "kulit/scene-65.jpg",
-      "startMs": 298220,
-      "endMs": 303180,
-      "durationMs": 4960
+      "startMs": 299540,
+      "endMs": 302520,
+      "durationMs": 2980,
+      "image": "kulit/scene-65.jpg"
     },
     {
       "id": 66,
-      "image": "kulit/scene-66.jpg",
-      "startMs": 303180,
-      "endMs": 307420,
-      "durationMs": 4240
+      "startMs": 302520,
+      "endMs": 306900,
+      "durationMs": 4380,
+      "image": "kulit/scene-66.jpg"
     },
     {
       "id": 67,
-      "image": "kulit/scene-67.jpg",
-      "startMs": 307420,
-      "endMs": 311520,
-      "durationMs": 4100
+      "startMs": 306900,
+      "endMs": 311980,
+      "durationMs": 5080,
+      "image": "kulit/scene-67.jpg"
     },
     {
       "id": 68,
-      "image": "kulit/scene-68.jpg",
-      "startMs": 311520,
-      "endMs": 316080,
-      "durationMs": 4560
+      "startMs": 311980,
+      "endMs": 317280,
+      "durationMs": 5300,
+      "image": "kulit/scene-68.jpg"
     },
     {
       "id": 69,
-      "image": "kulit/scene-69.jpg",
-      "startMs": 316080,
-      "endMs": 320140,
-      "durationMs": 4060
+      "startMs": 317280,
+      "endMs": 321660,
+      "durationMs": 4380,
+      "image": "kulit/scene-69.jpg"
     },
     {
       "id": 70,
-      "image": "kulit/scene-70.jpg",
-      "startMs": 320140,
+      "startMs": 321660,
       "endMs": 324280,
-      "durationMs": 4140
+      "durationMs": 2620,
+      "image": "kulit/scene-70.jpg"
     },
     {
       "id": 71,
-      "image": "kulit/scene-71.jpg",
       "startMs": 324280,
-      "endMs": 328540,
-      "durationMs": 4260
+      "endMs": 328700,
+      "durationMs": 4420,
+      "image": "kulit/scene-71.jpg"
     },
     {
       "id": 72,
-      "image": "kulit/scene-72.jpg",
-      "startMs": 328540,
-      "endMs": 332480,
-      "durationMs": 3940
+      "startMs": 328700,
+      "endMs": 333820,
+      "durationMs": 5120,
+      "image": "kulit/scene-72.jpg"
     },
     {
       "id": 73,
-      "image": "kulit/scene-73.jpg",
-      "startMs": 332480,
-      "endMs": 338100,
-      "durationMs": 5620
+      "startMs": 333820,
+      "endMs": 338130,
+      "durationMs": 4310,
+      "image": "kulit/scene-73.jpg"
     },
     {
       "id": 74,
-      "image": "kulit/scene-74.jpg",
-      "startMs": 338100,
-      "endMs": 343370,
-      "durationMs": 5270
+      "startMs": 338130,
+      "endMs": 343900,
+      "durationMs": 5770,
+      "image": "kulit/scene-74.jpg"
     },
     {
       "id": 75,
-      "image": "kulit/scene-75.jpg",
-      "startMs": 343370,
-      "endMs": 348340,
-      "durationMs": 4970
+      "startMs": 343900,
+      "endMs": 349980,
+      "durationMs": 6080,
+      "image": "kulit/scene-75.jpg"
     },
     {
       "id": 76,
-      "image": "kulit/scene-76.jpg",
-      "startMs": 348340,
-      "endMs": 353500,
-      "durationMs": 5160
+      "startMs": 349980,
+      "endMs": 354680,
+      "durationMs": 4700,
+      "image": "kulit/scene-76.jpg"
     },
     {
       "id": 77,
-      "image": "kulit/scene-77.jpg",
-      "startMs": 353500,
-      "endMs": 357630,
-      "durationMs": 4130
+      "startMs": 354680,
+      "endMs": 359040,
+      "durationMs": 4360,
+      "image": "kulit/scene-77.jpg"
     },
     {
       "id": 78,
-      "image": "kulit/scene-78.jpg",
-      "startMs": 357630,
-      "endMs": 361580,
-      "durationMs": 3950
+      "startMs": 359040,
+      "endMs": 361920,
+      "durationMs": 2880,
+      "image": "kulit/scene-78.jpg"
     },
     {
       "id": 79,
-      "image": "kulit/scene-79.jpg",
-      "startMs": 361580,
-      "endMs": 366740,
-      "durationMs": 5160
+      "startMs": 361920,
+      "endMs": 366940,
+      "durationMs": 5020,
+      "image": "kulit/scene-79.jpg"
     },
     {
       "id": 80,
-      "image": "kulit/scene-80.jpg",
-      "startMs": 366740,
-      "endMs": 371960,
-      "durationMs": 5220
+      "startMs": 366940,
+      "endMs": 371700,
+      "durationMs": 4760,
+      "image": "kulit/scene-80.jpg"
     }
   ]
 }
